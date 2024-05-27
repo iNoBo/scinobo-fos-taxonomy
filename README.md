@@ -18,7 +18,7 @@ The file containing the FoS taxonomy is a JSONL file and each line contains the 
 - "level_2": The L2 of the FoS taxonomy
 - "level_3": The L3 of the FoS taxonomy
 - "level_4": The L4 of the FoS taxonomy - This is a cluster of publications. The name stems from Wikipedia pages.
-- "level_5": The L5 of the FoS taxonomy - This is a topic stemming from topic modelling in a cluster of publications. The L5 topic is the most frequent topic of the cluster.
+- "level_5": The L5 of the FoS taxonomy - This is a topic stemming from topic modelling in a cluster of publications. The L5 topic is the most frequent topic of the cluster. The rest of the topics are treated as L6. This is why a topic in L5 also occurs once in L6.
 - "level_6": The L6 of the FoS taxonomy - This is a topic under L5, we treat each ngram in the topic description as a scientific kw and thus a L6.
 - "level_4_id": A unique identifier for a L4
 - "level_5_id": A unique identifier for a L5
