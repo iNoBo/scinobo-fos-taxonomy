@@ -23,3 +23,33 @@ The file containing the FoS taxonomy is a JSONL file and each line contains the 
 - "level_4_id": A unique identifier for a L4
 - "level_5_id": A unique identifier for a L5
 - "level_5_name": The automatically assigned scientific name of the L5 topic, using open-source LLMs.
+
+## Examples:
+
+```json
+{
+    "level_1": "engineering and technology", 
+    "level_2": "electrical engineering, electronic engineering, information engineering", 
+    "level_3": "artificial intelligence & image processing", 
+    "level_4": "natural language processing/computational linguistics", 
+    "level_4_id": "L4_artificial intelligence & image_9", 
+    "level_5_id": "L4_artificial intelligence & image_9_24", 
+    "level_5": "translation ---- machine ---- machine translation ---- language ---- neural ---- nmt ---- neural machine translation ---- neural machine ---- base ---- resource", 
+    "level_6": "translation ---- machine ---- machine translation ---- language ---- neural ---- nmt ---- neural machine translation ---- neural machine ---- base ---- resource", 
+    "level_5_name": "neural machine translation"
+}
+```
+
+```json
+{
+    "level_1": "medical and health sciences", 
+    "level_2": "clinical medicine", 
+    "level_3": "oncology & carcinogenesis", 
+    "level_4": "oncology/infectious causes of cancer", 
+    "level_4_id": "L4_oncology & carcinogenesis_5", 
+    "level_5_id": "L4_oncology & carcinogenesis_5_237", 
+    "level_5": "tumor ---- malignant ---- gct ---- cell tumor ---- granular cell tumor ---- cell ---- granular cell ---- granular ---- case ---- patient", 
+    "level_6": "tumor ---- malignant ---- gct ---- cell tumor ---- granular cell tumor ---- cell ---- granular cell ---- granular ---- case ---- patient", 
+    "level_5_name": "granular cell tumor"
+}
+```
