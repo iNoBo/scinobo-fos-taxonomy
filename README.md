@@ -5,7 +5,7 @@ The taxonomy has 6 Levels (L1-L6). The levels from L1-L3 are static and stem fro
 To view the FoS labels (L1-L3), please visit: [OpenAIRE FoS](https://explore.openaire.eu/fields-of-science). A snapshot of the taxonomy is visible below:
 
 ## Snapshot of the FoS taxonomy.
-![image](docs/images/frma-08-1149834-g003.jpg)
+![image](docs/images/frma-08-1149834-g003.jpeg)
 
 
 ## Publications:
