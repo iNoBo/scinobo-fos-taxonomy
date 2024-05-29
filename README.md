@@ -1,6 +1,6 @@
 # SciNoBo Field of Science Taxonomy
 
-The taxonomy has 6 Levels (L1-L6). The levels from L1-L3 are static and stem from the OECD and ScienceMetrix taxonomy. The rest of the levels are algorithmically constructed utilizing publication-to-publications and venue-to-venue citation graphs as well as clustering and topic modelling algorithms. The resulting L5s are topics stemming from topic modelling. We utilize open-source LLMs and more specifically Llama3 to automatically assign a scientific name to each L5 topic. 
+The taxonomy has 6 Levels (L1-L6). The levels from L1-L3 are static and stem from the OECD and ScienceMetrix taxonomy. The rest of the levels are algorithmically constructed utilizing publication-to-publication and venue-to-venue citation graphs as well as clustering and topic modelling algorithms. The resulting L5s are topics stemming from topic modelling. We utilize open-source LLMs and more specifically Llama3 to automatically assign a scientific name to each L5 topic. 
 
 To view the FoS labels (L1-L3), please visit: [OpenAIRE FoS](https://explore.openaire.eu/fields-of-science). A snapshot of the taxonomy is visible below:
 
