@@ -12,6 +12,9 @@ To view the FoS labels (L1-L3), please visit: [OpenAIRE FoS](https://explore.ope
 - [SCINOBO: a novel system classifying scholarly communication in a dynamically constructed hierarchical Field-of-Science taxonomy](https://www.frontiersin.org/articles/10.3389/frma.2023.1149834/full)
 - [SciNoBo: A Hierarchical Multi-Label Classifier of Scientific Publications](https://dl.acm.org/doi/10.1145/3487553.3524677)
 
+If you use this taxonomy, please cite the abovementioned publications.
+
+## JSON structure:
 The file containing the FoS taxonomy is a JSONL file and each line contains the following information:
 
 - "level_1": The L1 of the FoS taxonomy
