@@ -1,0 +1,82 @@
+fastapi==0.111.0
+python-multipart==0.0.9
+python-socketio
+elasticsearch-dsl==7.4.1
+fastapi-cache2==0.2.1
+gradio==3.16.2
+pydantic==2.7.3
+uvicorn==0.29.0
+grpcio
+
+passlib==1.7.4
+passlib[bcrypt]
+PyJWT[crypto]
+
+requests==2.32.2
+aiohttp==3.9.5
+httpx
+
+# AI libraries
+# openai
+# anthropic
+# google-generativeai
+# vertexai
+ollama==0.3.2
+
+# Database
+# pymongo
+# peewee
+SQLAlchemy
+# boto3
+redis
+# sqlmodel
+# chromadb
+psycopg2-binary
+
+# Observability
+# langfuse
+# ddtrace
+
+# ML libraries
+torch
+
+# xgboost
+# scikit-learn
+
+# data processing
+pyspark==3.5.1
+pyarrow==16.0.0
+pyyaml==6.0.1
+numpy
+pandas
+openpyxl
+xlrd
+
+# NLP libraries
+sentence-transformers
+transformers
+tokenizers
+nltk
+tiktoken
+
+# Image processing
+# Pillow
+# opencv-python
+
+# Visualization
+matplotlib
+seaborn
+
+# Web scraping
+selenium
+playwright
+beautifulsoup4
+
+# Llama Index for RAG
+# llama-index
+# llama-index-llms-ollama
+
+# Haystack
+haystack-ai
+duckduckgo-api-haystack
+ollama-haystack
