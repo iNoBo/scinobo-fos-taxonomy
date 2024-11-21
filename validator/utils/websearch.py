@@ -18,7 +18,7 @@ from haystack.components.builders.prompt_builder import PromptBuilder
 from haystack_integrations.components.generators.ollama import OllamaGenerator
 from haystack import Pipeline
 from tqdm import tqdm
-from validator.config import (
+from config import (
     DATA_PATH,
     FOS_TAXONOMY_PATH,
     OLLAMA_HOST,

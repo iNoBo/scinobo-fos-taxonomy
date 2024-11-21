@@ -9,13 +9,13 @@ import importlib.resources
 
 
 # Global paths
-DATA_PATH = os.path.join(importlib.resources.files(__package__.split(".")[0]), "data")
-LOGGING_PATH = os.path.join(importlib.resources.files(__package__.split(".")[0]), "logs")
+DATA_PATH = "data" # the root workspace is "validator" because of the Dockerfile.
+LOGGING_PATH = "logs" # the root workspace is "validator" because of the Dockerfile.
 os.makedirs(LOGGING_PATH, exist_ok=True)
 os.makedirs(DATA_PATH, exist_ok=True)
 
 # general paths
-FOS_TAXONOMY_PATH = "fos_taxonomy_v0.1.2.json"
+FOS_TAXONOMY_PATH = "data/fos_taxonomy_v0.1.5.json"
 
 # ollama
 OLLAMA_HOST = os.getenv("OLLAMA_HOST")
