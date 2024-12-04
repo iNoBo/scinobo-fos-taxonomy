@@ -16,7 +16,7 @@
         "source=/mnt/datalake,target=/mnt/scinobo-integrations-datalake,type=bind,consistency=cached"
     ],
     "runArgs": [
-        "--network=text2sql_scinobo-network" //delete this afterwards
+        "--network=text2sql_scinobo-network" //delete this afterwards. This is for the container to be able to access ollama.
     ],
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},

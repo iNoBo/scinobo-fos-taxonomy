@@ -88,7 +88,7 @@ def main():
                 else:
                     concepts[level] = {item[level]}
     # init the web search
-    websearch = DuckduckgoApiWebSearch(top_k=nresults, max_search_frequency=2, max_results=6)
+    websearch = DuckduckgoApiWebSearch(top_k=nresults, max_search_frequency=10, max_results=3)
     # init the haystack pipeline
     pipe = Pipeline()
     pipe.add_component("prompt_builder", PromptBuilder(template=prompt_template))
