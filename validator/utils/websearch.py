@@ -14,6 +14,8 @@ import os
 import argparse
 
 from duckduckgo_api_haystack import DuckduckgoApiWebSearch
+from haystack.components.websearch import SerperDevWebSearch
+from haystack.utils import Secret
 from haystack.components.builders.prompt_builder import PromptBuilder
 from haystack_integrations.components.generators.ollama import OllamaGenerator
 from haystack import Pipeline
@@ -22,7 +24,8 @@ from config import (
     DATA_PATH,
     FOS_TAXONOMY_PATH,
     OLLAMA_HOST,
-    OLLAMA_PORT
+    OLLAMA_PORT,
+    SERPERDEV_API_KEY
 )
 
 
@@ -62,6 +65,12 @@ def parse_args():
         default=5,
         help="Number of results to web search"
     )
+    parser.add_argument(
+        "--websearch",
+        type=str,
+        default="duckduckgo",
+        help="Web search engine to use"
+    )
     args = parser.parse_args()
     return args
     ##############################################
@@ -73,6 +82,7 @@ def main():
     levels = args.level
     opath = args.opath
     nresults = args.nresults
+    websearch_eng = args.websearch
     # load the taxonomy
     with open(FOS_TAXONOMY_PATH, "r") as f:
         taxonomy = json.load(f)
@@ -88,29 +98,50 @@ def main():
                 else:
                     concepts[level] = {item[level]}
     # init the web search
-    websearch = DuckduckgoApiWebSearch(top_k=nresults, max_search_frequency=10, max_results=3)
+    if websearch_eng == "duckduckgo":
+        websearch = DuckduckgoApiWebSearch(top_k=nresults, max_search_frequency=10, max_results=6, backend="lite")
+    else:
+        # use SerperDevWebSearch. It provides 2500 free queries, enough for the task
+        if SERPERDEV_API_KEY is None:
+            raise ValueError("Please provide the SERPERDEV_API_KEY env variable")
+        websearch = SerperDevWebSearch(api_key=Secret.from_token(SERPERDEV_API_KEY), top_k=nresults)
     # init the haystack pipeline
     pipe = Pipeline()
-    pipe.add_component("prompt_builder", PromptBuilder(template=prompt_template))
+    pipe.add_component(name="prompt_builder", instance=PromptBuilder(template=prompt_template))
     pipe.add_component(
-        "llm", 
-        OllamaGenerator(
+        name="llm", 
+        instance=OllamaGenerator(
             model="llama3.2:3b", 
             url=f"http://{OLLAMA_HOST}:{OLLAMA_PORT}", 
             generation_kwargs={"num_ctx": 8192, "temperature": 0.0}
         )
     )
-    pipe.add_component("websearch", websearch)
+    pipe.add_component(name="websearch", instance=websearch)
     # connect the components
     pipe.connect("websearch", "prompt_builder")
     pipe.connect("prompt_builder", "llm")
     pipe.draw(os.path.join(DATA_PATH, "websearch-pipeline.png"))
     # parse the concepts
-    results = dict()
+    # check if we have a checkpoint
+    if os.path.exists(opath):
+        with open(opath, "r") as f:
+            results = json.load(f)
+    else:
+        results = dict()
     for level in levels:
         for concept in tqdm(concepts[level], desc=f"Searching for concepts at level {level}"):
+            if concept in results:
+                continue
             query = f"What is {concept}?"
-            result = pipe.run({"websearch": {"query": query}, "prompt_builder": {"query": query}})
+            try:
+                result = pipe.run({"websearch": {"query": query}, "prompt_builder": {"query": query}})
+            except Exception as e:
+                print(f"Failed to search for {concept} at level {level}, error: {e}")
+                # the websearch functionallity of haystack either fails with timeout or for other errors.
+                # the error response is never informative. We will checkpoint the results here.
+                with open(opath, "w") as f:
+                    json.dump(results, f, indent=4)
+                exit(1)
             # unpack results
             links = result["websearch"]["links"]
             reply = result["llm"]["replies"][0]
