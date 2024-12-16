@@ -58,6 +58,7 @@ transformers
 tokenizers
 nltk
 tiktoken
+langdetect
 
 # Image processing
 # Pillow

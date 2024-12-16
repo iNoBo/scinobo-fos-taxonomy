@@ -14,6 +14,8 @@ LOGGING_PATH = "logs" # the root workspace is "validator" because of the Dockerf
 os.makedirs(LOGGING_PATH, exist_ok=True)
 os.makedirs(DATA_PATH, exist_ok=True)
 
+# haystack
+SERPERDEV_API_KEY = os.getenv("SERPERDEV_API_KEY")
 # general paths
 FOS_TAXONOMY_PATH = "data/fos_taxonomy_v0.1.5.json"
 
