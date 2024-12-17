@@ -296,13 +296,29 @@ def main():
             continue
         if not children:
             continue
-        parent_scientific = science_collection[parent]['description'].split("Summary:")[1].rstrip().lstrip()
-        parent_web = web_collection[parent]['reply'].split("Answer: ")[1].rstrip().lstrip()
+        if science_collection[parent]['description'] is None and web_collection[parent]['reply'] is None:
+            continue
+        if science_collection[parent]['description'] is None:
+            parent_scientific = "The scientific description is not available. Please refer to the web description."
+        else:
+            parent_scientific = science_collection[parent]['description'].split("Summary:")[1].rstrip().lstrip()
+        if web_collection[parent]['reply'] is None:
+            parent_web = "The web description is not available. Please refer to the scientific description."
+        else:
+            parent_web = web_collection[parent]['reply'].split("Answer: ")[1].rstrip().lstrip()
         for child in children:
             if child not in science_collection or child not in web_collection:
                 continue
-            child_scientific = science_collection[child]['description'].split("Summary:")[1].rstrip().lstrip()
-            child_web = web_collection[child]['reply'].split("Answer: ")[1].rstrip().lstrip()
+            if science_collection[child]['description'] is None and web_collection[child]['reply'] is None:
+                continue
+            if science_collection[child]['description'] is None:
+                child_scientific = "The scientific description is not available. Please refer to the web description."
+            else:
+                child_scientific = science_collection[child]['description'].split("Summary:")[1].rstrip().lstrip()
+            if web_collection[child]['reply'] is None:
+                child_web = "The web description is not available. Please refer to the scientific description."
+            else:
+                child_web = web_collection[child]['reply'].split("Answer: ")[1].rstrip().lstrip()
             res = pipe.run(
                 {
                     "prompt_builder": {
