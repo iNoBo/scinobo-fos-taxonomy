@@ -322,7 +322,7 @@ def main():
             if web_collection[child]['reply'] is None:
                 child_web = "The web description is not available. Please refer to the scientific description."
             else:
-                child_web = web_collection[child]['reply'].split("Answer: ")[1].rstrip().lstrip()
+                child_web = web_collection[child]['reply'].split("Answer:")[1].rstrip().lstrip()
             res = pipe.run(
                 {
                     "prompt_builder": {
