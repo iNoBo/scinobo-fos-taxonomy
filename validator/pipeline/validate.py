@@ -147,6 +147,11 @@ def parse_args():
         type=str,
         default=None
     )
+    parser.add_argument(
+        "--model-name",
+        type=str,
+        default=None
+    )
     args = parser.parse_args()
     return args
     ##############################################
@@ -211,7 +216,6 @@ def log_results(langfuse, llm_res, **kwargs):
         version=kwargs["version"]
     )
     generation.end()
-    print()
 
 
 def main():
@@ -221,6 +225,7 @@ def main():
     ipath_web = args.ipath_web
     prompt_version = args.prompt_version
     prompt_name = args.prompt_name
+    model_name = args.model_name
     # load the collections
     science_collection = load_json(ipath_science)
     web_collection = load_json(ipath_web)
@@ -246,7 +251,7 @@ def main():
     prompt_template = langfuse.get_prompt(name=prompt_name, version=prompt_version)
     # initialize the components
     llm = StructuredOllamaGenerator(
-        model="llama3.2:3b", 
+        model=model_name, 
         url=f"http://{OLLAMA_HOST}:{OLLAMA_PORT}", 
         generation_kwargs={
             "num_ctx": 8192, 
