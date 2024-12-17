@@ -212,6 +212,10 @@ def log_results(langfuse, llm_res, **kwargs):
             "input_prompt": input_prompt
         },
         output=json.loads(llm_res['llm']['replies'][0]),
+        metadata={
+            "related": str(json.loads(llm_res['llm']['replies'][0])['related']).lower(), # filtering is based on string values
+            "subcategory": str(json.loads(llm_res['llm']['replies'][0])['subcategory']).lower()
+        },
         prompt=kwargs["prompt_template"], # link the prompt to the generation
         version=kwargs["version"]
     )
@@ -305,7 +309,7 @@ def main():
         if web_collection[parent]['reply'] is None:
             parent_web = "The web description is not available. Please refer to the scientific description."
         else:
-            parent_web = web_collection[parent]['reply'].split("Answer: ")[1].rstrip().lstrip()
+            parent_web = web_collection[parent]['reply'].split("Answer:")[1].rstrip().lstrip()
         for child in children:
             if child not in science_collection or child not in web_collection:
                 continue
