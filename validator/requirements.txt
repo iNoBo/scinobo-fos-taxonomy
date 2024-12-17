@@ -81,3 +81,4 @@ beautifulsoup4
 haystack-ai
 duckduckgo-api-haystack
 ollama-haystack
+langfuse-haystack
