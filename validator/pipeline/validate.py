@@ -264,24 +264,24 @@ def main():
         format= {
             "type": "object",
             "properties": {
+                "related_explanation": {
+                    "type": "string"
+                },
                 "related": {
                     "type": "boolean"
                 },
-                "related_explanation": {
+                "subcategory_explanation": {
                     "type": "string"
                 },
                 "subcategory": {
                     "type": "boolean"
                 },
-                "subcategory_explanation": {
-                    "type": "string"
-                }
             },
             "required": [
-                "related",
                 "related_explanation",
+                "related",
+                "subcategory_explanation",
                 "subcategory",
-                "subcategory_explanation"
             ]
         }
     )
