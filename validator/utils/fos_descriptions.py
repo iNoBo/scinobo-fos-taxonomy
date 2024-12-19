@@ -80,6 +80,7 @@ def main():
     # load the taxonomy
     with open(FOS_TAXONOMY_PATH, "r") as f:
         taxonomy = json.load(f)
+    taxonomy_dict = {item['level_5_id']: item for item in taxonomy}
     # load the collection
     with open(ipath, "r") as f:
         collection = json.load(f)
@@ -113,11 +114,14 @@ def main():
             # since we can have identical level_5 names under different level_4 names with different publications
             # when processing this collection some level_5 were excluded from the taxonomy
             # here we can also use the topic description of the level_5 for providing some information to the LLM
-            if fos not in taxonomy:
+            if fos not in taxonomy_dict:
+                # delete the entry from the collection; no need to have it
+                del collection[fos]
                 continue
-            query = taxonomy[fos]["level_5_name"]
-            my_docs = [doc[1].lower().rstrip().lstrip() for doc in collection[fos]['representative_docs'] if doc]
+            query = taxonomy_dict[fos]["level_5_name"]
+            my_docs = [Document(content=doc[1].lower().rstrip().lstrip()) for doc in collection[fos]['representative_docs'] if doc]
             topic_description = collection[fos]['l5_topic_description']
+            publications = collection[fos]
         # detect the language of the documents
         if lang_detect:
             lang_res = lang_classifier.run(documents=my_docs)
@@ -132,12 +136,12 @@ def main():
         results = pipe.run(
             {"prompt_builder": {"query": query, "publications": my_docs}}
         ) if level != "level_5" else pipe.run(
-            {"prompt_builder": {"query": query, "topic_description": topic_description}}
+            {"prompt_builder": {"query": query, "publications": my_docs, "topic_description": topic_description}}
         )
         description = results['llm']['replies'][0]
         collection[fos] = {
             "description": description,
-            "publications": publications
+            "publications": publications # this key name is ambiguous, maybe it should be changed.
         }
     # save the results
     with open(opath, "w") as f:
