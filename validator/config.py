@@ -2,9 +2,13 @@
 This file acts as a configuration file for the text2sql application.
 - It defines the global paths for the application.
 - It defines all the global variables that are going to be used from the text2sql component.
+- It defines some global functions that set up some inits
 """
 
 import os
+# haystack has a poor support for langfuse. We will use the langfuse API directly.
+from langfuse import Langfuse
+from langfuse.api.resources.commons.errors.unauthorized_error import UnauthorizedError
 
 
 # Global paths
@@ -35,3 +39,16 @@ OLLAMA_STORAGE=os.getenv("OLLAMA_STORAGE")
 QDRANT_HOST = os.getenv("QDRANT_HOST")
 QDRANT_PORT = os.getenv("QDRANT_PORT")
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
+
+
+def set_langfuse():
+    try:
+        langfuse = Langfuse() # no need to pass the host, port, public key, and secret key since they are already set in the config
+        langfuse.auth_check()
+    except UnauthorizedError:
+        print(
+            "Langfuse credentials incorrect. Please re-enter your Langfuse credentials in the pipeline settings."
+        )
+    except Exception as e:
+        print(f"Langfuse error: {e} Please re-enter your Langfuse credentials in the pipeline settings.")
+    return langfuse
