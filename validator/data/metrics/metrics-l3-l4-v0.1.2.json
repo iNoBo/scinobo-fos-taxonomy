@@ -1,0 +1,10 @@
+{
+    "observed_l3": 146,
+    "observed_l4": 592,
+    "total_observed_pairs": 607,
+    "total_related": 589,
+    "total_subcategory": 291,
+    "total_unrelated": 18,
+    "total_non_subcategory": 316,
+    "total_related_non_subcategory": 298
+}
