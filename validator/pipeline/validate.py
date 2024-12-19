@@ -292,7 +292,7 @@ def main():
     pipe.add_component(instance=llm, name="llm")
     pipe.add_component(instance=prompt_builder, name="prompt_builder")
     pipe.connect("prompt_builder", "llm")
-    pipe.draw(os.path.join(DATA_PATH, "taxonomy-validation-pipeline.png"))
+    pipe.draw(os.path.join(DATA_PATH, "haystack-pipelines", "taxonomy-validation-pipeline.png"))
     # validate
     for parent in tqdm(validation_data, desc="Validating FoS"):
         children = validation_data[parent]

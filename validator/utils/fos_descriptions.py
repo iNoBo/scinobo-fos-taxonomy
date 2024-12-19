@@ -83,7 +83,7 @@ def main():
     pipe.add_component(instance=prompt_builder, name="prompt_builder")
     # connect components
     pipe.connect("prompt_builder", "llm")
-    pipe.draw(os.path.join(DATA_PATH, "publication-description-pipeline.png"))
+    pipe.draw(os.path.join(DATA_PATH, "haystack-pipelines", "publication-description-pipeline.png"))
     # run the pipeline
     for fos in tqdm(collection, desc="Processing FOS"):
         publications = collection[fos]

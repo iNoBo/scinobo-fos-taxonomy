@@ -120,7 +120,7 @@ def main():
     # connect the components
     pipe.connect("websearch", "prompt_builder")
     pipe.connect("prompt_builder", "llm")
-    pipe.draw(os.path.join(DATA_PATH, "websearch-pipeline.png"))
+    pipe.draw(os.path.join(DATA_PATH, "haystack-pipelines", "websearch-pipeline.png"))
     # parse the concepts
     # check if we have a checkpoint
     if os.path.exists(opath):
