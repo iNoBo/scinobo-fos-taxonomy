@@ -46,11 +46,9 @@ from config import (
     FOS_TAXONOMY_PATH,
     OLLAMA_HOST,
     OLLAMA_PORT,
-    DATA_PATH
+    DATA_PATH,
+    set_langfuse
 )
-# haystack has a poor support for langfuse. We will use the langfuse API directly.
-from langfuse import Langfuse
-from langfuse.api.resources.commons.errors.unauthorized_error import UnauthorizedError
 # for overriding the OllamaGenerator
 from typing import Any, Dict, List, Optional, Union, Callable
 from haystack.dataclasses import StreamingChunk
@@ -161,19 +159,6 @@ def load_json(path):
     with open(path, "r") as f:
         data = json.load(f)
     return data
-
-
-def set_langfuse():
-    try:
-        langfuse = Langfuse() # no need to pass the host, port, public key, and secret key since they are already set in the config
-        langfuse.auth_check()
-    except UnauthorizedError:
-        print(
-            "Langfuse credentials incorrect. Please re-enter your Langfuse credentials in the pipeline settings."
-        )
-    except Exception as e:
-        print(f"Langfuse error: {e} Please re-enter your Langfuse credentials in the pipeline settings.")
-    return langfuse
 
 
 def log_results(langfuse, llm_res, **kwargs):

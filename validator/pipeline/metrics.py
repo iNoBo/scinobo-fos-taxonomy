@@ -7,9 +7,8 @@ import json
 import os
 import argparse
 
-from langfuse import Langfuse
-from langfuse.api.resources.commons.errors.unauthorized_error import UnauthorizedError
 from tqdm import tqdm
+from config import set_langfuse
 
 
 def parse_args():
@@ -29,19 +28,6 @@ def parse_args():
     return args
     ##############################################
     
-    
-def set_langfuse():
-    try:
-        langfuse = Langfuse() # no need to pass the host, port, public key, and secret key since they are already set in the config
-        langfuse.auth_check()
-    except UnauthorizedError:
-        print(
-            "Langfuse credentials incorrect. Please re-enter your Langfuse credentials in the pipeline settings."
-        )
-    except Exception as e:
-        print(f"Langfuse error: {e} Please re-enter your Langfuse credentials in the pipeline settings.")
-    return langfuse
-
 
 def trace_pagination(langfuse, user_id, limit=50, page=1):
     return langfuse.fetch_traces(limit=limit, page=page, user_id=user_id)
