@@ -115,8 +115,7 @@ def main():
             # when processing this collection some level_5 were excluded from the taxonomy
             # here we can also use the topic description of the level_5 for providing some information to the LLM
             if fos not in taxonomy_dict:
-                # delete the entry from the collection; no need to have it
-                del collection[fos]
+                # this entry from the collection will remain the same. We ignore it in the validation phase
                 continue
             query = taxonomy_dict[fos]["level_5_name"]
             my_docs = [Document(content=doc[1].lower().rstrip().lstrip()) for doc in collection[fos]['representative_docs'] if doc]
