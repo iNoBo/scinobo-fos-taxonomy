@@ -150,6 +150,31 @@ def parse_args():
         type=str,
         default=None
     )
+    parser.add_argument(
+        "--level",
+        type=str,
+        nargs="+",
+        help="Levels to search in the taxonomy",
+    )
+    parser.add_argument(
+        "--ipath-science-extra",
+        type=str,
+        help="Path of the saved collection that contains the scientific descriptions. This is used for loading descriptions of other levels.",
+        default=None
+    )
+    parser.add_argument(
+        "--ipath-web-extra",
+        type=str,
+        help="Path of the saved collection that contains the web descriptions. This is used for loading descriptions of other levels.",
+        default=None
+    )
+    parser.add_argument(
+        "--tags",
+        type=str,
+        nargs="+",
+        help="Tags that you want to use in the langfuse logging",
+        default=["taxonomy-validation"]
+    )
     args = parser.parse_args()
     return args
     ##############################################
@@ -188,7 +213,8 @@ def log_results(langfuse, llm_res, **kwargs):
         },
         session_id=f"taxonomy-validation-{kwargs['version']}",
         user_id=f"taxonomy-validation-{kwargs['version']}",
-        version=kwargs["version"]
+        version=kwargs["version"],
+        tags=kwargs["tags"]
     )
     generation = trace.generation(
         name=f"validate-fos-{kwargs['parent']}-{kwargs['child']}",
@@ -207,6 +233,36 @@ def log_results(langfuse, llm_res, **kwargs):
     generation.end()
 
 
+def transform_dict(sci_dict, web_dict):
+    new_dict = {}
+    for key, value in sci_dict.items():
+        if "publications" not in value or isinstance(value["publications"], list):
+            continue
+        if value["publications"]["3-shot-label"] not in web_dict:
+            continue
+        name = value["publications"]["3-shot-label"]
+        new_dict[key] = {
+            **web_dict[name],
+            "name": name
+        }
+    return new_dict
+
+
+def get_descriptions(sci_col, web_col, fos):
+    scientific, web = sci_col[fos]['description'], web_col[fos]['reply']
+    if scientific is None and web is None:
+        return None, None
+    if scientific is None:
+        scientific = "The scientific description is not available. Please refer to the web description."
+    else:
+        scientific = scientific.split("Summary:")[1].rstrip().lstrip()
+    if web is None:
+        web = "The web description is not available. Please refer to the scientific description."
+    else:
+        web = web.split("Answer:")[1].rstrip().lstrip()
+    return scientific, web
+
+     
 def main():
     # parse arguments
     args = parse_args()
@@ -215,26 +271,45 @@ def main():
     prompt_version = args.prompt_version
     prompt_name = args.prompt_name
     model_name = args.model_name
+    levels = args.level
+    tags = args.tags
+    # these paths contain the descriptions of the other levels (l3, l4).
+    # the file for the l5 descriptions only has the l5 descriptions :p
+    # as a result we must load the l4 descriptions as well to perform the validation.
+    ipath_science_extra = args.ipath_science_extra
+    ipath_web_extra = args.ipath_web_extra
+    # assert that the provided levels are two
+    assert len(levels) == 2, "The validation module works only with two levels, parent and child"
+    # sort the levels, in order to have the parent first
+    levels = sorted(levels) # this will work even if they are strings, since the names are level_# where # is an integer.
     # load the collections
     science_collection = load_json(ipath_science)
     web_collection = load_json(ipath_web)
     taxonomy = load_json(FOS_TAXONOMY_PATH)
+    if ipath_science_extra is not None and ipath_web_extra is not None:    
+        science_collection_extra = load_json(ipath_science_extra)
+        web_collection_extra = load_json(ipath_web_extra)
+        science_collection = {**science_collection, **science_collection_extra}        
+        # convert the web_collection to a similar format as the science_collection -- having l5_ids as keys
+        web_collection = {**transform_dict(science_collection, web_collection), **web_collection_extra}
     # get the version of the taxonomy and use it as experiment version in langfuse
     version = FOS_TAXONOMY_PATH.split("/")[1].split("_")[-1].split(".json")[0]
     # re-format the taxonomy for validation
     validation_data = {}
-    for item in taxonomy:
-        if item['level_3'] == "N/A":
+    for item in tqdm(taxonomy, desc="Parsing taxonomy"):
+        # since the levels are sorted and only two, we can use the first level as the parent and the second level as the child
+        parent, child = item[levels[0]], item[levels[1]]
+        if parent == "N/A":
             continue
-        if item['level_3'] in validation_data:
-            if item['level_4'] == "N/A":
+        if parent in validation_data:
+            if child == "N/A":
                 continue
-            validation_data[item['level_3']].add(item['level_4'])
+            validation_data[parent].add(child)
         else:
-            if item['level_4'] == "N/A":
-                validation_data[item['level_3']] = set()
+            if child == "N/A":
+                validation_data[parent] = set()
                 continue
-            validation_data[item['level_3']] = set([item['level_4']])
+            validation_data[parent] = set([child])
     # init langfuse
     langfuse = set_langfuse()
     prompt_template = langfuse.get_prompt(name=prompt_name, version=prompt_version)
@@ -277,37 +352,30 @@ def main():
     pipe.add_component(instance=llm, name="llm")
     pipe.add_component(instance=prompt_builder, name="prompt_builder")
     pipe.connect("prompt_builder", "llm")
-    pipe.draw(os.path.join(DATA_PATH, "haystack-pipelines", "taxonomy-validation-pipeline.png"))
+    pipe.draw(os.path.join(DATA_PATH, "haystack-pipelines", f"taxonomy-validation-pipeline_{levels[0]}_{levels[1]}.png"))
     # validate
     for parent in tqdm(validation_data, desc="Validating FoS"):
+        ##############################################
+        # for parent
         children = validation_data[parent]
         if parent not in science_collection or parent not in web_collection:
             continue
         if not children:
             continue
-        if science_collection[parent]['description'] is None and web_collection[parent]['reply'] is None:
+        parent_scientific, parent_web = get_descriptions(science_collection, web_collection, parent)
+        if parent_scientific is None and parent_web is None:
             continue
-        if science_collection[parent]['description'] is None:
-            parent_scientific = "The scientific description is not available. Please refer to the web description."
-        else:
-            parent_scientific = science_collection[parent]['description'].split("Summary:")[1].rstrip().lstrip()
-        if web_collection[parent]['reply'] is None:
-            parent_web = "The web description is not available. Please refer to the scientific description."
-        else:
-            parent_web = web_collection[parent]['reply'].split("Answer:")[1].rstrip().lstrip()
+        ##############################################
         for child in children:
             if child not in science_collection or child not in web_collection:
                 continue
-            if science_collection[child]['description'] is None and web_collection[child]['reply'] is None:
+            child_scientific, child_web = get_descriptions(science_collection, web_collection, child)
+            if child_scientific is None and child_web is None:
                 continue
-            if science_collection[child]['description'] is None:
-                child_scientific = "The scientific description is not available. Please refer to the web description."
-            else:
-                child_scientific = science_collection[child]['description'].split("Summary:")[1].rstrip().lstrip()
-            if web_collection[child]['reply'] is None:
-                child_web = "The web description is not available. Please refer to the scientific description."
-            else:
-                child_web = web_collection[child]['reply'].split("Answer:")[1].rstrip().lstrip()
+            if "name" in web_collection[child]:
+                child = web_collection[child]["name"]
+            ##############################################
+            # run the pipeline
             res = pipe.run(
                 {
                     "prompt_builder": {
@@ -331,8 +399,10 @@ def main():
                 child_scientific=child_scientific,
                 child_web=child_web,
                 version=version,
-                prompt_template=prompt_template
+                prompt_template=prompt_template,
+                tags=tags
             )
+            ##############################################
 
 
 if __name__ == "__main__":
