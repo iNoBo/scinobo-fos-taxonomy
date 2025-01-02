@@ -262,7 +262,7 @@ def get_descriptions(sci_col, web_col, fos):
         scientific = "The scientific description is not available. Please refer to the web description."
     else:
         scientific = scientific.split("Summary:")
-        if not scientific:
+        if len(scientific) < 2:
             scientific = "The scientific description is not available. Please refer to the web description."
         else:
             scientific = scientific[1].rstrip().lstrip()
@@ -270,7 +270,7 @@ def get_descriptions(sci_col, web_col, fos):
         web = "The web description is not available. Please refer to the scientific description."
     else:
         web = web.split("Answer:")
-        if not web:
+        if len(web) < 2:
             web = "The web description is not available. Please refer to the scientific description."
         else:
             web = web[1].rstrip().lstrip()
