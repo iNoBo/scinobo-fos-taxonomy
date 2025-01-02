@@ -175,6 +175,12 @@ def parse_args():
         help="Tags that you want to use in the langfuse logging",
         default=["taxonomy-validation"]
     )
+    parser.add_argument(
+        "--resume",
+        action="store_true",
+        help="Resume the validation from the last saved state in Langfuse",
+        default=False
+    )
     args = parser.parse_args()
     return args
     ##############################################
@@ -273,6 +279,7 @@ def main():
     model_name = args.model_name
     levels = args.level
     tags = args.tags
+    resume = args.resume
     # these paths contain the descriptions of the other levels (l3, l4).
     # the file for the l5 descriptions only has the l5 descriptions :p
     # as a result we must load the l4 descriptions as well to perform the validation.
@@ -313,6 +320,34 @@ def main():
     # init langfuse
     langfuse = set_langfuse()
     prompt_template = langfuse.get_prompt(name=prompt_name, version=prompt_version)
+    # filter out the validation data based on the resume flag
+    if resume:
+        # this returns the latest traces based on the tags
+        latest_traces = langfuse.fetch_traces(
+            limit=50, 
+            page=1, 
+            user_id=f"taxonomy-validation-{version}",
+            tags=tags[0]).data
+        if not latest_traces:
+            print("No traces found. Continuing with the validation.")
+        else:
+            parent = latest_traces[0].metadata["parent"]
+            # find all the other children of the parent
+            processed_children = [item.metadata["child"] for item in latest_traces if item.metadata["parent"] == parent]
+            # get the ids of the processed children
+            if "level_5" in levels[1]:
+                processed_children = [
+                    item[levels[1]] for item in taxonomy 
+                    if item[levels[0]] == parent and item[f'{"_".join(levels[1].split("_")[:2])}_name'] in processed_children
+                ]
+            else:
+                processed_children = [item[levels[1]] for item in taxonomy if item[levels[0]] == parent and item[levels[1]] in processed_children]
+            children = validation_data[parent]
+            # the keys in validation_data are always in the same order, find the idx of the parent
+            idx = list(validation_data.keys()).index(parent)
+            validation_data = {k: v for i, (k, v) in enumerate(validation_data.items()) if i >= idx}
+            # remove the processed children
+            validation_data[parent] = children - set(processed_children)
     # initialize the components
     llm = StructuredOllamaGenerator(
         model=model_name, 
