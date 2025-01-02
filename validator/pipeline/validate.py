@@ -261,11 +261,19 @@ def get_descriptions(sci_col, web_col, fos):
     if scientific is None:
         scientific = "The scientific description is not available. Please refer to the web description."
     else:
-        scientific = scientific.split("Summary:")[1].rstrip().lstrip()
+        scientific = scientific.split("Summary:")
+        if not scientific:
+            scientific = "The scientific description is not available. Please refer to the web description."
+        else:
+            scientific = scientific[1].rstrip().lstrip()
     if web is None:
         web = "The web description is not available. Please refer to the scientific description."
     else:
-        web = web.split("Answer:")[1].rstrip().lstrip()
+        web = web.split("Answer:")
+        if not web:
+            web = "The web description is not available. Please refer to the scientific description."
+        else:
+            web = web[1].rstrip().lstrip()
     return scientific, web
 
      
