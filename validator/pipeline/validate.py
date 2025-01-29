@@ -38,9 +38,7 @@ import os
 import argparse
 
 from haystack import Pipeline
-from haystack import component
 from haystack.components.builders import PromptBuilder
-from haystack_integrations.components.generators.ollama import OllamaGenerator
 from tqdm import tqdm
 from config import (
     FOS_TAXONOMY_PATH,
@@ -49,79 +47,9 @@ from config import (
     DATA_PATH,
     set_langfuse
 )
-# for overriding the OllamaGenerator
-from typing import Any, Dict, List, Optional, Union, Callable
-from haystack.dataclasses import StreamingChunk
-
-
-# override the current OllamaGenerator to account for structured outputs
-# since haystack does not currently support this
-@component
-class StructuredOllamaGenerator(OllamaGenerator):
-    def __init__(self,
-            model: str = "orca-mini",
-            url: str = "http://localhost:11434",
-            generation_kwargs: Optional[Dict[str, Any]] = None,
-            system_prompt: Optional[str] = None,
-            template: Optional[str] = None,
-            raw: bool = False,
-            timeout: int = 120,
-            keep_alive: Optional[Union[float, str]] = None,
-            streaming_callback: Optional[Callable[[StreamingChunk], None]] = None,
-            format: Optional[Dict[str, Any]] = None
-        ):
-        super(StructuredOllamaGenerator, self).__init__(
-            model=model,
-            url=url,
-            generation_kwargs=generation_kwargs,
-            system_prompt=system_prompt,
-            template=template,
-            raw=raw,
-            timeout=timeout,
-            keep_alive=keep_alive,
-            streaming_callback=streaming_callback
-        )
-        self.format = format
+from utils.generators import StructuredOllamaGenerator
     
-    @component.output_types(replies=List[str], meta=List[Dict[str, Any]])
-    def run(
-        self,
-        prompt: str,
-        generation_kwargs: Optional[Dict[str, Any]] = None,
-    ):
-        """
-        Runs an Ollama Model on the given prompt.
 
-        :param prompt:
-            The prompt to generate a response for.
-        :param generation_kwargs:
-            Optional arguments to pass to the Ollama generation endpoint, such as temperature,
-            top_p, and others. See the available arguments in
-            [Ollama docs](https://github.com/jmorganca/ollama/blob/main/docs/modelfile.md#valid-parameters-and-values).
-        :returns: A dictionary with the following keys:
-            - `replies`: The responses from the model
-            - `meta`: The metadata collected during the run
-        """
-        generation_kwargs = {**self.generation_kwargs, **(generation_kwargs or {})}
-
-        stream = self.streaming_callback is not None
-
-        response = self._client.generate(
-            model=self.model, 
-            prompt=prompt, 
-            stream=stream, 
-            keep_alive=self.keep_alive, 
-            options=generation_kwargs,
-            format=self.format
-        )
-
-        if stream:
-            chunks: List[StreamingChunk] = self._handle_streaming_response(response)
-            return self._convert_to_streaming_response(chunks)
-
-        return self._convert_to_response(response)
- 
-    
 def parse_args():
     ##############################################
     parser = argparse.ArgumentParser()
