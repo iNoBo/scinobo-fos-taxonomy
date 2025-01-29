@@ -29,8 +29,8 @@ def parse_args():
     ##############################################
     
 
-def trace_pagination(langfuse, user_id, limit=50, page=1):
-    return langfuse.fetch_traces(limit=limit, page=page, user_id=user_id)
+def trace_pagination(langfuse, user_id, limit=50, page=1, **kwargs):
+    return langfuse.fetch_traces(limit=limit, page=page, user_id=user_id, **kwargs)
 
 
 def main():
