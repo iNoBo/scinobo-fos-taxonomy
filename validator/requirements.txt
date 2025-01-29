@@ -7,6 +7,9 @@ gradio==3.16.2
 pydantic==2.7.3
 uvicorn==0.29.0
 grpcio
+python-dotenv
+adjustText
+networkx
 
 passlib==1.7.4
 passlib[bcrypt]
@@ -17,7 +20,7 @@ aiohttp==3.9.5
 httpx
 
 # AI libraries
-# openai
+openai
 # anthropic
 # google-generativeai
 # vertexai
@@ -51,6 +54,8 @@ numpy
 pandas
 openpyxl
 xlrd
+datasets
+ipykernel
 
 # NLP libraries
 sentence-transformers
