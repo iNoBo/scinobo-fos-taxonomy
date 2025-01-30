@@ -56,4 +56,4 @@ The edges in the graph represent different types of relationships between the no
 
 ![Graph Example](validator/data/misc/scinobo-venue-graph-data-model.drawio.svg)
 
-This placeholder image represents an example of how the venue graph might be visualized, showing the nodes and their connections based on the described data model.
+This image represents an example of how the venue graph might be visualized, showing the nodes and their connections based on the described data model.
