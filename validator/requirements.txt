@@ -32,6 +32,7 @@ ollama==0.3.2
 SQLAlchemy
 # boto3
 redis
+neo4j
 # sqlmodel
 # chromadb
 psycopg2-binary

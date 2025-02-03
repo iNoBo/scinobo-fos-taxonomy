@@ -40,6 +40,11 @@ QDRANT_HOST = os.getenv("QDRANT_HOST")
 QDRANT_PORT = os.getenv("QDRANT_PORT")
 QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
 
+# neo4j
+NEO4J_URI = os.getenv("NEO4J_URI")
+NEO4J_USER = os.getenv("NEO4J_USER")
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
+
 
 def set_langfuse():
     try:
