@@ -115,7 +115,23 @@ def create_edges_csv(my_graph, node_dict):
         for idx, item in enumerate(my_list, start=1):
             f.write(f"{item[0]}|{item[1]}|{item[2]}|{item[3]}\n")
     print("Edges CSV created")
+
+
+def retrieve_venue_neigh_per_fos(fos_label, level, rel, driver):
+    cypher_query = f"""
+    MATCH (l3:Node {{name: "{fos_label}"}})-[:HAS_ROLE]->(:Role {{name: "{level}"}})
     
+    // One-hop nodes: Directly connected via $rel and have role "venue"
+    MATCH (l3)<-[r:{rel}]-(venue:Node)-[:HAS_ROLE]->(:Role {{name: "venue"}})
+    
+    //get the fullnames of the venues if existing
+    OPTIONAL MATCH (venue)-[r1:HAS_FULL_NAME]->(fn:FullName)
+    
+    RETURN l3, venue, r, r1, fn;
+    """
+    records, _, _ = driver.execute_query(cypher_query, fos_label=fos_label, level=level, rel=rel, database_="neo4j")
+    return records
+
 
 if __name__ == "__main__":
     with open(FOS_TAXONOMY_PATH, "r") as f:

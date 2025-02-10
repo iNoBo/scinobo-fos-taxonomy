@@ -10,6 +10,7 @@ import os
 from langfuse import Langfuse
 from langfuse.api.resources.commons.errors.unauthorized_error import UnauthorizedError
 
+# TODO probably the config here can be removed and load everything from the environment variables file using the dotenv library.
 
 # Global paths
 DATA_PATH = "data" # the root workspace is "validator" because of the Dockerfile.
