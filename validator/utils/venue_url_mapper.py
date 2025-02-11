@@ -163,6 +163,7 @@ def main():
         except Exception as e:
             print(f"An error occured while searching for {ven_abbrev}")
             print(e)
+            res = []
         # check if we have fullnames
         if len(ven_items["fullnames"]) != 0:
             # we also have fullnames. Search for the fullnames as well
