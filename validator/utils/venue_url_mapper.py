@@ -157,18 +157,36 @@ def main():
     #  "score": 1.9073076,
     #  "reranker_score": 0.9984943866729736
     #}
+    # check if we have a checkpoint
+    if os.path.exists(opath):
+        with open(opath, "r") as f:
+            venues_dict = json.load(f)
     for ven_abbrev, ven_items in tqdm(venues_dict.items(), desc="Searching in venue mapper"):
+        # skip the ones that have urls
+        if "urls" in ven_items:
+            continue
         try:
             res = search_mapper(mapper, ven_abbrev)
         except Exception as e:
             print(f"An error occured while searching for {ven_abbrev}")
             print(e)
-            res = []
+            # save the results as check point and exit
+            with open(opath, "w") as f:
+                json.dump(venues_dict, f)
+            exit()
         # check if we have fullnames
         if len(ven_items["fullnames"]) != 0:
             # we also have fullnames. Search for the fullnames as well
             for full_name in ven_items["fullnames"]:
-                res += search_mapper(mapper, full_name)
+                try:
+                    res += search_mapper(mapper, full_name)
+                except Exception as e:
+                    print(f"An error occured while searching for {full_name}")
+                    print(e)
+                    # save the results as check point and exit
+                    with open(opath, "w") as f:
+                        json.dump(venues_dict, f)
+                    exit()
         ven_items["urls"] = res
     # save the results
     with open(opath, "w") as f:
