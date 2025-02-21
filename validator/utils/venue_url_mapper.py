@@ -161,6 +161,10 @@ def main():
     if os.path.exists(opath):
         with open(opath, "r") as f:
             venues_dict = json.load(f)
+        print("Checkpoint found. Continuing from the last checkpoint...")
+        # number of venues that have urls
+        num_venues_with_urls = len([item for item in venues_dict.values() if "urls" in item])
+        print(f"Number of venues with urls: {num_venues_with_urls}")
     for ven_abbrev, ven_items in tqdm(venues_dict.items(), desc="Searching in venue mapper"):
         # skip the ones that have urls
         if "urls" in ven_items:
