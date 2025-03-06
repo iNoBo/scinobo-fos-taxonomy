@@ -8,6 +8,15 @@ To view the FoS labels (L1-L3), please visit: [OpenAIRE FoS](https://explore.ope
 ![image](docs/images/frma-08-1149834-g003.jpeg)
 
 
+## Visualization of the FoS taxonomy.
+You can visualize the FoS taxonomy as an interactive mindmap by:
+
+1. Visiting the Markmap online tool
+2. Clicking the "Open URL" button
+3. Pasting this URL: https://gist.githubusercontent.com/SotirisKot/02f6be98850198b33aa7fbee28ef0973/raw/8b970ad321d9fda0fe1b3bfbc5fedb18961cf23a/scinobo_fos_taxonomy_mindmap.md
+
+This will generate an explorable visualization of the complete taxonomy hierarchy.
+
 ## Publications:
 - [SCINOBO: a novel system classifying scholarly communication in a dynamically constructed hierarchical Field-of-Science taxonomy](https://www.frontiersin.org/articles/10.3389/frma.2023.1149834/full)
 - [SciNoBo: A Hierarchical Multi-Label Classifier of Scientific Publications](https://dl.acm.org/doi/10.1145/3487553.3524677)

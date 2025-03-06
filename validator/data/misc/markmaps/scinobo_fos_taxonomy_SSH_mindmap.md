@@ -1,0 +1,3156 @@
+---
+title: scinobo-fos-taxonomy
+markmap:
+  colorFreezeLevel: 2
+  initialExpandLevel: 1
+---
+
+## humanities and the arts
+
+- history and archaeology
+    - archaeology
+        - Pleistocene extinctions/Pleistocene
+            - UAV Photogrammetry for Archaeological Applications
+            - Holocene Climate Change
+            - Human Remains Identification
+            - Horse Archaeology
+            - Late Holocene Forest Ecology
+            - Glacier Geology
+            - Rock Art Pigment Analysis
+            - Funerary Archaeology
+            - Bronze Age Metal Analysis
+            - Sheep Archaeology
+            - Archaeological Materials Analysis
+            - Late Pleistocene Human Ecology
+            - Medieval Diet Reconstruction
+            - Glacial Landform Distribution
+            - Pleistocene Mammal Extinction
+            - Greenland Ice Sheet History
+            - Archaeomalacology
+            - Neolithic Archaeological Ceramics Analysis
+            - Holocene Forest Ecology
+            - Cave Archaeology
+            - Archaeological Plant Analysis
+            - Tortoise Consumption in Neanderthal Populations
+            - Holocene Environmental Change
+            - Ceramic Glaze Production
+            - Bone Surface Modification
+            - White Marble Provenance
+            - Medieval Glass Production
+            - Lithic Technology
+            - Geoarchaeological Analysis
+            - Ancient Egyptian Pigment Analysis
+            - Lead Isotopes in Archaeological Analysis
+            - Australian Rock Art Archaeology
+            - Maya Archaeological Landscape
+        - Archaeology/Methods in archaeology
+            - Ossuary Burial Sites
+            - Maya Archaeology
+            - Multimodal Anthropology
+            - Archaeological Site Analysis
+            - Population Change in Southwest
+            - Social Archaeology
+            - Desert Culture Site Archaeology
+            - Lithic Artifact Analysis
+            - Mississippian Archaeology
+            - Ceramic Production and Use
+            - Social Inequality in Prehistory
+            - Pentecostal Christianity
+            - Fremont Culture
+            - Police State and Society
+            - Alaskan Archaeological Site
+            - Kinship Terminology
+            - Indigenous Knowledges in Psychedelic Art
+            - Indigenous Cultural Heritage
+            - Anthropology in Colombia
+            - Ethnographic Analysis
+            - Archaeological Heritage Studies
+            - Spanish Colonial History
+            - Cultural Heritage Conservation
+            - Archaeological Excavation and Site Analysis
+            - Archaeological Material Culture Analysis
+            - Language Materiality Relations
+            - Early Maize in North America
+            - Archaeological Explanation
+            - Ceramic Analysis
+            - Moral Economy
+            - Arctic Archaeology
+            - Inka Pottery Production
+            - Child Anthropology
+            - Hohokam Archaeological Site
+            - Indigenous Cultural Practice
+            - Inka Statecraft
+            - African Archaeology
+            - Astronomical Observations in Antiquity
+            - Indigenous Archaeology Practice
+            - Anthropological Agency
+            - Preclassic Maya Archaeology
+            - Anthropology of Modern Reason
+            - Cultural Process Archaeology
+            - Cultural Anthropology
+            - California Archaeological Culture
+            - Archaeological Resource Management
+            - Archaeological Theory
+            - Caddo Archaeological Site Description
+            - Ceramic Material Culture
+            - Christianity and Ethics
+        - Archaeological science/Art and cultural repatriation
+        - Maritime archaeology/Underwater archaeology
+            - Public Archaeological Heritage Management
+    - anthropology
+        - Historical eras/Paleolithic
+            - Stable Isotope Analysis in Paleodietary Research
+    - history
+        - Historiography/Philosophy of history
+    - history of science, technology & medicine
+    - history of social sciences
+    - classics
+- languages and literature
+    - languages & linguistics
+        - Language education/Language acquisition
+            - Language Education Policy
+            - Patient-Provider Interaction
+            - Linguistic Variation in Language Contact
+            - Language Learning Strategy
+            - Rater Assessment
+            - Interactional Discourse Analysis
+            - Bilingual Education Policy
+            - Construction Grammar
+            - Pragmatic Language Interaction
+            - Language and Ethics
+            - Bilingual Education
+            - Intercultural Language Learning
+            - Language and Power Dynamics in Multilingual Contexts
+            - Therapist-Patient Interaction in Psychotherapy
+            - Language Acquisition and Feedback Effects
+            - Interactional Linguistics
+            - Narrative Discourse Analysis
+            - Language Engagement
+            - Cognitive Load on Interpreting Speech
+            - Self-Praise on Social Medium (Twitter)
+            - Language Learning Pronunciation Instruction
+            - Legal Translation
+            - Language Test Design Validation
+            - Language Teacher Identity
+            - Subtitling Quality Assessment
+            - Linguistic Acquisition
+            - Translation Studies
+            - Narrative Analysis
+            - L2 Listening Comprehension
+            - Language Learning Task Complexity Effect
+            - Pragmaticalization of Modals in English Grammar
+            - Linguistic Cultural Representation
+            - Metadiscourse Analysis in Academic Writing
+            - Sociolinguistic Analysis
+            - Public Discourse Apology
+            - Discourse Analysis
+            - Deaf Language Education
+            - Foreign Language Education
+            - Language Policy and Education
+            - Academic Writing in English
+            - Conceptual Metaphor Theory in Linguistics
+            - Conversation Analysis
+            - Intercultural Language Learning Experience
+            - Global Englishes Language Education
+            - Second Language Acquisition
+            - Language Variation and Change
+            - Language Teacher Development
+            - Linguistic Landscape
+            - Language Interaction Analysis
+            - Legal Terminology Linguistics
+            - Sociolinguistics
+            - Language Policy in Multilingual Families
+            - Sign Language
+            - Language Attitudes in Catalonia
+            - Language Learning Interaction
+            - Language Learning Motivation
+            - Language Learning Assessment
+            - Language Policy in Education
+            - Language Acquisition and Writing Development
+            - Korean Discourse Marker
+            - Heritage Language Instruction
+            - Corpus Linguistics in Language Teacher Education
+            - Language Learning Feedback Methodology
+            - Language Policy in Higher Education
+            - English Language Identity
+            - Cultural Pragmatics in Language
+            - Linguistic Interaction Construction
+            - English Medium Instruction
+            - Machine Translation Evaluation
+            - Politeness in Language Use
+            - Language Politeness
+            - Court Interpreting
+        - Syntax/Generative syntax
+            - Language Change
+            - Old French Syntax
+            - Syntactic Grammar
+            - Language Incorporation
+            - Linguistic Movement Theory
+            - Language Variation and Dialect Analysis
+            - Language Processing
+            - Linguistic Morphology
+            - Korean Syntax
+            - Plural Noun Construction
+            - Linguistic Structure Analysis
+            - Syntactic Analysis of Language Structures
+        - English-language idioms/Sexual selection
+    - literary studies
+- arts
+    - music
+        - Discourse analysis/Semantics
+            - Music Education Teacher Training
+            - Music Education Teacher Effectiveness
+            - Pitch Intonation Performance
+            - Vocal Development in Children
+            - Musical Ear Training
+            - Collaborative Music Composition
+            - Child Music Education
+            - Music Performance Evaluation
+            - Music Preference in Children
+            - Music Education and Cultural Practices
+            - Music Education
+    - folklore
+    - drama & theater
+    - art practice, history & theory
+- philosophy, ethics and religion
+    - philosophy
+        - Epistemological theories/Reasoning
+            - Memory Theory
+            - Philosophy of Knowledge
+            - Aesthetic Philosophy
+            - Moral Responsibility
+            - Social Collective Theory
+            - Epistemic Injustice Theory
+            - Luck Egalitarianism
+            - Logical Pluralism
+            - Kantian Political Theory
+            - Collective Moral Responsibility
+            - Social Justice Responsibility
+            - Philosophy of Science
+            - Consciousness Philosophy
+            - Computational Cognitive Theory
+            - Epistemology
+            - Public Reason in Political Philosophy
+            - Epistemological Study
+            - Moral Uncertainty Theory
+            - Semantics
+            - Power Theory
+            - Harm and Benefit in Philosophy
+            - Modal Logic
+            - Moral Philosophy
+            - Epistemic Luck
+            - Modal Epistemology
+            - Rationality in Philosophy
+            - Animalism Debate
+            - Moral Epistemology
+            - Metaphysical Explanation
+            - Practical Philosophy
+            - Political Realism Theory
+            - Free Will Philosophy
+            - Free Will and Intention
+            - Moral Theory
+            - Perceptual Properties
+            - Pleasure Theory
+            - Autonomy and Moral Theory
+            - Epistemological Reasoning
+            - Philosophy of Religion
+            - Philosophical Disagreement
+            - Intention in Language
+            - Climate Change Ethics
+            - Normative Epistemology
+            - Epistemic Blame
+            - Quantum Mechanics Ontology
+            - Conceptual Engineering Theory
+            - African Moral Philosophy
+            - Transformative Experience Phenomenology
+    - applied ethics
+        - Bioethics
+            - Organ Donation and Death Definition
+            - Moral Enhancement
+            - Moral Distress in Healthcare
+            - Parental Decision-Making in Medical Treatment
+            - Epistemic Injustice in Healthcare
+            - Practical Wisdom in Healthcare
+            - Clinical Ethics Support in Psychiatry
+            - AI Ethics
+            - Female Genital Mutilation Ethics
+            - Conscientious Objection in Medicine
+            - Ectogenesis Ethics
+            - Engineering Ethics Education
+            - Advance Directive for End-of-Life Decision-Making
+            - Ethical Research Review System
+            - Research Misconduct
+            - Bioethics and Environmental Ethics
+            - Human Germline Genome Editing Ethics
+            - Clinical Ethics Consultation
+            - End-of-Life Decision Making for Disabled Children
+            - Abortion Ethics
+            - Genomic Research and Biobanking Ethics in Africa
+    - religions & theology
+- other humanities
+
+## social sciences
+
+- psychology and cognitive sciences
+    - experimental psychology
+        - Cognition/Neuropsychological assessment
+            - Intertemporal Choice and Discounting
+            - Working Memory Training
+            - Deception Detection
+            - Language Production
+            - Child Visual Perception Development
+            - Metacognitive Biases
+            - Music Therapy
+            - Experimental Psychology Study
+            - Language Processing Network Analysis
+            - Implicit Attitude Measurement
+            - Quantum Decision Theory
+            - Joint Action Selection
+            - Gesture and Language Development
+            - Scene Categorization
+            - Cognitive Conflict Control
+            - Melodic Similarity in Music
+            - Bilingual Language Processing
+            - Musical Groove Experience
+            - Tactile Perception
+            - Rock Music Harmony
+            - Perception and Cognitive Illusions
+            - Visual Attention Scene Analysis
+            - Episodic Memory Processing
+            - Ecological Cognitive Psychology
+            - Risk Perception and Decision Making in Adolescents
+            - Number Sense Development
+            - Language Development in Children
+            - Music Education for Children
+            - Social Perception
+            - Memory Offloading
+            - Music-Induced Emotion Recognition
+            - Autobiographical Memory and Traumatic Event
+            - Eyewitness Identification
+            - Visual Working Memory
+            - Language Processing
+            - Collaborative Memory
+            - Object Perception and Attention
+            - Unconscious Priming
+            - Music Education and Well-being
+            - Social Cognition and Agency
+            - Semantic Word Processing
+            - Memory and Cognition
+            - Interpersonal Synchrony
+            - Spatial Cognition in Navigation
+            - Cognitive Reasoning Process
+            - Aesthetic Experience
+            - Perspective Taking Experiment
+            - Music Therapy for Mental Health Recovery
+            - Automatic Imitation in Social Context
+            - Musical Emotion Perception
+            - Art Therapy
+            - Child Cognitive Development Theory
+            - Infant Social Development
+            - Face Recognition
+            - Facial Trustworthiness and Social Psychology
+            - What would be a suitable label for this scientific topic
+            - Cognitive Skill Acquisition
+            - Language Cognition
+            - Emotional Attention
+            - Music Performance Interaction
+            - Emotion Regulation Through Music
+            - Conditional Reasoning
+            - Conditioned Inhibition
+            - Inattentional Blindness
+            - Music Therapy Practice
+            - Time Perception
+            - Temporal Self-Continuity and Decision Making
+            - Musical Preference Analysis
+        - Perception/Sensory systems
+            - Visual Masking
+            - Depth Perception
+            - Motion Illusion
+            - Slanted Surface Perception
+            - Language Interference
+            - Short-Term Memory Recall
+            - Müller-Lyer Illusion
+            - Word Recognition Experiment
+            - Material Perception
+            - Memory Recall Experiment
+            - Cognitive Psychology Experiment
+            - Aesthetic Perception of Art
+            - Motion Perception
+            - Visual Search Memory
+            - Visual Imagery Ability Assessment
+            - Odor Recognition Task Interference
+            - Incidental Memory
+            - Binocular Vision Perception
+            - Bimanual Movement Control
+            - Vigilance Task Performance
+            - Face Recognition
+            - Auditory-Visual Interaction
+            - Visual Contrast Perception
+            - Auditory Processing
+            - Reversible Figure Perception
+            - Visual Perception
+            - Apparent Motion Perception
+            - Visual Search in Autism
+            - Biological Motion Perception
+            - Child Visual Perception
+            - Illusory Contour Perception
+            - Visual Illusion
+            - Random Number Generation
+            - Time Perception
+            - Blindness Perception
+            - Eye Movement and Attention
+        - Neurophysiology/Computational neuroscience
+            - Psychiatry
+            - Depressive Disorder
+            - Schizophrenia Treatment
+            - Psychiatric Disorders
+            - Mental Disorder Investigation
+            - Psychiatric Patient Care
+            - Convulsion Therapy
+            - Old Age Psychiatry
+            - Schizophrenia Cognitive Function
+            - Antipsychotic Drug Treatment
+        - Emotion/Affective science
+            - High Power Social Motives
+            - Uncertainty and Stressful Situation Psychology
+            - Humor Styles
+            - Facial Expression and Emotion
+            - Gender Stereotype Research
+            - Basic Psychological Need Satisfaction
+            - Nostalgia Experience
+            - Stereotype Threat Effect
+            - Emotional Behavior in Groups
+            - Pathogen Disgust and Social Behavior
+            - Dark Personality Traits and Forgiveness
+            - Social Psychology
+            - Racial Microaggressions
+            - Emotion and Facial Expression in Social Settings
+            - Moral Identity Development
+            - Life Story Narrative Identity
+            - Action vs Inaction Judgment
+            - Relationship Maintenance
+            - Emotion Regulation Strategies
+            - Obsessive Passion
+            - Conspiracy Theory Belief
+            - Relationship Satisfaction
+            - Self-Esteem Psychology
+            - Emotion Differentiation
+            - Emotional Intelligence
+            - Emotion Expression
+            - Emotional Experience
+            - Self Control and Well-being
+            - Moral Judgment Theory
+            - Implicit Racial Bias
+            - Compassionate Goals and Empathy in Social Interactions
+            - Emotion Expression Perception
+            - Mate Preferences
+            - Narcissism and Selfie Behavior
+            - Political Attitudes and Group Dynamics
+            - Self-Forgiveness Psychology
+            - Social Influence in Psychology
+            - Character Strength Development
+            - Ostracism in Social Psychology
+            - Grit in Psychology
+            - Self Control Behavior
+            - Same-Sex Relationships
+            - Multiculturalism and Diversity Ideologies
+            - Personality Development
+            - Creativity in Science
+            - Face Perception and Social Behavior
+            - Personality Psychology
+            - Self-Enhancement Bias
+            - Wisdom Development
+            - Self-Compassion and Time Perspective
+            - Self Authenticity Study
+            - Personality Development and Psychology
+            - Dispositional Greed Behavior
+            - Attachment Security
+            - Perfectionism and Self-Esteem
+            - Mindfulness and Meditation Intervention
+        - Language acquisition/Bilingualism
+            - Language Processing in Bilinguals
+            - Second Language Acquisition
+            - Language Bilingualism and Motion Events
+            - Auditory Distraction
+            - Bilingual Language Processing
+            - Semantic Memory Representation
+            - Language Processing Ambiguity
+            - Prospective Memory Experiment
+            - Word Recognition Task
+            - Language Development in Bilingual Children
+            - Word Compound Processing
+            - Implicit Memory
+            - Bilingual Language Development in Children
+            - Memory Retrieval
+        - Human life stages/Human development
+            - Subjective Age and Well-being
+            - Emotion and Aging Recognition
+        - Complex systems theory/Computational fields of study
+        - Childhood/Developmental psychology
+        - Linguistics terminology/Phonetics
+    - social psychology
+        - Group processes/Collective identity
+            - Right-Wing Authoritarianism
+            - Racial Social Psychology
+            - Intergroup Perception and Identity Development
+            - Mexican American Identity
+            - Cognitive Representation in Social Group Perception
+            - Adolescent School Transition
+            - Collective Dynamics
+            - Emotional Cultural Experience
+            - Refugee Stereotypes and Psychological Adjustment
+            - Intergroup Relations
+            - Social Identity and Intergroup Conflict
+            - Social Identity and Leadership
+            - State Authenticity
+            - Intergroup Threat Theory
+            - Intergroup Attitudes and Acculturation
+            - Parenting Behavior
+            - Social Identity Theory
+            - Intergroup Relations and Tolerance
+            - Implicit Personality Measurement
+            - Intergroup Relations and Identity
+            - Emotion and Self Perceptions
+            - Child Conservation Development
+            - Cultural Emotion Recognition
+            - Cultural Differences in Child Behavior
+            - Child Attachment and Friendship
+            - Social Dominance Orientation
+            - Social Justice and Behavior
+            - Cultural Psychology
+            - Acculturation Psychology
+            - Relative Deprivation and Group Behavior
+            - Locus of Control and Cultural Differences in Attribution Processes
+            - Bicultural Identity
+            - Collective Action and Emotions
+            - Cultural Identity Adaptation
+            - Ingroup Psychology
+            - Counterfactual Thinking
+            - Moral Political Psychology
+            - Intergroup Conflict and Identity
+            - Cross-Cultural Psychology
+            - Attitude Formation and Influence
+            - Group Identity and Social Effectiveness
+            - Cultural Individualism vs. Collectivism in Social Psychology
+            - Cultural Values Theory
+        - Ethical consumerism/Sustainable development
+            - Risk Perception and Attachment
+            - Theory of Planned Behavior
+            - Urban Environmental Design Preferences
+            - Wayfinding Design
+            - Pro-Environmental Behavior
+            - Restoration Theory
+            - Child Social Environment
+            - Recycling Behavior
+            - Environmental Attitudes
+            - Nature Connection and Well-being
+            - Environmental Attitude and Concern
+            - Patient Environment Design
+            - Social Psychology of Crowded Environments
+        - Life skills/Behavioural sciences
+            - Experimenter Expectancy Effect
+            - Emotional Intelligence
+            - Interpersonal Distance and Social Interaction
+            - Dark Triad Traits
+            - Child Personality Development
+            - Locus of Control
+            - Death Anxiety
+            - Dreaming and Consciousness
+            - Personality Assessment
+            - Health Locus Control
+            - Right-Wing Authoritarianism and Social Dominance Orientation
+            - Name Social Psychology
+            - Dogmatism Scale
+            - Relationship Psychology
+            - Christian Psychology
+            - Meditation Practice
+            - Qualitative Psychology of Spirituality
+            - Verbal Conditioning Awareness
+            - Self-Esteem Measurement
+            - Evolutionary Leadership Psychology
+            - Curiosity Measurement
+            - Role Take Empathy
+            - Machiavellianism and Power Dynamics
+            - Locus of Control and Personality Traits
+            - Cultural Identity Analysis
+            - Cognitive Psychology
+            - General Factor of Personality
+            - Mate Preference in Humans
+            - African Psychology
+            - Child Development in Hunter-Gatherer Societies
+            - Loneliness in College Students
+            - Personality Traits
+            - Intelligence Measurement
+            - Lunar Cycle Effect on Human Behavior
+            - Personality Development Process
+            - Repression Sensitization Scale
+        - Feminist terminology/Gender roles
+            - Feminist Studies
+            - Sexual Harassment and Coercion in College Students
+            - Women in STEM Careers
+            - Attitudes towards Homosexuals
+            - Body Image in Social Media
+            - Working Mother Guilt
+            - Sexual Harassment Experience
+            - Feminist Psychology
+            - Gender Roles in Relationships
+            - Body Image and Sexual Orientation
+            - Feminist Identity Development
+            - Sex Differences in Friendship
+            - Health Behavior Messaging
+            - Rape Mythology
+            - Body Image in Women
+            - Sexual Assault Research
+            - Gender and Sexual Minority Experience
+            - Body Image Development
+            - Black Women's Mental Health and Coping Strategies
+            - Sexual Microaggressions and Identity Experiences
+            - Body Image and Self-Esteem
+            - Women's Midlife Experience
+            - Gender Role Identity
+            - Body Image and Objectification in Women
+            - Gender and Women in Stem
+        - Culture/Religion
+            - Religious Mental Health
+            - Religious Health and Spiritual Well-being
+            - Chaplaincy Education and Training
+            - Religious Community During Pandemic
+            - Forgiveness Psychology
+            - Religious Spiritual Struggle
+            - Psychological Type in Church Leadership
+            - Positive Religious Coping
+            - Self-Spirituality
+            - Religious Secularization in Social Context
+            - Spirituality in Psychiatry/Psychotherapy
+            - Religious Identity
+            - God Representation
+            - Moral Injury in Veterans
+            - Religious Education
+            - Spiritual Health and Wellbeing in African American Communities
+            - Spiritual Well-being Measurement
+        - Interpersonal relationships/Sexual fidelity
+            - Relationship Satisfaction
+            - Cross-Sex Friendship
+            - Deception in Romantic Relationships
+            - Parental Divorce Effect on Child Well-being
+            - Couple and Family Therapy
+            - Parental Custody and Separation
+            - Sibling Relationships in Adulthood
+            - Parent-Child Relationship
+            - Couple Relationship Satisfaction
+            - Marital Happiness
+            - Stepfamily Dynamics
+            - Relationship Conflict Resolution
+            - Relationship Conflict Communication
+            - Parent-Child Relationships Post-Divorce
+            - Relationship Dynamics
+            - Family Conflict and Divorce
+            - Love and Relationship Satisfaction
+            - Dyadic Coping in Relationships
+            - Parent-Child Conflict
+            - Relational Maintenance Strategies
+            - Parenting and Child Development
+            - Child Family Conflict
+            - Parent-Child Relationship Conflict Resolution
+            - Couple Relationship Technology Use
+            - Parental Self-Efficacy
+        - Positive psychology/Happiness
+            - Positive Psychology
+        - Sexual acts/Interpersonal relationships
+        - Senescence/Old age
+    - languages & linguistics
+        - Language education/Language acquisition
+            - Discourse Analysis
+            - Language Test Design Validation
+            - Language and Ethics
+            - Language Policy in Higher Education
+            - Language Learning Interaction
+            - Linguistic Landscape
+            - Cognitive Load on Interpreting Speech
+            - Sociolinguistics
+            - Language Learning Motivation
+            - Language Teacher Identity
+            - Patient-Provider Interaction
+            - Narrative Analysis
+            - Language Variation and Change
+            - Linguistic Acquisition
+            - Language Acquisition and Writing Development
+            - Bilingual Education
+            - Conceptual Metaphor Theory in Linguistics
+            - Language Learning Strategy
+            - Court Interpreting
+            - Subtitling Quality Assessment
+            - Language Interaction Analysis
+            - Pragmaticalization of Modals in English Grammar
+            - Rater Assessment
+            - Sociolinguistic Analysis
+            - Language Policy in Multilingual Families
+            - Global Englishes Language Education
+            - Legal Translation
+            - Therapist-Patient Interaction in Psychotherapy
+            - Interactional Linguistics
+            - Language Learning Task Complexity Effect
+            - Legal Terminology Linguistics
+            - Second Language Acquisition
+            - Language and Power Dynamics in Multilingual Contexts
+            - Conversation Analysis
+            - Language Education Policy
+            - Machine Translation Evaluation
+            - Linguistic Cultural Representation
+            - L2 Listening Comprehension
+            - Language Attitudes in Catalonia
+            - English Language Identity
+            - Intercultural Language Learning
+            - Language Policy in Education
+            - Public Discourse Apology
+            - Sign Language
+            - Language Learning Feedback Methodology
+            - Intercultural Language Learning Experience
+            - Heritage Language Instruction
+            - Narrative Discourse Analysis
+            - Politeness in Language Use
+            - Construction Grammar
+            - Academic Writing in English
+            - Language Learning Assessment
+            - Translation Studies
+            - Language Learning Pronunciation Instruction
+            - Bilingual Education Policy
+            - Cultural Pragmatics in Language
+            - Language Policy and Education
+            - Linguistic Interaction Construction
+            - Korean Discourse Marker
+            - Language Acquisition and Feedback Effects
+            - Language Engagement
+            - Deaf Language Education
+            - Corpus Linguistics in Language Teacher Education
+            - Self-Praise on Social Medium (Twitter)
+            - Foreign Language Education
+            - Language Politeness
+            - Linguistic Variation in Language Contact
+            - Pragmatic Language Interaction
+            - Metadiscourse Analysis in Academic Writing
+            - Interactional Discourse Analysis
+            - Language Teacher Development
+            - English Medium Instruction
+        - Syntax/Generative syntax
+            - Linguistic Morphology
+            - Language Variation and Dialect Analysis
+            - Linguistic Structure Analysis
+            - Korean Syntax
+            - Language Processing
+            - Syntactic Grammar
+            - Linguistic Movement Theory
+            - Language Incorporation
+            - Plural Noun Construction
+            - Syntactic Analysis of Language Structures
+            - Old French Syntax
+            - Language Change
+        - English-language idioms/Sexual selection
+    - clinical psychology
+        - Eating disorders/Culture-bound syndromes
+            - Eating Disorder and Social Media
+            - Body Image and Eating Disorders
+            - Family-Based Treatment for Adolescent Anorexia Nervosa
+            - Compulsive Exercise in Eating Disorders
+            - Avoidant Restrictive Food Intake Disorder (ARFID)
+            - Food Addiction Assessment
+            - Male Eating Disorders
+            - Covid-19 and Eating Disorders
+            - Eating Disorder Treatment
+            - Anorexia Nervosa Treatment
+            - Orthorexia Nervosa
+        - Criminology/Psychopathy
+            - Personality Development in Children and Adolescents
+            - Perfectionism Scale Development
+            - Personality Disorder Assessment
+            - Narcissistic Personality Disorder
+            - Psychopathic Traits Assessment
+            - Dark Personality Traits
+            - Psychopathic Traits in Youth
+            - Personality Assessment
+            - Borderline Personality Disorder in Adolescents
+            - Self-Determination and Goal Satisfaction
+            - Rorschach Test
+        - Behavioral addiction/Sexual dysfunctions
+            - Problematic Pornography Use
+            - Sexual Satisfaction and Relationships
+            - Erectile Dysfunction Treatment
+            - Premature Ejaculation Treatment
+            - Vulvodynia Treatment
+            - Sexual Dysfunction Treatment
+            - Sexual Health and Satisfaction
+            - Peyronie's Disease Treatment
+            - Paedophilia Research
+            - Genital Body Image
+            - Female Sexual Arousal Response
+            - Sexual Identity Development
+            - Gender Dysphoria Diagnosis and Treatment
+            - Female Sexual Orgasm
+            - Sexual Function and Satisfaction During Pandemic
+            - Sexual Function and Inhibition in Women
+            - Female Sexual Function and Dysfunction
+        - Psychotherapies/Cognitive behavioral therapy
+            - Therapy Process
+            - PTSD Treatment
+            - Mindfulness-Based Interventions for Children and Youth
+            - Cognitive Behavioral Therapy for Anxiety Disorders
+            - Social Anxiety Disorder in Children
+            - Group Psychotherapy
+            - Parent-Child Behavioral Treatment Program
+            - Cognitive Behavioral Therapy
+            - Acceptance and Commitment Therapy (ACT)
+            - Non-Suicidal Self-Injury (NSSI)
+            - Compassion Focused Therapy
+            - Mindfulness-Based Therapy for Emotion Regulation
+            - Online Psychotherapy Practice
+            - Therapist Competence in Cognitive Behavioral Therapy
+            - Mindful Parenting
+            - P Factor Psychopathology
+            - Psychotherapy Treatment Outcome
+            - Mindfulness-Based Cognitive Therapy for Suicidal Behaviors
+            - Therapist-Patient Relationship Psychotherapy
+            - Psychotherapeutic Process
+            - Trauma Treatment Therapy
+            - Anxiety Disorder Treatment
+            - Worry and Anxiety
+            - Social Anxiety Disorder Treatment
+            - Post-Traumatic Stress Disorder (PTSD)
+            - Obsessive-Compulsive Disorder Treatment
+            - Positive Psychology Intervention for Depression Treatment
+            - Schema Therapy Treatment
+            - Moral Injury
+            - Anxiety and Metacognition
+            - Covid-19 Anxiety and Fear Response
+            - Mindfulness and Self
+            - Obsessive Compulsive Disorder (OCD)
+            - Behavioral Activation Therapy for Depression
+            - Child and Family Therapy
+            - Eating Disorder Treatment
+            - Suicidal Ideation Prevention
+            - Hoarding Disorder Treatment
+            - PTSD Relationship Therapy
+            - Cultural Adaptation in Therapy
+            - Irrational Belief and Depression Research
+            - Child Anxiety Treatment
+        - Neuropsychology/Neuropsychological assessment
+            - Neuropsychology Practice
+            - Performance Validity Test
+            - Neuropsychological Assessment
+        - Behaviorism/Behavior modification
+            - Behavioral Training for Staff
+        - Anxiety disorders/Spoken articles
+    - developmental & child psychology
+        - Parenting/Childhood
+            - Poverty and Welfare Reform Policy
+            - Parental Control and Psychological Behavior in Adolescents
+            - Journal Quality Assessment
+            - Emotion Socialization in Children
+            - Housing and Family Services
+            - Child Welfare Services
+            - Children's Lying Behavior
+            - Child Attachment Development
+            - Social Work Ethics
+            - Youth Participation
+            - Child Welfare and Trauma Exposure
+            - Language Development in Infancy
+            - Strength-Based Case Management for Youth Health
+            - Maternal Mind-Mindedness
+            - Social Work Disaster Risk Management
+            - Child Neglect Assessment
+            - Child Exposure to Domestic Violence
+            - Child Social Bias
+            - Foster Care
+            - Indigenous Child Welfare
+            - Parent-Child Interaction
+            - Child Welfare Worker Training and Support
+            - Social Work Practice Wisdom
+            - Clinical Social Work Simulation
+            - Parenting Intervention Program
+            - Child Maltreatment and Parent-Child Relationships
+            - Adult Safeguarding Practice
+            - Residential Youth Care Treatment
+            - Child Foster Care Perspective
+            - Social Work Education and Antiracism
+            - Bullying in Adolescence
+            - Child Welfare Practice
+            - Student Mindset Development
+            - Mother-Child Interaction
+            - Social Work Practice in China
+            - Language Development in Children
+            - Parent-Child Attachment
+            - Ethnic-Racial Identity Development among Adolescents
+            - Gender Development in Children
+            - Child Protection Rights
+            - Youth Homelessness Intervention
+            - Parenting Styles in Chinese Families
+            - Critical Consciousness in Adolescents
+            - Adolescent Bullying Behavior
+            - Child Care and Support
+            - Parent-Child Aggression
+            - Resilience in Social Context
+            - Identity Development in Adolescence
+            - Left-Behind Children Developmental Psychology
+            - Social Work Practice Policy
+            - Positive Youth Development
+            - Parent-Child Relationship Developmental Psychology
+            - Motherhood Experience and Care
+            - Child Developmental Psychology
+            - Social Work Practice Ethics
+            - Adolescent Academic Development
+            - Youth Mental Health Intervention
+            - Child Cognitive Development
+            - Self-Regulation in Children
+            - Maternal Child Attachment
+            - Adoption Experience
+            - Care for Young People
+            - Parent-Adolescent Relationship Conflict
+            - Childhood Social Development
+            - Child Protection Decision-Making
+            - Parent-Adolescent Relationships and Emotion Regulation
+            - Parent-Child Math Development
+            - Digital Social Work Practice
+            - Homeless Women's Issues
+            - Adolescent Prosocial Behavior
+            - Emotion Regulation in Infancy and Early Childhood
+            - Social Justice Education
+            - Mentorship Program Evaluation
+            - Evidence-Based Social Work Practice
+            - Foster Care and Youth Services
+            - Social Work Service Delivery
+            - Social Work Education and Regulation
+            - Child Participation in Social Services
+            - Foster Care for Unaccompanied Children
+            - Parent-Child Relationship
+            - Spirituality in Social Work
+            - Mother-Infant Interaction
+            - Social Welfare Practice
+            - Trauma-Informed Child Welfare Practice
+            - Early Childhood Education
+            - Father-Child Relationship Support Programs
+            - Resilience in Youth
+            - Child Social Development
+            - Child Sexual Exploitation Prevention
+        - Autism spectrum disorders/Learning disabilities
+            - Parenting Children with Autism Spectrum Disorder
+            - Sexuality Education for Adults with Autism
+            - Physical Activity and Intellectual Disability
+            - Child Developmental Psychology
+            - Autism Spectrum Disorder Diagnosis
+            - Social Skills Intervention for Autism
+            - Sibling Experience with Developmental Disabilities
+            - Autism Spectrum Disorder (ASD) in Child Development
+            - Autism Spectrum Disorder
+            - Anxiety in Autism Spectrum Disorder
+            - Transition to Adult Care for Adolescents with Chronic Diseases
+            - Autism Spectrum Disorder Treatment
+            - Intellectual Disability in Children
+            - Executive Function in Autism Spectrum Disorder (ASD) in Children
+            - Intellectual Disability Care
+            - Autism Spectrum Disorder Care
+            - Language Development in Children
+            - Autism Spectrum Disorder Intervention
+            - Language Development in Autism Spectrum Disorder
+            - Autism Spectrum Disorder in Adults
+            - Repetitive Behavior in Autism Spectrum Disorder
+            - Autism Spectrum Disorder in Children
+            - Child Disability Developmental Care
+            - Child Autism Disorder
+            - Autism Spectrum Disorder Language Development
+            - Animal-Assisted Therapy for Autism Spectrum Disorder
+            - Autism Spectrum Disorder Assessment
+            - Autism Spectrum Disorder Education
+            - Reading Skills in Autism Spectrum Disorder Children
+            - Autism Spectrum Disorder Diagnosis & Intervention
+            - Physical Activity in Autism Spectrum Disorder
+            - Attention Deficit Hyperactivity Disorder in Children
+            - Microswitch-Based Intervention for Disabilities
+            - Autism Spectrum Disorder in Children and Adults
+            - Applied Behavior Analysis for Autism Education
+        - Adverse childhood experiences/Crimes
+            - ADHD Intervention and Treatment in Children
+            - ADHD Symptom Impairment in Children
+            - Parent-Child Interaction Therapy
+            - Sluggish Cognitive Tempo
+            - Callous-Unemotional Traits in Children
+        - Adolescence/Puberty
+            - Self-Evaluation in Social Psychology
+            - Parent-Adolescent Relationship
+            - Attachment Theory
+    - human factors
+        - Automation software/Robotics
+            - Cognitive Task Performance Management
+            - Warning Label Design
+            - Performance Evaluation Tests
+            - Color Coding in Visual Displays
+            - Situation Awareness Training
+            - Human Factors Design
+            - Cognitive Task Analysis
+            - Visual Perception
+            - Mental Workload Assessment
+            - Task Training Performance
+            - Driver Collision Warning System
+            - Crew Resource Management Training
+            - Young Driver Training Program
+            - Human-Machine Trust in Automation
+            - Pilot Training and Performance Evaluation
+            - Eye Tracking in Aviation
+            - Office Ergonomics
+            - Mental Workload Measurement
+            - Driver Attention and Automation in Autonomous Driving
+            - Vigilance Performance
+            - Brake Pedal Error
+            - Display and Task Performance
+            - Task Management in Emergency Situations
+            - Vibration and Human Performance
+            - Readability of Text on Computer Display
+            - Lifting Task Assessment
+        - Human–computer interaction
+            - Graphical Password Authentication
+            - Emotion Recognition
+            - Mobile Device Interaction
+            - Recommender System
+            - Gaze-Based Human Interaction Analysis
+            - User Experience Design
+            - Chatbot Interaction Design
+            - Older Adult Technology Use Design
+            - Human-Robot Interaction Design
+            - Human Factors in Assembly and Task Instructions
+            - Cognitive Task Performance
+            - Eye Gaze Tracking
+            - Online Community Moderation
+            - Social Media in Disaster Response
+            - Design for Children with Disability
+            - Deaf and Hard of Hearing Access
+            - Creative Design Support Tool
+            - User Experience Design for VR/AR
+            - Virtual Reality Experience
+            - Human-Computer Interaction Design
+            - Electronic Circuit Design Tool
+            - Wearable Interface Design
+            - Social Virtual Reality Design
+            - Trigger-Action Rule Debugging
+            - Accessibility Technology for Blind Users
+            - Human Activity Recognition
+            - Museum Experience Design
+            - Game Difficulty Design
+            - Design for Human-Computer Interaction
+            - Interactive Design
+            - Workplace Distraction Management
+            - Pedestrian-Vehicle Interaction
+            - Emoji Design and Communication
+            - User Experience Evaluation
+            - Accessible User Interface Design
+            - Healthcare Design and Technology
+            - Public Speaking Anxiety in Virtual Reality
+            - Shape-Changing User Interface
+            - Animal-Human Interaction Technology
+            - Human-Drone Interaction
+            - Smart Home Security and Privacy
+            - Usability Evaluation
+            - Design Education and Practice in HCI
+        - Ergonomics/Occupational safety and health
+            - Participatory Ergonomics Intervention
+            - Anthropometric Measurement and Design for Human Factors
+            - Human-Centred Sustainable Systems Design
+            - Human Body Vibration Exposure
+            - Human Factors in Smartphone Operations
+            - Seat Comfort Design
+            - Virtual Reality Human Factors
+            - Human Factors in Manufacturing
+            - Risk Assessment for Worker
+            - Musculoskeletal Disorders in Workers
+            - Headwear Design
+            - Exoskeleton Design for Muscle Activity Support
+            - Lifting Task Kinematics
+            - CyberSickness in Virtual Reality
+            - Muscle Fatigue During Task Performance
+            - Human Factors in Maritime Systems Design
+            - Ergonomics in Agriculture
+            - Work-Related Musculoskeletal Disorders in Sonography
+            - Human Factors in Autonomous Vehicle Design
+            - Work-Related Musculoskeletal Disorders
+            - Hand Grip Force Prediction
+            - Trunk Lifting Biomechanics
+            - Occupational Injury Prevention
+            - Smartphone Use and Neck Posture
+            - Design Psychology
+            - Icon Design Legibility
+            - Agricultural Machine Safety
+    - psychoanalysis
+        - Psychoanalysis/Freudian psychology
+            - Panic Disorder Treatment
+            - Clinical Psychoanalytic Approach to Trauma
+            - Perverse Psychology
+            - Gender and Psychoanalytic Theory
+            - Child Development Theory
+            - Psychoanalytic Process
+            - Shame and Fantasy in Psychoanalytic Theory
+            - Racial Identity and Psychoanalysis
+            - Psychoanalytic Theory of Homosexuality
+            - Psychoanalytic Theory
+            - Transactional Analysis for Trauma Healing
+            - Clinical Psychoanalytic Writing
+            - Psychoanalytic Clinical Experience
+            - Psychoanalytic Theory of Intergenerational Transmission
+            - Psychological Theory and Defense Mechanisms
+            - Chaos Theory and Psychoanalysis
+            - Trauma and Memory
+            - Psychodynamic Psychotherapy
+            - Freudian Psychoanalytic Theory
+            - Relational Psychoanalysis
+            - Online Psychotherapy Training
+            - Parent-Infant Psychoanalytic Development
+            - Psychoanalytic Theory of Love Relations
+    - general psychology & cognitive sciences
+        - Behavior
+            - Social Justice Counseling Psychology
+            - Multicultural Counseling Competency
+            - Counseling Psychology Training
+            - Counseling Psychology and Racism
+            - Self-Actualization Theory
+            - Counseling Psychology
+            - Ethics in Counseling
+            - Career Development Barriers
+            - Lesbian
+            - Counseling Self-Efficacy in Education
+            - Counselor Training Program
+            - Counseling Psychology Supervision
+            - Counselor Education and Training
+            - School Counseling Psychology
+            - Humanistic Psychology
+            - Clinical Supervision in Counseling
+            - Relational Cultural Theory
+            - Multicultural Counseling Competence
+            - School Counseling Supervision
+            - Career Decision Making
+    - behavioral science & comparative psychology
+        - Cognition/Motivation
+            - Perspective Psychology
+            - Behavioral Science
+            - Operant Conditioning
+            - Behavioral Philosophy
+            - Reinforcement Schedules and Human Performance
+            - Applied Behavior Analysis
+            - Equivalence Class Formation
+            - Behavioral Therapy
+            - Behavioral Economics
+            - Behavioral Psychology
+            - Behavioral Cultural Selection
+            - Behavioral Therapy for Depression
+            - Behavioral Extinction and Reinforcement Experiment
+            - Positive Reinforcement Distinction
+        - Welfare economics/Government aid programs
+        - Chimpanzees/IUCN Red List endangered species
+- economics and business
+    - business & management
+        - Entrepreneurship/Business occupations
+            - Entrepreneurship
+            - Entrepreneurial Identity
+            - Entrepreneurial Ecosystem Development
+            - Female Entrepreneurship
+            - Entrepreneurial Intention
+            - Entrepreneurial Crisis Management
+            - Entrepreneurial Performance
+            - Entrepreneurship Education
+            - Social Entrepreneurship
+            - Small Business Marketing
+            - Small Business Management
+            - Entrepreneurial Development
+            - Entrepreneurial Orientation and Firm Performance
+            - Small Business Innovation Performance
+            - Informal Entrepreneurship
+            - Family Business Succession
+            - Entrepreneurship and Small Business
+            - Entrepreneurial Team Networking
+            - Entrepreneurial Labor
+            - Crowdfunding Platform Success
+            - SME Business Management
+            - Immigrant Entrepreneurship
+            - Small and Medium-sized Enterprise Financial Management
+            - Franchising Management
+            - Small and Medium-sized Enterprise (Sme) Management
+            - Entrepreneurial Cognition
+        - Innovation/Product management
+            - ICT and Economic Growth
+            - Patent Analysis and Technology Roadmapping
+            - Knowledge Economy Development
+            - Consumer Behavior
+            - Open Innovation in SMEs
+            - Innovation and Firm Performance
+            - Global Brand Management
+            - Advertising Effectiveness
+            - Marketing Research
+            - User Innovation Process
+            - Conjoint Analysis
+            - Innovation Network Policy
+            - Corporate Finance and Marketing Strategies
+            - Service Innovation Management
+            - Box Office Success Factors
+            - Green Marketing
+            - Service Innovation Design
+            - Sales Performance
+            - Smart City Governance
+            - Service Quality and Customer Satisfaction
+            - Technology Catch-up in China
+            - Frugal Innovation
+            - Green Consumer Behavior
+            - Innovation Performance Factors
+            - Innovation Ecosystem
+            - University-Industry Collaboration
+            - Market Orientation
+            - Innovation Finance
+            - Sustainable Transition Management
+            - Response Rate in Mail Surveys
+            - Design Innovation Policy
+            - Private Label Strategy
+            - Design Thinking Innovation
+            - Platform Economy Innovation
+            - Innovation and Standardization
+            - Innovation Capability Assessment
+            - Corrective Advertising
+        - Supply chain management/Business terms
+            - Supply Chain Performance Measurement
+            - Circular Economy Business Model
+            - Lean Implementation
+            - Supply Chain Resilience
+            - Supply Chain Management
+            - Backshoring Strategy
+            - Production Line Maintenance
+            - Buyer-Supplier Relationship Management
+            - Service Supply Chain Governance
+            - Green Supply Chain Management
+            - Supplier Selection
+            - Sustainable Supply Chain Management
+            - Omnichannel Retailing
+            - Quality Function Deployment (QFD)
+            - Performance Measurement in Car Companies
+            - Corporate Sustainability Management
+            - Blockchain Technology Adoption
+            - Sales and Operations Planning
+            - Supply Chain Finance
+            - Supply Chain Management Competency
+            - Remanufactured Products Management
+            - Firm Efficiency
+            - Supply Chain Risk Management
+            - Industry 4.0 Quality Management
+            - Quality Costing
+            - Humanitarian Supply Chain Management
+            - Supply Chain Quality Management
+        - Leadership/Industrial and organizational psychology
+            - Organizational Leadership and Employee Management
+            - Corporate Restructuring and Organizational Change
+            - Training Transfer Factors
+            - Appreciative Inquiry in Organizational Development
+            - Organizational Change Management
+            - Performance Appraisal System
+            - Organizational Health Interventions
+            - Negotiation Strategy
+            - Organizational Leadership and Employee Relationships
+            - Volunteer Motivation
+            - Group Performance and Decision Making
+            - Interorganizational Network Analysis
+            - Diversity and Inclusion in Business Management
+            - Gender in Organization Studies
+            - Women in Leadership
+            - Workaholism and Work Engagement
+            - Job Satisfaction
+            - Group Therapy
+            - Workplace Incivility Impact on Employee Behavior
+            - Career Adaptability
+            - Employee Behavior and Performance
+            - Gender in the Workplace
+            - Gender Inequality in Employment
+            - Healthcare Leadership
+            - Career Development and Management for Women
+            - Employee Technology Use
+            - Workplace Ostracism Behavior
+            - Servant Leadership in Business
+            - Remote Work Organization
+            - Action Learning Practice
+            - Leadership and Employee Behavior
+            - Leadership and Motivation in Organizational Contexts
+            - Employee Creativity
+            - Mergers and Acquisitions Cultural Integration
+            - Organizational Communication Strategy
+            - Management Journal Ranking
+            - Leadership Behavior
+            - Employee Participation Program Management Theory
+            - Work-Family Conflict
+            - Organizational Development Practice
+            - Employee Life Satisfaction
+            - Meta-Analysis Methodology
+            - Gig Economy Platform
+            - Employee Turnover
+            - Leadership Communication
+            - Professional Role Orientation
+            - Organizational Leadership
+            - Business Organization and Economy Change
+            - Old Worker Retirement
+            - Management Education
+            - Social Network Analysis
+            - Employee Satisfaction and Wellbeing
+            - Career Development in Women-Owned Small Firms
+            - Human Resource Management (HRM)
+            - Organizational Management Theory
+            - Talent Management Practice
+            - Healthcare Organization Performance
+            - Employee Behavior and Relationship
+            - Workplace Psychology
+            - Organizational Learning
+            - Organizational Communication
+            - Authentic Leadership
+            - Executive Coaching
+            - Cultural Intelligence
+            - Leadership Development
+            - Organizational Development
+            - Leadership and Team Dynamics
+            - Organizational Theory
+            - Psychological Contract Breach
+            - Organizational Identity Crisis
+            - Workplace Bullying
+            - Burnout and Emotional Exhaustion at Work
+            - Organizational Commitment
+            - Leadership Practice
+            - Organizational Culture and Decision Making
+            - Employee Engagement and Role Perception
+            - Gender and Organization
+            - Employee Engagement
+            - Moderated Regression Analysis
+            - Corporate Network Analysis
+            - Employee Selection and Assessment
+            - Confirmatory Factor Analysis Methodology
+            - Employee Burnout
+            - Organizational Performance Design
+            - Employee Psychological Engagement
+            - Workplace Spirituality
+            - Employee Performance and Satisfaction
+            - Decent Work Psychology
+        - International business/International trade
+            - Innovation Management
+            - Entrepreneurship Theory
+            - Sustainability in Business Partnerships
+            - Foreign Direct Investment (FDI)
+            - Business Network Strategy
+            - Sustainability Management
+            - Digital Business Transformation
+            - Organizational Performance Management
+            - Organizational Innovation Leadership
+            - Gender Diversity in Corporate Boards
+            - Environmental Business Innovation
+            - Cross-Cultural Management
+            - Multinational Enterprises' Human Resource Management Practice
+            - Business Failure and Firm Performance
+            - Corporate Governance
+            - Corporate Social Responsibility
+            - Management History Research
+            - International Business Management
+            - Strategy Content Research
+            - Management Theory
+            - Business School Management
+            - Organizational Resilience
+            - Performance Management in Business
+            - Venture Capital and Entrepreneurship
+            - Sustainable Corporate Performance
+            - Corporate Financial Management
+            - Strategic Innovation Management
+            - Human Resource Management Practice
+            - Network Innovation Management
+            - Firm Performance and Innovation
+            - Social Entrepreneurship
+            - Knowledge Transfer Management
+            - Ethical Leadership in Organizations
+            - Employee Engagement in Social Medium
+        - Corporate governance/Corporate social responsibility
+            - Annual Report Readability
+            - Corporate Governance and Firm Performance
+            - Corporate Social Responsibility (csr)
+            - Corporate Sustainability Reporting
+            - Corporate Social Responsibility Disclosure
+            - Corporate Social Responsibility
+            - Corporate Governance and Earnings Management
+            - Corporate Governance and Financial Accounting
+            - Corporate Governance Compliance
+            - Financial Reporting
+            - Environmental Disclosure Performance
+            - Earnings Management
+            - Executive Compensation Management
+            - Corporate Tax Avoidance
+            - Corporate Social Responsibility Reporting
+            - Accounting Practice Management
+            - Integrated Reporting
+            - Corporate Social Responsibility (CSR)
+            - Corporate Carbon Disclosure
+        - Marketing techniques/Services marketing
+            - Knowledge Hiding in Organizations
+            - Big Data Analytics Capability
+            - Luxury Brand Management
+            - Brand-Consumer Relationship Management
+            - Knowledge Management Process
+            - Consumer Behavior in Social Commerce
+            - Co-Creation in Digital Service Innovation
+            - Knowledge Management Strategy
+            - Intellectual Capital Management
+            - Knowledge Management
+            - Innovation Capability
+            - Knowledge Management for Innovation
+            - Organizational Agility
+            - Business Process Management
+            - Enterprise System Implementation
+            - Adoption Factors in Enterprise Systems
+            - Knowledge Sharing
+            - Customer Experience Marketing
+            - Service Quality and Customer Satisfaction
+            - Knowledge Management in Organizations
+            - Social Media Adoption in SMEs
+            - Customer Service Marketing
+            - Knowledge Management Performance
+        - Construction/Building engineering
+            - Innovation Network Management
+            - Contractor Relationship Management
+            - Project Management Strategy
+            - Project Stakeholder Management
+            - International Development Project Management
+            - Project Complexity Management
+            - Project Risk Management
+            - Ambidextrous Project Management
+            - Agile Project Management
+            - Project Portfolio Management
+            - Project Management Collaboration
+            - Project Management Competency
+            - ICT Project Success Factors
+            - Emotional Intelligence in Project Management
+            - Business Model Innovation
+        - Education
+            - Marketing Education Teaching Techniques
+            - Marketing Education
+        - Economic bubbles/Financial crises
+        - Information systems/Innovation
+        - Tourism/Hospitality management
+    - logistics & transportation
+        - Sustainable transport
+            - Crash Modeling
+            - Public Transportation Use
+            - Public Transport Service Management
+            - Traffic Prediction
+            - Travel Mode Detection
+            - Transportation Network Optimization
+            - Energy-Efficient Train Control
+            - High-Speed Rail and Regional Economic Development
+            - Automated Vehicle Traffic Flow Control
+            - Travel Behavior Analysis
+            - Urban Traffic Management
+            - Signalized Intersection Control
+            - Public Transportation Optimization
+            - Green Shipping Policy Modeling
+            - Electric Vehicle Relocation System
+            - Urban Rail Service Optimization
+            - Airport Efficiency Analysis
+            - Accessibility Measurement
+            - Shared Parking Management
+            - Ridesharing Service Design
+            - Vehicle Lane Change Behavior
+            - Air Cargo Logistics
+            - Traffic Signal Control
+            - Transportation Network Design
+            - Railway Competition and Regulation
+            - Passenger Mobility Pattern Recognition
+            - Congestion Pricing Acceptability
+            - Transit Network Design
+            - Traffic Emission Reduction
+            - Public Transport Service Quality
+            - Mobility as a Service (MAAS)
+            - Transport Infrastructure Project Management
+            - Urban Rail Transit Development
+            - Traffic Flow Modeling
+            - Travel Mode Choice Behavior
+            - Travel Mode Choice
+            - Airline Financial Performance Analysis
+            - Connected Vehicle Traffic Control
+            - Autonomous Vehicle Traffic Flow
+            - Public Transportation System Optimization
+            - Public Transport Performance Analysis
+            - Travel Mode Choice Model
+            - Asphalt Mixture Performance
+            - Urban Freight Logistics
+            - Route Choice Modeling
+            - Short-Term Traffic Prediction
+        - Emerging technologies/Robotics
+            - Vehicle Platooning Control
+            - Railway Safety Analysis
+            - Pedestrian Motion Prediction
+            - Autonomous Vehicle Lane Changing
+            - Bayesian Spatial Traffic Crash Modeling
+            - Bicycle Safety and Road Risks
+            - Road Traffic Accident Analysis
+            - Lane Change Prediction
+            - Lane Changing Behavior Prediction
+            - Traffic Flow Prediction
+            - Driver Safety and Vehicle Crash Prevention
+            - Vehicle Safety Acceptance
+            - Energy Optimization for Rail Transport
+            - Driver Behavior Analysis
+            - Autonomous Intersection Management
+            - Injury Prevention
+            - Driver Drowsiness Detection
+            - Cooperative Perception for Vehicle-to-Vehicle Communication
+            - Intelligent Transportation Systems
+            - Road Safety Analysis
+            - Autonomous Vehicle Path Planning
+            - Safety Behavior in Construction Workers
+            - Pedestrian Safety in Traffic
+            - Autonomous Vehicle Control
+            - Connected and Autonomous Vehicle Safety
+            - Maritime Accident Risk Management
+            - Pedestrian Evacuation Planning
+            - Lane Change Detection Algorithm
+            - Vehicle Detection
+            - Magnetic Sensor-Based Traffic Detection
+            - Driver Safety and Crash Analysis
+            - Older Adult Driver Cognitive Health
+            - Cannabis and Driving Risk Behaviors
+            - Road Traffic Accident Hotspots
+            - Driving Style Recognition
+            - Road Safety Management
+            - Traffic Flow Control
+            - Crash Severity Prediction
+            - Autonomous Vehicle Safety Testing
+            - Pedestrian Traffic Safety
+            - Organizational Safety Practices
+            - Eco-Driver Traffic Control
+            - Road Traffic Injury Prevention
+            - Lane Change Prediction for Autonomous Vehicles
+            - Speed Management
+            - Autonomous Vehicle Road Detection
+            - Driver Behavior and Safety Analysis
+            - Older Driver Cognitive Abilities
+            - Ride Sharing Optimization
+            - Traffic Signal Control Optimization
+            - Autonomous Vehicle Detection
+            - Road Safety and Traffic Crash Prevention
+        - Regulatory compliance/E-commerce
+    - economics
+        - Banks/Banking terms
+            - Foreign Direct Investment (FDI) Analysis
+            - Sovereign Credit Ratings
+            - Financial Market Risk
+            - Covid-19 Pandemic Economics
+            - International Trade Economics
+            - Sovereign Debt Crisis
+            - Financial Market Integration
+            - Public Goods Experiment
+            - Retirement and Health
+            - Economic Growth
+            - Monetary Policy and Inflation
+            - Financial Crises
+            - Bank Risk Management
+            - Fiscal Policy and Debt Crises
+            - Monetary Policy and Oil Price Shock
+            - Unemployment Rate Analysis
+            - Macroeconomic Uncertainty Shock
+            - Financial Development and Economic Growth
+            - Foreign Direct Investment and Economic Growth
+            - Team Contest Analysis
+            - Export Decision-Making
+            - Euro Area Economics
+            - Exchange Rate Asymmetry and Policy Uncertainty
+            - Unconventional Monetary Policy Spillovers
+            - Government Effect on Economic Growth
+            - Dynamic Stochastic Optimization Problem
+            - Financial Inclusion
+            - Behavioral Economics and Energy Conservation
+            - Systemic Financial Risk Analysis
+            - European Financial Crisis
+            - Private Firm Competition Policy
+            - Exchange Rate Analysis
+            - Price Discrimination in Digital Markets
+            - Crude Oil Price Forecasting
+            - Evolutionary Game Theory
+            - Inflation Uncertainty Relationship
+            - Financial Market Analysis
+            - Game Theory Strategy
+            - Life Satisfaction and Age
+            - Food Choice Decision-Making
+            - Economic Policy and Inequality
+            - Efficiency Analysis in Economics
+            - Housing Market Economics
+            - Multinational Firm Taxation
+            - Credit Risk Management
+            - Economic Development and Human Capital
+            - Antitrust Policy
+            - Foreign Exchange Intervention
+            - Real Exchange Rate Misalignments
+            - Bank Capital Regulation
+            - Monetary Policy
+            - Cartel Behavior and Pricing Strategies
+            - Risk Aversion in Economics
+            - Banking Regulation and Monetary Policy
+            - Trade and Economic Policy Effect
+            - Monetary Policy and Liquidity
+            - Housing Market Analysis
+            - Labor Market Search
+            - Long Term Care Policy
+            - Export Firm Productivity
+            - Mechanism Implementation
+            - Real Estate and Stock Market Integration
+            - Agent-Based Financial Modeling
+            - Mobile Market Analysis
+            - Air Pollution Economics
+            - Dishonest Behavior Experiment
+            - Cooperative Game Theory
+            - Cryptocurrency Policy
+            - Intergenerational Transmission of Human Capital
+            - Environmental Regulation and Firm Effect
+            - Financial Literacy Education
+            - International Trade Policy
+            - Financial Market Development and Economic Growth
+            - Economic Forecasting Model
+            - Property Rights Theory
+            - Microfinance Institution Performance
+            - Business Cycle Synchronization
+            - Labor Market Analysis
+            - Decision-Making Experiment
+            - Fiscal Policy and Current Account Balances
+            - Price Search Platform
+            - Trade Policy
+            - Credence Goods Market
+        - Macroeconomics
+            - Infrastructure Development
+            - Patent Policy
+            - Economic Analysis of Education or Crime Policy
+            - Migration and Development
+            - Trade War Impact
+            - Value-Added Tax (VAT) Economics
+            - Health Insurance Market Analysis
+            - Migrant Child Education
+            - Labour Market Policy
+            - Financial Literacy Education
+            - Behavioral Economics
+            - Russian Economy Development
+            - Risk Preference
+            - Income Inequality Measurement
+            - Paid Family Leave Policy
+            - School Choice Mechanism
+            - Optimal Income Taxation
+            - Gender and Economics
+            - Public Debt Policy
+            - Investment and Economic Development
+            - Tax Compliance and Evasion
+            - Economic Impact of Internet
+            - Monetary Policy
+            - Brexit Economic Impact
+            - Economic Development
+            - Air Pollution Effect on Productivity
+            - Industrial Revolution Economic Growth
+            - Vietnamese Economic Development
+            - Health and Longevity Trends
+            - Economic Relations between China and Africa
+            - Platform Competition Economics
+            - Charter School Effectiveness
+            - Political Economy
+            - Financial Sustainability in Microfinance
+            - Mechanism Design in Economics
+            - Football Club Performance
+            - Global Value Chain Participation
+            - Financial Regulation
+            - Agricultural Index Insurance
+            - Productivity Misallocation
+            - Cash Transfer Program Evaluation
+            - Economic Freedom Policy
+            - Marxian Labor Theory
+            - Labor Market Regulations
+            - Aid Allocation
+            - Labor Market Unemployment Theory
+            - Business History
+            - Education Economics
+            - Foreign Direct Investment (FDI) Policy Effectiveness
+            - Fiscal Decentralization
+            - Housing Market Analysis
+            - Marxist Theory of Value
+            - Value of Statistical Life Estimate
+            - Uncertainty Measures in Economics
+            - Long-Run Economic Demand Analysis
+            - International Trade Policy
+            - Financial Portfolio Management
+            - News Shocks in Economy Forecasting
+            - Healthcare Economics
+            - Radical Institutional Economics
+            - Covid-19 Economic Impact
+            - Higher Education Economics
+            - Economic Inequality
+            - Economic Growth and Development
+            - Economic Growth and Income
+            - Minimum Wage Effect on Employment
+            - Economic Policy
+            - Trade and Economic Growth
+            - Intergenerational Mobility
+            - Healthcare Policy
+            - Colonial African Economics
+            - Marxist Development Theory
+            - Foreign Direct Investment and Income Inequality
+            - Property Exchange Theory
+            - Institutional Economics
+            - Taxation and Labor Supply Incentives
+            - Russian Economic Development
+            - Income Inequality
+            - Eastern European Economic Transition
+            - Financial Liberalization
+        - Catalysis/Industrial processes
+            - Chemical Looping Combustion
+            - CO2 Hydrogenation Catalysts
+            - Solid Oxide Fuel Cell
+            - Catalytic Cracking
+            - Proton Exchange Membrane Electrolyzer
+            - Catalytic Synthesis of Dimethyl Carbonate
+            - Selective Catalytic Reduction Catalyst
+            - Oxidative Coupling of Methane Catalysts
+            - Solid Oxide Fuel Cell Technology
+            - Catalytic Reaction Engineering
+            - Catalyst Performance for Dehydrogenation Process
+            - Metal Recovery from Spent Lithium Ion Batteries
+            - Methane Oxidation Catalysts
+            - Direct Methanol Fuel Cell
+            - Catalytic Oxidation
+            - Catalytic Reaction
+            - Molten Carbonate Fuel Cell Technology
+            - Soot Formation in Flames
+            - Activated Carbon Material Synthesis
+            - Hydrogen Energy Production
+            - Biodiesel Production Catalyst
+            - Hydrogen Production Catalysts
+            - Microbial Fuel Cell Catalyst
+            - Methane Decomposition for Hydrogen Production
+            - Catalyst Design for Chemical Reactions
+            - Biohydrogen Production
+            - SuperCritical Water Gasification
+            - Furfural Hydrogenation Catalyst
+            - Ammonia Synthesis Catalyst
+        - Stock market/Financial markets
+            - Corporate Cash Holdings
+            - Real Estate Market Volatility
+            - Stock Price Crash Risk
+            - Market Liquidity
+            - Financial Market Forecasting
+            - Real Estate Investment
+            - Stock Market Sentiment Analysis
+            - Real Estate Investment Trust (REIT) Risk Management
+            - Financial Covenant Analysis
+            - Financial Systemic Risk
+            - Investor Choice and Corporate Governance
+            - Cross-Border Real Estate Transactions
+            - Working Capital Management
+        - Fiscal policy/Public finance
+        - Car culture/Commuting
+        - Economic country classifications/International development
+        - Energy policy
+    - sport, leisure & tourism
+        - Types of tourism/Tourism
+            - Hotel Industry Covid-19 Response
+            - Wellness Tourism
+            - Leisure and Stress Reduction
+            - Tourism Safety Perception
+            - Customer Experience Management
+            - Tourism Destination Analysis
+            - National Park Visitor Perception
+            - Tourist Destination Experience
+            - Hotel Customer Satisfaction
+            - Agritourism Development
+            - Servant Leadership in Service Industry
+            - Tourism Development in Iran
+            - Tourist Destination Evaluation
+            - Park Management
+            - Sustainable Tourism Development
+            - Chinese Tourism Motivation
+            - Recreation Specialization
+            - Hotel Servicescape Design and Experience
+            - Cruise Tourism Management
+            - Food Tourism
+            - Cultural Tourism Experience
+            - Peer-to-Peer Accommodation Economy
+            - Tourism Industry Research
+            - Restaurant Customer Experience
+            - Film Tourism
+            - Tourism Destination Competitiveness
+            - Hotel Guest Satisfaction
+            - Wine Tourism
+            - Adventure Tourism Experience
+            - Leisure and Community Development
+            - Family Leisure Activity
+            - Dark Tourism
+            - Autonomous Vehicle Adoption
+            - Tourism Development
+            - Destination Image Analysis
+            - Leisure Activity Participation
+            - Leisure Participation Constraints
+            - Sustainable Tourism and Animal-Human Interactions
+            - Leisure Activities for Adolescents
+            - Tour Guide Service Quality
+            - Hotel Management and Customer Response
+            - Authenticity in Tourism
+            - Sport Tourism Event Management
+            - Religious Tourism
+            - Pro-Environmental Behavior in Tourism
+            - Green Hotel Sustainability
+            - Hotel Employee Job Satisfaction
+            - Ski Tourism
+            - Customer-Brand Relationship in Luxury Hospitality
+            - Leisure Study
+            - Hotel Technology and Customer Experience
+            - Tourism Education
+            - Hospitality CSR Sustainability
+            - Tourism and Economic Development
+            - Recreation Management
+            - Hotel Revenue Management
+            - Hospitality Education
+            - Destination Tourism Experience
+            - Leisure Experience Quality
+            - Hotel Loyalty Program
+            - Tourism Destination Development
+        - Social gatherings/Tourism
+            - Football Player Migration
+            - Sport Mega Event Legacy
+            - Athlete Satisfaction in Sport Events
+            - Sport Development for Peace
+            - LGBT+ in Sports
+            - Athlete Career Management
+            - Body Culture in Sport
+            - Women's Football
+            - Sociology of Sports
+            - Social Media and Athletes
+            - Sport Event Satisfaction
+            - Women in Sport Journalism
+            - Social Justice in Sport Organizations
+            - Disability Sport Participation
+            - Sport Club Social Structure
+            - Event Spectator Motivation
+            - Sport Development Program
+            - Football Fan Culture
+            - Female Athlete Representation in Sport Media
+            - Sport Fan Motivation
+            - Racial Representation in Sports Journalism
+            - Sport Marketing
+            - Foucauldian Sport Sociology
+            - Gender Equality in Sports
+            - Sport Management Education
+            - Women in Action Sports
+    - marketing
+        - Merchandising/Retailing
+            - Online Consumer Behavior
+            - Customer Loyalty and Service Quality
+            - Customer Engagement in Service Context
+            - Retail Supply Chain Management
+            - Customer Satisfaction and Loyalty
+            - Online Food Delivery Service
+            - Luxury Fashion Consumer Behavior
+            - Consumer Behavior and Decision-Making
+            - Customer Relationship Trust
+            - Fashion Consumer Behavior
+            - Return Policy and Consumer Behavior
+            - Omnichannel Retailing Strategy
+            - Consumer Food Shopping Behavior
+            - Retail Shopping Experience
+            - Social Media Marketing
+            - Service Recovery Process
+            - Consumer Behavior in Online Shopping
+            - Shopping Mall Experience
+            - Digital Retail Experience
+            - Luxury Brand Marketing on Social Media
+            - Millennial Consumer Behavior
+            - Customer Satisfaction and Behavior Analysis
+            - Sustainable Consumer Behavior
+            - Mobile Payment Adoption
+            - Corporate Social Responsibility Marketing
+            - Consumer Behavior Online
+            - Customer Trust in E-Commerce
+            - Consumer Online Purchase Intention
+            - Fashion E-commerce Marketing
+            - Brand Management
+            - Customer Experience and Loyalty
+            - Customer Experience Marketing
+        - Brand management/Branding terminology
+            - Food Labeling and Consumer Behavior
+            - Loyalty Program Effectiveness
+            - Consumer Behavior and Psychology
+            - Collaborative Consumption
+            - Attachment and Consumer Behavior
+            - Social Marketing
+            - Alcohol Hangover Research
+            - Digital Advertising Effectiveness
+            - Employee Branding
+            - Food Consumption Practice
+            - Consumer Choice Analysis
+            - Marketing Theory
+            - Consumer Behavior
+            - Consumer Behavior and Identity
+            - Chinese Luxury Consumer Behavior
+            - Advertising Effectiveness
+            - Consumer Brand Hate
+            - Online Review Analysis
+            - Customer Experience Management
+            - Scarcity Effect on Consumer Choice
+            - Visual Advertising Metaphor
+            - Consumer Price Perception
+            - Brand Customer Relationship
+            - Compulsive Buying Behavior
+            - Luxury Brand Management
+            - Crisis Communication in Marketing
+            - Brand Management
+            - Gendered Consumer Research
+            - Service Marketing
+            - Place Branding
+            - Consumer Behavior and Sustainability
+            - Customer Engagement
+            - Consumer Ethnocentrism
+            - Brand Authenticity Perception
+            - Word-of-Mouth Marketing
+            - Consumer Behavior and Advertising
+            - Customer Service Risk Management
+        - Social networks/Social information processing
+            - In-Game Purchase Behavior
+            - User Behavior Analysis
+            - Online Consumer Trust
+            - Blockchain Adoption
+            - Online Review Effectiveness
+            - Information Security Compliance Behavior
+            - Hotel Customer Service Quality Assessment
+            - Cross-Border E-Commerce Behavior
+            - Service Quality Management
+            - Enterprise Social Media Usage
+            - IoT Privacy Service
+            - Social Media Analytics
+            - Electronic Word-of-Mouth Analysis
+            - Mobile Banking Adoption
+            - Social Media Effect on Consumer Use
+            - Online Customer Intention and Social Media
+            - Electronic Word-of-Mouth (Ewom)
+            - Social Media Advertising
+            - Firm Performance and Information Technology
+            - Online Health Community Analysis
+            - Online Consumer Behavior
+            - Digital Platform Ecosystem
+            - Consumer Online Feedback Analysis
+            - Social Commerce
+            - User Information Privacy Concerns
+            - Knowledge Sharing in Online Communities
+            - Government Service Adoption
+            - Small and Medium-Sized Enterprises (SMEs) Marketing Adoption Factors
+            - Smart Tourism Experience
+            - Customer Adoption and Satisfaction
+            - Business Intelligence Analytics
+        - Services marketing/Retailing
+            - Customer Reference Marketing
+            - Social Business Marketing
+            - Coopetition in Business
+            - Entrepreneurship Research
+            - Emotional Labor in Customer Service
+            - Sales-Marketing Integration
+            - Marketing Innovation
+            - Firm-Market Relationship
+            - Strategic Information Sharing in Business Relationships
+            - Service Design Value Creation
+            - Service Quality Management
+            - Value Network Effect
+            - Business-to-Business Servitization
+            - Relationship Marketing
+            - Customer Relationship Management
+            - Salesperson Performance and Motivation
+            - Salesperson Behavior
+        - Promotion and marketing communications/Online advertising
+        - Halal food/Food law
+            - Islamic Banking Adoption
+        - Organizational behavior/Industrial and organizational psychology
+    - agricultural economics & policy
+        - Agronomy/Land management
+            - Consumer Preferences in Food Production
+            - Covid-19 Impact on Food Supply Chain
+            - Crop Insurance
+            - Alcohol Consumption Patterns
+            - Nutrition-Sensitive Agriculture Intervention
+            - Agricultural Production Efficiency
+            - Women's Empowerment in Agriculture
+            - Food Security in Rural Households
+            - Water Policy and Regulation
+            - Agricultural Productivity and Policy
+            - Commodity Market Volatility
+            - Sustainability Certification Impact on Food Security
+            - Wine Tasting Evaluation
+            - Genetically Modified Food Labeling
+            - Agricultural Policy and Food Security
+            - Food Security and Covid-19 Resilience
+            - Smallholder Farm Household Food Security
+            - Agricultural Food Security Policy
+            - Crop Yield and Production Economics
+            - Agricultural Productivity and Farm Size
+            - Flood Risk Management Insurance
+            - Dairy Supply Chain Management
+            - Consumer Food Choice and Preferences
+            - Egg Production and Food Markets
+            - Food Labeling Consumer Preference
+            - Adoption of Climate-Smart Agricultural Practices
+            - Water Policy and Management
+            - Agricultural Technology Adoption
+            - Agricultural Cooperative Membership Effectiveness
+            - Food Waste Management
+    - accounting
+        - Auditing/Types of auditing
+            - XBRLL Financial Reporting Quality
+            - Internal Control Management
+            - Real Earnings Management
+            - Cost Stickiness
+            - Corporate Social Responsibility Disclosure
+            - Audit Firm Rotation
+            - Management Accounting
+            - IFRS Compliance Disclosure
+            - Financial Reporting Standard Adoption
+            - Audit Firm Quality
+            - Financial Reporting and Audit Disclosure
+            - Whistleblowing Reporting
+            - IFRS Adoption and Financial Accounting
+            - Risk Disclosure in Corporate Governance
+            - Auditor Judgment in Financial Services
+            - Financial Reporting and Disclosure
+            - Audit Reporting Standards
+            - Corporate Tax Avoidance
+            - Auditing Standards
+            - Audit Committee Effectiveness
+            - Internal Audit Management
+            - Financial Reporting Quality
+            - Performance Evaluation Feedback
+            - Corporate Governance and Earnings Management
+            - Artificial Intelligence in Auditing
+        - Social concepts/Accountability
+            - Biodiversity Accounting
+            - Accounting Research
+            - Sustainability Reporting
+            - Accounting Education Reform
+            - Gender in Accounting
+            - Accounting History
+            - Sustainability Reporting Assurance
+            - Accounting and Accountability
+            - Corporate Sustainability Report
+            - Government Accounting Process
+    - finance
+        - Corporate finance/Corporate governance
+            - International Financial Markets
+            - Volatility Forecasting Model
+            - Bank Lending Risk Analysis
+            - Corporate Bond Market Analysis
+            - Exchange Rate Risk Premium
+            - Mutual Fund Performance Analysis
+            - Financial Market Analysis
+            - Islamic Bank Profitability
+            - Financial Market Trading
+            - Stock Market Analysis
+            - VIX Futures and Options
+            - Stock Market Portfolio Selection
+            - Financial Inclusion Policy
+            - Bayesian Vector Autoregression
+            - Crude Oil Market Risk Analysis
+            - Bank Risk Management
+            - Mutual Fund Performance
+            - Bank Risk Regulation
+            - Financial Development in Africa
+            - Portfolio Risk Management
+            - Crude Oil Price Forecasting
+            - Systemic Risk in Banking
+            - Banking Risk Management
+            - Market Liquidity Anomaly
+            - Covid-19 and Finance
+            - Oil Price Volatility
+            - Credit Rating Agency
+            - Commodity Market Analysis
+            - Herd Behavior in Finance
+            - Artisanal and Small-Scale Mining
+            - Financial Distress Prediction Model
+            - Financial Market Sentiment Analysis
+            - Financial Market Sentiment
+            - Bank Financial Risk Management
+            - Islamic Finance Market Risk Analysis
+            - Mergers and Acquisitions
+            - Oil Price Shock Analysis
+            - Stock Market Volatility Spillovers
+            - Investor Trading Behavior
+            - Islamic Banking Governance
+            - Currency Exchange Rate Risk
+            - Cryptocurrency Regulation
+            - Corporate Governance and Ownership Structure
+            - Economic Growth and Investment in Developing Countries
+            - VIX Option Pricing
+            - Corporate Governance
+            - Oil Price Analysis
+            - Financial Network Risk Assessment
+            - Factor Model Estimation
+            - Sustainable Mining Development
+            - Activist Investor Influence
+            - Asset Allocation Performance
+            - Credit Market Liquidity
+            - Volatility Modeling and Option Valuation
+            - Fama-French Factor Model
+            - Intraday Market Trading
+            - Asset Pricing Model
+            - Financial Market Risk
+            - Corporate Governance and Risk
+            - Bank Capital Risk Regulation
+            - Financial Development Impact
+            - Foreign Aid and Economic Growth
+            - Economic Forecasting
+            - Market Sentiment Analysis
+            - Market Efficiency Analysis
+            - Treatment Effect Analysis
+            - Islamic Banking and Risk Management
+            - Capital Structure
+            - Takeover Bid Effect
+            - Volatility Forecasting
+        - Auditing/Accounting terminology
+    - development studies
+        - Rural culture/Welfare economics
+            - Agricultural Development in Africa
+            - Agricultural Development Policy
+            - Food Security and Agricultural Politics
+            - Rural Development and Agriculture Aspirations
+            - Agricultural Value Chain Development
+            - Land Grabbing in Ethiopia
+            - Conflict-Affected Household Food Security
+            - Agricultural Development in Rural Areas
+            - Palm Oil Sustainability
+            - Rural Development Program
+    - industrial relations
+        - Business cycle
+    - econometrics 
+        - Machine learning/Simulation
+    - economic theory
+- education
+    - education
+        - E-learning/Education and training occupations
+            - Student Self-Efficacy in Learning
+            - Culturally Responsive School Leadership
+            - Autism Spectrum Disorder Education
+            - Higher Education Participation
+            - Higher Education Policy
+            - International Higher Education Policy
+            - Cooperative Learning
+            - Postdoctoral Academic Development
+            - Higher Education Internationalization
+            - Classroom Discourse Analysis
+            - Threshold Concepts in Education
+            - Posthuman Education Inquiry
+            - Disability Education Training
+            - Higher Education Research
+            - Private Supplementary Tutoring
+            - International Student Experience
+            - Vocational Rehabilitation for People with Disabilities
+            - Service Learning in Education
+            - Text Comprehension
+            - Feminist Education Leadership
+            - Assessment in Higher Education
+            - Higher Education Quality
+            - University Dropout Prevention
+            - Counseling Assessment Process
+            - Assistive Technology for Children with Disability
+            - Emotional Learning in Education
+            - Student Behavioral Disorder Intervention
+            - Inclusive Education
+            - Intelligent Tutoring System
+            - Education Policy Reform
+            - Refugee Education in School Setting
+            - Writing Quality Assessment
+            - Teacher Professionalism
+            - Education Policy
+            - Special Education
+            - Bullying in Schools
+            - Language Education
+            - Collaborative Writing
+            - School Climate and Student Wellbeing
+            - Higher Education Employability
+            - Teacher-Student Education
+            - Higher Education Student Engagement
+            - Primary Physical Education
+            - Writing Strategies
+            - LGBTQ Education in Schools
+            - Teacher Professional Development
+            - Student Homework Behavior
+            - Multimedia Learning Effectiveness
+            - Special Education Program
+            - Early Childhood Spelling
+            - Student Voice in Education
+            - Teacher Education and Inclusive Practice
+            - Children's Digital Reading Experiences
+            - Learning Disability Accommodation
+            - African American Education Equity
+            - Student Engagement and Academic Motivation in Latino Students
+            - Early Mathematics Intervention
+            - Morphological Awareness in Chinese Reading Skills
+            - Immigrant Student Education
+            - Fundamental British Values Education
+            - Vocational Teacher Education
+            - Education and Language in the Classroom
+            - Indigenous Education in Australia
+            - Mathematics Education
+            - Juvenile Education and Disability Program
+            - Education Research
+            - Cluster Randomized Trial Design
+            - Self-Assessment in Education
+            - Test Anxiety in Education
+            - Academic Research Policy
+            - Classroom Environment Research
+            - Student Achievement and Expectations
+            - Early Childhood Education Special Service Programs
+            - Reading Fluency Instruction
+            - College Admission and Enrollment Strategies
+            - Quality Assurance in Higher Education
+            - Education History
+            - Rough Set Theory
+            - Science Education
+            - Children's Scientific Reasoning Development
+            - Higher Education Institution Management
+            - Learning Theory and Education Practice
+            - Inclusive Education for Students with Disabilities
+            - Self-Concept in Education
+            - Teacher Education
+            - Program Evaluation in Education
+            - Autism Spectrum Disorder Intervention
+            - School Psychology Practice
+            - Multicultural Education Practice
+            - Special Education Assessment
+            - Early Childhood Special Education
+            - Note-taking Strategies
+            - Narrative Inquiry in Education
+            - Latina/Latino Student Education Experience
+            - Writing Instruction for Students with Learning Disability
+            - International Higher Education
+            - Vocabulary Instruction
+            - School Burnout in Secondary Education
+            - Bilingual Education
+            - Reading Disability Intervention
+            - Student Learning Achievement
+            - Mixed Methods Research in Education
+            - Learning Disability Assessment
+            - Assessment Literacy in Education
+            - Peer Feedback in Writing Instruction
+            - Student Motivation in Learning
+            - Student Motivation and Self Concept
+            - Education Policy and Practice
+            - Teacher Reflection in Education
+            - Kindergarten Readiness Assessment
+            - Teacher Mentorship Program
+            - Education Methodology
+            - Personal Tutoring in Education
+            - Social Emotional Learning
+            - Higher Education Development in Russia
+            - International Student Education
+            - Higher Degree Apprenticeship Development
+            - Teacher Education Program
+            - Higher Education Ranking
+            - Writing and Reading in School
+            - Learning from Failure in Students
+            - Teacher Expectations in Education
+            - Adult Education Learning Theory
+            - Teacher Education Policy
+            - Teaching Excellence in Higher Education
+            - Student Transition Planning
+            - Teacher Self-Efficacy
+            - Spontaneous Focus on Numerosity
+            - Graphic Novel Education
+            - Attention Deficit Hyperactivity Disorder (ADHD) Intervention for Children
+            - Digital Education
+            - Student Wellbeing
+            - Higher Education Design
+            - Student Evaluation of Teaching
+            - Catholic School Education
+            - Higher Education Leadership
+            - Academic Plagiarism in Education
+            - Rural Education Policy
+            - University Community Engagement
+            - Reading Motivation in Children
+            - Distance Education
+            - Self-Concept Development in Reading Instruction
+            - Collaborative Learning
+            - Child Assessment and Developmental Psychology
+            - Generic Skills Development in Education
+            - Student Engagement and Motivation in Education
+            - Reading Comprehension in Education
+            - Student Peer Assessment Experience
+            - Intercultural Competence in Education
+            - International Student Experience in Education
+            - Vocabulary Intervention
+            - Academic Work Experience
+            - Assessment and Testing in Education
+            - Academic Presentation Skills
+        - Educational technology/Learning
+            - Digital Storytelling in Education
+            - Online Learning and Education Strategies
+            - Digital Game-Based Learning Design
+            - Gamification in Education
+            - Mobile Learning
+            - Augmented Reality Education
+            - Student Problem Solving Skills
+            - Hybrid Learning
+            - Massive Open Online Course (MOOC)
+            - Education Policy
+            - Formação Docente
+            - Covid-19 Education
+            - Internet Parenting Styles
+            - Knowledge Building in Collaborative Learning Environments
+            - Formative Assessment Feedback
+            - Learning Design
+            - Digital Teacher Competence
+            - Learning Technology Education
+            - Digital Education
+            - Social Presence in Online Learning
+            - Virtual Laboratory Learning
+            - Programming Education
+            - Children's Digital Technology Learning
+            - Serious Games in Education
+            - Blended Learning Design
+            - Online Learning Support
+            - Social Media in Education
+            - Student Online Learning Experience
+            - Educational Technology
+            - Open Educational Resources
+            - Digital Learning in Education
+            - Flipped Classroom Education
+            - Pedagogical Agent for Learning
+            - Open Education Learning Experience Assessment
+            - Collaborative Learning
+            - Critical Thinking in Education
+            - Robot-Assisted Language Learning
+            - Intelligent Learning Environment
+            - Technology Acceptance Model
+            - Blended Learning
+            - Technology Enhanced Learning
+            - Digital Education Readiness
+            - Smart Learning Environment Design
+            - Project-Based Learning
+            - Computational Thinking Education
+        - Science education/Philosophy of education
+            - Biotechnology Education
+            - Chemistry Education
+            - Science Education Program
+            - Student Argumentation in Science Education
+            - Polymer Education
+            - Pedagogical Content Knowledge in Education
+            - Engineering Education Competency Development
+            - Socioscientific Issues in Science Education
+            - STEM Education
+            - Student Computational Learning
+            - Nature-Based Education in Schools
+            - Family Learning in Museums
+            - Geospatial Education
+            - Science Education
+            - Environmental Education
+            - Green Chemistry Education
+            - Evolution Education
+            - Engineering Education
+            - Cognitive Structure Development
+            - Flipped Classroom Learning
+            - Plant Education
+            - Physiology Education
+            - Science Language Instruction for Multilingual Classrooms
+            - Teacher Self-Efficacy in Science Teaching
+            - Stem Education
+            - Machine Learning in Education
+            - Faculty Development in STEM Education
+            - Education in Biology
+            - Teaching Strategies for Students and Graduate Assistants
+            - 3D Molecular Modeling in Education
+            - Equity in Science Education
+            - Teacher-Student Relationship
+            - Scientific Reasoning in Education
+            - Education Technology
+            - Climate Change Education
+            - Biology Education
+            - Physics Education
+            - Student Development in Education
+            - Chemical Engineering Education
+        - Gifted education/Educational psychology
+            - Gifted Education
+            - Gifted Student Education
+            - Gifted Student Identification
+            - Gifted Education Policy
+            - Talent Identification
+        - Education and training occupations/Career advice services
+            - Philosophy of Education
+            - OECD Education Policy
+            - Digital Education Technology
+            - Lifelong Learning Policy
+        - Educational stages/Undergraduate education
+            - Student Veteran Transition to Higher Education
+            - Higher Education Management
+            - Student Academic Achievement Factors
+            - Campus Recreation and Student Wellbeing
+            - Student Success in Higher Education
+            - Experiential Education
+            - College Student Education
+            - College Student Retention Program
+            - Latino Student Experience in Higher Education
+            - Adult Education Program Development
+            - Racial Disparities in Education
+            - Undocumented Student Higher Education Support
+            - Outdoor Education Program Evaluation
+            - Transfer Student Success
+            - Trans Student Experience
+            - Academic Advising
+            - Doctoral Student Education
+            - Faculty Experience in Higher Education
+            - Public Higher Education Institution Management
+            - Diversity in Higher Education
+            - College Student Retention
+            - Faculty Productivity Evaluation
+        - Special education/Learning disabilities
+        - Mathematics education/Educational psychology
+            - Mathematical Learning
+            - Early Childhood Mathematics Education
+            - Linear Algebra Education
+            - Mathematics Education
+            - Mathematics Education Teacher Belief
+            - Mathematical Modelling in Education
+            - La Enseñanza Matemática
+            - Mathematics Education Teacher Professional Development
+        - Educational stages/School types
+- political science
+    - political science & public administration
+        - Conflict (process)/Crimes against women
+            - Sexual Violence in Conflict Zones
+            - Critical Security Studies
+            - Uneven Development Theory
+            - Globalization and International Relations
+            - International Relations Theory and Practice
+            - Peace and Conflict Studies
+            - Russia-Eurasia Economic Relations
+            - Economic Interdependence and Conflict Resolution
+            - Conflict Dynamics
+            - Human Security in International Relations
+            - EU-Latin America Relations
+            - International Relations
+            - Islamic State Studies
+            - International Conflict and Security
+            - Conflict-Related Sexual Violence
+            - Simulation-Based Learning
+            - Peacekeeping Operation
+            - Brazilian Foreign Policy in South America
+            - Peace Studies
+            - Foreign Aid Governance
+            - International Relations Theory
+            - Political Conflict Resolution
+            - Islamic State Propaganda
+            - State Recognition in International Conflict
+            - International Security Policy
+            - Financial Market Analysis
+            - International Relations Policy Participation
+            - Turkish Politics and Security Issues
+            - International Financial Institutions Policy
+            - Soviet National History
+            - Diaspora Politics
+            - Nigeria's Africa Diplomacy
+            - International Conflict Resolution
+            - Cyber Deterrence Policy
+            - Prevent Strategy and Counter-terrorism Policy
+            - Military Expenditure and Economic Growth
+            - European Intelligence Operations
+            - Autonomous Weapons Control
+            - Central Asian Politics
+            - Nordic Foreign Policy
+            - Ontological Security in International Relations
+            - Terrorism in Nigeria
+            - Economic Sanctions Policy
+            - Warfare Ethics
+            - Conflict and Militia Relations
+            - Private Military Security
+        - Continents/Europe
+            - Bosnia-Herzegovina Political Development
+            - EU Climate Policy
+            - European Union Regulatory Enforcement
+            - Turkish Politics
+            - Political Autocratization
+            - Russian-EU Relations
+            - Philippine Politics
+            - Russian Politics
+            - European Union Law Compliance
+            - Ethnic Identity Politics
+            - Italian Politics
+            - Social Welfare Policy
+            - European Fiscal Governance Reform
+            - Social Democratic Labor Market Policy
+            - EU Trade Policy
+            - Participatory Democracy
+            - European Politics and Democracy
+            - EU Interest Group Access
+            - Northern Ireland Politics
+            - Malaysian Politics
+            - Chilean Politics and Democracy
+            - European Union Politics
+            - Political Party Organization
+            - Electoral Authoritarianism
+            - European Politics
+            - Arab Democracy Support
+            - EU-Arab Relations in Context of Democratic Transition
+            - Idea Reform in Politics
+            - Ukrainian-Russian Identity and Politics
+            - Memory Politics in Eastern Europe
+            - Party Politics
+            - What is your answer to this example input
+            - Civil Society and Social Capital in Democracy
+            - German Politics
+            - Latin American Democracy
+            - Violence in Latin America
+            - Dependency Theory in Latin America
+            - Central European Politics
+            - Financial Regulation Policy
+            - European Union Policy
+            - European Integration Policy
+            - Fascism in Italy's Memory Politics
+        - Sociological terminology/Anthropology
+            - Income Inequality Perception
+            - Urban Community Relationships
+            - Cultural Sociology
+            - Environmental Sociology
+            - Metatheory in Sociology
+            - Science-Policy Interface
+            - Qualitative Data Analysis
+            - Precarious Employment and Young Adults
+            - Social Class and Space Analysis
+            - Social Interaction Theory
+            - Sociological Analysis
+            - Class and Gender Analysis in Sociology
+            - Social Mobility
+            - Childhood Development and Negotiation
+            - Religion and Politics
+            - Cultural Capital and Social Class
+            - Social Theory Critique
+            - National Identity
+            - Women's Professional Labor Issues
+            - Citizenship Theory
+            - Sociology of Public Life
+            - Technology Ethics
+            - Strong Program Cultural Sociology
+            - Social Class Identity
+            - Justification of Subject Positions
+            - Vocational Education and Labour Market
+            - Gender and Domestic Life Changes
+            - Risk Society Theory
+            - Social Identity Narrative
+            - Social Movement Organization
+            - Food Consumption and Social Practice
+            - Social Disorder Perception
+            - Australian Identity Politics
+            - Body and Care Studies in Science Practice
+            - Body Sociology
+            - Labour Process Sociology
+            - Sociology of Power
+            - Art Theory and Cultural Production
+            - Employment Equality Policy
+            - Youth Transition
+            - British Chinese Identity
+            - Critical Theory in Political Economy
+            - Care and Family Studies
+            - Gender Theory
+            - Income Inequality and Child Development
+            - Feminist Sociology
+            - Food Culture Representation
+        - Governance/Political science terminology
+            - Public Administration Governance
+            - Public Sector Performance Management
+            - Representative Bureaucracy
+            - Public Administration Policy
+            - Local Government Reform
+            - Public Administration Education
+            - Public Sector Accounting Standard
+            - Public Sector Reform
+            - Policy Implementation
+            - Open Government Data
+            - Czech Public Administration Reform
+            - Public Service Motivation
+            - Civil Service Reform
+            - Politician's Influence in Public Administration
+            - Collaborative Governance Policy Design
+            - Public-Private Partnerships in Infrastructure
+            - Policy Design Process
+            - Public Sector Audit
+            - Diversity in Public Sector Organization Management
+            - Public Administration Theory
+            - Strategic Public Management
+            - Public Governance
+            - Public Administration
+            - Covid-19 Government Response
+            - Nonprofit Organization Governance
+            - Public Participation in Local Governance
+            - E-Government
+            - Policy Advocacy Coalition Change
+            - Public Service Governance
+        - Politics/Comparative politics
+            - Redistricting Policy
+            - Party Politics and Elections
+            - Terrorism Policy
+            - Political Participation and Representation
+            - Economic Voting Behavior
+            - Qualitative Political Science Research
+            - Foreign Aid
+            - Welfare State Policy
+            - Interviewer Effect on Survey Results
+            - Income Inequality Policy
+            - Political Behavior
+            - Corporatism in Politics
+            - Supreme Court Decision
+            - Political Party Measurement
+            - Political Participation
+            - Caste and Social Politics
+            - Parliamentary Representation
+            - Populist Politics
+            - Political Party Attitudes
+            - Presidential Election Forecasting
+            - National Identity and Political System
+            - Voter Turnout in American States
+            - Political Party Dynamics
+            - Cultural Theory and Risk Analysis
+            - Corruption in Politics
+            - Political Conflict Analysis
+            - Chinese Nationalism
+            - International Trade Policy
+            - Racial Politics in Urban Elections
+            - Gender Quotas in Politics
+            - Legislative Committee Politics
+            - Institutional Business Policy
+            - Civil Conflict and State Emergencies
+            - Political Party Voter Theory
+            - Political Comparative Study
+            - Voter Behavior in Natural Disaster Elections
+            - Deliberative Democracy
+            - Political Science Research
+            - Conflict Resolution
+            - Local Government Governance
+            - Political Polarization
+            - Split-Ticket Voting
+            - Political Trust
+            - EU Policy Cooperation
+            - Government Creditworthiness
+            - Game Theory in Social Science
+            - Political Elite Decision Making
+            - Game Theory and Decision-Making
+        - Ethnic groups/Ethnicity
+            - Migration Policy
+            - Racial Inequality
+            - Refugee Research Ethics
+            - Diaspora Mobilization for Justice and Statehood
+            - Immigration Policy
+            - Refugee Policy and Asylum
+            - Religious Integration and Immigrant Experiences
+            - Women Migrant Workers
+            - Mexican Migration and Labor Incorporation
+            - Immigrant Family Dynamics
+            - Racial Identity and Racism
+            - Rohingya Crisis
+            - Syrian Refugee Policy in Turkey
+            - Refugee Integration Policy
+            - Asian American Migration
+            - Migration and Family Policy
+            - Immigrant Integration Policy
+            - Cultural Identity Migration
+            - Refugee Studies
+            - Migration Policy in Europe
+            - Family Deportation and Immigration Policies
+            - Second Generation Immigrant Studies
+            - Labor Migration Policy
+            - Korean Immigrant Entrepreneurship
+            - Migrant Women's Issues in Africa
+            - Transnational Marriage
+            - Immigrant Discrimination
+            - Immigrant Attitude
+            - Local Refugee Policy
+            - Migrant Care and Migration Issues
+            - Roma Social Issues
+            - Superdiversity
+            - Migration and Development
+            - Migrant Labor Policy
+            - Refugee Resettlement and Integration
+            - Migrant Experience in Poland
+            - Residential Mobility and Neighborhood Stratification
+        - Capitalism/Comparative politics
+            - Welfare Policy
+            - Childcare Policy
+            - Social Welfare Policy
+            - Welfare Policy and Poverty Austerity
+            - Welfare Regime Analysis
+        - Non-profit organizations/Types of organization
+            - Nonprofit Regulation and Fundraising
+            - Nonprofit Organization Behavior
+            - Social Enterprise Organization
+            - Charitable Giving
+            - Nonprofit Organization Management
+            - Episodic Volunteering
+    - international relations
+- law
+    - criminology
+        - Crime by type/Criminology
+            - Illicit Drug Trafficking
+            - Correctional Officer Stress and Relations
+            - Self Control and Crime
+            - Substance Abuse Treatment Program
+            - Corporate Crime and Compliance
+            - Fear of Crime
+            - Green Criminology
+            - Juvenile Justice Treatment Effectiveness
+            - Human Trafficking
+            - Body-Worn Cameras in Police Research
+            - Criminal Justice Policy
+            - Sexual Offender Treatment
+            - Criminal Offender Career Analysis
+            - Sexual Homicide Offender Behavior
+            - Youth Justice
+            - Religiosity and Crime
+            - Crime and COVID-19
+            - Organized Crime Network Analysis
+            - Crime Analysis
+            - Prison Life of Female Inmates
+            - Domestic Violence
+            - Criminal Sentencing Policy
+            - Public Opinion on Death Penalty Policy
+            - Criminal Violence Prevention
+            - Restorative Justice Program
+            - Criminological Studies
+            - Criminal Justice Narrative
+            - Shoplifting Behavior
+            - Prison Food Experiences
+            - Offender Substance Abuse Treatment
+            - Drug Court Program
+            - Police Studies
+            - Juvenile Justice Transfer
+            - Hate Crime Prevention
+            - Female Juvenile Justice
+            - Drug-Related Crime
+            - Juvenile Justice Reform
+        - Sustainability/Environmental social science concepts
+            - Consumer Product Repairability and Design
+            - Sustainable Supply Chain Management
+            - Green Consumer Behavior
+            - Supply Chain Sustainability
+            - Food Waste Management
+            - Concrete with Copper Slag
+            - Sustainability Education
+            - Sustainable Concrete Material Recycling
+            - Waste Management
+            - Eco-Industrial Symbiosis
+        - Sex crimes/Sexual abuse
+            - Rural Sexual Assault and Victim Services
+            - Intimate Partner Violence and Mental Health
+            - Intimate Partner Violence in LGBTQ Communities
+            - Adolescent Sexual Offenders
+            - Child Abuse and Domestic Violence
+            - Bystander Intervention Program
+            - Cyber Dating Abuse
+            - Intimate Partner Violence Intervention Program
+            - Sex Trafficking
+            - Child Abuse Prevention
+            - Child Sexual Abuse Prevention
+            - Corporal Punishment in Child-Raising
+            - Intimate Partner Violence Against Immigrant Women
+            - Intimate Partner Violence
+            - Bullying in Schools
+            - Child Trauma and Advocacy
+            - Domestic Violence Against Women
+            - Online Child Sexual Solicitation
+            - Childhood Victimization
+            - Sexual Offender Treatment
+            - Child Sexual Abuse
+            - Domestic Violence Exposure in Children
+            - Child Abuse and Maltreatment
+            - Child Parent Violence
+            - Female Sex Offender Behavior
+            - Intimate Partner Violence Victim Support
+        - Eyewitness/Memory
+            - False Confessions
+        - Intimate partner violence/Abuse
+    - law
+        - International relations/Globalization
+            - Maritime Dispute Resolution
+            - International Law
+            - International Criminal Justice
+            - Critical International Law
+            - EU Social and Economic Rights
+            - Investment Treaty Arbitration
+            - German Constitutional Law
+- media and communications
+    - communication & media studies
+        - Social media
+            - Digital Democracy
+            - Feminist Celebrity Culture
+            - Web Survey Methodology
+            - Emoji Use in Communication
+            - Influencer Marketing
+            - Television Production
+            - Food Culture Studies
+            - Social Media Communication
+            - Survey Response Rate
+            - Political Communication on Social Media
+            - Virtual Reality Experience
+            - Facebook User Privacy
+            - Creative Industry Development
+            - Social Media and Activism
+            - Prosumer Culture
+            - Meme Culture
+            - Digital Journalism Practice
+            - Big Data Analytics
+            - Adolescent Sexting Behavior
+            - Music Industry Analysis
+            - Older Adult Technology
+            - Social Movement Mobilization
+            - Podcast Industry
+            - Women in Australian Broadcasting
+            - Semiotics of Social Media
+            - Digital Game User Behavior
+            - Community Radio Policy
+            - Children's Television Regulation
+            - Video Game Studies
+            - Self-Tracking Technology
+            - Cultural Journalism
+            - Video Game Development
+            - Chinese Social Credit System
+            - Television Reality Series
+            - Social Media Use and Implications
+            - Cultural Policy and Music Production
+            - Digital Social Capital
+            - Big Data Ethics
+            - Book Culture Studies
+            - Big Data in Communication
+            - Social Media and Protest
+            - Gaming and Gender
+            - K-Pop and Korean Media
+            - Queer Identity Online
+            - Female Representation in Media
+            - Digital Political Participation
+            - Television and Online Consumption
+            - Cultural Value Assessment
+            - Mobile Gaming Experience
+            - Online Human Rights Governance
+            - Language and Digital Medium
+            - Digital Social Media
+            - Cultural Studies in Film
+            - Sportswomen on Social Media
+            - Black Representation in Popular Culture
+            - Cyberbullying Among Students
+            - Cultural Studies and Media
+            - Digital Media Use
+        - News/Journalism
+            - Local News Coverage
+            - Political Communication
+            - Gender Representation in Sports Media
+            - Mental Health and Social Media in Games
+            - Journalism Diversity
+            - Sexual Behavior and Media Consumption
+            - Intercultural Communication
+            - Television Viewership Behavior
+            - International News Flow
+            - Economic Journalism
+            - Fear Appeal in Communication
+            - Online Incivility
+            - Journalism Practice
+            - Fake News and Media Literacy
+            - Journalism Education
+            - Climate Change Communication
+            - Communication Theory
+            - Health Communication
+            - Sexual Communication
+            - Relational Turbulence Theory
+            - Video Game Experience
+            - Television and Child Development
+            - Cancer Information Seeking
+            - Black Representation in Media Education
+            - Social Media and Black Movement
+            - Political Communication Strategy
+            - News and Emotions During Crisis
+            - Alternative Media Communication
+            - Media and Public Opinion
+            - Language and Gender in Communication
+            - Knowledge Gap
+            - Mobile Phone Relationship Quality
+            - Student Communication with Instructors
+            - Third-Person Perception
+            - Protest Coverage in Social Media
+            - Chinese Journalism
+            - Agenda Setting in Communication
+            - European Media Studies
+            - Online News Consumption
+            - Refugee Crisis Media Coverage
+            - Media and Politics Trust Issues
+            - Hong Kong News Censorship
+            - Healthcare Communication
+            - Cultural Identity and Communication in Immigrant Communities
+            - Feminist Twitter Discourse
+        - Anglophone-centric
+            - Dialogic Communication on Social Media
+            - Internal Communication in Crisis Situation
+        - Applied linguistics/Social media
+        - Concepts in metaphysics/Causality
+- other social sciences
+    - criminology
+        - Sustainability/Environmental social science concepts
+            - Consumer Product Repairability and Design
+            - Green Consumer Behavior
+            - Eco-Industrial Symbiosis
+            - Sustainable Concrete Material Recycling
+            - Food Waste Management
+            - Sustainable Supply Chain Management
+            - Waste Management
+            - Supply Chain Sustainability
+            - Sustainability Education
+            - Concrete with Copper Slag
+        - Crime by type/Criminology
+            - Body-Worn Cameras in Police Research
+            - Criminal Justice Policy
+            - Restorative Justice Program
+            - Drug Court Program
+            - Self Control and Crime
+            - Youth Justice
+            - Juvenile Justice Transfer
+            - Illicit Drug Trafficking
+            - Green Criminology
+            - Human Trafficking
+            - Female Juvenile Justice
+            - Fear of Crime
+            - Criminal Offender Career Analysis
+            - Drug-Related Crime
+            - Prison Food Experiences
+            - Offender Substance Abuse Treatment
+            - Police Studies
+            - Juvenile Justice Treatment Effectiveness
+            - Domestic Violence
+            - Criminal Violence Prevention
+            - Sexual Offender Treatment
+            - Substance Abuse Treatment Program
+            - Criminological Studies
+            - Organized Crime Network Analysis
+            - Sexual Homicide Offender Behavior
+            - Hate Crime Prevention
+            - Corporate Crime and Compliance
+            - Crime and COVID-19
+            - Religiosity and Crime
+            - Shoplifting Behavior
+            - Criminal Justice Narrative
+            - Prison Life of Female Inmates
+            - Juvenile Justice Reform
+            - Criminal Sentencing Policy
+            - Crime Analysis
+            - Public Opinion on Death Penalty Policy
+            - Correctional Officer Stress and Relations
+        - Sex crimes/Sexual abuse
+            - Sexual Offender Treatment
+            - Child Abuse and Domestic Violence
+            - Domestic Violence Exposure in Children
+            - Intimate Partner Violence
+            - Rural Sexual Assault and Victim Services
+            - Cyber Dating Abuse
+            - Child Trauma and Advocacy
+            - Intimate Partner Violence and Mental Health
+            - Child Sexual Abuse Prevention
+            - Intimate Partner Violence Against Immigrant Women
+            - Child Parent Violence
+            - Domestic Violence Against Women
+            - Intimate Partner Violence Intervention Program
+            - Adolescent Sexual Offenders
+            - Bystander Intervention Program
+            - Female Sex Offender Behavior
+            - Child Sexual Abuse
+            - Sex Trafficking
+            - Child Abuse and Maltreatment
+            - Intimate Partner Violence Victim Support
+            - Childhood Victimization
+            - Intimate Partner Violence in LGBTQ Communities
+            - Bullying in Schools
+            - Online Child Sexual Solicitation
+            - Child Abuse Prevention
+            - Corporal Punishment in Child-Raising
+        - Eyewitness/Memory
+            - False Confessions
+        - Intimate partner violence/Abuse
+    - family studies
+        - Centuries/Decades
+        - Geography/Cultural geography
+            - Educational Migration Mobility
+            - Gender Roles and Fertility Intentions
+            - Marital Dissolution in Africa
+            - Educational Hypergamy
+            - Fertility Rate Change
+        - Family/Interpersonal relationships
+    - information & library sciences
+        - Library science/Academic publishing
+            - Scientific Journal Evaluation
+            - Academic Social Networking
+            - Data Reuse
+            - Citation Metrics
+            - Citation Analysis
+        - Political science terminology/Computers
+            - Reference Service for Graduate Occupational Therapy Students
+            - Academic Library Leadership
+            - Open Access Library Services
+            - Digital Library Development
+            - Library Professional Competencies
+            - Textbook Collection Management
+            - Information Literacy Framework
+            - Library Assessment Research Method
+            - Data Management
+            - Library Career Development
+            - Information Literacy Efficacy
+            - Academic Library Service Model
+            - Academic Library Collection Management
+            - Library Technology Service
+            - Digital Humanities Library Preservation
+            - Academic Library Planning
+            - Digital Library Use Analysis
+            - Open Access Repository
+            - Public Library Management
+            - Semantic Web in Library
+            - Library Services and Design in Higher Education
+            - Public Library Services
+            - Information Literacy
+            - Library Professional Development
+            - Library Services Support
+            - User Search and Discovery in Libraries
+    - gender studies
+        - Sex positions/Sexual acts
+            - Gender Studies
+            - Marriage and Divorce Studies
+            - Polyamorous Relationships
+            - Family and Motherhood
+            - Gender and Music Identity
+            - Ethnographic Research
+            - Gender and Religious Identity
+            - Feminist Social Movement
+            - Sociology Education
+            - Gendered Space and Social Dynamics
+            - Feminist Theory
+            - Parental Leave Policy
+            - Sexuality and Gender Relations
+            - Feminist Philosophy of Self-Respect
+            - Feminist Epistemology
+            - Masculinity Studies
+            - Sexual Socialization
+            - Disability and Feminist Theory
+            - Intersectional Theory
+            - Exotic Dance Industry
+            - Family Carework
+            - Feminist Gender Studies
+            - Gender and War Violence Against Women
+            - Feminist Queer Studies
+            - Gender and Sport Studies
+            - Sex Work
+            - Breastfeeding Experience
+            - Gender and Migration: Care Work
+            - Gender and Employment Opportunities
+            - Sexual Violence and Queer Theory
+            - Feminist Philosophy
+            - Same-Sex Marriage Debate in Taiwan
+            - Gender in the Workplace
+            - Cosmetic Surgery and Femininity
+    - social work
+    - science studies
+        - Science and technology studies/Technology in society
+            - University Ranking
+            - Citation Analysis in Science
+            - Russian Scientific Publication Analysis
+            - Citation Analysis in Science Journals
+            - Citation Analysis in Research Evaluation
+            - Information Retrieval from Scientific Publications
+            - Scientific Collaboration Evaluation
+            - Citation Analysis
+            - Research Evaluation Index
+            - Academic Publishing and Research Impact
+        - Social philosophy/Capitalism
+            - Responsible Innovation
+- sociology
+    - social sciences methods
+        - Quality management/Empirical evidence
+            - Response Style Analysis
+            - Response Time Modeling
+            - Item Response Theory
+            - Rasch Model Application
+            - Cognitive Diagnostic Modeling
+            - Statistical Test
+            - Structural Equation Modeling
+            - Multilevel Modeling and Data Analysis
+            - Reliability Estimation
+            - Differential Item Functioning Detection
+            - Latent Class Model for Education
+            - Multiple Choice Test Item Response
+            - Factor Analysis Methodology
+            - Test Score Analysis
+            - Multilevel Modeling
+            - Computerized Adaptive Testing
+            - Reliability Analysis
+            - Item Response Theory Estimation
+            - Item Response Theory Model
+        - Psychometrics/Quantitative research
+            - Factor Analysis in Social Sciences
+            - Cognitive Style Assessment
+            - Career Development for Psychology Majors
+            - Graduate Program Prediction
+            - Student Assessment Method
+            - Scale Reliability
+            - Rating Scale Methodology
+            - Multiple Regression Validation
+            - Social Desirability Effects
+            - Self-Actualization Scale Validity Study
+            - Student Writing in Psychology
+            - Personality Factor Analysis
+            - Reliability Generalization
+            - Introductory Psychology Textbook Analysis
+            - Teaching Methods in Psychology Classes
+            - Statistics Education
+            - Cognitive Development Assessment
+        - Psychometrics/Quality management
+            - Mixed Methods Research
+            - Ethical Research with Children
+            - Qualitative Research Methods
+            - Poetic Inquiry in Education
+            - Qualitative Interview Methods
+    - sociology
+        - Ethnic and religious slurs/Lists of pejorative terms for people
+- social and economic geography
+    - geography
+        - Human geography/Geography
+            - Urban Migration Studies
+            - Urban Ecology
+            - Historical Geography
+            - Belt and Road Initiative
+            - Smart City Governance
+            - Cultural Urban Economics
+            - Global Production Network Governance
+            - Border Studies
+            - Urban Public Space
+            - Environmental Politics and Policy
+            - Social Vulnerability to Hazards
+            - Global Urban Network
+            - Urban Food Governance
+            - Water Governance
+            - Housing Policy
+            - Ecological Posthumanist Theory
+            - Artisanal Gold Mining
+            - Rural Development Governance
+            - Human-Animal Interactions in Urban Environments
+            - Urban Planning and Development
+            - Indigenous Peoples' Rights to Water Governance
+            - Geography and Experience
+            - Residential Segregation Analysis
+            - Urban Gentrification
+            - Geographic Analysis
+            - Geographical Scale Analysis
+            - Urban Water Inequality
+            - Sustainable Food Systems
+            - Co-Working Space Economics
+            - Religious Geography
+            - Youth Football Club Identity Exploration
+            - Migration and Social Mobility
+            - Geographical Theory
+            - Internal Migration Model
+            - Post-Socialist Urban Heritage
+            - Childhood Geography
+            - Gay Geography
+            - Human Geography
+            - Political Urban Studies
+            - Renewable Energy Policy
+            - Environmental Mobility Geography
+            - Diaspora State Encounters
+            - Critical Geography
+            - Urban Geography
+        - Abrahamic religions/Sociology
+            - Automotive Culture
+    - cultural studies
+    - demography
+
