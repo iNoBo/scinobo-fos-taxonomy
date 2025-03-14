@@ -1,0 +1,45 @@
+fastapi==0.111.0
+python-multipart==0.0.9
+python-socketio
+elasticsearch-dsl==7.4.1
+fastapi-cache2==0.2.1
+gradio==3.16.2
+pydantic==2.7.3
+uvicorn==0.29.0
+grpcio
+python-dotenv
+adjustText
+networkx
+
+passlib==1.7.4
+passlib[bcrypt]
+PyJWT[crypto]
+
+requests==2.32.2
+aiohttp==3.9.5
+httpx
+
+
+# Database
+neo4j
+psycopg2-binary
+
+# Observability
+langfuse
+# ddtrace
+
+# data processing
+pyspark==3.5.1
+pyarrow==16.0.0
+pyyaml==6.0.1
+numpy
+pandas
+openpyxl
+xlrd
+datasets
+ipykernel
+
+
+# Visualization
+matplotlib
+seaborn
