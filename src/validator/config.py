@@ -9,8 +9,10 @@ import os
 # haystack has a poor support for langfuse. We will use the langfuse API directly.
 from langfuse import Langfuse
 from langfuse.api.resources.commons.errors.unauthorized_error import UnauthorizedError
+from dotenv import load_dotenv
 
-# TODO probably the config here can be removed and load everything from the environment variables file using the dotenv library.
+# Load environment variables from .env file
+load_dotenv("./data/my_envs.env", verbose=True) # this is not commited to the repo
 
 # Global paths
 DATA_PATH = "data" # the root workspace is "validator" because of the Dockerfile.
@@ -30,6 +32,7 @@ HAYSTACK_CONTENT_TRACING_ENABLED = os.getenv("HAYSTACK_CONTENT_TRACING_ENABLED")
 
 # general paths
 FOS_TAXONOMY_PATH = os.getenv("FOS_TAXONOMY_PATH")
+TAXONOMY_EDITS_PATH = os.getenv("TAXONOMY_EDITS_PATH")
 
 # ollama
 OLLAMA_HOST = os.getenv("OLLAMA_HOST")
