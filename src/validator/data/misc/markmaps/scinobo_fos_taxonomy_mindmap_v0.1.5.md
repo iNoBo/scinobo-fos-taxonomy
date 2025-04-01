@@ -1,0 +1,16344 @@
+---
+title: scinobo-fos-taxonomy
+markmap:
+  colorFreezeLevel: 2
+  initialExpandLevel: 1
+---
+
+## agricultural and veterinary sciences
+
+- agricultural biotechnology
+    - food science
+        - brewing/fermented drinks
+            - beer haze formation
+            - barley malt production
+            - hop dry hopping
+            - malt flavor stability
+        - dairy products/milk
+            - milk protein stability
+            - sodium reduction in cheese
+            - milk fat globule isolation
+            - cheese production
+            - dairy product consumption
+            - milk fatty acid composition
+            - casein micelle properties
+        - drug delivery devices
+            - drug delivery formulation
+            - starch-based hydrogels
+            - antioxidant packaging materials
+            - starch digestibility
+            - drug release from nanofibers
+            - protein gel properties
+            - chitosan-coated liposome delivery
+            - transdermal drug delivery
+            - food encapsulation technology
+            - food emulsions stabilization
+            - pectin properties
+            - nanostructured lipid carriers
+            - formulation development for skin health
+            - drug delivery system development
+            - pickering emulsion stabilization
+            - starch modification
+            - drug delivery system
+            - drug release in 3d printing tablets
+            - microemulsion formulation
+            - micelle-based oral delivery system
+            - skin cosmetic formulation
+            - electrospun nanofibers for drug delivery systems
+            - chitosan-based nanoparticle drug delivery
+            - dry powder inhalation technology
+            - pharmaceutical process control
+            - food emulsification
+            - starch properties
+            - twin screw granulation process
+            - lipid digestion in food systems
+            - starch properties and applications
+            - food nanotechnology
+            - protein-oil interfacial properties
+            - peptide delivery system
+            - drug delivery system design
+            - food processing and nutrition
+            - moisture transfer modeling in food dehydration
+            - chitosan properties and applications
+            - spray drying technology
+            - food processing technology
+            - osmotic dehydration
+            - nanofood packaging
+            - wheat gluten quality
+            - food drying process
+            - bread dough quality
+            - chitosan coating
+            - fruit juice rheology
+            - phenolic antioxidant content analysis
+            - drying process optimization
+            - gluten-free flour properties
+            - wheat flour properties
+            - polysaccharide extraction and antioxidant activity
+            - starch properties in wheat grains
+            - rice bran processing
+            - rice processing and properties
+            - microwave food heating simulation
+            - wheat bread technology
+            - nutritional properties of millet products
+            - starch properties in rice
+            - grain hydration modeling
+            - 3d food printing technology
+            - oleogel structure and stability
+            - honey quality analysis
+            - drying and antioxidant properties of fruits
+            - polysaccharide activity and extraction
+            - gluten-free bread technology
+            - food rheology
+            - rice quality analysis
+            - olive oil quality analysis
+            - glass transition in food materials
+            - essential oil extraction
+            - protein extrusion technology
+            - exopolysaccharide characterization
+            - starch properties and digestibility
+            - food gum property
+            - antioxidant complex development
+            - hyperspectral imaging in food science
+        - food science/food industry
+            - fruit preservation technology
+            - food microbiology growth model
+            - high pressure food processing
+            - food processing technology
+            - food safety and microbiology
+            - food safety practice
+            - fruit juice enzyme application
+            - sweet potato phytochemicals
+            - food microbiology
+            - food packaging technology
+            - food plasma treatment
+            - probiotic yogurt properties
+            - liposome technology for food encapsulation
+            - edible insects as food and feed
+            - patulin in apple and apple-based food products
+            - cocoa fermentation quality assessment
+            - wine aging and oak influence
+            - wine technology and quality enhancement
+            - honey quality analysis
+            - meat processing and antioxidant properties
+            - probiotic encapsulation
+            - soy sauce fermentation
+            - protein extrusion technology
+            - coffee quality and characteristics
+            - pectin extraction
+            - food processing and nutrition
+            - fruit antioxidant properties
+            - sourdough bread production
+            - green tea quality analysis
+            - ultrasound-assisted protein treatment
+            - postharvest fruit disease control
+            - food antioxidant analysis
+            - food lipid composition & analysis
+            - ultrasonic food processing
+            - antioxidant activity in oil storage
+            - seed oil extraction
+            - starch properties and drying
+            - fruit preservation techniques
+            - kefir fermentation
+            - bean cooking and processing
+            - fruit quality control
+            - high fiber food properties
+            - lignite drying process
+            - gelatin peptide extraction and characterization
+            - food quality preservation
+            - xylooligosaccharides production
+            - tea processing and quality evaluation
+        - mycotoxins/building biology
+            - mycotoxin contamination in cereals
+            - alternaria mycotoxins in food products
+            - mycotoxin detection and control
+            - mycotoxin contamination in food
+            - food safety management
+            - aflatoxin contamination in food
+            - food safety and temperature control
+            - food chemical risk assessment
+            - food packaging migration analysis
+            - smoke flavored meat product production
+            - food safety education
+            - dietary exposure risk assessment
+        - polyphenols/phytochemicals
+            - wine production
+            - phenolic content in red grapes
+            - wine chemistry
+            - wine phenology
+            - australian wine sensory evaluation
+            - brazilian fruit extract
+- agriculture, forestry, and fisheries
+    - agronomy & agriculture
+        - agroecology/sustainable agriculture
+            - soil management for pasture yields
+            - yield gap analysis in smallholder farming
+            - crop yield optimization
+            - soybean yield optimization
+            - soil fertilization for crop management
+            - irrigation management in agriculture
+            - rice yield improvement
+            - agricultural system resilience
+            - agricultural technology adoption
+            - soil fertilization and crop management
+            - rice crop management
+            - soil organic carbon management
+            - crop yield improvement
+            - maize irrigation yield improvement
+            - soil-crop system management
+            - agroecology and food policy
+            - phosphorus fertilization in crop yields
+            - oil palm yield improvement
+            - sustainable agriculture practices
+            - soil fertility management in crop production
+            - soil fertilization and nitrification inhibition
+            - dairy farm management
+            - biofuel crop production
+            - grassland management
+            - soil management for crop yield enhancement
+            - soil quality assessment
+            - agroforestry systems
+            - maize intercropping yield improvement
+            - potato crop management under climate change conditions
+            - soil fertility management
+            - agricultural innovation system
+            - crop yield stability
+            - crop yield and fertilizer management
+            - biogas production from dairy manure
+            - organic farming and soil erosion
+            - crop land planning and use
+            - agricultural production efficiency
+            - agricultural climate system
+            - crop yield management
+        - forests/ecosystems
+            - smart agriculture iot network
+            - agricultural crop estimation
+            - broiler welfare monitoring
+            - sea surface temperature estimation
+            - irrigation management for crops
+            - point cloud classification
+            - snow depth retrieval
+            - landslide detection
+            - deep learning for image classification
+            - soil spectral analysis
+            - vegetation index
+            - urban land surface dynamics
+            - plant disease detection
+            - satellite altimetry in agriculture and coastal zones
+            - forest land use/land cover change detection
+            - wetland classification and change detection
+            - cloud detection
+            - burned area mapping
+            - land use/land cover change
+            - soil tillage optimization
+            - crop detection
+            - agricultural drought monitoring
+            - forest aboveground biomass estimation
+            - tractor operation and management
+            - fractional vegetation cover estimation
+            - water quality monitoring
+            - vegetation canopy reflectance analysis
+            - animal ventilation system design
+            - seed germination stress
+            - phosphorus fertilization in organic soil systems
+            - soybean crop production
+            - saline soil and plant growth
+            - soil compaction management
+            - soil management for onion crops
+            - cactus pear nutrition and yield
+            - genetic diversity in crops
+            - fruit cultivar characterization
+            - phosphorus in soil fertility
+            - organic farming
+            - crop salinity tolerance
+            - soil productivity and crop management
+            - dry kinetics
+            - soil water content estimation
+            - soil potassium dynamics
+            - soybean seed treatment and quality evaluation
+            - pepper breeding
+            - hydroponic crop cultivation using brackish water
+            - plant irrigation management
+            - nitrogen efficiency in crop yield
+            - fruit plot management
+            - crop water management
+        - horticulture/soil
+            - litter decomposition
+            - soil carbon management
+            - soil microbial activity
+            - soil microbial community
+            - soil microbial activity in forest ecosystems
+            - soil enzyme activity
+            - soil microbial ecology
+            - soil microbial community dynamics
+            - n2o emission from forest soils
+            - soil-plant interactions
+            - soil microbial community amendment
+            - soil organic carbon management
+            - soil microbial community analysis
+            - soil organic matter dynamics
+            - humic acid effect on soil microorganisms
+            - arbuscular mycorrhizal fungi in agriculture
+            - soil ecology
+            - soil microbial community management
+            - soil microbial community structure
+            - arbuscular mycorrhizal fungi
+            - soil microbial nitrogen acquisition in forests
+            - soil microbial properties
+            - soil organic carbon stability
+            - silicon availability in agricultural soils
+            - soil microbial community composition and function
+            - soil ecosystem response
+            - soil management
+            - permafrost soil nitrogen acquisition
+            - methane emissions in tree stems
+            - soil nitrous oxide emission
+            - soil microbial community response
+            - soil organic carbon prediction
+            - soil microbial community impacts from genetically modified crops
+            - soil erosion processes
+            - wildfire impact on soil organic matter
+            - soil mapping
+            - soil water repellency
+            - soil water content modeling
+            - soil water property estimation
+            - soil quality assessment
+            - phosphorus in soil
+            - soil erosion risk assessment
+            - soil aggregate stability
+            - soil potassium availability
+            - riparian buffer management
+            - peat soil dynamics
+            - soil erosion control
+            - soil erosion modeling
+            - soil water content measurement
+            - soil spatial pattern analysis
+            - soil magnetic susceptibility
+            - soil degradation
+            - soil structure improvement
+            - phosphorus loss in agricultural water systems
+            - soil property analysis
+            - soil compaction and crop management
+            - soil organic carbon stock management
+            - soil mineral composition
+            - soil erosion
+            - biochar soil improvement
+            - sediment fingerprinting
+            - soil erosion research
+        - weeds/agricultural pests
+            - herbicide control
+            - potato weed control
+            - canada thistle control
+            - soil adsorption and herbicide fate
+            - seed germination ecology
+            - weed suppression in cover crops
+            - plant salt stress response
+            - bermuda grass herbicide effectiveness
+            - triazine resistant weed control
+            - fungal biological control agent development
+            - light-induced plant growth regulation
+            - diclofop weed control
+            - plant response to co2 enrichment and drought stress
+            - glyphosate resistance in weeds
+            - stress tolerance in potato
+            - weed control in agronomy
+            - plant root stress mitigation
+            - herbicide application technology
+            - downy brome control
+            - weed control
+            - invasive plant species management
+            - drought stress in agriculture
+            - alfalfa weed control
+            - weed control in agriculture
+            - broomrape control in agriculture
+            - rice weed control
+            - hydrogen sulfide plant biology
+            - herbicide effect on plant growth
+            - plant stress tolerance
+            - weed control in corn
+            - weed control technology
+            - livestock grazing management
+    - fisheries
+        - aquaculture/aquaponics
+            - aquaponic system design
+            - aquatic animal nutrition
+            - pikeperch larval culture
+            - oyster genetics and shell quality
+            - genetic improvement in fish
+            - fish growth and survival
+            - salmon farming and disease management
+            - fish growth and development
+            - salmon nutrition and diet
+            - dietary effects on fish growth and performance
+            - aquaculture efficiency
+            - feeding and growth in crustaceans
+            - sea urchin gonadal development
+            - dietary fish feed
+            - fish nutrition and feed technology
+            - sea cucumber aquaculture
+            - fish feed additives
+            - fish nutrition and dietetics
+            - tilapia lake virus transmission
+            - astaxanthin in aquaculture
+            - dietary fatty acids in aquaculture
+            - fish nutrition and diet
+            - fish culture and management
+            - shrimp aquaculture
+            - fish nutrition and growth
+            - fish feed and nutrition
+            - fish stress response
+            - crustacean nutrition and lipid research
+            - larval development in aquatic organisms
+            - pearl oyster growth and development
+            - tilapia nutrition
+            - fish nutrition and immune response
+            - ornamental fish breeding
+            - shrimp nutrition and diet
+            - fish domestication
+            - fish growth and feed management
+            - geosmin uptake in fish
+        - commercial fish/fish common names
+    - forestry
+        - forests/trees
+            - wood decay resistance
+            - wood mechanical property
+            - wood adhesive and material
+            - wood properties and processing
+            - poplar wood properties
+            - wood modification treatment
+            - moisture content recognition in wood chips
+            - timber quality measurement
+            - wood properties
+            - archaeological wood degradation
+            - wood properties and moisture content analysis
+            - norway spruce forest management
+            - timber harvesting operation management
+            - forest certification management
+            - forest carbon management
+        - governance/political science terminology
+- animal and dairy science
+    - dairy & animal science
+        - dairy farming/milk
+            - genomic evaluation in dairy cattle
+            - milk production genetics
+            - genomic prediction for breed traits
+            - genomic selection in pigs
+        - growth hormones/human female reproductive system
+            - bovine embryo production
+            - sperm cryopreservation
+            - porcine embryo development and nuclear transfer
+            - bovine semen quality assessment
+            - reproductive physiology in cows
+            - sperm quality assays
+            - cryopreserved feline spermatozoa
+            - canine prostate health
+            - camel sperm quality analysis
+            - boar semen quality preservation
+            - timed artificial insemination program
+            - ovum maturation under heat stress condition
+            - follicular development in cattle
+            - boar sperm fertility
+            - bovine embryo development
+            - reproductive biology in sheep
+            - sperm quality assessment in bulls
+        - livestock/animal feed
+            - beef cattle breeding
+            - cattle nutrition and performance
+            - feed and oil for animal performance
+            - methane emissions in cattle agriculture
+            - lysine requirement in pig diet
+            - sow farrowing behavior
+            - pig nutrition and development
+            - guanidinoacetic acid supplementation in livestock diet
+            - sow nutrition and reproductive performance
+            - reproductive physiology in livestock
+            - ruminant nutrition
+            - pig heat stress research
+            - pig nutrition and health
+            - cattle nutrition and management
+            - swine aggression behavior
+            - phosphorus in pig nutrition
+            - dairy cow behavior
+            - feed efficiency in cattle production
+            - calf nutrition and feeding strategies
+            - cattle welfare and temperament
+            - feed efficiency in livestock
+            - pig nutrition
+            - pig nutrition and feed digestibility
+            - beef palatability assessment
+            - piglet nutrition and development
+            - pig nutrition and growth
+            - cattle nutrition
+            - feed fiber analysis
+        - meat/types of food
+            - meat quality prediction
+            - rabbit meat consumption
+            - meat quality and aging effects
+            - meat quality enhancement
+            - wild game meat quality
+            - meat quality characteristics
+            - meat processing and preservation
+            - sodium reduction in meat products
+            - consumer perception of beef quality
+            - meat cooking and processing
+        - poultry farming/chickens
+            - probiotic effects in poultry
+            - broiler chicken nutrition
+            - dairy cow nutrition and behavior
+            - tannins in rumen metabolism
+            - animal euthanasia methods
+            - ruminant nutrition
+            - poultry meat quality
+            - pig genetics and nutrition
+            - dairy composition analysis
+            - fatty acid content in dairy production
+            - animal reproduction
+            - genetic analysis in cattle
+            - grazing management in dairy farming
+            - genetic analysis in dairy cattle breeding
+            - poultry production
+            - poultry nutrition
+            - animal nutrition and feed research
+            - cow heat stress monitoring
+            - pig tail biting prevention
+            - broiler chicken production
+            - dietary fiber effect on pig health
+            - animal welfare in dairy farming
+            - dietary protein source
+            - feed formulation
+            - dietary effects on pig performance
+            - dairy cow nutrition
+            - phytase and phytic acid impact on poultry performance
+            - egg production and gene expression
+            - laying hen welfare and production
+            - protein supplementation in cattle 1
+            - dairy cattle breeding
+            - high-protein diet in livestock production
+            - animal welfare assessment
+            - poultry genetics and production
+            - rabbit nutrition and health
+            - dairy cow nutrition and feed management
+            - cow milk production
+            - dietary effect on piglets
+            - rumen-protected folic acid supplementation
+            - calf nutrition and feed intake
+            - animal feed and nutrition
+            - milk quality analysis
+            - broiler nutrition and heat stress effects
+            - lamb survival
+            - poultry breast meat quality
+            - dietary supplementation in livestock performance
+            - ruminant nutrition and dairy cattle feed
+            - gene association study
+            - feed and diet research (rabbit and pig)
+    - apiculture
+- veterinary science
+    - animal viral diseases/swine diseases
+        - chlamydial infection in animals
+        - feline infectious disease
+        - canine parvovirus type 2 infection
+        - porcine reproductive and respiratory syndrome virus (prrsv) detection and vaccine development
+        - wildlife disease diagnosis
+        - schmallenberg virus infection in ruminants
+        - avian influenza virus pathology
+        - bovine tuberculosis detection
+        - classical swine fever
+        - salmonella bacterial isolation & resistance
+        - lumpy skin disease virus
+        - bovine viral diarrhea virus detection
+        - equine herpesvirus infection
+        - bluetongue virus infection in ruminants
+        - avian disease
+        - escherichia coli virulence factors
+        - foot-and-mouth disease virus infection
+        - wild boar disease detection and prevention
+        - paratuberculosis detection
+        - antimicrobial resistance in escherichia coli
+        - bovine virus infection
+        - canine otitis externa treatment
+        - mycoplasma hyopneumoniae infection in pigs
+        - bovine herpesvirus type 5 infection
+        - mycoplasma bovis infection in cattle
+        - feline leukemia virus infection
+        - streptococcus suis infection in pigs
+        - porcine circovirus detection
+        - sarcoptic mange treatment in animals
+        - fowl adenovirus infection in chickens
+        - poultry disease control
+        - cetacean morbillivirus infection
+        - brucellosis detection in animals
+        - hemoplasma infection
+        - fumonisins in corn feed
+        - equine virus detection
+        - bovine papillomavirus infection
+        - antimicrobial resistance in farm animals
+        - swine influenza virus protection
+        - viral infections in swine
+        - chronic wasting disease in deer
+        - leptospira infection in animals
+        - foot and mouth disease control
+        - infectious bronchitis virus strain
+        - brachyspira hyodysenteriae infection
+        - anesthesia techniques for wild animal immobilization
+        - coxiella burnetii infection in animals
+        - newcastle disease virus infection in birds
+        - mycoplasma detection in sheep
+        - glanders detection in horses
+        - neospora caninum infection
+        - peste des petits ruminants virus
+        - west nile virus infection
+        - avian influenza virus infection
+        - salmonella infection in dogs & cats
+        - pseudorabies virus infection in wild boar
+    - behavioural sciences/cognitive psychology
+        - animal shelter management
+        - animal welfare in zoos
+    - horse anatomy/horse management
+        - equine digital flexor tendon lesion
+        - equine infectious arthritis diagnosis
+        - equine pain assessment
+        - bovine viral diarrhea virus detection
+        - equine colic surgery
+        - equine anaesthesia recovery
+        - equine rider biomechanics
+        - intervertebral disc disease in dogs
+        - equine medicine
+        - horse stress response
+        - equine embryo production
+        - syringomyelia in cavalier king charles spaniels
+        - equine dental caries
+        - equine lameness imaging
+        - gallbladder disease diagnosis
+        - equine faecal microbiota study
+        - equine welfare
+        - wound healing in horses
+        - equine radiography
+        - equine musculoskeletal injury
+        - endometritis in mares
+        - equine metabolic health
+        - veterinary medicine
+        - equine asthma treatment
+        - equine rehabilitation
+    - livestock/dairy farming
+        - dairy cow health
+        - mastitis in dairy cows
+        - veterinary student clinical training
+        - animal disease network analysis
+        - heat stress in cattle
+        - veal calf transport and mortality analysis
+        - dairy calf management
+        - bovine respiratory disease
+        - pain management in cattle
+        - dairy cow health and lactation
+        - dairy cow nutrition
+        - dairy cow health management
+        - passive immunity transfer in calves
+        - paratuberculosis control in dairy cattle
+        - bovine tuberculosis in cattle herds
+        - mycoplasma bovis infection diagnosis
+        - livestock health management
+        - fat supplementation in dairy calves
+        - dairy cow serum analysis
+        - animal behavior monitoring
+    - oncology/dog diseases
+        - canine choroid plexus tumor diagnosis
+        - primate cancer research
+        - canine oral squamous cell carcinoma
+        - pleuropneumoniae infection
+        - liver lesion
+        - amyloidosis in animals
+        - toxicology pathology study
+        - animal tumor pathology
+        - feline large granular lymphoma
+        - liver disease in animals
+        - pig intestinal disease
+        - immunohistopathology in pigs infectious diseases
+        - canine mammary tumor prognosis
+        - rodent viral infection
+        - feline dental diseases
+        - canine mast cell tumors cytology
+        - nerve sheath tumor in dogs
+        - lymphoid tissue pathology
+        - respiratory toxicology
+        - dental plaque control in dogs
+        - canine hepatocellular carcinoma
+        - viral encephalitis
+        - canine glioblastoma
+        - granular cell tumor
+        - canine mammary tumor diagnosis
+        - eosinophilic gastroenteritis in animals
+        - mouse pathology study
+        - liver lesion analysis in rats
+        - feline tumor immunohistochemistry
+        - liver carcinogenesis
+        - feline melanoma
+        - pancreatic islet tumor in animals
+        - canine lymphoma diagnosis
+        - cardiovascular toxicity in dogs
+        - canine ovarian tumor biology
+        - canine glomerulonephritis
+        - fish neoplasm
+    - people in health professions/people working with animals
+        - feline leukemia virus infection detection
+        - canine pancreatitis treatment
+        - adrenal gland disorders in dogs
+        - canine epilepsy treatment
+        - canine lymph node detection
+        - pet healthcare consultation
+        - vitamin d in canine kidney disease
+        - canine platelet function
+        - canine renal disease diagnosis
+        - acid-base disorders in dogs and cats
+        - feline chronic kidney disease
+        - respiratory therapy in dogs
+        - feline hypertrophic cardiomyopathy treatment
+        - blood transfusion in animals
+        - feline health and behavioural changes
+        - canine liver disease
+        - canine diabetes mellitus
+        - fluid therapy in dogs
+        - urinary tract infection in dogs
+        - canine cancer treatment
+        - feline hyperthyroidism treatment
+        - feline urinary tract disease
+        - feline head trauma management
+        - canine sepsis diagnosis
+        - canine brain tumor radiation therapy
+        - canine lymphoma treatment
+        - pacemaker implantation in animals
+        - canine foreign body disease
+        - patent ductus arteriosus in dogs
+        - feline hyperadrenocorticism
+        - canine liver lesion diagnosis
+        - dog neuter status and expression
+        - veterinary toxicology
+        - canine ocular hypertension treatment
+        - pharmacokinetics of flunixin meglumine
+        - corneal defect treatment in animals
+        - pharmacokinetics of meloxicam in birds
+        - anesthesia dosing for reptiles
+        - anesthesia pharmacology
+        - ophthalmology in reptiles
+        - drug residue modeling in livestock
+        - tarsal joint injury
+        - tibial plateau angle in dogs
+        - tendon repair suture pattern
+        - canine osteosarcoma treatment
+        - minimally invasive plate osteosynthesis
+        - patellar luxation in dogs
+        - cranial cruciate ligament disease in dogs
+        - canine spinal fusion techniques
+        - tibial tuberosity advancement complications
+    - ticks/tick-borne diseases
+        - toxoplasma gondii infection in animals
+        - leishmania infection in dogs
+        - myxobolus species
+        - sarcocystis infection in cattle
+        - blastocystis infection in animals
+        - acaricidal activity of plant extracts
+        - tick-borne pathogens in mammals
+        - canine dirofilariasis infection
+        - equine piroplasmosis
+        - essential oil mosquito control
+        - toxoplasma gondii infections in wild boars
+        - gastrointestinal nematode resistance
+        - tick-borne disease
+        - treatment of canine sarcoptic mange
+        - anaplasma infection in small ruminants
+        - pig parasite control
+        - thelaziosis infection
+        - gastrointestinal nematode infections in sheep
+        - anaplasmosis infections
+        - tick-borne pathogens in animals
+        - cryptosporidium infection in calves
+        - feline vector-borne pathogen infection
+        - tick species distribution
+        - feline parasites and risks
+
+## engineering and technology
+
+- architecture
+    - design practice & management
+        - 3d printing/structural engineering
+            - finite element method
+            - topology optimization
+            - geometrically nonlinear beam analysis
+            - topology optimization algorithm
+            - isogeometric analysis
+            - membrane element design
+- chemical engineering
+    - membrane technology/water technology
+        - pressure retarded osmosis system
+        - adsorption technology
+        - humidification-dehumidification desalination system
+        - electrocoagulation process
+        - nanofiltration membrane performance
+        - freeze desalination process
+        - dye removal adsorption
+        - membrane distillation system design
+        - multi-effect desalination process optimization
+        - capacitive deionization electrode
+        - solar-powered desalination
+        - dye removal
+        - solar water desalination
+        - reverse osmosis desalination process
+        - wastewater treatment process
+        - reverse osmosis desalination
+        - foam insulation fire resistance testing
+        - water treatment membrane technology
+        - polyurethane foam blowing agent
+        - scale inhibition
+        - boron removal process
+    - ionic liquids/ions
+        - co2 leakage detection
+        - chemical looping combustion
+        - carbon capture and utilization
+        - co2 capture in cement plants
+        - co2 storage and management
+        - co2 geo-storage
+        - wellbore cement storage conditions
+        - co2 reservoir storage
+        - co2 storage and sequestration
+        - ionic liquid properties
+        - solution thermodynamics
+        - ionic liquid surface properties
+        - supercritical fluid extraction
+        - deep eutectic solvents
+        - co2 separation and sequestration in oil reservoirs
+        - thermal decomposition
+        - solubility measurement and correlation
+        - fixed point thermometry
+        - liquid equilibrium modeling
+        - thermophysical properties of biodiesel
+        - solubility phase diagrams
+        - asphaltene precipitation modeling
+        - mixture property prediction
+        - vapor-liquid equilibrium measurement
+        - vapor-liquid equilibrium
+        - surfactant properties
+        - ionic liquid solvents for co2 capture
+        - supercritical water oxidation
+        - saft force field development
+        - viscosity correlation
+        - co2 phase behavior modeling
+        - thermochemistry
+        - supercritical deposition catalyst development
+        - thermal properties of refrigerants
+        - adsorption technology
+        - ionic liquid solubility
+        - property measurement and correlation for binary mixtures
+        - synthesis and catalytic activities of silver nanoparticles
+        - liquid-liquid extraction
+        - phase equilibrium property measurements
+        - co2 absorption solvent
+        - ionic liquid separation
+        - surfactant interfacial properties
+        - thermal properties measurement
+        - surfactant micellization
+        - amino acid solubility analysis
+        - photocatalytic degradation
+        - gas hydrate formation
+        - heat transfer in nanofluids
+    - petroleum production/fossil fuels
+        - reservoir flow modeling
+        - chemical enhanced oil recovery (eor)
+        - co2 enhanced oil recovery
+        - enhanced oil recovery (eor)
+        - polymer flooding technology
+        - perforation cluster design
+        - drilling fluid additive
+        - polymer enhanced oil recovery
+        - tubular string buckling
+        - hydraulic fracturing in shale gas reservoirs
+        - cement sheath fracturing
+        - drilling technology
+        - supercritical co2 fracturing
+        - low-temperature oil oxidation
+        - adsorption on shale
+        - oil recovery performance analysis
+        - data-driven oil and gas production models
+        - gas hydrate production and reservoir
+        - carbonate reservoir flow
+        - crude oil processing
+        - acid foam fluid flow management
+        - fracture mechanics in oil drilling
+        - drilling fluids nanotechnology
+        - sucker rod pumping
+        - oil recovery enhancement
+        - shale gas reservoir fracturing
+        - coal coke quality analysis
+        - reservoir rock properties
+        - pipeline pigging dynamics
+        - asphaltene deposition in crude oil
+        - enhanced oil recovery
+        - organic-rich shale hydrocarbons
+        - coal combustion and pyrolysis
+        - coal gas adsorption
+        - foam enhanced oil recovery
+        - esp performance optimization
+        - pipeline corrosion simulation
+    - engineering disciplines/systems engineering
+        - shale gas production optimization
+        - batch reactor control
+        - process control
+        - extractive distillation process design
+        - soft sensor design
+        - fluidized bed hydrodynamics
+        - particle-resolved fixed-bed reactor simulation
+        - particle flow in fluidized beds
+        - liquid-gas separation
+        - bubble column hydrodynamics
+        - industrial alarm analysis
+        - gas-solid spouted bed hydrodynamics
+        - particle-laden gas flow
+        - batch process control
+        - process optimization and heat exchanger design
+        - pharmaceutical supply chain optimization
+        - furnace simulation and crack
+        - liquid-liquid extraction column performance
+        - ionic liquid design for separation processes
+        - particle flow simulation
+        - reactor flow dynamics simulation
+        - dynamic optimization of chemical processes
+        - rotor-stator mixer
+        - process control optimization
+        - bubble column flow modeling
+        - crude oil pipeline scheduling
+        - process control and monitoring
+        - process optimization
+        - heat exchanger network synthesis
+        - chemical engineering mixing process
+        - fluid flow dynamics
+    - carbon dioxide/gas technologies
+        - soot aerosol dynamics
+        - swirling flow and combustion research
+        - shock tube ignition
+        - flame propagation and combustion in confined spaces
+        - ignition delay time study
+        - laminar flame dynamics
+        - pyrolysis reaction mechanism
+        - laminar flame speed prediction
+        - ignition simulation
+        - turbulent flame propagation
+        - aluminum particle combustion
+        - combustion simulation
+        - reaction kinetics
+        - fuel ignition mechanism
+    - catalysis/chemical engineering
+    - chemical process engineering
+    - biochemical engineering
+    - separation technologies
+- civil engineering
+    - fire protection/building engineering
+        - high-rise building evacuation safety
+        - smoke detection using convolutional neural networks
+        - cable tray fire spread
+        - concrete fire resistance
+        - pool fire simulation
+        - tunnel fire ventilation
+        - flame spread in enclosures
+        - fire suppression system
+        - firebrand combustion
+        - intumescent coating for steel
+        - structural fire design
+        - ignition and pyrolysis modeling
+        - fire performance and insulation material testing
+        - fire safety strategies
+        - dry water extinguishant
+    - structural engineering
+    - water engineering
+    - construction engineering
+    - transportation engineering
+    - urban & regional planning
+        - sustainable food system/agroecology
+            - geodesign framework
+            - agricultural policy
+            - land use change
+            - forest transition policy
+            - transit-oriented development
+            - 3d cadastral property rights
+            - urban land use planning
+            - social innovation in rural development
+            - agricultural land use and forest conservation in brazil
+            - affordable housing policy in malaysia
+            - forest management policy
+            - urban public space design
+            - urban ecological space management
+            - land use and food security
+            - urban slum development
+            - urban ecology
+            - urban cultural landscape design
+            - forest land use transition
+            - housing market and urban environmental value
+            - land use change impact assessment
+            - agricultural development policy
+            - urban tree ecosystem services
+            - rural development policy
+            - rural development and planning
+            - smart city development
+            - urban development planning
+            - urban cooling effect
+            - agricultural development in rural areas
+            - real estate valuation
+            - urban ecosystem services
+            - urban informal settlement development
+            - urban accessibility planning
+            - rural development and community studies
+            - inclusive urban development
+            - urban resilience
+            - forest certification management
+            - urban quality of life assessment
+            - urban spatial pattern analysis
+            - land policy instrument
+            - rural tourism development
+            - participatory urban planning
+            - urban renewal planning
+        - sustainable urban planning/urban planning
+            - urban climate governance
+            - urban development planning
+            - urban disaster resilience
+            - labour market management
+            - urban development patterns
+            - regional economic forecasting
+            - population microdata estimation
+            - urban development and planning
+            - gender and mobility
+            - urban planning policy
+            - urban transportation planning
+            - urban spatial development planning
+            - urban studies
+            - housing and income
+            - urban economic development policy
+            - creative economy development
+            - urban development policy
+            - city size distribution
+            - urban network analysis
+            - urban governance and development policy
+            - public space urban planning
+            - financialized urban development
+            - industrial regional development
+            - urban futures
+            - local government reform
+            - urban informal space design
+            - urban and regional planning
+            - smart specialization strategy
+            - high technology development
+            - environmental justice exposure
+            - brownfield redevelopment
+            - urban spatial structure analysis
+            - urban planning and development
+            - urban planning network analysis
+            - regional economic modeling
+            - land grabbing and global agrarian change
+            - urban informal settlement land redistribution
+            - urban segregation analysis
+            - urban neighborhood change
+            - european regional planning policy
+            - location planning for rural development
+            - space-time activity planning
+            - queer urban studies
+            - residential mobility analysis
+            - water governance and politics
+            - social housing cohesion
+            - regional economic development model
+        - environmental social science concepts/systems ecology
+            - cultural ecosystem services
+            - ecosystem services
+            - payment for ecosystem services program
+            - land use change impact on ecosystem services
+            - ecosystem service management
+            - ecosystem service accounting
+            - ecosystem service assessment
+            - ecosystem services management
+        - systems thinking/urban planning
+    - building & construction
+        - heating, ventilation, and air conditioning/heat transfer
+            - thermal comfort control
+            - building retrofitting
+            - building energy control
+            - indoor thermal ventilation
+            - indoor air quality
+            - building energy efficiency
+            - building hygrothermal performance
+            - occupancy detection
+            - urban thermal comfort
+            - building ventilation
+            - green roof design
+            - building information modeling (bim) and life-cycle assessment (lca)
+            - building energy performance
+            - building thermal modeling
+            - building energy design
+            - building energy simulation
+            - thermal building ventilation
+            - building thermal comfort design
+            - indoor air quality measurement and evaluation in buildings
+            - thermal insulation material
+            - building ventilation simulation
+            - building ventilation design
+            - indoor air quality control
+            - thermal comfort modeling
+            - indoor air quality and emissions
+            - thermal energy storage materials
+            - green building sustainability rating
+            - building energy simulation weather data
+            - building overheating risk assessment
+        - building materials/concrete
+            - cement-based composite materials
+            - bacterial self-healing concrete
+            - steel fiber reinforced concrete properties
+            - concrete reinforcement technology
+            - concrete material property
+            - concrete hydration and strength increase
+            - concrete materials modeling
+            - alkali activated cement concrete property
+            - sustainable building materials
+            - sustainable concrete materials
+            - clay brick manufacturing
+            - building materials testing
+            - cement hydration mechanisms
+            - steel slag mortar properties
+            - 3d concrete printing
+            - corrosion in reinforced concrete structures
+            - tunnel lining design
+            - pavement maintenance model
+            - high-temperature concrete properties
+            - concrete material property evaluation
+            - cross-laminated timber (clt) performance
+            - foam concrete properties
+            - concrete fracture behavior
+            - plastic waste concrete materials
+            - pervious concrete properties
+            - asphalt mixture performance
+            - asphalt mixture properties
+            - masonry strengthening
+            - engineered cementitious composite property improvement
+            - asphalt material property prediction
+            - roller compacted concrete
+            - asphalt binder modification
+            - concrete strength and crack reduction
+            - carbonation in cementitious materials
+            - tunnel ventilation
+            - mortar properties and analysis
+            - concrete column reinforcement
+            - cfrp bridge reinforcement
+            - asphalt pavement performance
+            - coconut shell concrete
+            - cemented backfill material property increase
+            - recycled material properties
+            - biochar in cement applications
+            - concrete compressive strength prediction
+            - cement paste properties
+            - soil stabilization material
+        - building engineering/construction and extraction occupations
+            - bim-based construction process
+            - public private partnership project
+            - building information modeling (bim)
+            - building information management
+            - post-disaster reconstruction
+            - concrete crack detection
+            - construction management
+            - construction contracting decision
+            - asphalt compaction
+            - additive concrete printing
+            - sustainable construction management
+            - high-rise building construction simulation
+            - construction innovation management
+            - construction process management
+            - construction safety management
+            - integrated project delivery
+            - building design optimization
+            - construction project management
+            - service life prediction
+            - tower crane safety planning
+            - engineering design process
+            - construction safety design
+            - construction industry management
+            - construction site safety management
+            - tbm operating parameters prediction
+            - hydraulic excavator control
+            - construction project complexity management
+            - project risk management
+            - construction project risk management
+            - facility management
+            - construction cost estimation
+            - building evacuation simulation
+            - adaptive reuse in heritage buildings
+        - lighting/windows
+            - colour perception
+            - discomfort glare assessment
+            - pedestrian safety and lighting
+            - road lighting energy efficiency
+            - lighting design and perception
+        - composite materials/fibers
+            - fiber-reinforced concrete properties
+            - construction management development
+            - nickel hydroxide synthesis
+            - building management
+            - carbon nanotube reinforced composite mechanics
+            - frp reinforced masonry strengthening
+            - innovative construction management
+            - construction law and regulation
+            - soil reclamation technology
+            - alkali-activated slag cement research
+            - foam-filled sandwich panel design
+            - occupational safety risk management
+- electrical engineering, electronic engineering, information engineering
+    - artificial intelligence & image processing
+        - natural language processing/computational linguistics
+            - knowledge graph embedding
+            - text generation
+            - knowledge graph representation
+            - story generation
+            - temporal relation classification
+            - arabic sentiment analysis
+            - keyphrase extraction
+            - artificial intelligence and law
+            - multimodal emotion recognition
+            - dependency parsing
+            - language processing
+            - grammatical error correction
+            - sentiment analysis and opinion detection
+            - clinical text classification
+            - authorship attribution
+            - named entity recognition
+            - hate speech detection
+            - event detection
+            - gender bias in nlp
+            - text simplification
+            - semantic parsing
+            - argument mining
+            - word embedding model
+            - textual entailment recognition
+            - sentiment analysis
+            - user news recommendation
+            - text classification
+            - question answering system
+            - text summarization
+            - question answer generation
+            - sentiment analysis neural network
+            - sentiment classification
+            - machine translation quality assessment
+            - dialogue state tracking
+            - semantic graph parsing
+            - political debate analysis
+            - knowledge graph entity linking
+            - machine translation
+            - neural machine translation
+            - aspect-based sentiment analysis
+            - word sense disambiguation
+            - natural language processing
+            - emotion cause extraction
+        - mathematical optimization/evolutionary algorithms
+            - neural network classification
+            - fuzzy multiple attribute decision making algorithm
+            - fuzzy time series forecasting
+            - supplier evaluation
+            - covid-19 detection
+            - fuzzy convex spaces
+            - fuzzy set theory
+            - support vector machine classification
+            - bayesian network structure learning algorithm
+            - grey model prediction
+            - information security management framework
+            - evidence fusion theory
+            - heart disease prediction
+            - machine learning algorithm
+            - particle swarm optimization algorithm
+            - optimization algorithm
+            - fuzzy decision making
+            - concrete strength prediction model
+            - supplier selection and inventory management
+            - algorithm optimization
+            - fuzzy regression model
+            - supply chain optimization algorithm
+            - customer churn prediction
+            - distributive uninorm equations
+            - evolutionary decision tree algorithm
+            - multi-agent system design
+            - intrusion detection
+            - pid controller optimization
+            - cloud service selection
+            - recommender system
+            - neutrosophic algebra
+            - missing value imputation
+            - fuzzy number ranking
+            - fuzzy optimization problem
+            - multi-objective resource-constrained project scheduling
+            - fault diagnosis
+            - credit risk assessment
+            - anomaly detection algorithm
+            - hesitant fuzzy decision making
+            - image segmentation algorithm
+            - stock price prediction
+            - fuzzy control system design
+            - fault diagnosis and prognosis in rolling bearings
+            - plant disease detection
+            - clustering algorithm
+            - cluster algorithm
+            - image analysis for medical diagnostics
+            - association rule mining algorithm
+            - intelligent algorithm optimization
+            - fuzzy control algorithm
+            - topological index
+            - energy prediction
+            - business intelligence decision making process
+            - software fault prediction
+            - feature-based algorithm recognition
+            - big data supply chain management
+            - fuzzy image clustering algorithm
+            - fuzzy graph connectivity
+            - optimization algorithm development
+            - fault tree analysis
+        - biometrics/authentication methods
+            - visual object tracking
+            - finite mixture model algorithm
+            - cancelable biometric template
+            - face anti-spoofing
+            - digital forensic investigation
+            - feature selection algorithm
+            - content-based image retrieval
+            - machine learning algorithm
+            - leaf species identification
+            - facial expression recognition
+            - document image binarization
+            - image processing
+            - image denoising
+            - license plate detection
+            - clustering algorithm evaluation
+            - signature verification
+            - video summarization
+            - image watermarking scheme
+            - multi-label classification
+            - 3d face recognition
+            - image forgery detection
+            - deep learning image processing
+            - iris recognition
+            - circle detection algorithm
+            - writer identification
+            - handwritten character recognition
+            - image segmentation algorithm
+            - abnormal event detection
+            - image enhancement algorithm
+            - adaptive optimization algorithm
+            - image invariant recognition
+            - moving object detection
+            - image steganography
+            - face recognition
+            - fingerprint identification
+            - human motion recognition
+            - image recognition
+            - image super resolution
+            - multimodal behavior analysis
+            - image compression-encryption scheme
+            - image inpainting
+            - hand gesture recognition
+            - graph-based image representation algorithm
+            - multi-view clustering algorithm
+            - fabric defect detection
+            - anomaly detection
+            - eye biometrics
+            - object detection
+            - finger vein biometric identification
+            - face recognition learning
+            - hevc intra coding algorithm
+            - graph edit distance
+            - graph clustering algorithm
+            - medical image fusion
+            - hardware accelerated image processing algorithms
+            - ensemble classifier
+            - image analysis
+            - polygonal approximation algorithm
+        - fuzzy logic/artificial neural networks/computational neuroscience
+            - domain adaptation
+            - epileptic seizure classification
+            - extreme learning machine
+            - adaptive control of nonlinear systems
+            - fuzzy decision making
+            - deep mri reconstruction
+            - fuzzy aggregation function
+            - fuzzy clustering algorithm
+            - nonlinear control system
+            - lung tb detection
+            - neural network control
+            - fuzzy control design
+            - neural network matrix inversion
+            - neural network function
+            - neural network algorithm
+            - state estimation for neural networks
+            - interval type-2 fuzzy system design
+            - anti-money laundering regulation
+            - medical image segmentation
+            - robust deadlock control for automated manufacturing systems
+            - fault-tolerant fuzzy control systems
+            - broad learning system
+            - magnetic particle imaging
+            - retina vessel segmentation
+            - fuzzy data mining
+            - adaptive fuzzy control system design
+            - brain tumor segmentation
+            - fuzzy fractional differential equation
+            - fuzzy sliding mode control
+            - fuzzy learning machine
+            - fuzzy mathematical modeling
+            - fuzzy control system design
+            - image segmentation
+            - echo state network
+            - fractional-order neural network synchronization
+            - electrical impedance tomography (eit)
+            - fuzzy classification system
+            - fuzzy rough classification
+            - intelligent systems algorithm
+            - neural network solution
+            - complex-valued neural network algorithm
+            - fuzzy machine learning algorithm
+        - medical monitoring/telehealth
+            - human activity recognition
+            - epileptic seizure detection
+            - secure authentication scheme
+            - edge computing service
+            - internet of things (iot)
+            - cloud resource scheduling algorithm
+            - blockchain-based healthcare system
+            - deep learning image classification
+            - iot platform development
+            - fault diagnosis
+            - facial emotion recognition
+            - body area network technology
+            - high-performance computing (hpc) system performance
+            - smart home security
+            - fetal heart rate classification
+            - wi-fi indoor localization
+            - intrusion detection
+            - rolling bearing fault diagnosis
+            - iot in agriculture
+            - data privacy scheme
+            - model-based systems engineering
+            - health monitoring system
+            - i/ot security network
+            - emotion recognition
+            - iot network optimization
+            - iot network management
+            - plant disease recognition
+            - wireless sensor network clustering
+            - cloud task scheduling
+            - heart sound classification
+            - covid-19 diagnosis
+            - energy efficient wireless sensor networks
+            - blood pressure estimation
+            - electrocardiogram signal processing
+            - iot data gathering
+            - gesture recognition
+            - biomedical sensor networks
+            - performance optimization
+            - diabetes risk stratification
+            - iot service management
+            - underwater wireless sensor network routing
+            - food intake detection algorithm
+            - secure data aggregation in wireless sensor networks (wsns)
+            - object detection
+            - sensor network technology
+            - blockchain crowdsourcing
+        - applications of computer vision/computer vision/image processing
+            - image detection
+            - point cloud registration
+            - deep convolutional neural network texture features
+            - knowledge distillation
+            - 360-degree video quality assessment
+            - image quality assessment
+            - object detection
+            - deep learning image reconstruction
+            - domain adaptation
+            - 3d shape recognition
+            - image annotation
+            - eye gaze estimation
+            - low-rank matrix completion
+            - dictionary learning algorithm
+            - image super-resolution
+            - action recognition
+            - spike neural network
+            - device inference
+            - object tracking
+            - saliency detection
+            - video coding algorithm design
+            - deep learning method for classification
+            - image dehazing algorithm
+            - food image recognition
+            - face recognition algorithm
+            - zero-shot learning
+            - hevc video coding
+            - crowd counting
+            - object pose estimation
+            - pedestrian trajectory prediction
+            - plant leaf recognition
+            - image processing method
+            - moving object detection
+            - depth estimation
+            - audio classification
+            - crack detection
+            - gait recognition
+            - video summarization
+            - fingerprint spoof detection
+            - semantic segmentation
+            - facial expression recognition
+            - shadow detection
+            - continual learning
+            - object detection algorithm
+            - face anti-spoofing
+            - image captioning
+            - pedestrian detection
+            - deep image reconstruction method
+            - video object segmentation
+            - color image restoration
+            - image classification
+            - table detection and recognition
+            - handwritten text recognition
+            - visual sentiment analysis
+            - fast bilateral filtering of color images
+            - image denoising
+            - vehicle detection using uav
+            - video anomaly detection
+            - adversarial neural networks
+            - iris recognition system
+            - image retrieval method
+            - neural network learning
+            - sign language recognition
+            - image retrieval
+        - evolutionary algorithms/cybernetics/mathematical optimization
+            - multi-objective evolutionary algorithm
+            - evolutionary algorithm
+            - dynamic multi-objective optimization algorithm
+            - differential evolution algorithm
+            - machine learning algorithm recommendation
+            - multi-objective optimization algorithm
+            - evolving neural network architecture
+            - algorithm selection
+            - particle swarm optimization algorithm
+            - program synthesis optimization
+            - large-scale optimization algorithm
+            - optimization algorithm
+            - xcs classifier learning
+            - multimodal multiobjective optimization
+            - evolutionary algorithm design
+            - genetic programming for job shop scheduling
+            - cma-es optimization
+            - evolutionary optimization algorithm
+            - boolean function cryptography
+            - symbolic regression
+        - machine learning/social info processing
+            - payment channel network
+            - markov decision process
+            - leakage-resilient encryption scheme
+            - searchable encryption scheme
+            - steganalysis
+            - smart contract verification
+            - post quantum cryptography
+            - deep learning model backdoor attack detection
+            - formal verification
+            - privacy policy analysis
+            - sat solver
+            - multiparty computation
+            - process mining
+    - computer hardware & architecture
+        - parallel computing/computer memory
+            - energy-efficient neural network optimization
+            - neural network acceleration
+            - energy-constrained system control
+            - fpga routing
+            - error-tolerant network-on-chips security
+            - hotspot detection in lithography
+            - monolithic 3d ic design
+            - stochastic neural network hardware
+            - stt-mram cache performance
+            - real-time scheduling algorithm
+            - chip design and routing
+            - energy-efficient mobile computing
+            - energy harvesting system management
+            - neural network accelerator
+            - logic locking
+            - formal verification of arithmetic circuits
+            - quantum circuit synthesis
+            - tsv fault tolerance
+            - hardware trojan detection
+            - quantum circuit mapping
+            - microfluidic biochip design
+            - approximate computing fault test
+            - self-aware cyber-physical systems design
+            - real-time task scheduling
+            - placement problem in standard cell design
+            - approximate adder design
+            - logic locking security design
+            - low power sram cell design
+            - approximate multiplier design
+    - distributed computing
+        - operating system technology/virtual machines
+    - electrical & electronic engineering
+        - wireless energy transfer/electric power distribution
+            - power converter control
+            - filter circuit design
+            - low power wireless communication circuit
+            - low-power dynamic comparator design
+            - sar adc design
+            - class ab operational amplifier design
+            - high-frequency rf receiver
+            - image sensor technology
+            - doherty power amplifier design
+            - wireless power transfer system optimization
+            - quantum-dot cellular automata design
+            - low dropout regulator
+            - frequency divider pll design
+            - wireless power transfer efficiency optimization
+            - low-power processor design
+            - ota (operational transconductance amplifier) design
+            - low power biopotential amplifier system
+            - low power sram cell design
+            - high-frequency low-noise lna design
+            - low-power sensor design
+            - neuromorphic processor architecture
+            - memory computing architecture
+            - digital power amplifier design
+            - fractional order circuit design
+            - delta-sigma modulator design
+            - low-power keyword spotting chip
+            - chip design and radiation resistance analysis
+            - sar adc switching scheme
+            - body channel communication
+            - high-speed wireline transceiver design
+            - low power receiver design
+            - piezoelectric energy harvesting circuit
+            - microwave sensor for microfluidics
+            - vco-based adc design
+        - electric motors/machines
+            - multilevel converter control
+            - modular multilevel converter
+            - flywheel energy storage system
+            - inverter control
+            - predictive current control for six-phase pmsms
+            - reluctance motor control
+            - power electronics control
+        - systems engineering/test equipment
+            - soil moisture sensor
+            - measurement uncertainty analysis
+            - kibble balance design
+            - gnss positioning accuracy
+            - fiber optic sensor
+            - measurement and control systems
+            - indoor positioning system
+            - liquid level measurement
+            - voltage transformer measurement
+            - induction motor fault detection
+            - inertial sensor-based measurement and estimation
+            - remaining useful life prediction
+            - pressure sensor calibration
+            - smart concrete structure monitoring
+            - inertial navigation alignment
+            - intelligent tire system
+            - pedestrian positioning algorithm
+            - wearable ecg monitoring
+            - respiratory monitoring system
+            - hall effect sensor
+            - impedance measurement
+            - crop phenotyping
+            - impedance measurement instrument
+            - wireless sensor network monitoring
+            - measurement uncertainty assessment
+            - blade vibration monitoring
+        - electrical grid/control theory
+            - power network vulnerability analysis
+            - energy storage system for renewable grid
+            - hybrid electric vehicle energy management
+            - economic dispatch algorithm
+            - electric ship power management
+            - optimal power system operation with renewable energy
+            - distributed power control
+            - integrated energy system planning
+            - electric vehicle charging
+            - machinery fault diagnosis
+            - demand response control
+            - power system stability assessment
+            - electricity price forecasting
+            - smart grid security
+            - hydrothermal scheduling
+            - smart home energy management
+            - time-varying neural network model
+            - non-intrusive load disaggregation
+            - distributed energy management
+            - hybrid energy storage system control
+            - electricity theft detection
+            - wind power market management
+            - blockchain in smart grids
+            - power system optimization
+        - power electronics/electric power conversion
+    - energy
+        - biomass/biofuels/bioenergy
+            - solar-assisted heat pump system
+            - liquid desiccant dehumidification system
+            - nanofluid solar collector efficiency
+            - photovoltaic waste management
+            - gas hydrate production
+            - solar energy system performance
+            - heat exchanger network optimization
+            - stirling engine performance
+            - solar photovoltaic power system
+            - street lighting energy efficiency
+            - fuel cell performance optimization
+            - energy efficiency industry
+            - fault detection and diagnosis in renewable energy systems
+            - carbon capture and storage
+            - oil price impact on clean energy market
+            - biodiesel production catalyst
+            - solar chimney power plant performance
+            - high-speed train aerodynamics
+            - greenhouse energy management
+            - pressure relief valve design
+            - centrifugal pump design and optimization
+            - oscillating water column wave energy converter
+            - tidal energy systems
+            - electric vehicle energy management
+            - energy efficiency policy
+            - flame dynamics in micro-combustors
+            - building-integrated photovoltaics (bipv)
+            - supercritical co2 power cycle
+            - solar dryer design
+            - biomass torrefaction process
+            - energy storage system
+            - photovoltaic energy system
+            - offshore wind energy
+            - piezoelectric energy harvester
+            - coal gasification process
+            - biogas production process
+            - combustion system design
+            - miscanthus biomass energy
+            - laminar flame combustion
+            - lignin processing
+            - fluidized bed gasification
+            - hydrothermal liquefaction process
+            - mercury adsorption in coal fired boilers
+            - chemical looping gasification
+            - biomass pyrolysis fuel
+            - smouldering combustion process
+            - microwave-assisted pyrolysis
+            - bioethanol production
+            - biodiesel production catalysts
+            - biomass pyrolysis for bio oil
+            - coal chemical upgrading
+            - plastic pyrolysis
+            - biodiesel production
+            - biomass pretreatment for ethanol production
+            - lignite coal properties
+            - furfural production for biofuels
+            - coal combustion kinetics
+            - plasma-assisted reforming
+            - coal tar pitch production
+            - catalytic biomass pyrolysis
+            - pyrolysis of biomass
+            - coal gasification
+            - hydrothermal carbonization of biomass
+            - biomass gasification
+            - lignin pretreatment
+        - concrete/building materials
+            - building thermal insulation
+            - sustainable building renovation
+            - thermal building design
+            - radiant floor heating
+            - daylighting system design
+            - building ventilation system
+            - indoor air quality management
+            - fly ash applications
+            - building materials hygrothermal performance
+            - cement hydration and properties
+            - sustainable building materials
+            - building energy efficiency
+            - building ventilation simulation
+            - high-performance concrete material
+            - building thermal comfort
+            - building occupant behavior modeling
+            - urban thermal comfort
+            - life cycle assessment of building materials
+            - building energy modeling
+            - electrochromic film device
+            - thermal comfort in buildings
+            - building airtightness measurement
+            - high-volume slag mortar research
+            - thermal comfort control
+            - thermal building comfort
+        - electric power distribution/electrical grid/distributed generation
+            - power system control
+            - grid-tied inverter control
+            - energy distribution network security
+            - high-voltage dc-dc converter
+            - microgrid control and power sharing
+            - wind turbine control
+            - power line induced voltage in pipelines
+            - power system protection algorithm
+            - capacitor placement optimization
+            - power electronics control systems
+            - non-intrusive load monitoring (nilm)
+            - electric motor control
+            - energy storage system scheduling
+            - power system emissions measurement
+            - wind power generation
+            - active power filter control
+            - lightning protection in power lines
+            - transmission line rating
+            - power quality disturbance analysis
+            - power flow control
+            - false data injection detection
+            - power control system
+            - distribution grid hosting capacity
+            - predictive control in power electronics
+            - frequency synchronization pll
+            - power converter control
+            - power system stability analysis
+            - virtual power plant control
+            - distributed control for dc microgrid
+            - power flow analysis
+            - partial discharge diagnosis in cables
+            - high voltage cable insulation and thermal analysis
+            - photovoltaic power distribution
+            - optimal power flow problem
+            - fault current limiter design
+            - electricity market regulation
+            - modular multilevel converter control
+            - power system protection
+            - switched capacitor boost inverter topology
+            - grid connected inverter control
+            - smart grid cybersecurity
+            - power grid control
+            - electric vehicle charging management
+            - home energy management system
+            - energy storage system management
+            - state estimation in power systems
+            - power electronics control
+            - power system harmonic control
+            - smart grid energy management
+            - energy forecasting
+            - power control and storage systems
+            - power system stability assessment
+            - fault detection in induction motor
+        - ethanol fuel/engine fuel system technology/emission standards
+            - fuel spray characteristics
+            - thermal barrier coating design
+            - water injection in spark-ignition engines
+            - diesel combustion simulation
+            - fuel injection optimization
+            - fuel properties for efficient engines
+            - ignition and combustion modeling
+            - diesel engine fuel injection optimization
+            - internal combustion engine emission control
+            - compression ignition engine technology
+            - small pre-chamber combustion in engine
+            - turbulent premixed combustion
+            - diesel particulate filter
+            - high-pressure spray injection system
+            - combustion mechanism for engines
+            - reactivity controlled compression ignition
+            - internal combustion engine soot formation
+            - combustion optimization in diesel engine
+            - gasoline compression ignition combustion
+            - engine knock combustion
+            - soot formation in combustion
+            - laminar combustion fuel properties
+            - fuel combustion mechanism
+            - centrifugal compressor stall
+            - film cooling for turbine endwall
+        - heat transfer/heat exchangers
+            - fault detection in hvac system
+            - heat transfer and heat pipe design
+            - heat transfer in turbines
+            - fluidized bed dynamics
+            - fluidized bed granulation
+            - heat transfer in nanofluids
+            - adsorption chiller performance
+            - nanofluid heat transfer enhancement
+            - labyrinth seal rotordynamics
+            - flame spread dynamics
+            - heat transfer in tube
+            - microchannel heat transfer
+            - jet impingement heat transfer
+            - heat transfer enhancement
+            - condensation heat transfer
+            - wet cooling tower performance
+            - powder flow characterization
+            - nanofluid heat transfer
+            - energy separation in vortex tube
+            - natural convection heat transfer
+            - spray cooling heat transfer
+            - heat transfer fouling
+            - ice slurry flow behavior
+            - ejector refrigeration cycle performance
+            - particle flow simulation
+            - refrigeration system control
+            - magnetic refrigeration
+            - heat exchanger design
+            - thermal properties of nanomaterials and nanofluids
+            - heat pump system
+            - heat transfer tube design
+            - heat transfer in refrigeration systems
+            - cyclone separator performance
+            - heat transfer and thermal resistance matching
+            - heat transfer in particle systems
+        - fuel cells
+            - proton exchange membrane fuel cell
+            - solar fuel production
+            - supercapacitor technology
+            - catalyst development
+            - corrosion of steel
+            - electrochemical noise analysis
+            - carbon composite ablation resistance
+            - lithium-ion battery research
+            - vanadium redox flow battery
+            - lithium ion battery anode material
+            - iridium oxide electrochemistry
+            - corrosion and surface science
+            - graphene-based supercapacitor
+            - corrosion protection
+            - corrosion behavior analysis
+            - corrosion of carbon steel in concrete
+            - pt electrode reaction
+            - cu catalyst for nox reduction
+            - coating technology
+            - lithium-ion battery thermal management
+            - corrosion inhibition
+            - urea oxidation catalyst
+            - graphene-based corrosion protection
+            - catalytic zeolite technology
+            - hydrogen embrittlement in high strength steel
+            - hydrogen energy storage
+            - photocathodic protection
+            - dye-sensitized solar cell
+            - corrosion resistance of alloys in high temperature molten salts
+            - polymer electrolyte conductivity
+            - nanocrystalline alloy coatings electrodeposition
+            - electrocatalytic materials
+            - microbiologically influenced corrosion
+            - solid-state electrolyte
+            - pt-based electrocatalyst
+            - biodegradable magnesium alloy development
+            - oxygen reduction reaction catalyst
+            - corrosion prevention
+            - high-temperature oxygen ionic conductivity
+            - dye-sensitized solar cells
+            - lithium-ion battery anode material
+            - ti-6al-4v alloy corrosion
+            - hydrogen production assessment
+            - lithium ion battery anode
+        - climate change policy/ethanol fuel
+            - nuclear reactor kinetics
+            - nuclear data validation
+            - nuclear reactor safety
+            - tritium transport characteristics
+            - electrochemical reduction in molten salt systems
+            - nuclear power plant risk assessment
+            - fission cross-section measurement
+            - fukushima daiichi nuclear accident
+            - gamma radiation shielding
+            - sodium-cooled fast reactor design
+            - radionuclide transport through heterogeneous media
+            - reactor vessel thermal analysis
+            - flow in rod bundles
+            - time-dependent neutron source measurements theory
+            - nuclear reactor fuel analysis
+            - nuclear reactor accident simulation
+            - neutron transport calculation
+            - nuclear reactor design
+            - nuclear power plant safety
+            - neutron capture cross section
+            - graphite particle deposition
+            - thorium fuel reactor
+            - nuclear power plant reliability
+            - flow boiling heat transfer
+            - nuclear reactor safety analysis
+            - tube bundle instability
+            - monte carlo neutron transport
+            - boiling water reactor corrosion
+            - critical heat flux prediction
+            - gaseous core reactor
+            - accelerator-driven neutron generation
+            - molten fuel accident research
+            - neutron transport equation solution
+            - coated fuel particle
+            - nuclear reactor optimization
+            - nuclear reactor accident
+            - heat transfer in reactors
+            - nuclear fuel storage
+            - pressurized water reactor
+            - nuclear reactor design and operation
+            - nuclear reactor transport calculation
+            - nuclear power system control
+            - nuclear reactor dosimetry
+            - reactor simulation code development
+            - heat transfer simulation
+            - nuclear reactor water chemistry
+            - subcritical reactor design
+            - neutron reactor cross section measurement
+            - fusion reactor design
+            - neutron fission cross section analysis
+            - nuclear power plant seismic design
+            - nuclear power plant accident assessment
+        - energy policy/renewable energy commercialization/renewable energy
+            - transportation and emission reduction strategy
+            - sustainable bioenergy
+            - natural gas market and policy
+            - emission trading policy
+            - industrial symbiosis
+            - energy conservation behavior
+            - environmental regulation and industrial innovation
+            - energy poverty in rural household
+            - residential electricity demand analysis
+            - oil market volatility spillover
+            - nuclear energy public acceptance
+            - renewable energy consumption and economic growth
+            - biofuel supply chain optimization
+            - covid-19 impact on electricity consumption and demand
+            - solar photovoltaic adoption
+            - small hydro power plant
+            - chinese energy policy
+            - sustainable energy policy assessment
+            - energy efficiency management in industry
+            - climate change financial risks assessment
+            - maritime carbon emissions
+            - green supply chain management
+            - carbon capture acceptance
+            - solid waste management
+            - energy consumption convergence
+            - smart city energy management
+            - rebound effect in energy efficiency
+            - energy policy and technology
+            - renewable energy economics
+            - cleaner production in mining
+            - solar photovoltaic industry
+            - energy efficiency policy
+            - biofuel emissions assessment
+            - electricity price forecasting
+            - life cycle assessment of environmental impact
+            - local energy policy
+        - coal/environmental impact of the coal industry
+            - shale gas exploration
+            - shale gas reservoir characterization
+        - catalysis
+    - information systems
+        - information systems/recommender systems
+            - fair machine learning algorithm
+            - social network community detection
+            - social bot detection
+            - web security detection
+            - location-based recommendation
+            - text representation model
+            - recommendation system
+            - social network influence maximization
+            - link prediction in complex networks
+            - social network link prediction
+            - sequential pattern mining
+            - personalized recommendation system
+            - search model development
+            - network centrality measure
+            - recommender system design
+            - graph community detection algorithm
+            - information retrieval
+            - expert retrieval
+            - web service clustering
+            - semantic search engine
+            - conversational recommendation system
+            - user behavior modeling
+            - influence maximization in social networks
+            - time series classification
+            - search behavior analysis
+            - data mining subgroup discovery
+            - urban mobility prediction
+            - recommender system bias management
+            - question answering on knowledge graphs
+            - online experiment control
+            - collaborative filtering recommendation system
+            - concept drift detection
+            - multi-label text classification
+            - recommender system
+            - ontology and linked data
+            - anomaly detection in time series
+            - graph neural network representation
+            - interpretable machine learning
+            - deep learning for recommendation systems
+            - recommender systems
+            - hate speech detection
+            - user identity linkage
+            - sentiment analysis
+            - social network analysis
+            - crowdsourced relevance assessment
+            - social media event tracking
+        - cryptography/information governance
+            - recommendation system
+            - rough set attribute reduction
+            - opinion leader detection in network
+            - feature selection method
+            - spatial data query
+            - block-based programming education
+            - concept drift detection
+            - personalized recommendation system
+            - real-time event processing
+            - differential privacy data protection
+            - knowledge graph embedding
+            - domain adaptation classification
+            - user recommendation system
+            - social network analysis
+            - session-based recommendation
+            - collaborative filtering algorithm
+            - datalog reasoning
+            - spatial query search
+            - sentiment analysis
+            - multi-label learning
+            - data selection algorithm
+            - community search
+            - influence maximization algorithm
+            - blockchain transaction analysis
+            - blockchain technology
+            - user trust recommendation system
+            - trajectory analysis
+            - ethics in computing education
+            - query expansion
+            - data science
+            - big data indexing
+            - knowledge tracing model
+            - machine learning feature interaction
+            - density-based clustering algorithm
+            - blockchain data system
+            - time series similarity search
+            - multi-label classification
+            - task assignment in spatial crowdsourcing
+            - ai bias in decision making
+            - knowledge graph querying
+            - entity resolution
+            - recommender system bias reduction
+            - shilling attack detection
+            - explainable artificial intelligence
+            - imbalanced data classification
+            - serverless computing
+            - semantic search
+            - big data processing
+            - user identification in social networks
+            - big data analytics
+            - recommender system
+            - high utility itemsets mining
+            - explainable machine learning
+            - aspect-based sentiment analysis
+            - fake news detection
+            - knowledge graph technology
+        - data management/big data
+            - data management schema
+            - database query performance
+            - database query processing system
+            - event ordering repair
+            - rdf query language
+            - private data query
+            - nosql database design
+            - graph query language
+            - community search algorithm
+            - spatio-temporal data analysis
+            - memory-intensive system performance
+            - database performance optimization
+            - distributed machine learning server
+            - stream processing
+            - spatio-temporal trajectory simplification
+            - spatial query in road network
+            - data provenance and quality
+            - differential privacy
+            - knowledge graph query
+            - graph processing system
+            - database management
+            - data query optimization
+            - realtime data processing
+            - database query optimization algorithm
+            - time-based trajectory data query
+            - database query processing
+            - crowdsourcing algorithm
+            - graph data analytics
+            - graph query algorithm
+            - clustering algorithm
+            - data query system
+            - query language processing
+        - artificial intelligence/computational fields of study
+    - medical informatics
+        - anatomy/medical education
+            - medical student clinical skills education
+            - medical education technology
+            - multiple mini interview (mmi)
+            - medical education
+            - medical student education
+            - medical education learning approach
+            - medical education feedback
+            - medical education implementation
+            - interprofessional education and learning
+            - medical student learning assessment
+            - medical education assessment
+            - medical student empathy
+            - interprofessional learning in healthcare
+            - anatomy education
+            - clinical reasoning education
+            - medical education learning experience
+            - ultrasound education in medical students
+            - health education advocacy
+            - competency-based medical education
+            - medical education environment
+            - assessment validity in medical education
+            - faculty development for medical educators
+            - medical student well-being
+            - clinical assessment and feedback
+            - medical student education and experience
+            - medical student learning
+            - medical education motivation
+            - medical student education and well-being
+            - clinical reasoning teaching
+            - medical education problem-based learning
+    - networking & telecommunications
+        - metamaterials/electromagnetism
+            - wireless energy harvesting antenna design
+            - wireless channel propagation
+            - rfid tag antenna design
+            - antenna design for rcs reduction
+            - fmcw radar technology
+            - antenna array design
+            - wireless power transfer system
+            - high-frequency antenna design
+            - reconfigurable rf phase array
+            - metasurface design
+            - antenna design
+            - antenna design for wireless applications
+            - low-power vco design
+            - high-efficiency power amplifier
+            - wearable antenna design
+            - reconfigurable antenna design
+            - graphene-based antenna
+            - high-frequency amplifier technology
+            - siw filter design
+            - compact slot antenna design
+            - circularly polarized dielectric resonator antenna
+            - ka band satellite propagation
+            - wideband waveguide transition design
+            - monopole antenna design
+            - antenna array synthesis
+            - reconfigurable origami antenna
+            - direction of arrival estimation antenna design
+            - dual-band bandpass filter design
+            - beam steering antenna design
+            - finite difference time domain (fdtd) scheme
+            - frequency selective surface design
+            - antenna array calibration
+            - 5g smartphone antenna design
+            - power amplifier design
+            - high-frequency waveguide design
+            - vivaldi antenna design
+            - reflectarray antenna design
+            - breast cancer imaging
+            - transmitarray antenna design
+            - terahertz antenna technology
+            - antenna design for wireless communication
+            - chipless rfid tag detection
+            - near-field antenna measurement
+            - power divider design
+            - current-mode filter design
+            - implantable antenna design
+            - microwave amplifier design
+            - leaky wave antenna design
+            - microwave sensor design
+            - electromagnetic scattering analysis
+            - fda radar array beampattern design
+            - oam antenna design
+            - uwb antenna design
+            - antenna array optimization
+            - advanced antenna cloaking metasurfaces
+            - substrate integrated waveguide antenna design
+            - terahertz communications
+            - antenna design optimization
+        - wireless networking/history of radio
+            - network communication protocol
+            - random access scheme for iot networks
+            - satellite network power allocation
+            - secure authentication scheme
+            - intelligent reflecting surface enhanced wireless networks
+            - cellular network optimization
+            - network optimization
+            - millimeter wave network
+            - lorawan network performance
+            - wireless channel measurement
+            - edge computing resource optimization
+            - millimeter wave beamforming
+            - eavesdropping prevention algorithm
+            - vehicular network communication
+            - 5g fronthaul network performance
+            - cognitive relay network
+            - fog network optimization
+            - molecular communication system
+            - network slicing
+            - wireless energy transfer
+            - massive mimo channel estimation
+            - ofdm communication system improvement
+            - 5g uplink resource allocation
+            - satellite network routing algorithm
+            - wireless power optimization
+            - blockchain in iot security
+            - relay performance analysis
+            - wireless network optimization
+            - uav-assisted networks optimization
+            - handover management in mobile networks
+            - blockchain-based iot network
+            - d2d resource allocation
+            - network selection algorithm
+            - visible light communication security
+            - underwater sensor network routing
+            - modulation classification
+            - wireless energy harvesting relay networks
+            - resource allocation in iot
+            - vehicular network communication algorithm
+            - ofdm modulation performance in high-mobility channels
+            - nfv network embedding
+            - massive mimo network
+            - antenna selection for massive mimo system
+            - energy-efficient network resource management
+            - wireless sensor network routing protocol
+            - spatial modulation
+            - 5g network planning
+            - resource allocation in networks
+            - sensor network localization algorithm
+            - manet network security
+            - ldpc code decoding algorithm
+            - wireless network resource allocation
+            - 5g network resource allocation
+            - cognitive radio network
+            - wireless energy harvesting strategy
+            - ieee 802.11 wireless networks
+            - energy efficient networking
+            - massive mimo detection algorithm
+            - lte-laa coexistence
+            - polar code decoder
+            - mobile edge computing resource allocation
+            - fbmc channel estimation
+            - power allocation in heterogeneous networks
+            - energy-efficient resource allocation for d2d networks
+            - non-orthogonal multiple access (noma) scheme
+            - channel fading analysis
+            - iot network security
+            - channel estimation in massive mimo systems
+            - papr reduction technique
+            - 5g network optimization algorithm
+            - secure communication network
+        - network performance/road traffic management
+            - sdn-based network performance management
+            - mobile crowdsensing mechanism
+            - wireless network resource allocation
+            - nfv resource planning algorithm
+            - network configuration verification
+            - network traffic control
+            - internet routing
+            - software-defined wireless network control
+            - resource allocation in network service
+            - cross-tech communication
+            - optical network reconfiguration
+            - sdn service function chaining
+            - quic transport protocol
+            - cache optimization for video streaming
+            - erasure coding for distributed storage systems
+            - task offloading in mobile edge computing
+            - rfid protocol
+            - sdn controller load balancing
+            - network function virtualization
+            - millimeter wave wireless networking
+            - video streaming quality evaluation algorithm
+            - mptcp congestion control
+            - network flow management
+            - content caching strategy
+            - indoor wifi localization
+            - network flexibility optimization
+            - wireless charging algorithm
+            - software-defined networking
+            - sdn security
+        - wireless sensor network/wireless networking
+            - iot security protocol
+            - elliptic curve cryptography implementation
+            - iot device identification
+            - cloud resource management
+            - information security culture
+            - wireless sensor network deployment
+            - internet of things (iot)
+            - soil moisture retrieval
+            - priority-based mac protocol
+            - workflow scheduling algorithm
+            - network traffic classification
+            - polarimetric sar image analysis and processing
+            - edge computing offloading
+            - sensor network localization algorithm
+            - rfid authentication protocol security
+            - vehicular cloud computing
+            - iot device security
+            - lightweight block cipher
+            - flash storage performance
+            - location privacy protection
+            - federated learning for privacy-preserved data sharing
+            - optical wireless communication
+            - fog computing security
+            - conditional diagnosability
+            - cloud virtual machine security
+            - android malware detection
+            - iot security
+            - named data networking (ndn)
+            - hyperspectral image classification
+            - side-channel attack
+            - cognitive radio networks
+            - wireless sensor network security
+            - searchable encryption scheme
+            - physical unclonable function (puf) security
+            - wireless device-to-device communication
+            - manet security protocol
+            - healthcare data analysis
+            - wireless sensor network
+            - uav network communication
+            - mobile task sense base
+            - hybrid cloud computing
+            - cyber threat intelligence sharing
+            - healthcare data service
+            - bluetooth security
+            - virtual network management
+            - intrusion detection system
+            - human activity recognition
+            - iot security access control
+            - cloud edge computing service
+            - radiometric calibration
+            - video streaming quality control
+            - edge computing
+            - ground penetrating radar imaging
+            - non-intrusive load monitoring
+            - cognitive radio network
+            - cloud resource optimization
+            - remote sensing image registration
+            - iot security and blockchain
+            - uwb radar detection
+            - hyperspectral image compression
+            - indoor localization algorithm
+            - cloud service trust management
+            - cybersecurity threat mitigation
+            - wireless sensor network protocol
+        - radar/navigation
+            - eeg signal processing
+            - matrix optimization for robust signal processing
+            - massive mimo precoding
+            - radar target detection
+            - decentralized optimization algorithm
+            - sparse signal recovery algorithm
+            - cfar detector
+            - gnss signal processing
+            - adaptive filtering algorithm
+            - frequency estimation algorithm
+            - radar signal recognition
+            - mimo radar target detection
+            - radar detection system
+            - end-to-end speech synthesis
+            - fractional fourier transform
+            - speech enhancement
+            - radar hrrp target recognition
+            - digital filter design
+            - fbmc-pam system performance
+            - graph signal processing
+            - mimo radar target estimation algorithm
+            - massive mimo networking
+            - space-time adaptive processing (stap)
+            - radar-based human activity classification
+            - passive sar imaging
+            - robust kalman filter algorithm
+            - gps navigation algorithm
+            - mimo radar waveform design
+            - target tracking algorithm
+            - speaker recognition
+            - wireless acoustic sensor network localization
+            - automatic speech recognition
+            - radar communication power control
+            - fractional-order circuit design
+            - audio watermarking scheme
+            - synthetic aperture radar imaging
+            - sparse signal recovery
+            - state estimation algorithm
+            - radar jamming suppression
+            - radar communication system design
+            - compressive sensing algorithm
+            - blind source separation algorithm
+            - target detection algorithm
+            - multi-target tracking algorithm
+            - signal decomposition
+            - chaotic image encryption
+            - radar array calibration
+            - target detection radar system
+        - ubiquitous computing/artificial intelligence laboratories
+            - indoor localization
+            - mobile virtual reality
+            - gesture recognition system
+        - information theory/wireless networking
+            - wiretap channel security
+            - information theory
+            - privacy mechanism
+            - post-quantum cryptography
+            - linear code construction
+            - group testing
+            - age of information (aoi)
+            - linear code design
+            - streaming error correction codes
+            - subspace codes
+            - ldpc code design
+            - private information retrieval
+            - approximate message passing algorithm
+            - error-correcting codes
+            - polar coding
+            - coded caching scheme
+            - distributed computing scheme
+            - massive random access scheme
+        - electric power/electronics and the environment
+            - tunnel fet device performance
+            - multi-agent network consensus
+            - tunnel fet design
+            - voltage level shifter
+            - adaptive filtering algorithm
+            - bandpass filter design
+            - dc power flow control
+    - optoelectronics & photonics
+        - fiber-optic communications/fiber optics
+            - hybrid fso/rf communication system
+            - optical demultiplexer design
+            - high-speed visible light communications
+            - microwave photonic link
+            - photonic crystal sensor
+            - free space optical communication
+            - free space optical communication link
+            - strain sensor technology
+            - terahertz fiber optics
+            - thulium-doped fiber laser
+            - polarization rotator design
+            - metal-insulator-metal (mim) plasmonic sensor
+        - fiber-optic communications/optical communications
+            - phase-sensitive optical time-domain reflectometry
+            - free space optical communication
+            - optical fiber communication systems
+            - sdn network management
+            - bandwidth allocation algorithm
+            - optical transport network design
+            - radio over fiber system
+            - optical transmission network
+            - 5g network virtualization
+            - sdn optimization service
+            - optical network restoration
+            - visible light communication
+            - optical network power control
+            - optical wireless communication system
+            - optical packet switching
+            - elastic optical network optimization
+            - free space optical transmission
+            - optical network security management
+            - pam-4 optical transmission
+            - sdm network architecture
+            - optical fiber sensor
+            - optical modulation
+            - optical transmission system
+            - quantum key distribution
+            - optical signal transmission
+    - software engineering
+        - concurrency (computer science)/debugging
+            - data structure optimization
+            - program synthesis
+            - program performance optimization
+            - data race detection
+            - information flow security
+            - graph processing optimization
+            - formal verification of programs
+            - distributed systems programming
+            - separation logic decision procedure
+            - type theory programming language
+            - floating-point error analysis and optimization
+            - automated reasoning in set theory
+            - binary optimization
+            - formal program verification
+            - session type theory
+            - memory semantics for hardware
+            - static program analysis
+            - compiler testing
+            - probabilistic program termination
+            - algebraic effects in programming languages
+            - distributed system testing
+            - loop transformation optimization
+            - formal verification
+            - binary code analysis
+            - type theory
+            - multi-language performance analysis
+            - probabilistic programming
+            - automated program repair
+            - language extension
+            - functional reactive programming
+            - programming language tool
+            - type theory and language proof
+            - type-system language engineering
+            - formalization and verification in mizar
+        - software engineering/computer occupations
+            - service reconfiguration
+            - software engineering testing
+            - fault localization technique
+            - bug report detection
+            - deep learning testing
+            - software requirements management
+            - mobile application testing
+            - software effort estimation
+            - smart contract security
+            - software engineering
+            - software quality metrics
+            - exception handling
+            - business process modeling
+            - testing strategy
+            - software product line testing
+            - code smell detection
+            - software verification
+            - software testing technique
+            - formal railway modelling
+            - runtime verification tool
+            - self-adaptive software system
+            - software ecosystem development
+            - requirements engineering
+            - performance regression analysis
+            - software requirements engineering
+            - cloud computing architecture
+            - iot system design
+            - context-aware software systems development
+            - software development model
+            - software development process improvement
+            - software security
+            - software testing techniques
+            - modeling and provisioning
+            - software process improvement
+            - developer activity recognition
+            - software testing strategy
+            - mutation testing
+            - energy consumption in software
+            - automatic release notes generation
+            - software test agent
+            - software development
+            - assurance case design
+            - software component identification
+            - incident detection and triage for online service systems
+            - software architecture development
+            - open source software development
+            - software defect prediction
+            - javascript debugging
+            - design pattern detection
+            - mobile application development framework
+        - visualization (graphics)/infographics
+            - visualization design
+            - virtual reality locomotion
+            - volume rendering visualization
+            - flow data visualization
+            - virtual reality environment
+            - data visualization storytelling
+            - data visualization
+            - virtual reality user experience
+            - interactive machine learning
+            - visualization framework
+            - color visualization design
+            - uncertainty visualization
+            - virtual reality training
+            - eye movement analysis
+            - data visualization quality analysis
+            - ensemble visualization
+            - event sequence analysis
+            - network visualization
+            - cartographic visualization
+            - augmented reality visualization
+            - visualization in software engineering
+            - augmented reality perception
+        - graphic design/communication design
+            - human motion recognition
+            - agent-based crowd simulation
+            - mid-air display
+            - brdf rendering
+            - sph simulation
+            - ray tracing acceleration
+            - real-time scene reconstruction
+            - virtual reality user interface
+            - shape parameterization algorithm
+            - mesh processing algorithm
+            - developable surface design
+            - physics-inspired garment recovery
+            - shape mesh segmentation
+            - holographic near-eye display
+            - facial animation
+            - light transport algorithm
+            - 3d printing algorithm
+            - video capture technology
+            - image enhancement
+            - image stylization
+            - shape modeling
+            - hexahedral mesh generation
+            - collision detection algorithm
+            - laplacian spectral distance
+            - point cloud processing
+            - surface reconstruction algorithm
+            - sketch recognition
+            - aerial cinematography planning
+        - vision/stereoscopy
+            - 3d human pose estimation
+            - hand pose estimation
+            - style transfer in computer graphics
+            - image colorization
+            - salient object detection
+            - depth estimation network
+            - semantic point cloud segmentation
+            - human action recognition
+            - scene understanding
+            - shape generation network
+            - lighting estimation
+            - facial expression manipulation
+            - image generation
+            - image style transfer
+        - computing output devices/haptic technology
+            - user experience design tool
+            - haptic display design
+            - virtual reality user interaction design
+            - collaborative mixed reality design
+            - muscle stimulation in vr interface design
+            - haptic feedback design
+            - eye gaze interaction in virtual reality
+            - hand gesture recognition
+        - cross-platform free software/dynamic programming languages
+- environmental biotechnology
+    - biosensing
+    - bioremediation
+- environmental engineering
+    - carbon capture engineering
+    - natural resources management
+    - geological & geomatics engineering
+        - soil/natural materials
+            - soil-structure interface mechanics
+            - rubber-soil mixture behaviour
+            - cone penetration test analysis
+            - offshore wind foundation design
+            - backfill stability analysis
+            - soil water retention
+            - anchor capacity
+            - soil mechanics
+            - pile-soil interaction
+            - soil stabilization using microbial induced carbonate precipitation
+            - pile foundation engineering
+            - rock mechanics
+            - tunnel stability analysis
+            - seismic bearing capacity of strip footing
+            - energy pile design
+            - pile foundation design
+            - soil liquefaction assessment
+            - geotechnical engineering
+            - pile dynamics in saturated soils
+            - slope stability analysis
+            - soil hydraulic properties
+            - helical pile capacity prediction
+            - discontinuous deformation analysis algorithm
+            - soil compaction behavior
+            - internal erosion in soil mechanics
+            - railway track ballast dynamics
+            - pile raft foundation design
+            - desiccation crack modeling
+            - cavity expansion in soil
+            - soil consolidation
+            - frozen soil mechanics
+            - bentonite water retention behaviour
+            - pile foundation on sloping ground
+            - clay consolidation analysis
+            - cement-soil interaction properties
+            - landslide stability analysis
+            - soil-structure interaction analysis
+            - neural network-based soil modeling
+            - soil retaining wall analysis
+            - soil stabilization
+        - petrology/barrages (dam)
+            - rock tunnel water inrush assessment
+            - geotechnical engineering
+            - geotechnical properties of contaminated soils
+            - rock mechanics
+            - coal mining water inrush risk assessment
+            - rock fracture mechanics
+            - soil stabilization
+            - rock strength prediction
+            - landslide displacement prediction
+            - rock drilling mechanics
+            - rock tunnel stability
+            - bentonite swelling behavior
+            - coal mining engineering
+            - rock strength testing
+            - slope stability analysis
+            - water inrush prevention
+            - rock tunnel deformation prediction
+            - rockfall hazard assessment
+            - tunnel construction deformation
+            - landslide study
+            - tunnel geomechanics
+            - sandstone thermal properties
+            - seismic damage analysis in tunnel engineering
+            - underground engineering
+            - rock bolt support
+            - rock fracture grouting
+            - rock mass fracture extraction
+        - geographic data and information/geographic information systems
+            - openstreetmap quality assessment
+            - building pattern recognition
+            - spatial social media analytics
+            - thematic cartography
+            - geospatial semantics
+            - citygml data model
+            - road network construction method
+        - concrete/building materials
+            - concrete carbonation resistance
+            - high performance concrete
+            - ground motion simulation
+            - magnesium phosphate cement properties
+            - cement paste properties
+            - chloride diffusion in concrete
+            - seismic risk assessment
+            - pervious concrete behavior and properties
+            - cement hydration
+            - concrete material properties
+            - alkali-activated slag
+            - geopolymer concrete properties
+            - masonry building seismic assessment
+            - earthquake risk assessment
+            - seismic hazard model
+            - fly ash concrete property
+            - seismic site response analysis
+            - cement hydration and property
+        - remote sensing/imaging
+    - hydrology/water and the environment
+        - carbonate rock permeability and flow
+        - flow in porous media modeling
+        - permafrost heat transfer
+        - coupled transport in porous media
+        - flood forecasting system
+        - water erosion susceptibility assessment
+        - groundwater management modeling
+        - fluid flow in porous media
+        - seawater intrusion in coastal aquifers
+        - groundwater flow modeling uncertainty
+        - pore scale flow simulation in porous media
+        - water management optimization
+        - transport in porous medium
+        - pore scale soil transport
+        - lnapl migration in porous media
+        - water resource management modeling
+        - flood inundation modeling
+        - discrete fracture flow simulation
+        - groundwater flow parameter inversion
+        - water quality monitoring
+        - precipitation product evaluation
+        - peatland hydrology
+        - runoff response to climate change and human activity in river basins
+        - karst conduit modeling
+        - climate change impact on river basins
+        - reservoir operation optimization
+        - mangrove forest ecology
+        - vegetation-induced flow characteristics
+        - permafrost hydrology
+        - land use/land cover change impact on water resources
+        - water resources climate impact
+        - hydrological modeling
+        - flood risk management
+        - urban land use mapping
+        - soil moisture data assimilation
+        - soil water transport modeling
+        - pacific climate anomaly variability
+        - runoff modeling
+        - drought in europe
+        - landslide susceptibility modeling
+        - soil water balance
+        - climate change impact on river flow
+        - remote sensing and machine learning
+        - rainfall and climate change impact
+        - river basin management under climate change
+        - soil erosion modeling
+        - water resource management
+        - hydrological impact assessment under climate change
+        - water resources management
+        - river sediment management
+        - sediment modeling
+        - streamflow reconstruction
+        - heavy precipitation in china's climate
+        - nutrient flux in water resources
+        - rainfall interception in forests
+        - wind erosion and aeolian landforms
+        - lake climate change
+        - urban land use change
+        - lidar point cloud analysis
+        - water distribution system management
+        - flash flood risk assessment
+        - climate change impact on precipitation
+        - rainfall modeling
+        - groundwater hydrology
+        - river basin climate change impacts
+        - electrical resistivity tomography for aquifer characterization
+        - groundwater potential zone mapping
+        - groundwater vulnerability assessment
+        - hydraulic fracture flow characterization
+        - groundwater quality monitoring
+        - coal mine water inrush risk assessment
+        - groundwater resource management
+        - groundwater hydrochemistry
+        - groundwater flow and injection rate analysis
+        - groundwater recharge estimation
+    - sanitation/sewerage
+        - anaerobic membrane bioreactor treatment
+        - anaerobic sludge digestion
+        - sludge dewatering treatment
+        - constructed wetland treatment
+        - wastewater treatment plant management
+        - organic pollutant degradation
+        - membrane bioreactor treatment
+        - nitrous oxide emissions mitigation
+        - nitrogen removal in wastewater treatment
+        - microalgae-based wastewater treatment
+        - microbial fuel cell technology
+        - wastewater treatment technology
+        - methane production from waste
+        - uv-based water treatment
+        - anammox bacteria bioprocess
+    - hydrology/hydraulic engineering
+        - flow control in shallow reservoirs
+        - water pipe transient analysis
+        - sediment transport modeling
+        - compound channel flow
+        - orifice flow measurement
+        - hydraulic jump flow patterns
+        - turbulent jet flow simulation
+        - coriolis flow measurement
+        - scour prediction
+        - scour hole dynamics
+        - water pipeline air management
+        - scour and bridge design
+- industrial biotechnology
+    - industrial engineering & automation
+        - machining/machine tools
+            - femtosecond laser ablation
+            - magnetic pulse welding process
+            - tube forming process
+            - soft tooling process chain for micro-functional features
+            - piezoelectric actuator control
+            - machining parameters optimization in composites
+            - laser surface treatment
+            - tool surface texturing for micro-turning applications
+            - micro-machining process
+            - surface burnishing process optimization
+            - laser powder bed fusion process
+            - stereolithography process optimization
+            - cutting process optimization
+            - laser shock forming
+            - laser surface hardening
+            - titanium welding property analysis
+            - laser cladding process design
+            - thermal modeling in metal cutting
+            - welding process
+            - gear grinding technology
+            - machining error compensation
+            - thermal error compensation in machine tools
+            - aluminium matrix composite properties
+            - sheet metal forming process
+            - tool machining process
+            - laser coating process
+            - surface roughness prediction
+            - friction surfacing process
+            - forming process optimization
+            - aluminium alloy forming
+            - abrasive water jet machining
+            - ultrasonic welding process
+            - vibration control
+            - remanufacturing process design
+            - cnc machine tool analysis
+            - laser manufacturing process optimization
+            - optical surface metrology
+            - laser forming process
+            - additive manufacturing process
+            - laser shock peening
+            - machining robot control
+            - surface cutting process
+            - surface measurement
+            - spindle error analysis
+            - surface grinding process
+            - warm forming of aluminum alloys
+        - control theory/advanced driver assistance systems
+            - port-hamiltonian systems
+            - adaptive sliding mode control
+            - control algorithm design
+            - switched linear system control
+            - pid controller design
+            - gain-scheduled output feedback control design
+            - optimal energy management strategy
+            - hydraulic actuator control
+            - formation control
+            - controller design for two-wheeled robot
+            - optimal control algorithm
+            - distributed microgrid control
+            - nonlinear system stability
+            - boolean control network
+            - advanced vehicle control systems
+            - reference adaptive control
+            - stochastic optimal control problem
+            - pneumatic control system
+            - quantum control system
+            - engine control system design
+            - discrete-time control systems stability
+            - observer design for nonlinear systems
+            - crane control system
+            - privacy-preserving control system
+            - probabilistic optimization in multi-agent games
+            - formation control for spacecraft
+            - mobile robot control
+            - control system design
+            - delay system control
+            - boundary control system design
+            - fault tolerant control system design
+            - negative imaginary systems
+            - model order reduction
+            - bilateral teleoperation control
+            - linear control system
+            - robust control system design
+            - multi-agent formation control
+            - fault diagnosis observer
+            - optimal control systems
+            - distributed control algorithm
+            - network control system design
+            - state estimation filter
+            - multi-robot temporal logic control
+            - fault detection system
+            - hydraulic control system
+            - nash equilibrium seeking in distributed systems
+            - aero engine control design
+            - dynamic network identification
+            - extremum seeking control
+            - wireless network control systems
+            - vehicle platooning control
+            - predictive control system
+            - sis epidemic model
+            - controller design
+            - stability analysis for delay systems
+            - network controllability
+            - discrete event system control
+            - kalman filter
+            - identification algorithm
+            - iterative learning control
+            - time-optimal trajectory planning for robotic manipulators
+            - fault detection and control
+        - robotics/robots
+            - robotic surgical manipulator
+            - swarm robotics
+            - soft robotic glove for grasp assistance
+            - visual odometry for uav navigation
+            - robot-human interaction
+            - space robot control
+            - robot motion control
+            - uav navigation
+            - collision avoidance algorithm
+            - robot path planning algorithm
+            - assistive robotics
+            - exoskeleton control for human lower limb assistance
+            - aerial vehicle localization
+            - robot manipulator control algorithm
+            - robot control
+            - sensor calibration
+            - autonomous navigation control algorithm
+            - variable stiffness actuator design
+            - autonomous underwater vehicle control
+            - robot learning
+            - robot control algorithm
+            - autonomous aerial exploration
+            - multi-robot connectivity maintenance
+            - flapping wing aerodynamics
+            - quadrupe robot locomotion
+            - magnetic microrobot control
+            - robot manipulation learning
+            - robot control and learning
+            - robot operation control
+            - mobile robot control
+            - robot control system
+            - flight control system design
+            - snake robot locomotion control
+            - robot navigation and interaction
+            - robotics control and object manipulation
+            - mobile robot navigation algorithm
+            - robotic fish design
+            - object detection in robotics
+            - visual place recognition
+            - robot ontology-based decision making
+            - terrain adaptation robot technology
+            - flexible manipulator dynamics
+            - agricultural robotics
+            - human-robot interaction learning
+            - robot path planning
+            - robotics design
+            - robotics and automation
+            - robot calibration
+            - tactile sensing for robot control
+            - robot object recognition
+            - mobile robot control algorithm
+            - autonomous mobile robot navigation
+            - robotics task control
+        - industrialisation/industrial engineering
+            - collaborative product-service systems design
+            - concurrent engineering process
+            - human-robot collaboration
+            - production system design
+            - distributed manufacturing control systems
+            - smart manufacturing system
+            - industry 4.0 value stream management
+            - smart manufacturing system design
+            - digital twin in manufacturing
+            - assembly system design
+            - process monitoring tooling
+            - multi-facility layout problem algorithm
+            - additive manufacturing sustainability
+            - machine tool error estimation
+            - remanufacturing process design
+            - machine learning for manufacturing process optimization
+            - disassembly sequence planning
+            - manufacturing process control
+            - production process control
+            - design for manufacturing
+            - cloud manufacturing service
+            - human-centered manufacturing system design
+            - industry 4.0 implementation
+            - cloud manufacturing
+            - industry 4.0 manufacturing
+            - cyber-physical manufacturing control
+            - process optimization
+            - production maintenance system
+            - production line optimization
+            - concurrent engineering design process
+            - production strategy
+            - learning factory
+            - production system management
+            - maintenance strategy for production system
+            - agile design process development
+            - material cutting process simulation
+            - machining process optimization
+            - assembly line balancing
+            - modular production system design
+            - industry 4.0 manufacturing process technology
+        - mechanisms (engineering)/machines
+            - design for additive manufacturing
+            - parallel manipulator kinematics
+            - optimization and design
+            - spur gear design
+            - gear load sharing analysis
+            - bistable mechanism design
+            - kinematic chain synthesis
+            - gear design optimization
+            - parallel manipulator design
+            - cable-driven parallel robot
+            - four-bar linkage synthesis
+            - robust optimization
+            - non-circular gear transmission mechanism
+            - continuously variable transmission design
+            - reliability-based design optimization
+            - deployable mechanism design
+            - rigid origami design
+            - remote center-of-motion mechanism design
+        - electric motors/energy conversion
+            - piezo driven pump system
+            - magnetorheological damper
+            - piezoelectric energy harvester design
+            - piezoelectric energy harvesting
+            - magnetorheological damper design
+            - magnetorheological fluid control
+            - nonlinear vibration isolation
+            - piezoelectric actuator control
+            - structural health monitoring
+            - piezoelectric actuator design
+        - crewed spacecraft/embedded systems
+- materials engineering
+    - materials
+        - composite materials/fibers
+            - piezoelectric shell vibration
+            - composite plate dynamics
+            - energy absorption in composite structures
+            - structural analysis of composite materials
+            - honeycomb sandwich composite structures
+            - sandwich plate analysis
+            - nonlinear vibration analysis of composite shells
+            - composite shell design
+            - functionally graded plate theory
+            - energy absorbing structures design
+            - functionally graded materials analysis
+            - vibration analysis of composite shells
+            - functionally graded composite vibration analysis
+            - blast-resistant sandwich panel design
+            - catalytic hydrogen production
+            - hydrogen production catalyst
+            - lithium ion battery electrolyte
+            - copper electrodeposition
+            - fuel cell gas diffusion layer
+            - electrochemical lead recovery process
+            - solid oxide fuel cell cathode material
+            - hydrogen generation from alloys
+            - electrocatalytic material for fuel cell
+            - polymer electrolyte membrane fuel cell performance
+            - hydrogen generation catalyst
+            - platinum catalyst for fuel cells
+            - catalyst for fuel cell applications
+            - zinc-based rechargeable battery materials
+            - pem water electrolyzer performance
+            - electrochemical impedance spectroscopy
+            - pt catalyst durability
+            - mg-based hydrogen storage
+            - hydrogen storage materials
+            - hydrogen storage and fuel cell systems
+            - vanadium redox flow battery membrane
+            - fuel cell performance
+            - electrochemistry
+            - catalytic methane decomposition
+            - high-performance supercapacitor electrode
+            - corrosion of steel
+            - lithium-ion battery design
+            - electrodeposition from ionic liquids
+            - material property enhancement
+            - friction stir welding
+            - ti-based composite
+            - wc carbide materials
+            - materials engineering
+            - laser clad coatings
+            - graphene composite materials
+            - bainitic steel microstructure
+            - high-performance alloy development
+            - high-entropy alloy properties
+            - alloy development
+            - microstructure analysis in metal additive manufacturing
+            - bulk metallic glass laser printing
+            - aluminum alloy deformation behavior
+            - materials science
+            - additive manufacturing properties
+            - cu-based alloy properties
+            - cu composite alloy sintering
+            - alloy mechanical property development
+            - welded steel properties
+            - spark plasma sintering
+            - steel forming optimization
+            - resistance spot welding
+            - steel microstructure evolution
+            - materials processing and deformation behavior
+            - composite materials
+            - diamond drill bit design
+            - ti alloy mechanical property evaluation
+            - explosive welding
+            - linear friction welding
+            - high-entropy alloy development
+            - steel processing
+            - alloy microstructure and properties
+            - lattice structure design
+            - nd-fe-b magnet coercivity enhancement
+            - hybrid composite wear behavior
+            - aluminum foam properties
+            - laser powder bed fusion of superalloys
+            - tial alloy properties
+            - high-strength steel microstructure
+            - shape memory alloys
+            - steel properties and microstructures
+            - alloy properties
+            - alloy microstructure
+            - creep behavior in steel
+            - brazed joint properties
+            - tantalum-based ceramic materials
+            - stainless steel properties and microstructure
+            - aluminum alloy forming
+            - materials property analysis
+            - shape memory alloy development
+            - magnesium alloy properties
+            - materials deformation analysis
+            - alloy microstructure properties
+            - aluminum alloy design
+            - biofabrication of tissue regeneration scaffolds
+            - magnesium alloy behavior
+    - mining & metallurgy
+        - steels/building materials
+            - electric arc furnace modeling
+            - magnetite concentrate reduction
+            - sinter process optimization
+            - burden distribution in blast furnace
+            - aluminum electrolysis cell design
+            - blast furnace coke properties
+            - phosphorus recovery from steelmaking slag
+            - slag desulfurization process
+            - steel continuous casting process
+            - titanium production
+            - blast furnace sludge treatment
+            - electroslag remelting process
+            - steel inclusion transformation
+            - slag chemistry in copper smelting process
+            - ladle metallurgy
+            - silicon refining process
+            - steel inclusion process
+            - steel inclusion treatment
+            - peritectic steel transformation
+            - tin formation in ferritic stainless steel
+            - mold flux optimization
+            - steel microstructure and property research
+            - steel slag characterization
+            - steel slag reaction
+            - slag dephosphorization process
+            - iron ore pellet reduction process
+            - blast furnace management
+            - pipe rolling process
+        - casting (manufacturing)/metallurgical processes
+            - steel grain material property
+            - magnesium alloy microstructure property
+            - steel microstructure property
+            - material deformation
+            - hydrogen embrittlement in steel
+            - ti-6al-4v additive manufacturing
+            - bulk metallic glass properties
+            - phase field simulation
+            - texture memory in steels
+            - magnesium alloy microstructure
+            - ni-base superalloy phase stability
+            - aluminum alloy casting process
+            - austenitic stainless steel properties
+            - alloy microstructure and property development
+            - strain-induced deformation analysis in steel
+            - grain-oriented silicon steel microstructure
+            - alloy phase equilibrium
+            - mg-gd-zr alloy properties
+            - creep modeling in materials
+            - microalloyed steel precipitation
+            - stainless steel phase formation
+            - abnormal grain growth simulation
+            - steel microstructure formation
+            - steel microstructure optimization
+            - alloy deformation mechanisms in mg
+            - steel welding and microstructure
+            - alloy microstructure
+            - alloy hot tearing susceptibility
+            - alloy microstructure property
+            - superalloy characterization
+            - friction stir welding process
+            - titanium alloy microstructure
+            - alloy microstructure and texture development
+            - ti alloy microstructure analysis
+            - alloy casting process control
+            - high-entropy alloy properties
+            - steel microstructure analysis
+            - titanium alloy deformation
+            - duplex stainless steel properties
+            - grain boundary deformation
+            - creep deformation mechanism in nanomaterials
+        - metallurgical processes/flotation processes
+            - nickel laterite ore processing
+            - fluorite flotation process
+            - extractive distillation process design
+            - tantalum and niobium extraction process
+            - magnetic particle capture
+            - metal separation and recovery process
+            - rare earth extraction and separation
+            - copper recycling technology
+            - hydrocyclone classification
+            - froth flotation process control
+            - fine coal separation
+            - palladium and platinum extraction
+            - molybdenum flotation process
+            - iron ore separation
+            - flotation process optimization
+            - indium recovery process
+            - gold leaching process
+            - potassium extraction from feldspar
+            - carbon capture and storage
+            - hydraulic fracturing in oil reservoirs
+            - electrostatic precipitation particle collection
+            - ilmenite reduction process
+            - zinc leaching process
+            - flocculation process
+            - scandium extraction
+            - mineral processing
+            - alumina extraction from coal fly ash
+            - copper bioleaching process
+            - iron removal process
+            - open pit mining optimization
+            - lithium ion battery recycling
+            - coal flotation process
+            - electrodeposition of metals
+        - chemical processes/natural gas technology
+- mechanical engineering
+    - aerospace & aeronautics
+        - rocket propulsion/rocket engines
+        - crewed spacecraft/astrodynamics
+    - automobile design & engineering
+        - mechanical power control/auto parts
+            - federated learning
+            - satellite communication network
+            - vehicular cloud resource allocation
+            - reinforcement learning for energy optimization
+            - vehicular edge computing
+    - mechanical engineering & transports
+        - 3d printing processes/3d printing
+            - belt grinding process
+            - microwave material processing
+            - resistance spot welding process
+            - friction stir welding
+            - clinching process optimization
+            - magnetorheological finishing process
+            - rolling process optimization
+            - surface machining process optimization
+            - residual stress in machining
+            - assembly sequence planning
+            - roll forming process
+            - additive manufacturing process
+            - incremental sheet metal forming
+            - cold spray coating deposition
+            - geometric error compensation in machine tooling
+            - grinding process
+            - surface modification process
+            - energy-efficient manufacturing process planning
+            - additive manufacturing design
+            - machining process optimization
+            - wire arc additive manufacturing
+            - service composition in cloud manufacturing
+            - tool wear prediction
+            - electrochemical machining flow field
+            - tolerance analysis in assembly
+            - abrasive water jet machining
+            - machining and material science
+            - weld residual stress analysis
+            - metal extrusion process
+            - surface machining process
+            - cross-wedge rolling process
+            - electrical discharge machining (edm)
+            - spark plasma sintering
+            - cfrp drilling technology
+            - tool wear coating
+            - profile grinding error compensation
+            - cutting force modeling
+            - laser powder bed fusion process optimization
+            - welding process optimization
+            - ni-based nanocomposite coatings for corrosion and wear resistance
+            - laser powder bed additive manufacturing
+            - process optimization
+            - welding process modeling
+            - rail vehicle dynamics
+            - friction drilling tool optimization
+            - cutting tool wear analysis
+            - sheet metal forming
+            - surface engineering
+            - high-tech enterprise management
+        - fracture mechanics/materials degradation
+            - fatigue crack growth
+            - stainless steel laser processing
+            - strain-based fracture assessment
+            - laser shock peening
+            - fatigue analysis in composites
+            - fatigue life prediction
+            - grain deformation in steel microstructures
+            - fatigue crack growth modeling
+            - fatigue analysis
+            - stress and fatigue analysis of steel
+            - cast iron fatigue property
+            - shape memory alloy properties
+            - fatigue damage assessment
+            - stress intensity factor calculation
+            - pipeline steel fatigue crack
+            - magnesium alloy properties
+            - fatigue failure analysis
+            - crack propagation in superalloys
+            - turbine blade failure analysis
+            - welded joint properties
+            - self-piercing riveted joint fatigue
+            - fatigue crack propagation
+            - notch fracture toughness assessment
+            - very high cycle fatigue of titanium alloys
+            - ductile fracture mechanics
+            - fatigue crack growth prediction
+            - fatigue crack growth behavior
+            - residual stress analysis in pipeline welding
+            - additive manufacturing fatigue
+            - high-strength steel properties
+            - damage mechanics
+            - fatigue test material properties
+            - fatigue analysis in welding
+            - creep deformation analysis
+            - ductile fracture behavior of steel material
+            - multiaxial fatigue life prediction
+            - fatigue deformation of steel
+            - gear tooth fatigue test
+            - fatigue crack growth analysis
+            - ti alloy microstructure
+            - fatigue properties of aluminum alloy
+            - fatigue damage restoration
+            - titanium alloy properties
+            - fracture mechanics
+        - concrete/concrete buildings and structures
+            - reinforced concrete blast resistance
+            - concrete mechanics
+            - sandwich panel blast resistance design
+            - projectile penetration
+            - ballistic impact testing
+            - blast-resistant foam structure design
+            - penetration and formation of shaped charges
+            - mechanical material testing
+            - ballistic impact simulation
+            - glass fracture mechanics
+            - energy absorption in thin-walled structures
+            - digital image correlation measurement
+            - dynamic material testing
+        - mechanical vibrations/applied mathematics
+            - thermo-elastic wave theory
+            - cylindrical shell mechanics
+            - composite viscoelastic property prediction
+            - nanotube mechanics
+            - functionally graded material fracture
+            - material mechanics
+            - functionally graded beam vibration
+            - nonlocal beam dynamics
+            - functionally graded materials (fgm) theory and analysis
+            - micropolar beam theory
+            - functionally graded contact problem
+            - finite elasticity of beams
+            - thermoelastic vibration in micro-nano resonators
+            - mechanical engineering: vibration theory
+            - functionally graded structural dynamics
+            - piezoelectric quasicrystal mechanics
+            - nonlinear vibration theory of nanoplates
+            - gradient elasticity theory
+            - functionally graded plate theory
+            - elastic wave propagation
+            - functionally graded materials stress analysis
+            - strain gradient elasticity theory
+            - viscoelastic plate dynamics
+            - strain tensor analysis
+            - carbon nanotube mechanics
+            - elastic material modeling
+        - force/classical mechanics
+            - mechanical system dynamics analysis
+            - design creativity
+            - multibody system simulation
+            - gearbox dynamics
+            - design prototyping
+        - engines/energy conversion
+            - aerodynamic drag reduction
+            - octane fuel performance
+        - powders/materials science
+        - solid mechanics/fracture mechanics
+- medical engineering
+    - bioinformatics
+        - genomics/bioinformatics
+            - drug target interaction prediction
+    - biomedical engineering
+        - blood pressure
+            - biomedical signal analysis
+            - blood pressure estimation
+            - heart rate estimation from video signals
+            - electromyography (emg) analysis
+            - atrial fibrillation detection
+            - ecg signal processing
+            - seismocardiogram signal analysis
+            - respiratory rate estimation
+            - heart sound classification
+            - electrical impedance tomography
+            - ecg signal detection
+            - gait recognition algorithm
+            - fetal ecg signal extraction algorithm
+            - eeg-based brain-computer interface
+            - fall detection technology
+            - electrical impedance measurement
+            - eda signal processing
+            - emg signal classification
+            - emg-based torque estimation
+        - biomechanics/motor control
+            - arterial mechanics
+            - brain injury modeling
+            - aortic aneurysm mechanics
+            - skin mechanics
+            - cardiac biomechanics
+            - cartilage tissue mechanics
+            - blood flow simulation
+            - meniscal biomechanics
+            - lung tissue mechanics
+            - bone scaffold design
+            - soft tissue modeling
+            - biomechanical analysis of aorta tissue
+            - bone implant design
+            - pulmonary arterial hypertension vessel mechanics
+            - trabecular bone mechanics
+        - medical terminology/patient
+            - arterial hemodynamics
+            - musculoskeletal modeling in hip joint patients
+            - knee joint biomechanics
+            - head injury prevention
+            - aortic dissection fluid dynamics
+            - spinal biomechanics
+            - aneurysm hemodynamics
+            - cardiovascular hemodynamics
+            - tricuspid valve mechanics
+            - vascular flow modeling
+- nano-technology
+    - nanoscience & nanotechnology
+        - cellulose/polysaccharides
+            - carbon nanotube composite property
+            - shape memory materials
+            - natural dyeing technology
+            - adsorption materials and processes
+            - polymer nanocomposite thermal property
+            - thermal properties of nanocomposites
+            - composite joint failure analysis
+            - injection molding process
+            - carbon fiber composite
+            - carbon nanotube composite materials
+            - natural fiber composite material
+            - soy protein-based adhesive
+            - flame-retardant cotton fabric
+            - corrosion protection coatings
+            - polymer nanocomposite properties
+            - cotton fiber measurement
+            - crystallization of poly(l-lactide)
+            - ceramic matrix composite properties
+            - chitosan nanofibers
+            - polymer nanoparticles with responsive properties
+            - resin flow and permeability
+            - composite ablation properties
+            - high-performance composite materials
+            - polymer nanoporous material synthesis
+            - conductive textile sensor
+            - molecular dynamics simulation
+            - protein-based superabsorbent materials
+            - polymer hydrogel properties
+            - cold spray technology
+            - silica filled rubber composites
+            - polymer synthesis and properties
+            - fabric smoldering
+            - advanced composite materials
+            - carbon fiber reinforced composite
+            - fabric defect detection
+            - composite sandwich structure
+            - polymer properties
+            - self-healing composite materials
+            - electromagnetic interference shielding materials
+            - polymer stretching and deformation
+            - polybenzoxazine composites
+            - roll coating process modeling
+            - photochromic copolymer
+            - smart hydrogel for drug release
+            - polymer hydrogels and membranes
+            - bio-based plasticizer
+            - composite materials property improvement
+            - piezoelectric pvdf films
+            - polyester fiber properties
+            - ethylene polymerization catalysts
+            - polymer solution properties
+            - wood sorption property
+            - viscoelastic behavior of fiber reinforced materials
+            - drug delivery system design
+            - pharmaceutical tablet manufacturing
+            - drug delivery formulation
+            - chitosan-based nanoparticle for drug delivery
+            - drug release technology
+            - bone tissue engineering scaffold
+            - chitosan-based nanoparticles
+            - pharmaceutical formulation
+            - hydrogel-based drug delivery system
+            - polysaccharide coated tablet delivery system
+            - chitosan-based nanoparticle delivery
+            - bioprinting
+            - nanoparticle-based drug delivery system
+            - drug delivery system
+            - drug release control hydrogel
+            - drug delivery nanosponge
+            - pamam dendrimer drug delivery
+            - tablet disintegration mechanisms
+            - amorphous drug formulation
+            - nanocrystal formulations
+            - ocular drug delivery
+            - nanostructured lipid carriers for drug delivery
+            - self-nanoemulsifying drug delivery system
+            - drug release from tablets
+            - topical drug delivery system
+            - transdermal drug delivery
+            - nanoparticle-based drug delivery
+            - chitosan-based nanoparticle delivery system
+            - thiolated mucoadhesive drug delivery system
+            - chitosan-based biomaterials
+            - pharmaceutical cocrystal formulation
+            - nanoparticle-based drug delivery systems
+            - chitosan-based drug delivery
+            - drug release formulation development
+            - nanofibrous wound dressing
+            - plga nanoparticle delivery system
+            - amorphous solid dispersion
+            - protein formulation stability
+            - smart polymer hydrogels
+            - nanoparticle-based cancer therapy
+            - pharmaceutical nanotechnology
+            - nanofiber-based drug delivery systems
+            - transdermal patch development
+            - liposomal drug delivery
+            - floating drug delivery system
+        - plasmonics/metamaterials
+            - scandium nitride thin films
+            - auxetic materials and structures
+            - graphene-nitride composite electronics
+            - near-field thermal heat transfer
+            - hexagonal boron nitride properties and applications
+            - surface plasmonics
+            - terahertz laser technology
+            - gan thin film growth
+            - diamond mosfet technology
+            - quantum dot properties
+            - mg-doped gan growth
+            - laser technology
+            - ultraviolet photodetector
+            - magnetoplasmonic crystal design
+            - igzo thin film transistor
+            - acoustic metamaterials
+            - magnetic film growth
+            - helium ion beam technology
+            - gaas photocathode nanowires
+            - ferroelectric thin film properties
+            - graphene raman spectroscopy
+            - graphene-based spin devices
+            - hyper-doped silicon optoelectronics
+            - memristor device switching mechanisms
+            - heusler alloy properties
+            - euv lithography
+            - electron backscatter diffraction (ebsd)
+            - atomic layer deposition
+            - terahertz quantum cascade laser
+            - graphene-based photodetectors
+            - magnetic thin film properties
+            - quantum dot laser
+            - graphene device properties
+            - liquid crystal device technology
+            - magnetic film properties
+            - black phosphorus physics
+            - second-harmonic generation
+            - plasmonic nanostructures
+            - high-mobility basno3 film
+            - algan-based ultraviolet light-emitting diode
+            - ferroelectric material properties
+            - plasmonic materials
+            - zno thin film optical properties
+            - cuo/zno thin film properties
+            - cu-based solar cell properties
+            - nanowire laser
+            - chiral optical phenomena
+            - silicon quantum dot optical structure
+            - magnetic thin films
+            - carbon nanotube resonator
+            - infrared superlattice detector
+            - silicon quantum dot device
+            - thermal transport in phononic crystals
+            - femtosecond laser surface processing
+            - vanadium dioxide thin film studies
+            - plasmonic nanoparticle
+            - tunable terahertz metamaterial induced transparency
+            - ferroelectric thin film structure
+            - superconducting nanowire single-photon detector
+            - plasmonic coupling
+            - topological insulators
+            - magnetic film anisotropy
+            - magnetic properties of graphene
+            - magnetocaloric effect in alloys
+        - tribology/lubricants
+            - solar photovoltaic module
+            - elastohydrodynamic lubrication
+            - machining performance
+            - aerostatic thrust bearing design
+            - rolling bearing fatigue
+            - wear and friction analysis
+            - tactile perception
+            - surface engineering
+            - wear resistant coatings
+            - tribological properties of composites
+            - diamond-like carbon film friction
+            - axial piston pump design
+            - erosion-corrosion of steel
+            - pantograph-catenary interaction
+            - tribological behavior
+            - cdte solar cell
+            - composite material wear characteristics
+            - tribology and wear protection
+            - tribological properties of composite materials
+            - bearing dynamics
+            - tribological properties of titanium alloy
+            - hydrogel friction and lubrication
+            - brake friction composite material
+            - silicon wafer defect study
+            - ionic liquid lubrication
+            - wave energy converter design
+            - coating wear properties
+            - railway track condition monitoring
+            - photovoltaic energy system design and optimization
+            - friction and wear properties
+            - sealing performance and wear
+            - phase change material for thermal energy storage
+            - lubrication tribology
+            - adhesive contact mechanics
+            - tribofilm formation
+            - solar cell coating
+            - piston ring friction
+            - solar selective coating
+            - lubrication
+            - diesel engine performance analysis
+        - sensors/biosensors
+            - glucose biosensor
+            - rf mems switch design
+            - piezoelectric energy harvester
+            - surface acoustic wave technology
+            - particle separation in microfluidics
+            - dna detection method
+            - micro-mixer design
+            - digital microfluidic droplets detection
+            - microfluidic biosensor design
+            - dopamine detection using carbon microelectrodes
+            - micro-actuator design optimization
+            - graphene sensor
+            - microfluidic device fabrication
+            - raman spectroscopy for cancer diagnosis
+            - electrochemical biosensor
+            - zinc oxide gas sensor
+            - mass spectrometry applications
+            - single cell impedance sensing device
+            - microfluidic device design
+            - biosensor technology
+            - electrochemical sensor development
+            - paper-based microfluidic device
+            - surface-enhanced raman spectroscopy (sers)
+            - raman spectroscopy applications
+            - nanobiosensor
+            - non-enzymatic glucose sensor
+            - mass spectrometry ionization
+            - single cell analysis
+            - electrochemical sensor
+            - mirna biosensor
+            - mass spectrometry analysis
+            - protein mass spectrometry
+            - electrochemical pesticide detection
+            - raman spectroscopy
+            - quartz crystal microbalance sensor
+            - ion selective electrode
+            - gas detection sensor
+            - colorimetric detection
+            - boron-doped diamond electrode
+            - metal ion detection sensor
+            - oral cancer detection biosensor
+            - high-sensitivity biosensing detection
+            - quantum dot fluorescence probe
+            - electrochemical sensor for chemical detection
+            - polymer injection molding process
+            - electrochemical sensor for antibiotic detection
+        - nanoparticles/emerging technologies
+            - zinc oxide gas sensor
+            - ionic liquid interactions
+            - lithium-sulfur battery
+            - zinc oxide thin film fabrication
+            - sno2 anode material
+            - room temperature phosphorescence
+            - zeolite synthesis
+            - black phosphorus property
+            - carbon nanotube synthesis
+            - blue organic light-emitting diodes (oleds)
+            - metal-based nanoparticles synthesis and characterization
+            - organic-silicon hybrid solar cell
+            - biofuel cell development
+            - solid oxide fuel cell anode design
+            - anodic aluminum oxide films
+            - manganese-based supercapacitor
+            - water-silica interface dynamics
+            - cu2znsns4 thin film solar cell
+            - graphene-based microwave absorption
+            - artificial synaptic transistor
+            - self-assembled thin film property
+            - dielectric nanocomposites
+            - nitrogen reduction reaction catalyst
+            - surface-enhanced raman spectroscopy
+            - carbon adsorption properties
+            - triboelectric nanogenerator energy harvesting
+            - zinc oxide nanomaterials
+            - phase change material composite
+            - graphene-based membrane
+            - perovskite solar cells
+            - lignin nanoparticles
+            - organic thin-film transistors (o-tfts) or printed electronics
+            - nanostructured materials synthesis
+            - calcium phosphate nanomaterials
+            - redox flow battery
+            - spin crossover in molecular devices
+            - polydiacetylene sensor
+            - colloidal quantum dot solar cell
+            - thermochromic vo2 film properties
+            - thermoelectric materials
+            - mgo nanoparticle characterization
+            - hydrogen storage
+            - phosphor emission for lighting
+            - corrosion protection coatings
+        - membrane technology/water technology
+            - nanomaterial environmental risk assessment
+            - zeolite membrane separation
+            - photocatalytic activity enhancement
+            - liquid membrane extraction
+            - asphaltene interactions and processing
+            - pickering emulsion stabilization
+            - wastewater treatment
+            - membrane-based liquid-liquid extraction
+            - adsorption process
+            - cu-based scr catalysts design
+            - adsorption and separation process
+            - heavy metal ion adsorption
+            - water purification adsorbents
+            - pvdf hollow fiber membrane
+            - mercury removal mechanism
+            - graphene-based membrane
+            - cao-based co2 sorption
+            - membrane fouling in forward osmosis
+            - dye adsorption
+            - zeolite catalyst
+            - advanced oxidation process catalysis
+            - oxygen-transporting membrane technology
+            - hydrodesulfurization catalyst development
+            - chemical looping combustion process
+            - catalytic co2 methanation
+            - ethanol separation via pervaporation
+            - proton-conductive membranes
+            - membrane technology for water desalination
+            - adsorption of dye removal
+            - dye adsorption and removal
+            - adsorption technology
+            - surfactant properties
+            - oil water separation
+            - membrane gas separation
+            - capacitive deionization
+            - polymeric membrane modification
+            - droplet dynamics
+            - cavitation rheology in soft materials
+            - gas hydrate formation and properties
+            - pt-based catalysts
+            - membrane-based water treatment
+            - adsorption materials for water remediation
+            - palladium catalyst for electrochemical nitrate reduction
+        - liquid crystals/phase transitions
+            - ferroelectric liquid crystal properties
+            - liquid crystal properties
+            - liquid crystal film
+            - liquid crystalline heterocycles
+            - liquid crystalline materials synthesis
+            - chiral liquid crystals
+            - liquid crystal compound synthesis
+            - liquid crystal phase ordering
+            - liquid crystal fluorescence
+            - liquid crystal synthesis
+            - chromonic liquid crystals
+            - blue phase liquid crystals
+        - nuclear power reactor types/nuclear technology
+            - cr-based coatings
+            - ni clustering under irradiation
+            - puo2 surface properties
+            - glass waste form stabilization
+            - nanoindentation and ion irradiated materials
+            - oxide dispersion strengthened steel properties
+            - nanomaterial structure and defect analysis
+            - deformation-induced martensitic transformation in stainless steel
+            - thermal conductivity
+            - tritium diffusion in materials
+            - tungsten alloy synthesis
+            - sic composite irradiation
+            - liquid metal embrittlement testing
+            - zirconium alloy irradiation study
+            - uranium materials physics
+            - silicon irradiation
+            - neutron irradiated tungsten
+            - radioactive fuel material characterization
+            - synroc waste form synthesis
+            - austenitic stainless steel radiation effects
+            - nuclear fuel alloy modelling
+            - lead-free piezoceramic properties
+            - nuclear graphite material property
+            - tungsten irradiation effects
+        - corrosion/coatings
+            - primary si alloy development
+            - shape memory alloy development
+            - alumina ceramic processing
+            - ferrite magnetic properties
+            - material removal and scratch mechanism
+            - twinning in grain boundaries
+            - zinc oxide nanoparticles properties
+            - alumina ceramic sintering
+            - nitrogen-expanded austenite steel treatment
+            - cold spray coating process
+            - grain texture evolution
+            - superhydrophobic surface coating
+            - electronic structure of compounds
+            - silicon carbide ceramic composite
+            - thermoelectric skutterudite properties
+            - boronide surface modification
+            - ti alloy coating and surface properties
+            - tio2 photocatalysis
+            - glass properties and ion exchange
+            - scintillator properties
+            - oxidation resistance coating design
+            - infrared detector development
+            - hydrogen embrittlement in steel
+            - radiation shielding materials
+            - ceramic composite synthesis
+            - microwave dielectric ceramic properties
+            - mg alloy corrosion behavior
+            - materials science and engineering
+            - optical properties of nanostructured tio2 films
+            - femtosecond laser surface modification
+            - superalloy welding microstructure
+            - nanocrystalline materials stability
+            - sic ceramic joint technology
+            - corrosion inhibition
+            - optical thin films characterization
+            - diamond-like carbon coatings
+            - thermal barrier coatings
+            - coating wear resistance
+            - energy storage ceramic
+            - high-entropy alloy coatings
+            - nanoporous gold material property
+            - solder joint properties
+            - nonlinear optical single crystal studies
+            - ti-based cermets
+            - upconversion phosphor development
+            - photocatalytic materials
+            - flux pinning in superconductors
+            - metallic glass alloy properties
+            - ceramic nanoparticles doping
+            - high-k gate dielectric
+            - phosphor properties
+            - sic fiber-reinforced composites
+            - thermoelectric properties of zinc oxide (zno)
+            - copper-diamond composite property
+            - alloy mechanical properties
+            - surface treatment and modification
+            - zno varistor performance
+            - corrosion of nickel-based alloys
+            - mo-based coatings alloy development
+        - thermoelectricity/heat transfer
+            - nanofluid heat transfer
+            - droplet dynamics and heat transfer
+            - covid-19 transmission and airborne virus spread
+            - thermal performance of nanofluids
+            - surface boiling heat transfer
+            - boiling heat transfer enhancement
+            - bubble dynamics in heat transfer
+            - rarefied gas flow dynamics
+            - fluid flow and heat transfer around cylinders
+            - microchannel heat transfer
+        - solid mechanics/deformation (mechanics)
+            - material fracture prediction
+            - nanomechanics
+            - thermodynamic modeling for viscoelastic materials
+            - mechanical property estimation
+            - material fracture mechanics
+            - vibration analysis of nanobeams
+            - piezoelectric crack analysis
+            - fibrous materials behavior
+            - dielectric elastomer actuation
+            - dislocation dynamics
+            - piezoelectric energy harvester
+            - structural damage detection
+            - fracture mechanics
+            - polymer bonded explosive damage
+            - spherical shell buckling
+            - magnetorheological damper design
+            - magnetoelectric composite behavior
+            - composite materials mechanics
+            - crack propagation in nanomaterials
+            - hydrogel materials and behavior
+            - material damage modeling
+            - material modeling and damage prediction
+            - fracture analysis of composite materials
+            - piezoelectric vibration damping
+            - flexoelectric materials theory
+            - crack propagation in materials
+            - shape memory alloy
+            - material mechanics
+            - nanocomposite mechanics and properties
+            - stress intensity factor analysis
+            - strain gradient elasticity theory
+            - crack fracture mechanics
+            - cyclic plastic deformation behavior
+            - metamaterial design
+            - composite materials mechanical behavior
+            - interfacial fracture mechanics
+            - constitutive modeling of composites
+            - piezoelectric actuator optimization
+            - phononic crystal metamaterial
+            - self-healing materials damage modeling
+            - piezoelectric composite actuation
+            - strain rate dependent deformation behavior of materials
+        - building materials/concrete
+            - cement-based materials property
+            - geopolymer strength control
+            - concrete fiber reinforcement property
+            - slag-based geopolymer binder
+            - cement compressive strength
+            - cement hydration and strength
+            - cement hydration and properties
+            - hydration mechanism in cement
+            - cement hydration and strength improvement
+            - polycarboxylate superplasticizer
+            - 3d printed cementitious materials characterization
+            - self-healing concrete material
+            - concrete material properties
+            - graphene reinforced cement composites
+            - cement paste hydration
+            - geopolymerization
+        - adhesives/packaging materials
+            - adhesive joint strength
+            - adhesive joint mechanics
+            - adhesive joint analysis
+            - adhesive joint properties
+- other engineering and technologies
+    - operations research
+        - supply chain management/business terms
+            - maintenance policy
+            - portfolio optimization
+            - hub location problem
+            - supply chain optimization algorithm
+            - portfolio selection algorithm
+            - cross efficiency evaluation
+            - production process simulation
+            - home health care scheduling
+            - supply chain sustainability
+            - maximum clique problem
+            - multi-objective optimization problem
+            - retail shelf space management
+            - supply chain management
+            - tournament scheduling problem
+            - simulation modeling
+            - warehouse order picking algorithm
+            - flow shop scheduling problem
+            - ride-sharing optimization
+            - facility layout problem
+            - timetable problem solving algorithm
+            - production planning
+            - train scheduling problem
+            - maritime vehicle routing problem
+            - container terminal scheduling
+            - resource-constrained project scheduling problem
+            - irregular packing problem algorithm
+            - lot size optimization
+            - nurse scheduling problem
+            - parallel machine scheduling problem
+            - credit risk prediction model
+            - inventory management problem
+            - real options in investment
+            - game search strategy
+            - facility location problem
+            - travel salesman problem
+            - retrial queueing system
+            - inventory management policy
+            - capacitated vehicle routing problem
+            - combinatorial optimization problem
+            - aircraft recovery problem
+            - supply chain decision making
+            - inventory location problem
+            - cross-docking optimization
+            - assembly line optimization
+            - supply chain risk management
+            - airport efficiency measurement
+            - transient queue analysis
+            - reliability analysis
+            - inventory management
+            - relief supply chain management
+            - human reliability analysis
+            - healthcare system efficiency
+            - infrastructure resilience optimization
+            - data envelopment analysis in supply chain management
+            - carrier collaboration mechanism
+            - decision support systems
+            - redundancy allocation problem optimization
+            - reliability and maintenance policy
+            - reliability maintenance modeling
+            - robust optimization for logistics problems
+            - container drayage operations problem
+        - mathematical optimization/evolutionary algorithms
+            - multi-objective optimization problem
+            - sparse regression optimization
+            - set optimization problem
+            - tensor complementarity problem
+            - maximal monotone operator problem
+            - integer knapsack problem
+            - global optimization
+            - riemannian optimization
+            - linear programming algorithm
+            - optimization problem constraint
+            - nonlinear optimization algorithm
+            - nash equilibrium problem
+            - linear optimization algorithm
+            - bilevel optimization algorithm
+            - convex mixed integer nonlinear program cutting plane algorithm
+            - vector equilibrium problem
+            - equilibrium problem algorithm
+            - probabilistic optimization
+            - mixed-integer optimization
+            - absolute value equation solution
+            - dc optimization problem
+            - integer programming algorithm
+            - conjugate gradient method
+            - optimal control theory
+            - robust portfolio optimization
+            - multi-objective optimization algorithm
+            - quadratic optimization problem
+            - distance geometry problem
+            - semidefinite programming optimization
+            - optimal control problem in fermentation
+            - global optimization algorithm
+            - interior point algorithm
+            - convex optimization problem
+            - stochastic variational inequality optimization
+            - convex optimization algorithm
+            - linear multiobjective optimization
+        - mathematical economics/business terms
+            - supply chain forecasting
+            - network data envelopment analysis
+            - data envelopment analysis efficiency
+            - supply chain financing strategy
+            - multi-criteria decision making
+            - supply chain strategy
+            - supply chain management
+            - decision support system
+            - single-machine scheduling problem
+            - aircraft scheduling optimization
+            - feedback loop dynamics
+        - sustainable energy/electric power distribution
+        - maintenance/mechanical engineering
+    - strategic, defence & security studies
+        - risk analysis/actuarial science
+            - ozone-based water treatment
+            - pfas removal from water
+            - photocatalytic degradation
+            - antibiotic resistance in water
+            - water treatment process
+            - oil-water separation
+            - metal ion adsorption
+            - cr(vi) removal
+            - explosion characteristics
+            - iron removal from water
+            - adsorption for water purification
+            - uranium removal adsorption
+            - microplastic removal
+            - water treatment adsorbent production
+            - catalytic nox reduction
+            - sars-cov-2 detection
+            - wastewater treatment and energy recovery
+            - adsorption technology for cs removal
+            - membrane water treatment
+            - thermal hazard investigation
+            - dye adsorption
+            - photocatalytic water treatment
+            - water purification technology
+            - phenol adsorption
+            - fenton process for wastewater treatment
+            - capacitive deionization technology
+            - dye adsorption and removal
+            - liquid-liquid extraction process
+            - methylene blue adsorption
+            - toxicity assessment
+            - wastewater treatment
+            - microbial fuel cell technology
+            - fenton-like catalysts
+            - photocatalytic activity
+            - nanoparticle synthesis and green technology
+            - adsorption technology
+            - adsorption and photocatalysis for water purification
+            - bioenergy production from sludge
+            - biogas production from anaerobic digestion
+            - biofertilizer development
+            - adsorption process
+            - tio2 photocatalysis
+            - ferrous mill scale waste recycling
+            - fire suppression
+            - heavy metal removal
+            - phosphate adsorption
+        - natural disasters/disaster management
+            - flood damage assessment model
+            - rockfall hazard assessment
+            - rainfall-induced landslide susceptibility
+            - rainfall triggered landslides
+            - landslide seismic response analysis
+            - flood risk management
+            - debris flow modeling
+            - landslide hazard mapping
+
+## humanities and the arts
+
+- history and archaeology
+    - archaeology
+        - archaeology/methods in archaeology
+            - multimodal anthropology
+            - social archaeology
+            - social inequality in prehistory
+            - pentecostal christianity
+            - police state and society
+            - kinship terminology
+            - indigenous knowledges in psychedelic art
+            - indigenous cultural heritage
+            - anthropology in colombia
+            - ethnographic analysis
+            - archaeological heritage studies
+            - spanish colonial history
+            - cultural heritage conservation
+            - language materiality relations
+            - moral economy
+            - child anthropology
+            - inka statecraft
+            - african archaeology
+            - indigenous archaeology practice
+            - anthropological agency
+            - preclassic maya archaeology
+            - anthropology of modern reason
+            - cultural anthropology
+            - christianity and ethics
+            - ossuary burial sites
+            - maya archaeology
+            - archaeological site analysis
+            - population change in southwest
+            - desert culture site archaeology
+            - lithic artifact analysis
+            - mississippian archaeology
+            - ceramic production and use
+            - fremont culture
+            - alaskan archaeological site
+            - archaeological excavation and site analysis
+            - archaeological material culture analysis
+            - early maize in north america
+            - archaeological explanation
+            - ceramic analysis
+            - arctic archaeology
+            - inka pottery production
+            - hohokam archaeological site
+            - indigenous cultural practice
+            - astronomical observations in antiquity
+            - cultural process archaeology
+            - california archaeological culture
+            - archaeological resource management
+            - archaeological theory
+            - caddo archaeological site description
+            - ceramic material culture
+        - pleistocene extinctions/pleistocene
+            - uav photogrammetry for archaeological applications
+            - holocene climate change
+            - human remains identification
+            - horse archaeology
+            - late holocene forest ecology
+            - glacier geology
+            - rock art pigment analysis
+            - funerary archaeology
+            - bronze age metal analysis
+            - sheep archaeology
+            - archaeological materials analysis
+            - late pleistocene human ecology
+            - medieval diet reconstruction
+            - glacial landform distribution
+            - pleistocene mammal extinction
+            - greenland ice sheet history
+            - archaeomalacology
+            - neolithic archaeological ceramics analysis
+            - holocene forest ecology
+            - cave archaeology
+            - archaeological plant analysis
+            - tortoise consumption in neanderthal populations
+            - holocene environmental change
+            - ceramic glaze production
+            - bone surface modification
+            - white marble provenance
+            - medieval glass production
+            - lithic technology
+            - geoarchaeological analysis
+            - ancient egyptian pigment analysis
+            - lead isotopes in archaeological analysis
+            - australian rock art archaeology
+            - maya archaeological landscape
+        - archaeological science/art and cultural repatriation
+        - maritime archaeology/underwater archaeology
+            - public archaeological heritage management
+    - anthropology
+        - historical eras/paleolithic
+            - stable isotope analysis in paleodietary research
+    - history of science, technology & medicine
+    - classics
+    - history of social sciences
+    - history
+        - historiography/philosophy of history
+- languages and literature
+    - languages & linguistics
+        - language education/language acquisition
+            - discourse analysis
+            - patient-provider interaction
+            - linguistic variation in language contact
+            - language and ethics
+            - interactional discourse analysis
+            - construction grammar
+            - pragmatic language interaction
+            - cognitive load on interpreting speech
+            - sociolinguistics
+            - therapist-patient interaction in psychotherapy
+            - narrative analysis
+            - language variation and change
+            - interactional linguistics
+            - narrative discourse analysis
+            - conceptual metaphor theory in linguistics
+            - language engagement
+            - court interpreting
+            - subtitling quality assessment
+            - language interaction analysis
+            - pragmaticalization of modals in english grammar
+            - self-praise on social medium (twitter)
+            - sociolinguistic analysis
+            - legal translation
+            - legal terminology linguistics
+            - translation studies
+            - conversation analysis
+            - machine translation evaluation
+            - linguistic cultural representation
+            - metadiscourse analysis in academic writing
+            - public discourse apology
+            - sign language
+            - politeness in language use
+            - cultural pragmatics in language
+            - linguistic interaction construction
+            - korean discourse marker
+            - language politeness
+            - language education policy
+            - language test design validation
+            - language learning strategy
+            - rater assessment
+            - language policy in higher education
+            - language learning interaction
+            - bilingual education policy
+            - linguistic landscape
+            - bilingual education
+            - language learning motivation
+            - intercultural language learning
+            - language teacher identity
+            - language and power dynamics in multilingual contexts
+            - language acquisition and feedback effects
+            - linguistic acquisition
+            - language acquisition and writing development
+            - language learning pronunciation instruction
+            - language policy in multilingual families
+            - global englishes language education
+            - language learning task complexity effect
+            - second language acquisition
+            - l2 listening comprehension
+            - language attitudes in catalonia
+            - english language identity
+            - language policy in education
+            - language learning feedback methodology
+            - intercultural language learning experience
+            - heritage language instruction
+            - deaf language education
+            - foreign language education
+            - language policy and education
+            - academic writing in english
+            - language learning assessment
+            - language teacher development
+            - corpus linguistics in language teacher education
+            - english medium instruction
+        - syntax/generative syntax
+            - language change
+            - linguistic morphology
+            - old french syntax
+            - syntactic grammar
+            - language incorporation
+            - language variation and dialect analysis
+            - linguistic structure analysis
+            - linguistic movement theory
+            - language processing
+            - korean syntax
+            - plural noun construction
+            - syntactic analysis of language structures
+        - english-language idioms/sexual selection
+    - literary studies
+- philosophy, ethics and religion
+    - philosophy
+        - epistemological theories/reasoning
+            - memory theory
+            - philosophy of knowledge
+            - aesthetic philosophy
+            - moral responsibility
+            - social collective theory
+            - epistemic injustice theory
+            - luck egalitarianism
+            - logical pluralism
+            - kantian political theory
+            - collective moral responsibility
+            - social justice responsibility
+            - consciousness philosophy
+            - epistemology
+            - public reason in political philosophy
+            - epistemological study
+            - moral uncertainty theory
+            - semantics
+            - power theory
+            - harm and benefit in philosophy
+            - moral philosophy
+            - epistemic luck
+            - modal epistemology
+            - rationality in philosophy
+            - animalism debate
+            - moral epistemology
+            - metaphysical explanation
+            - practical philosophy
+            - political realism theory
+            - free will philosophy
+            - free will and intention
+            - moral theory
+            - perceptual properties
+            - pleasure theory
+            - autonomy and moral theory
+            - epistemological reasoning
+            - philosophy of religion
+            - philosophical disagreement
+            - intention in language
+            - climate change ethics
+            - normative epistemology
+            - epistemic blame
+            - conceptual engineering theory
+            - african moral philosophy
+            - transformative experience phenomenology
+            - philosophy of science
+            - computational cognitive theory
+            - modal logic
+            - quantum mechanics ontology
+    - applied ethics
+        - bioethics
+            - organ donation and death definition
+            - moral enhancement
+            - moral distress in healthcare
+            - parental decision-making in medical treatment
+            - epistemic injustice in healthcare
+            - practical wisdom in healthcare
+            - clinical ethics support in psychiatry
+            - ai ethics
+            - female genital mutilation ethics
+            - conscientious objection in medicine
+            - ectogenesis ethics
+            - engineering ethics education
+            - advance directive for end-of-life decision-making
+            - ethical research review system
+            - research misconduct
+            - bioethics and environmental ethics
+            - human germline genome editing ethics
+            - clinical ethics consultation
+            - end-of-life decision making for disabled children
+            - abortion ethics
+            - genomic research and biobanking ethics in africa
+    - religions & theology
+- arts
+    - music
+        - discourse analysis/semantics
+            - music education teacher training
+            - music education teacher effectiveness
+            - pitch intonation performance
+            - vocal development in children
+            - musical ear training
+            - collaborative music composition
+            - child music education
+            - music performance evaluation
+            - music preference in children
+            - music education and cultural practices
+            - music education
+    - art practice, history & theory
+    - drama & theater
+    - folklore
+
+## medical and health sciences
+
+- basic medicine
+    - anatomy & morphology
+    - biochemistry & molecular biology
+        - transition metals/cofactors
+        - proteins/proteomics
+            - regulatory t cell biology
+            - regulatory t cell immunity in transplantation
+    - biophysics
+        - simple aromatic rings/triazoles
+            - sars-cov-2 inhibitors
+            - antifungal compound design
+            - thiazole derivatives synthesis
+            - molecular inhibitor design
+            - topoisomerase inhibitor discovery
+            - molecular interaction with alzheimer’s disease inhibitors
+            - anticancer compound synthesis
+            - carbon nanotube-based drug delivery system
+            - histone deacetylase inhibitor
+            - acetylcholinesterase inhibitor discovery
+            - molecular dynamics simulation
+            - synthesis and evaluation of novel antimycobacterial compounds
+            - benzoic acid derivatives as inhibitors
+            - novel compound synthesis
+            - cytotoxic compound synthesis
+            - antimicrobial compound design
+            - indole-based anti-cancer agent synthesis
+            - compound inhibitor for cancer treatment
+            - synthesis and evaluation of compound derivatives as potential cancer therapies
+            - alzheimer's disease therapy
+            - qsar modeling of antimalarial compounds
+            - carbonic anhydrase inhibitor
+            - novel compound synthesis and activity study
+            - antioxidant activity
+            - isatin-based anticancer agents
+            - molecular interaction study
+            - anticancer compound synthesis and evaluation
+            - synthesis of anticancer compounds
+            - chalcone derivatives synthesis
+            - novel compound design
+            - adsorption mechanism study
+            - synthesis and biological activity of coumarin derivatives
+            - hydrogen bonding properties
+            - cancer compound design and evaluation
+            - protein-ligand binding affinity calculation
+            - metal complexes and dna binding studies
+            - molecular inhibitor development
+            - molecular compound study
+            - antibacterial compound design
+            - compound synthesis and activity evaluation
+            - anti-tuberculosis compound
+            - synthesis and anti-cancer activity of compounds
+    - developmental biology
+    - genetics & heredity
+        - intellectual disability/neurodevelopmental disorders
+            - congenital heart disease genetics
+            - newborn screening false positive result
+            - cancer genetic counseling
+            - genomic medicine education
+            - genetic testing
+            - genetic primary care
+            - carrier screening
+            - pediatric exome sequencing
+            - clinical variant interpretation
+            - genetic risk communication
+            - genomic sequencing and its implications
+            - genetic data protection
+            - psychiatric genetic counseling
+            - rare disease epidemiology
+            - genetic diagnosis
+            - prenatal genetic diagnosis
+    - microbiology
+        - antimicrobial resistance/evolutionary biology
+            - fungal infections
+            - toxoplasmosis in transplant recipients
+            - clostridium difficile infection treatment
+            - stenotrophomonas maltophilia infection
+            - pythium insidiosum diagnosis and treatment
+            - yersinia enterocolitica detection and subtyping
+            - pneumococcal resistance
+            - antimicrobial resistance in gram-negative bacteria
+            - lactobacillus endocarditis
+            - antibiotic resistance pathogen
+            - mycoplasma pneumoniae diagnosis
+            - cryptococcal infection diagnosis
+            - escherichia coli resistance
+            - prosthetic joint infection diagnosis
+            - acinetobacter baumannii resistance
+            - nocardiosis diagnosis and treatment
+            - hiv assay result
+            - mrsa treatment options
+            - viral gastroenteritis
+            - antifungal susceptibility testing
+            - crimean-congo hemorrhagic fever
+            - hiv drug resistance
+            - carbapenemase detection test
+            - antimicrobial resistance in pseudomonas aeruginosa
+            - pneumocystis jirovecii diagnosis
+            - pseudomonas aeruginosa resistance
+            - burkholderia cepacia infection
+            - bacterial meningitis
+            - hepatitis e virus infection
+            - cytomegalovirus infection in transplantation
+            - arcobacter butzleri resistance and virulence
+            - antimicrobial resistance
+            - candidemia treatment and outcome
+            - carbapenemase-producing klebsiella pneumoniae
+            - antimicrobial resistance in enterococcus
+            - brucellosis diagnosis and treatment
+            - urinary tract infections and antibiotic treatment
+            - bacterial vaginal infection
+            - antimicrobial resistance in neisseria gonorrho...more
+            - biofilm formation and antibiotic resistance
+            - corynebacterium infection
+            - lyme disease diagnosis
+            - antimicrobial resistance in bacteria
+            - vancomycin dose optimization and aki risk assessment
+            - respiratory virus infection diagnosis
+            - coxiella burnetii infection detection
+            - sporotrichosis infection
+            - tuberculosis diagnosis
+            - burkholderia pseudomallei infection
+            - antimicrobial resistance in infections
+            - antimicrobial stewardship
+            - antiviral treatment for influenza
+            - parasite detection
+            - covid-19 treatment
+            - streptococcus suis infection
+            - group b streptococcus infection
+        - bacteriology/bacteria
+            - biofilm formation regulation
+            - antibiotic biosynthesis regulation
+            - biofilm formation
+            - type vi secretion system effector proteins
+            - acinetobacter baumannii biofilm study
+            - regulatory rna in bacterial virulence
+            - yersinia pestis gene regulation
+            - polyhydroxyalkanoate granule synthesis
+            - peptidoglycan cell wall structure
+            - bacterial persistence and gene regulation
+            - predatory bacteria mechanisms and applications
+            - sulfur chemolithotrophy mechanism
+            - bacterial cell wall modification
+            - staphylococcus aureus metabolism
+            - type iii secretion system
+            - biofilm formation in bacteria
+            - fungal biofilm interaction
+            - bacterial cell wall regulation
+            - lipid-outer membrane interactions in gram-negative bacteria
+            - salmonella pathogenesis and gene expression
+            - membrane vesicles in bacteria
+            - pseudomonas aeruginosa biology
+            - bacteriocins
+            - plasmid conjugation and transfer
+            - iron-oxidizing bacteria genome
+            - polymicrobial biofilm infection
+            - phytobeneficial pseudomonas strains
+            - bacterial stress response mechanism
+            - vibrio parahaemolyticus pathogenesis
+            - phage therapy
+            - pseudomonas aeruginosa infection
+            - mycobacteriophage research
+            - biofilm formation and dispersion
+            - methanogenesis
+            - magnetotactic bacteria identification
+            - heterocyst differentiation in cyanobacteria
+            - listeria monocytogenes gene expression
+            - toxin-antitoxin system
+            - bacterial chemotaxis
+            - bacillus spores
+            - lactobacillus bacteria strain stress response
+        - food safety/foodborne illnesses
+            - listeria growth on fruits
+            - viral inactivation treatment
+            - shiga toxin-producing escherichia coli (stec)
+            - listeria monocytogenes isolate analysis
+            - escherichia coli contamination in leafy vegetables
+            - salmonella biofilm formation
+            - food microbiology
+            - brettanomyces bruxellensis yeast
+            - antifungal activity of lactic acid bacteria
+            - raw milk cheese microbiology
+            - salmonella in tomato production
+            - food irradiation treatment
+            - biofilm formation in food processing environment
+            - salmonella inactivation
+            - norovirus in shellfish
+            - waterborne pathogen contamination in agriculture
+            - sourdough fermentation microbiology
+            - salmonella desiccation adaptation
+            - antimicrobial activity in food production
+            - listeria monocytogenes biofilms
+        - tuberculosis/health in africa
+            - omadacycline antibacterial activity
+            - pharmacokinetics in critically ill patients
+            - antifungal resistance treatment
+            - mcr-1 gene in escherichia coli isolate
+            - ceftazidime-avibactam susceptibility testing
+            - antibiotic resistance infections
+            - antimicrobial resistance in tuberculosis
+            - tuberculosis treatment outcome
+            - fosfomycin resistance mechanism
+            - pyrazinoic acid resistance in mycobacterium tuberculosis
+            - antibiotic resistance mechanism in klebsiella
+            - tuberculosis treatment pharmacokinetics
+            - mrsa combination therapy
+            - tuberculosis patient outcomes
+            - mycobacterium abscessus treatment
+            - pseudomonas aeruginosa isolate
+            - tuberculosis drug resistance detection
+            - hiv integrase inhibitor resistance
+            - antimicrobial resistance in pseudomonas aeruginosa
+            - tuberculosis treatment
+            - antibacterial development
+            - tuberculosis resistance diagnosis
+        - health care/health care quality
+            - infection prevention and control
+            - pseudomonas aeruginosa outbreak control
+            - healthcare-associated infections
+            - hospital infection control
+            - hospital surface pathogen control
+            - hand hygiene compliance
+            - covid-19 transmission risk assessment
+        - fungal diseases/aspergillus
+            - antifungal susceptibility testing of candida species
+            - dermatophytic fungi analysis
+            - antifungal resistance in trichophyton
+            - cryptococcus species isolation and environmental study
+            - tinea capitis
+            - fungal infection diagnosis
+            - covid-19 associated pulmonary aspergillosis
+    - mycology & parasitology
+        - mycology/symbiosis
+            - trichomycetes in aquatic insects
+            - thermophilic fungi growth
+            - fusarium species complex
+            - phylogenetic analysis in freshwater ascomycetes
+            - fossil fungi
+            - powdery mildew phylogenetics
+            - fungal pathogen identification
+            - fungal taxonomy
+            - mycoparasite growth
+            - basidiospore ultrastructure
+            - armillaria species identification
+            - ascocarp development
+            - fungal sexuality and reproduction
+            - fungal species identification
+            - new fungal species description
+            - talaromyces species identification
+            - fungal species discovery
+            - novel yeast species
+            - fungal phylogeny
+            - bolete species identification
+            - colletotrichum species and anthracnose
+            - freshwater fungi species description
+            - lichen species description
+            - species phylogeny
+        - domesticated animals/livestock
+            - essential oil acaricidal activity
+            - echinococcus multilocularis detection
+            - neospora caninum infection in dogs
+            - cystic echinococcosis
+            - fasciola hepatica infection
+            - anthelmintic treatment
+            - canine gastrointestinal parasite infection
+            - toxoplasma gondii infection in chickens
+        - digenea/disease ecology
+            - nematode parasite species identification
+            - trematode species identification
+    - physiology
+        - cardiovascular physiology/human anatomy by organ
+            - ant navigation learning
+    - toxicology
+    - virology
+    - histology
+    - infectious diseases
+    - pharmacology and pharmacy
+    - inflammatory diseases
+- clinical medicine
+    - pediatrics
+        - abdominal pain/conditions diagnosed by stool test
+            - congenital diaphragmatic hernia ecmo
+            - amniotic stem cell therapy
+            - anorectal malformation surgery
+            - esophageal atresia in children
+        - autoimmune diseases/multiple sclerosis
+            - dravet syndrome diagnosis and management
+            - cerebral palsy diagnosis in children
+            - neonatal seizure treatment
+            - cerebral palsy dystonia treatment
+            - spinal muscular atrophy
+        - hearing loss/audiology
+            - foreign body aspiration in children
+            - pediatric sleep apnea after adenotonsillectomy
+            - otitis media in children
+            - newborn hearing screening
+        - neonatology/preterm birth
+            - cervical length screening in pregnancy
+            - interpreter use in pediatric care
+            - caregiver support for pediatric health
+            - celiac disease in children
+            - failure to thrive in children
+            - covid-19 in children
+            - childhood diarrheal diseases
+            - paediatric clinical deterioration score
+            - fever measurement in children
+            - fever in infants
+            - oxygen saturation monitoring in infants
+            - infant motor development assessment
+            - preterm infant health
+            - nasal high-flow therapy for infants
+            - parent-infant care in neonatal units
+            - congenital diaphragmatic hernia treatment
+            - preterm infant care
+            - neonatal intubation practice
+            - skin-to-skin care in neonates
+            - preterm birth outcomes
+            - neonatal cardiopulmonary resuscitation
+            - neonatal abstinence syndrome treatment
+            - pediatric covid-19
+            - patent ductus arteriosus in preterm infants
+            - phototherapy for neonates
+            - neonatal care outcome
+            - human milk nutrition in premature infants
+            - therapeutic hypothermia for neonatal hypoxic-ischemic encephalopathy
+            - necrotizing enterocolitis in neonates
+            - newborn hypoglycemia
+            - probiotics in preterm infants
+            - necrotizing enterocolitis in infants
+            - preterm infant oxygen therapy
+            - cognitive development in preterm children
+            - palliative neonatal care
+            - neonatal sepsis
+            - preterm infant oral feeding intervention
+            - surfactant administration in infants
+        - pediatrics/surgical specialties
+        - puberty/adolescent medicine
+        - vaccines
+            - hpv vaccination program
+            - pertussis vaccine failure in infant population
+            - childhood vaccination during pandemic
+    - neurology & neurosurgery
+        - aging-associated diseases/cognitive disorders
+            - restless leg syndrome
+            - psychogenic nonepileptic seizures
+            - nystagmus syndrome
+            - pediatric ischemic stroke
+            - sturge-weber syndrome
+            - retinal imaging in alzheimer disease
+            - concussion in sports and athletics
+            - peripheral nerve injury repair
+            - mitochondrial disease
+            - tau-related neurodegenerative diseases
+            - tuberous sclerosis complex
+            - congenital myasthenic syndrome
+            - narcolepsy
+            - cognitive impairment in older adults
+            - post-stroke aphasia treatment
+            - epilepsy syndrome
+            - hereditary spastic paraplegia
+            - creutzfeldt-jakob disease
+            - cerebral palsy in children
+            - dementia with lewy bodies
+            - dietary supplements and aging brain performance
+            - spinal cord injury
+            - posterior reversible encephalopathy syndrome
+            - fatigue in multiple sclerosis
+            - cerebral venous thrombosis
+            - glioblastoma epilepsy
+            - anti-nmda receptor encephalitis
+            - parkinson's disease and 22q11 syndrome
+            - spinocerebellar ataxia treatment
+            - transthyretin amyloidosis treatment
+            - alzheimer's disease biomarkers
+            - ischemic stroke treatment and pathophysiology
+            - movement disorder report
+            - vitamin d and neurodegenerative disease
+            - caregiver support for dementia patients
+            - neurology clinical practice
+            - ketogenic diet for epilepsy treatment
+            - delirium in critical care settings
+            - motor neuron disorder assessment
+            - myotonic dystrophy type 1
+            - hiv-related neurocognition impairment
+            - cerebral cavernous malformation
+            - eeg in neurocritical care
+            - normal pressure hydrocephalus diagnosis
+            - migraine aura and stroke risk assessment
+            - intracranial aneurysm rupture
+            - guillain-barré syndrome
+            - memory impairment in rats
+            - igg4-related hypertrophic pachymeningitis
+            - dystonia
+            - neurocysticercosis diagnosis
+            - thiamine deficiency syndrome
+            - primary familial brain calcification
+            - parkinson's disease and cancer risk
+        - audiology/hearing
+            - cochlear implantation and hearing evaluation
+            - noise induced cochlear damage
+            - cochlear surgery planning and guidance
+            - tinnitus treatment
+            - vestibular schwannoma surveillance
+            - hearing loss and risk
+            - cochlear implant audiology
+            - tympanic membrane perforation treatment
+            - facial palsy management
+            - temporal bone disease
+            - vestibular schwannoma hearing outcome
+            - cochlear implantation in children
+            - inner ear drug delivery
+            - hearing loss in adults
+            - vestibular implant stimulation
+            - vestibular ear disease diagnosis
+            - tinnitus research
+            - hearing loss and auditory processing
+            - bone conduction hearing loss
+            - vestibular function testing
+            - benign paroxysmal positional vertigo (bppv)
+            - vestibular disorders treatment
+            - vestibular rehabilitation in children with hearing loss
+            - auditory response analysis
+        - brain/neural circuits
+            - cognitive creativity
+            - depression neuroimaging
+            - magnetic resonance elastography
+            - attention deficit hyperactivity disorder (adhd) in children
+            - meditation and mindfulness practice
+            - autonomic nervous system regulation
+            - pain perception and processing
+            - alzheimer's disease diagnosis
+            - hyperpolarized gas mri lung imaging
+            - food and brain health
+            - spatial memory navigation
+            - action agency
+            - motor imagery in parkinson's disease
+            - emotional processing and neurobiology
+            - cognitive neuroscience
+            - schizophrenia hallucinations
+            - hypnotic imagery and experience
+            - emotion processing
+            - internet gaming disorder
+            - exercise-induced cognitive benefits
+            - preterm infant brain development
+            - sleep and memory consolidation
+            - child development and stress physiology
+            - neural aesthetics
+            - oxytocin and social behavior
+            - speech motor control and stuttering
+            - bilingual language processing
+            - saccade attention
+            - cognitive training and memory performance
+            - arithmetic processing in the brain
+            - pathological gambling disorder
+            - traumatic brain injury in children
+            - olfactory perception and brain processing
+            - aggression and impulsivity neurobiology
+            - brain-computer interface classification
+            - arterial spin labeling (asl)
+            - motor control and coordination
+            - mri coil design
+            - transcranial direct current stimulation (tdcs)
+            - neural interface device design
+            - amyotrophic lateral sclerosis diagnosis
+            - auditory cortex response
+            - emotion recognition using eeg
+            - vestibular system function
+            - brain-computer interface ethics
+            - cognitive decision-making
+            - cognitive network analysis
+            - morphine tolerance and analgesia
+            - direct current stimulation of brain activity
+            - blood-brain barrier regulation
+            - ischemic brain injury treatment
+            - exercise and depression
+            - motion perception in visual cortex
+            - nicotine addiction
+            - gulf war illness
+            - methamphetamine-induced neurotoxicity and cognitive effects
+            - spinal locomotion control
+            - zinc-gated glycine receptors
+            - neuroregeneration
+            - nicotine receptor modulation
+            - stress-induced behavioral response
+            - fear extinction
+            - orexin receptor function
+            - vocal learning and songbird neurobiology
+            - brain injury treatment
+            - opioid receptor function and pharmacology
+            - visual plasticity in amblyopic eye
+            - asic-related pain mechanism
+            - neuropharmacology
+            - brain function and behavior
+            - neural stem cell regeneration
+            - voltage-gated calcium channel regulation
+            - gut microbiota and neurological disorders
+            - dopamine receptor function
+            - neurotransmitter signaling in stress response
+            - fear memory extinction
+            - dopamine receptor binding study
+            - peripheral nerve regeneration
+            - tactile perception
+            - motor control and movement
+            - neuroplasticity
+            - cannabis use effects
+            - autism spectrum disorder research
+            - huntington disease
+            - spinal cord injury treatment
+            - testosterone regulation in brain development
+            - mouse cognitive function study
+            - ultrasonic vocalization behavior
+            - placebo effect in pain response
+            - schizophrenia genetics
+            - bdnf and neurotransmitter function
+            - neonatal hypoxic-ischemic brain injury
+            - serotonin transporter regulation
+            - auditory neuroscience
+            - tauopathy research
+            - spatial memory representation
+            - glutamate receptor function and dysfunction
+            - retinal neurophysiology
+            - synaptic receptor function
+            - olfactory neuron function
+            - zebrafish neurobiology
+        - mood disorders
+            - genetic association analysis
+            - ketamine in depression treatment
+            - oxytocin in schizophrenia treatment
+            - obsessive-compulsive disorder treatment
+            - schizophrenia physical exercise
+            - psychiatric ward admission
+            - trauma-informed mental health treatment
+            - ptsd treatment
+            - anxiety disorder treatment
+            - bipolar disorder circadian rhythm
+            - cognitive functioning in psychosis
+            - catechol-o-methyltransferase gene polymorphism
+            - schizophrenia treatment and metabolic management
+            - epigenetic biomarkers in mental disorder
+            - schizophrenia neurology
+            - bipolar disorder research
+            - schizophrenia and retina research
+            - 22q11.2 deletion syndrome psychosis research
+            - bipolar disorder study
+            - bipolar disorder neurocognitive impairment
+            - schizophrenia cognitive processing
+            - maternal stress and cortisol
+            - treatment for depression using tdcs
+            - social cognition in schizophrenia
+            - mental health during pandemics
+            - antipsychotic treatment in schizophrenia
+            - negative symptoms in schizophrenia
+            - lithium treatment for bipolar disorder
+            - heart rate variability analysis
+            - schizotypal personality
+            - schizophrenia sleep disorder
+            - olanzapine-induced metabolic syndrome
+            - alcohol use disorder treatment
+            - cortisol and stress response
+            - cannabis use and psychosis
+            - anorexia nervosa
+            - schizophrenia treatment
+            - mental health during covid-19 pandemic
+            - major depressive disorder
+            - stress and mental health in different populations
+            - adhd treatment strategies
+            - depressive disorder treatment
+            - cognitive function in mental disorder treatment
+            - psychedelic therapy
+            - insight and stigma in schizophrenia
+            - schizophrenia diagnosis
+            - repetitive transcranial magnetic stimulation for depression
+            - schizophrenia treatment response and genetics
+            - bipolar disorder
+            - hikikimori phenomenon
+            - bipolar disorder treatment response
+            - schizophrenia risk factors
+        - neurotrauma/spinal cord disorders
+            - glioblastoma treatment
+            - cauda equina syndrome
+            - solitary fibrous tumor/hemangiopericytoma
+            - vestibular schwannoma treatment
+            - osteoporotic vertebral compression fracture treatment
+            - chronic subdural hematoma management
+            - cranioplasty and hydrocephalus management
+            - magnetic controlled growing rods for early-onset scoliosis
+            - medical malpractice in spine surgery
+            - lumbar interbody fusion
+            - neurosurgery during covid-19 pandemic
+            - adolescent idiopathic scoliosis
+            - selective dorsal rhizotomy for spasticity management
+            - intracranial aneurysm treatment
+            - intradural disc herniation
+            - lumbar spinal stenosis research
+            - spinal cord tethering syndrome
+            - percutaneous pedicle screw fixation
+            - arachnoid cyst treatment
+            - central neurocytoma treatment
+            - craniopharyngioma surgical treatment
+            - endoscopic third ventriculostomy (etv)
+            - hemifacial spasm treatment
+            - spinal metastasis surgery
+            - chiari malformation treatment
+            - sagittal spinal alignment
+            - spinal surgery intraoperative monitoring
+            - cervical ossification of posterior longitudinal ligament
+            - brain tumor resection surgery
+            - pyogenic spondylodiscitis treatment
+            - stereotactic radiosurgery for arteriovenous malformations (avms) and dural arteriovenous fistulas (davfs)
+            - endoscopic endonasal petrosurgical anatomy
+            - middle cluneal nerve entrapment neuropathy
+            - spinal fracture treatment
+            - surgical site infection in spinal surgery
+            - paediatric intracranial aneurysms treatment
+            - intraoperative fluorescence-guided brain tumor surgery
+            - surgical neuroendoscopy
+            - cavernous malformation surgery
+            - scoliosis surgical treatment
+            - blunt cerebrovascular injury in pediatric trauma
+            - spinal arteriovenous fistula treatment
+            - spinal hemangioblastoma treatment
+            - pilocytic astrocytoma in children
+            - spinal subdural hematoma
+            - surgical training simulation
+            - spine surgery patient outcomes
+            - odonoid fracture treatment
+            - nerve transfer for brachial plexus injury
+            - intracranial pressure management
+            - lumbar disc herniation treatment
+            - cavernous sinus dural arteriovenous fistula embolization
+            - moyamoya disease treatment
+            - spinal angiolipoma
+            - ventricular drain infection
+            - intraosseous cavernous hemangioma
+            - biomechanics of lumbar spine fixation
+            - spinal tumor resection
+        - neurotrauma/stroke
+            - electrical muscle stimulation
+            - robot-assisted rehabilitation
+            - cerebral palsy child therapy
+            - prosthetic alignment in lower limb amputees
+            - traumatic brain injury in veterans
+            - traumatic brain injury treatment
+            - virtual reality rehabilitation for brain injury
+            - gait analysis in old adults
+            - rehabilitation after brain injury
+            - chronic pain management
+            - muscle mechanics
+            - spinal cord injury rehabilitation
+            - aphasia treatment
+            - vestibular rehabilitation
+            - gait analysis instrumentation
+            - clinical physical therapy practice
+            - developmental coordination disorder in children
+            - gait stability
+            - cerebral palsy gait and muscle strength assessment
+            - stroke rehabilitation
+            - pediatric gait analysis
+            - upper limb rehabilitation
+            - balance assessment in stroke patients
+            - gait analysis
+            - postural control assessment
+            - leg length discrepancy effects on gait stability
+            - gait analysis in aging populations
+            - gait analysis in children
+            - postural balance control
+            - muscle function and aging in old adults
+            - myoelectric control
+            - spinal cord injury
+            - multiple sclerosis gait analysis
+            - balance and gait control
+            - cerebral palsy gait analysis
+            - lower limb amputation rehabilitation
+            - traumatic brain injury
+            - neck pain treatment
+            - covid-19 rehabilitation
+            - proprioception assessment
+            - balance control and movement
+            - musculoskeletal pain rehabilitation
+            - chiropractic pain management
+            - upper extremity fatigue and motor control
+            - stroke rehabilitation participation
+            - gait rehabilitation in stroke patients
+            - functional electrical stimulation control
+            - gait rehabilitation exoskeleton
+            - cerebral blood flow pet imaging
+            - carotid plaque imaging
+            - platelet volume and stroke prognosis
+            - ischemic stroke treatment
+            - large vessel occlusion stroke diagnosis
+            - cerebral ischemia tolerance
+            - antiplatelet therapy in neurointervention
+            - radial access procedure
+            - acute stroke care during covid-19 pandemic
+            - neutrophil-to-lymphocyte ratio in acute stroke
+            - vessel-wall imaging in stroke
+            - dural arteriovenous fistula treatment
+            - moyamoya disease hemorrhage
+            - stroke care quality
+            - acute ischemic stroke treatment outcome
+            - acute ischemic stroke treatment
+            - developmental venous anomaly
+            - carotid artery disease
+            - stent retriever thrombectomy
+            - intracerebral hemorrhage evacuation
+            - infective endocarditis stroke treatment
+            - endovascular recanalization for intracranial artery occlusions
+            - covid-19 cardiac complications
+            - cerebral venous sinus thrombosis
+            - stroke patient outcomes
+            - vasospasm in cerebral aneurysm
+            - cerebral ischemia treatment
+            - stroke patient outcome
+            - 4d digital subtraction angiography
+            - cerebral autoregulation
+            - brain arteriovenous malformation treatment
+            - acute ischemic stroke outcome
+            - cryptogenic stroke diagnosis
+            - intracranial aneurysm diagnosis
+            - carotid web and stroke
+            - stroke treatment
+        - pain/chronic pain syndromes
+            - spinal cord stimulation
+            - cluster headache treatment
+            - migraine research
+            - pain modulation
+            - post-traumatic headache
+            - postoperative pain management
+            - chronic pain and ptsd treatment
+            - chronic pain patient group
+            - cancer pain management
+            - migraine treatment
+            - chronic pediatric pain treatment
+            - headache treatment
+            - pain management techniques
+            - chronic pain management
+            - migraine in pregnancy
+            - tapentadol for pain treatment
+            - pain management
+            - chronic pain
+            - genicular nerve pain management
+            - headache diagnosis and treatment
+            - trigeminal neuralgia treatment
+            - covid-19 and pain management
+            - chronic pain syndrome
+            - lumbar epidural injection pain management
+            - migraine and cardiovascular disease
+            - fibromyalgia pain treatment
+            - cannabis for chronic pain treatment
+            - chronic pain treatment
+            - pain management in headache disorders
+            - pain and attention
+            - migraine treatment stimulation
+            - opioid pain management
+            - pediatric migraine
+            - burning mouth syndrome
+        - proteoglycan metabolism disorders/autosomal recessive disorders
+            - newborn screening for mucopolysaccharidosis
+            - methylmalonic acidemia treatment outcome
+            - mucopolysaccharidosis treatment
+            - phenylketonuria (pku) management
+            - tyrosinemia treatment
+            - fabry disease treatment
+            - fatty acid oxidation disorder diagnosis
+            - niemann-pick disease diagnosis
+        - sleep disorders/sleep physiology
+            - sleep quality in children
+            - insomnia and sleep apnea treatment
+            - sleep and academic performance in students
+            - sleep scheduling
+            - sleep-related safety concern
+            - sleep and relationship
+            - obstructive sleep apnea
+            - chronotherapy for blood pressure
+            - narcolepsy treatment
+            - sleep quality disturbance
+            - insomnia treatment
+            - wearable sleep monitoring
+            - sleep and fatigue research
+            - circadian rhythm disorder treatment
+            - night shift worker health
+            - obstructive sleep apnea patient care
+            - covid-19 and sleep quality
+            - obstructive sleep apnea in drivers
+            - melatonin treatment for circadian disorders
+            - sleep restriction effects on cognition
+            - sleep quality study
+            - sleep disorders in children
+            - sleep and metabolic syndrome
+            - sleep disturbance in pilots
+            - sleep quality
+            - obstructive sleep apnea syndrome
+            - sleep movement disorder
+    - cardiovascular system & hematology
+        - aging-associated diseases/heart diseases
+            - cardiac resynchronization therapy
+            - drug-eluting stent implantation
+            - ventricular arrhythmia ablation
+            - cryoballoon ablation for afibillation
+            - left atrial appendage closure
+            - atrial fibrillation ablation
+            - atrial arrhythmia ablation guidance
+            - hypertrophic cardiomyopathy
+            - implantable cardioverter defibrillator
+            - heart failure with preserved ejection fraction
+            - cardiomyopathy
+            - brugada syndrome
+            - vasovagal syncope treatment
+            - atrioventricular nodal re-entrant tachycardia ablation
+            - atrial fibrillation mapping
+            - cardiac autonomic denervation ablation
+            - cardiovascular disease research
+            - ventricular tachycardia ablation
+            - pacemaker lead extraction
+            - lead failure in icd devices
+            - percutaneous coronary intervention
+            - leadless pacemakers
+            - axillary vein access
+            - catheter ablation for ventricular tachycardia
+            - cardiac monitor device
+            - cardiovascular disease prevention
+            - early career cardiology fellow training
+            - transcatheter aortic valve replacement
+            - coronary artery calcium scoring
+            - myocardial ischemia-reperfusion injury
+            - fractional flow reserve assessment in coronary artery disease
+            - adipose tissue and coronary disease
+            - congenital ventricular aneurysm
+            - hypertension management
+            - vitamin d and cardiovascular disease
+            - pulmonary valve replacement
+            - tricuspid valve disease
+            - sodium-glucose cotransporter 2 (sglt2) inhibitors and heart failure
+            - pulmonary hypertension
+            - peripheral arterial disease
+            - cardiac rehabilitation program
+            - cardiovascular disease in hiv patients
+            - acute aortic dissection
+            - pericardial effusion diagnosis and management
+            - cardiovascular disease risk factors
+            - patent foramen ovale (pfo) closure
+            - vasovagal syncope
+            - chronic thromboembolic pulmonary hypertension
+            - left ventricular assist device (lvad)
+            - antithrombotic therapy for atrial fibrillation
+            - kawasaki disease coronary artery
+            - ideal cardiovascular health
+            - heart rate variability analysis
+            - pediatric echocardiography appropriate use
+            - cardiac implantable electronic device infection
+            - left main coronary artery compression in pulmonary hypertension
+            - radial artery access
+            - fetal arrhythmias treatment
+            - pacing therapy
+            - cardiac stem cell therapy
+            - covid-19 pulmonary embolism
+            - oral anticoagulant treatment
+            - energy drink effects on cardiovascular system
+            - myocardial calcification and amyloidosis diagnosis
+            - high-sensitivity cardiac troponin (hsct)
+            - cardiovascular disease in pregnancy
+            - tmao and cardiovascular disease
+            - takotsubo cardiomyopathy
+            - acute myocardial infarction treatment and mortality assessment
+            - carotid artery disease risk assessment
+            - subclavian artery steal syndrome
+            - calcified amorphous tumor (cardiac)
+        - cardiac imaging/medical imaging
+            - peptide receptor radionuclide therapy
+            - psma uptake in nonprostatic malignancies
+            - bacterial infection imaging
+            - myocardial perfusion imaging
+            - attenuation correction in pet/mri
+            - quantitative pet imaging harmonization
+            - bone spect/ct imaging
+            - psma pet/ct in prostate cancer diagnosis
+            - neuroendocrine tumor imaging
+            - radioembolization dosimetry
+        - hematology/coagulopathies
+            - convalescent plasma therapy for covid-19
+            - acquired hemophilia a treatment
+            - hemophilic arthropathy treatment
+            - covid-19 thrombosis
+            - vte risk assessment in children
+            - therapeutic plasma exchange
+            - fibrinogen disorders
+            - disseminated intravascular coagulation
+            - venous thromboembolism treatment
+            - platelet transfusion
+            - heparin-induced thrombocytopenia
+            - platelet function disorder diagnosis
+            - blood transfusion and immunization
+            - myeloproliferative neoplasms and thrombosis
+            - blood transfusion medicine
+            - blood donor screening
+            - hepatitis e virus infection in blood donors
+            - platelet storage
+            - abo-incompatible hematopoietic stem cell transplantation
+            - hematological disorders in pregnancy
+            - hemophilia treatment
+            - anticoagulant reversal agent effect
+            - intravenous immunoglobulin hemolysis
+            - daratumumab in multiple myeloma
+            - platelet activation and function
+            - factor deficiency treatment
+            - blood donation
+            - drug-induced hemolytic anemia
+            - immune thrombocytopenia treatment
+            - factor xiii deficiency
+            - blood transfusion management
+            - thrombin generation in coagulation disorder
+            - factor viii inhibitor development
+            - stem cell mobilization
+        - hypertension/pulmonary heart disease and diseases of pulmonary circulation
+        - implants (medicine)/prosthetics
+            - ventricular assist device
+            - device-induced hemostatic disorders
+            - pediatric acute respiratory distress syndrome
+            - extracorporeal membrane oxygenation anticoagulation
+            - ventricular assist device infections
+            - dexmedetomidine use in pediatrics
+            - ventricular assist device for pediatric heart failure
+            - thrombus detection in blood pump
+        - lipid disorders/cardiology
+            - hdl cholesterol efflux
+            - cholesterol metabolism
+            - lipoprotein(a) and cardiovascular risk
+            - genetic hypertriglyceridemia
+            - postprandial lipemia
+            - dha supplementation
+            - vitamin d assessment
+            - hdl cholesterol
+            - apolipoprotein c-iii lipoprotein metabolism
+        - stroke/vascular diseases
+            - hypertension management
+            - statin therapy for cardiovascular risk reduction
+            - cardiovascular disease risk assessment
+            - hypertension prevalence and control
+            - blood pressure management
+            - covid-19 and cardiovascular disease
+            - carotid artery stenosis diagnosis
+            - stroke risk factors
+            - deep vein thrombosis prevention
+            - anticoagulant therapy in atrial fibrillation
+            - aspirin primary prevention
+            - peripheral arterial disease treatment
+            - stroke prevention and treatment
+            - sodium intake and cardiovascular disease
+            - embolic stroke diagnosis
+            - stroke risk factors and management
+            - nonvalvular atrial fibrillation treatment
+            - carotid artery stenosis treatment
+        - vascular surgery/diseases of the aorta
+            - arteriovenous access graft management
+            - compression therapy for venous disease
+            - venous insufficiency
+            - thoracic endovascular aortic repair
+            - amputation complications and risk factors
+            - vascular graft infection treatment
+            - thoracic outlet syndrome
+            - sclerotherapy for venous malformations
+            - popliteal artery aneurysm treatment
+            - saphenous vein treatment
+            - abdominal aortic aneurysm
+            - popliteal vein aneurysm treatment
+            - peripheral artery disease treatment
+            - acute mesenteric ischemia treatment
+            - femoropopliteal artery stenting
+            - vascular aneurysms
+            - laparoscopic liver resection
+            - carotid artery stenting
+            - endovascular treatment of artery disease
+            - ivc filter retrieval
+            - vascular surgery training and practice
+            - postoperative pancreatic fistula
+            - iliac aneurysm repair
+            - posthepatectomy liver failure prediction
+            - iliac vein thrombosis treatment
+            - covid-19 and surgery
+            - aortic dissection treatment
+            - thyroid surgery outcome
+            - patient frailty and mortality after vascular surgery
+            - prehabilitation for surgery program
+            - hepatocellular carcinoma treatment
+            - aortic aneurysm repair
+            - endovascular aortic repair stent graft
+            - carotid body tumor
+            - pelvic venous insufficiency treatment
+            - liver tumor ablation
+            - carotid artery disease treatment
+            - acute limb ischaemia treatment
+            - vascular trauma treatment
+            - intermittent claudication treatment
+    - anesthesiology
+        - anesthesia/anesthesiology
+            - malignant hyperthermia management
+            - pediatric anesthesia
+            - blood glucose control in critically ill patients with diabetes
+            - point-of-care echocardiography
+            - nerve block for pain management
+            - anaphylaxis treatment & prevention
+            - surgical complications prevention
+            - difficult airway management
+            - surgical recovery and patient anxiety
+            - cardiac arrest outcome
+            - fluid therapy in surgery
+            - local anesthetic toxicity
+            - spinal anaesthesia with chloroprocaine
+            - anesthesia positioning
+            - anesthesia resident education & clinical practice
+            - propofol injection pain management
+            - simulation training in anesthesiology
+            - anesthesia management
+            - propofol anesthesia
+            - levosimendan in cardiac surgery
+            - lidocaine and cancer
+            - anesthesia safety and error report
+            - pediatric sedation management
+            - regional anesthesia for breast surgery
+            - regional anaesthesia for hip surgery in elderly patients
+            - anesthesia for cardiac surgery
+            - dexmedetomidine in anesthesia and pain management
+            - hyperoxia and its clinical implications
+            - anesthesia-induced unconsciousness mechanisms
+            - operating room management
+            - venoarterial extracorporeal membrane oxygenation
+            - noninvasive hemoglobin measurement
+            - pediatric anesthesia airway management
+            - opioid-induced respiratory depression
+            - septic shock treatment
+            - radial artery cannulation
+            - child preoperative anxiety management
+            - pediatric craniotomy anesthesia
+            - patient care in icu (intensive care unit)
+            - double lumen tube placement
+            - postpartum hemorrhage management
+            - percutaneous dilatational tracheostomy
+            - perioperative temperature management
+            - surgical anesthesia
+            - regional anesthesia resource utilization
+            - preoperative fasting in children
+            - knee pain management
+            - abdominal compartment syndrome
+            - pediatric postoperative pain management
+            - intensive care unit delirium
+            - airway management
+            - covid-19 airway management
+            - lung ventilation management
+        - orthopedic surgical procedures/implants (medicine)
+    - general & internal medicine
+        - antiviral drugs/biocides
+            - hiv treatment adherence
+            - hiv prevention in women
+            - hiv treatment and management
+            - antiretroviral therapy in pregnancy
+            - sexualized drug use patterns in msm
+            - hiv infection diagnosis
+            - hiv transmission dynamics
+            - hiv patient care and mental health
+            - hiv infection treatment and prevention
+            - hiv testing and care
+            - syphilis infection
+            - hiv treatment regimen evaluation
+            - congenital syphilis in pregnancy
+            - hiv-associated neurocognitive impairment
+            - sexually transmitted infections during pandemics
+            - hiv patient care
+            - hiv testing and prevention
+            - hiv and aging
+            - hiv and sexually transmitted infections in women
+            - hiv drug resistance
+            - hpv and hiv in msm/women
+            - hiv risk factors among women
+            - hiv latency reversal
+            - hiv/aids research
+            - hiv risk and sex workers
+            - hiv care retention
+            - hiv patient health
+            - tb treatment in hiv patients
+            - syphilis infection prevalence
+            - hiv stigma and disclosure
+            - hiv adolescent care
+        - caregiving/hospice
+        - diets/food and the environment
+            - childhood obesity intervention
+            - cervical cancer screening
+            - maternal health
+            - obesity and mortality
+            - population estimation
+            - women's health and contraceptive use
+            - child obesity research
+            - breakfast and cardiovascular disease risk
+            - sanitation interventions
+            - tuberculosis and diabetes
+            - male circumcision for hiv prevention
+            - orofacial cleft risk factors
+            - precarious employment and health
+            - maternal and child health
+            - women's health and age
+            - health inequality and migration
+            - food environment and obesity
+            - maternal health service
+            - health inequality policy
+            - vitamin d deficiency
+            - anemia in children and pregnant women
+            - dietary habits among university students
+            - obesity and health risks in young adults
+            - sodium intake reduction
+            - air pollution and health
+            - therapeutic space design
+            - puberty development
+            - social determinants of health
+            - health disparities in migrant populations
+            - health inequality community engagement
+            - sleep and obesity prevention
+            - healthcare accessibility
+            - severe acute malnutrition in children
+            - obesity prevention and management in older adults
+            - covid-19 pandemic response
+            - health policy evaluation
+            - breastfeeding support and practice in low-income countries
+            - occupational noise exposure and hearing loss
+            - health expenditure in eastern mediterranean region
+            - adolescent health
+            - physical activity in children
+            - child health and nutrition
+            - vaccination coverage inequalities
+            - famine exposure and health effects
+            - planetary health
+            - childhood obesity prevention
+            - overweight and obesity prevention
+            - spatial dengue disease mapping
+            - obesity and dietary habits
+            - tuberculosis patient management
+            - dietary inflammatory index score
+            - maternal health services quality
+            - health disparities in minority populations
+            - maternal nutrition during pregnancy
+            - healthcare equity
+            - lifestyle and health risk factors
+            - occupational cancer risk assessment
+            - metabolic risk factors in high-risk populations
+            - child health nutrition
+            - migrant health
+            - obesity risk factors
+            - roma population health risks
+            - community-based obesity prevention intervention
+            - maternal exposure and child health
+            - physical activity patterns
+            - seasonal influenza epidemiology
+            - coffee consumption and health risk assessment
+            - food insecurity and health
+        - drugs that are a vaccine
+            - child health care
+            - pertussis vaccination in pregnancy
+            - meningococcal vaccine
+            - child abuse head trauma
+            - varicella vaccine effectiveness
+            - japanese encephalitis vaccine
+            - influenza vaccine
+            - bcg vaccine response
+            - influenza vaccination
+            - infant sleep safety
+            - hiv infection in children
+            - antimicrobial resistance in infectious diseases
+            - preterm infant care and risk assessment
+            - hpv vaccine
+            - cytomegalovirus infection
+            - neonatal abstinence syndrome
+            - rotavirus vaccine effectiveness
+            - dengue vaccine development
+            - infection control
+            - vaccine administration
+            - infant pain management
+            - maternal immunization
+            - hand-foot-mouth disease (hfmd)
+            - urinary tract infection in children
+            - covid-19 diagnosis and treatment
+            - hepatitis b vaccination
+            - antibiotic dosing and pharmacokinetics in pediatrics
+            - pediatric palliative care
+            - transgender youth health
+            - group a streptococcal infection in children
+            - vaccine storage and supply chain management
+            - legionella disease outbreak
+            - childhood pneumonia
+            - e-cigarette-associated lung injury
+            - rifampicin resistance detection
+            - preterm infant health risks
+            - congenital rubella syndrome
+            - school nurse practice
+            - multidrug-resistant tuberculosis
+            - covid-19 vaccine
+            - hand hygiene in hospitals
+            - ebola virus disease outbreak
+            - nasopharyngeal carriage of pneumococci in children
+            - pediatric obesity treatment
+            - hiv drug resistance
+            - pediatric health care
+            - campylobacter infection in children
+            - hepatitis a outbreak
+            - rabies vaccine and treatment
+            - child screen use
+            - antimicrobial resistance and infection diagnosis in hospitals
+            - kawasaki disease treatment
+            - zika virus infection
+            - respiratory syncytial virus infection in children
+            - typhoid vaccine
+            - tb diagnosis in children
+            - fecal carriage of multidrug-resistant organisms
+            - covid-19 vaccination
+            - covid-19 infection
+        - gerontology/old age
+            - nursing home quality care
+            - older adult health and aging
+            - anticholinergic burden in older adults
+            - exercise and cognitive function in older adults
+            - fall prevention in elderly patients
+            - infection control in nursing homes
+            - older adult abuse and health
+            - older adult physical activity
+            - dementia care technology
+            - dementia care and cognitive health
+            - dementia care training
+            - older adult health risk assessment
+            - covid-19 in nursing homes
+            - muscle exercise training for elderly
+            - assistive technology for dementia care
+            - retirement attitudes
+            - dementia care for elderly
+            - old adult hospital care
+            - oropharyngeal dysphagia
+            - older adult health
+            - physical activity and gait in older adults
+            - advance care planning
+            - dementia care and support
+            - cognitive impairment in older adults
+            - urinary incontinence in older women
+            - older adult social isolation
+            - older adult social health
+            - depression in older adults
+            - older adult care
+            - old adult care
+            - old adult driving
+            - hip fracture care
+            - informal caregiving
+            - older adult substance use treatment
+            - age-friendly cities
+            - orthostatic hypotension and fall risk in elderly patients
+            - geriatric patient care
+            - geriatric emergency department care
+            - nursing home care quality
+            - aging and longevity
+        - health care quality/health care
+            - covid-19 burden
+            - covid-19 epidemiology
+        - health care/health care quality
+            - antibiotic stewardship
+            - self-harm behavior
+            - qualitative evidence synthesis
+            - emergency department triage
+            - spiritual care in healthcare
+            - patient safety culture
+            - disability and child health
+            - workplace health and absence
+            - patient health care outcome assessment
+            - global health partnership
+            - evidence-based practice in family medicine
+            - contraceptive use and reproductive health
+            - intimate partner violence against women
+            - pediatric asthma treatment
+            - smartphone addiction in students
+            - child health intervention
+            - health intervention study
+            - covid-19 testing
+            - pragmatic clinical trials design
+            - benzodiazepine use and abuse
+            - hypertension management
+            - chronic fatigue syndrome care
+            - healthcare resource allocation and sustainability
+            - depression treatment study
+            - intellectual disability health promotion
+            - covid-19 prevention and control in healthcare settings
+            - caregiver burden in stroke survivor care
+            - asthma management
+            - mental health stigma
+            - dietary habits and health risks
+            - hiv patient care and treatment satisfaction
+            - cervical cancer screening
+            - patient experience in health care
+            - occupational stress and mental health
+            - reablement care
+            - adverse drug reaction reporting
+            - clinical natural language processing
+            - adverse childhood experiences and health
+            - medicine pricing and quality control
+            - child obesity intervention
+            - child health care
+            - stepped wedge cluster randomized trial
+            - chronic pain rehabilitation
+            - physical activity during pregnancy
+            - medication safety and error reduction
+            - type 2 diabetes mellitus
+            - systematic review search tool
+            - vaccination in elderly populations
+            - type 2 diabetes management
+            - homelessness and health
+            - clinical patient care
+            - maternal health services
+            - mental health service implementation
+            - clinical trial design
+            - patient satisfaction with healthcare service
+            - peripheral intravenous catheter management
+            - health service utilization
+            - core outcome sets in clinical trials
+            - health policy and systems research in low-resource settings
+            - hospital admission care
+            - patient engagement in healthcare
+            - healthcare intervention
+            - smoking cessation interventions
+            - malaria treatment and prevention in children
+            - patient care and health
+            - colorectal cancer screening
+            - nurse staffing and patient outcomes
+            - healthcare policy
+            - physical activity and health
+            - breastfeeding peer support
+            - nhs care plan
+            - heat-related health risks
+            - resilience assessment
+            - tuberculosis treatment outcomes
+            - conflict of interest in medical research
+            - end-of-life care
+            - women's health risk factors
+            - healthcare patient outcomes in south korea
+            - hepatitis prevention and control in healthcare workers
+            - medication adherence measurement
+            - dementia care
+            - predatory journal publication
+            - child health and violence prevention program
+            - physical activity promotion
+            - healthcare technology application
+            - cognitive behavioral therapy for insomnia
+            - opioid use and prescription management
+            - female genital mutilation (fgm) practice
+            - herpes zoster vaccine effectiveness
+            - patient health care practice
+            - patient quality of life
+        - intensive care medicine/hospital departments
+            - patient-centered medical home
+            - medical student experience
+            - patient care improvement
+            - patient experience in healthcare
+            - patient safety and quality care
+            - electronic health record use
+            - clinical simulation training
+            - hospital readmission reduction program
+            - ventilator-associated pneumonia
+            - patient safety culture
+            - healthcare quality assessment
+            - medical education assessment
+            - specialty pharmacy management
+            - intensive care unit patient care
+            - mentorship program
+            - medical team training
+            - surgical morbidity and mortality conference
+            - medical education during pandemic
+            - medical education resident knowledge assessment
+            - medical education program
+            - physician well-being and burnout
+            - diagnostic error reduction
+            - patient communication and resolution program
+            - medical education faculty development
+            - primary care practice
+            - medical communication skills assessment
+            - ultrasound education in medical school
+            - low-value care analysis
+            - emergency department care
+            - interprofessional education and practice
+            - icu patient care
+            - machine learning in healthcare
+            - hospital care quality
+            - medical professional education
+            - patient satisfaction in healthcare
+            - health insurance coverage
+            - medical education
+            - physician-patient interaction
+            - medical leadership training
+            - residency matching process
+            - medical social media use
+            - medical communication skills
+            - resident training program
+            - global health education
+            - palliative care education
+            - physician training and practice quality
+            - quality improvement in medical education and healthcare
+            - electronic health records system
+            - medical student mistreatment
+            - sexual and gender minority health education
+            - residency program management
+            - physician practice and patient care
+        - substance-related disorders/substance dependence
+            - addiction treatment and substance abuse
+            - illicit drug market online safety
+            - personalized nutrition advice
+            - anabolic-androgenic steroid abuse
+            - problematic gaming behavior
+            - youth justice health services
+            - health literacy
+            - physical activity behavior
+            - public health policy and intervention
+            - opioid overdose prevention program
+            - hepatitis c treatment and care
+            - health information online use
+            - tobacco control policy
+            - physical activity and built environment
+            - workplace health promotion program
+            - smoking during pregnancy
+            - sexual health in adolescence and youth
+            - suicide prevention
+            - public health emergency preparedness
+            - smoking cessation
+            - fetal alcohol syndrome disorder (fasd)
+            - childcare physical activity intervention
+            - substance use disorder
+            - food insecurity intervention
+            - youth health intervention
+            - alcohol use disorder treatment
+            - public health practice
+            - alcohol use disorder
+            - telehealth in patient care
+            - disaster health impact
+            - hpv vaccine and vaccination
+            - homelessness and health
+            - medical cannabis use
+            - sugar-sweetened beverage tax and policy
+            - alcohol use and health
+            - sex worker health risks
+            - colorectal cancer screening disparities
+            - smoking and youth health
+            - hpv vaccine uptake
+            - mobile health survey
+            - health promoting school education
+            - methamphetamine use disorder treatment
+            - crowdsourced health intervention
+            - mental health intervention for young people
+            - second-hand smoke exposure
+            - substance use disorder treatment
+            - drug use and addiction
+            - school nursing services
+            - veteran women's health issues
+            - positive health intervention
+            - clinical research ethics
+            - public health intervention
+    - arthritis & rheumatology
+        - arthritis/skeletal disorders
+            - intervertebral disc inflammation
+            - spinal tuberculosis diagnosis
+            - antibiotic eluting bone cement
+            - vertebral compression fracture treatment
+            - chronic neck pain management
+            - total knee arthroplasty pain management
+            - scoliosis assessment
+            - total knee arthroplasty outcome
+            - prosthetic joint infection
+            - knee osteoarthritis pain management
+            - total hip arthroplasty
+            - pain management after surgery
+            - postpartum pelvic girdle pain
+            - chronic pediatric pain treatment
+            - tranexamic acid in orthopedic surgery
+            - osteoarthritis knee cartilage changes
+            - chronic pain treatment
+            - knee osteoarthritis
+            - tka patient outcome
+            - patient outcomes in spinal surgery
+            - lumbar disc degeneration
+            - lumbar spine degenerative findings
+            - osteoarthritis knee cartilage
+            - hip osteoarthritis treatment
+            - knee arthroplasty surgery
+            - opioid use and pain management
+            - low back pain assessment
+            - chronic pain management
+            - musculoskeletal pain prediction
+            - covid-19 and orthopaedics
+            - adolescent idiopathic scoliosis
+        - autoimmune diseases/rheumatology
+        - inflammations/kidney diseases
+            - lupus nephritis risk assessment
+            - alport syndrome treatment
+            - factor xia inhibitor
+            - acute kidney injury in children
+            - heparin-induced thrombocytopenia
+            - lupus nephritis
+            - ckd-related bone disease
+            - renal oxygenation and kidney function
+            - chronic kidney disease (ckd)
+            - monoclonal gammopathy of renal significance
+            - rivaroxaban reversal
+            - renal fibrosis
+            - membranous nephropathy diagnosis
+            - chronic kidney disease risk factors
+            - polycystic kidney disease treatment
+            - renal sodium regulation
+            - iron deficiency anemia treatment
+            - chronic kidney disease
+            - mycophenolate mofetil treatment
+            - uremic toxin and kidney disease
+            - iga nephropathy treatment
+            - dietary patterns and chronic kidney disease
+            - atypical hemolytic uremic syndrome
+            - ckd-associated cardiovascular disease risk factors
+            - podocyte function and disease in diabetic nephropathy
+            - antiphospholipid syndrome in lupus patients
+            - venous thromboembolism risk assessment
+            - uric acid and kidney disease
+            - acute kidney injury biomarkers
+            - diabetic kidney disease
+            - renal disease
+            - kidney transplant bone disease
+            - antiphospholipid syndrome
+            - kidney transplantation
+            - cancer-associated venous thromboembolism management
+            - chronic kidney disease progression
+            - chronic kidney disease management
+            - hyponatremia management
+            - hypertension in chronic kidney disease
+            - prorenin receptor activation
+        - rare diseases/cognitive disorders
+        - rheumatology/arthritis
+            - osteoarthritis treatment
+            - systemic lupus erythematosus patient
+            - rheumatoid arthritis treatment quality
+            - macrophage activation syndrome
+            - autoinflammatory disease
+            - hydroxychloroquine and covid-19 in sle patients
+            - salivary gland involvement in sjogren's syndrome
+            - gout disease
+            - biosimilars in rheumatology
+            - chronic recurrent multifocal osteomyelitis
+            - giant cell arteritis treatment
+            - juvenile dermatomyositis
+            - antinuclear antibody profile in sle patients
+            - systemic sclerosis interstitial lung disease
+            - systemic lupus erythematosus immunology
+            - ankylosing spondylitis treatment
+            - rheumatoid arthritis interstitial lung disease
+            - behçet's disease clinical manifestations
+            - rheumatoid arthritis patient care
+            - anti-carbamylated protein antibodies for rheumatoid arthritis diagnosis
+            - systemic lupus erythematosus risk profile
+            - igg4-related disease
+            - antiphospholipid syndrome
+            - rheumatic disease tuberculosis treatment
+            - rheumatoid arthritis treatment
+            - lupus myocarditis
+            - methotrexate in rheumatoid arthritis treatment
+            - rheumatic disease
+            - anca-associated vasculitis treatment
+            - rheumatoid arthritis disease risk factors
+            - joint hypermobility syndrome
+            - checkpoint inhibitor-induced arthritis
+            - disease activity in rheumatoid arthritis
+            - fibromyalgia patient treatment
+            - lupus nephritis outcome
+            - juvenile idiopathic arthritis treatment
+            - knee osteoarthritis treatment
+            - systemic lupus erythematosus
+            - rheumatoid arthritis disease activity
+            - systemic lupus erythematosus patient outcomes
+            - systemic sclerosis disease
+            - fibromyalgia diagnosis criteria
+            - reproductive health in rheumatic disease
+            - sacroiliac joint imaging
+            - rheumatic disease treatment
+            - rheumatoid arthritis risk factors
+            - opioid use disorder in rheumatoid arthritis
+            - vasculitis cardiovascular complications
+            - autoimmune thyroid disease
+            - primary sjögren syndrome
+            - takayasu arteritis disease activity
+            - autoimmune disease diagnosis
+            - catastrophic antiphospholipid syndrome
+            - familial mediterranean fever
+            - systemic sclerosis patient management
+            - rheumatoid arthritis patient outcomes
+            - adult-onset still's disease
+            - giant cell arteritis diagnosis
+            - iga vasculitis diagnosis
+            - systemic sclerosis treatment
+            - behçet's disease
+            - antineutrophil cytoplasmic antibody-associated vasculitis diagnosis
+    - environmental & occupational health
+        - asbestos/industrial and organizational psychology
+            - musculoskeletal disorders in workers
+            - musculoskeletal pain and work disability
+            - work-related health risks
+            - vibration-induced injuries
+            - shift worker health risks
+            - long working hours and mental health
+    - respiratory system
+        - asthma/chronic lower respiratory diseases
+            - allergen immunotherapy
+            - food allergy in children
+            - drug hypersensitivity reaction
+            - venom allergy
+            - anaphylaxis diagnosis and management
+            - allergy diagnosis
+            - allergic rhinitis treatment
+            - nsaid-exacerbated respiratory disease (nsaid-erd)
+            - peanut allergy diagnosis
+            - food allergy treatment
+        - cystic fibrosis/lung disorders
+            - sweat chloride analysis in cystic fibrosis
+            - cystic fibrosis newborn screening
+            - cystic fibrosis exacerbation treatment
+        - lung disorders/respiratory diseases principally affecting the interstitium
+            - leukocyte filter
+            - lung transplantation
+            - cardiac surgery risk assessment
+            - pediatric cardiovascular surgery
+            - low-prime cardiopulmonary bypass circuit
+            - thoracoabdominal aortic repair
+            - cystic fibrosis patient outcome
+            - covid-19 and respiratory diseases
+            - covid-19 respiratory care
+            - tuberculosis diagnosis and treatment
+            - respiratory disease diagnosis
+            - hemoptysis treatment
+            - cpap therapy for osa
+            - primary spontaneous pneumothorax management
+            - skeletal muscle dysfunction in copd
+            - inducible laryngeal obstruction
+            - exhaled breath analysis
+            - cryobiopsy for lung disease diagnosis
+            - vitamin d and asthma
+            - pulmonary alveolar proteinosis
+            - diaphragmatic dysfunction management in mechanical ventilation
+            - lung cancer screening
+            - alpha-1 antitrypsin deficiency
+            - lung function measurement
+            - primary ciliary dyskinesia diagnosis
+            - lung disease diagnosis
+            - asthma inhaler adherence
+            - bronchial thermoplasty for severe asthma
+            - air pollution and respiratory health
+            - occupational asthma
+            - chronic thromboembolic pulmonary hypertension
+            - asthma patient management
+            - chronic obstructive pulmonary disease (copd)
+            - asthma inflammation
+            - nontuberculous mycobacterial pulmonary disease
+            - childhood respiratory disease
+            - chronic obstructive pulmonary disease (copd) management
+            - lung damage from smoking and vaping
+            - sarcoidosis patient care
+            - community-acquired pneumonia
+            - lung ultrasound diagnosis
+            - hereditary hemorrhagic telangiectasia (hht)
+            - respiratory disease exposure
+            - endobronchial valve therapy
+        - mechanical ventilation/respiratory therapy
+        - sleep disorders/breathing abnormalities
+            - child sleep and education
+            - cpap therapy for osa
+    - gastroenterology & hepatology
+        - autoimmune diseases/inflammations
+            - hepatocellular carcinoma risk assessment
+            - pancreatic cystic lesion management
+            - inflammatory bowel disease diet
+            - esophageal manometry
+            - chronic constipation treatment
+            - ultrasound in gastroenterology
+            - chronic diarrhea investigation
+            - hepatitis e virus infection
+            - probiotics and inflammatory bowel disease (ibd)
+            - eosinophilic esophagitis treatment
+            - ischemic colitis risk factors
+            - hepatocellular carcinoma treatment
+            - short bowel syndrome in crohn's disease
+            - diverticular disease management
+            - chronic pancreatitis
+            - budd-chiari syndrome treatment
+            - helicobacter pylori infection
+            - alcoholic liver disease
+            - hepatitis c treatment
+            - gastrointestinal side effects
+            - acute liver failure
+            - nonalcoholic fatty liver disease
+            - autoimmune hepatitis
+            - colorectal cancer screening
+            - gastrointestinal disease diagnosis
+            - inflammatory bowel disease management
+            - autoimmune pancreatitis
+            - intestinal epithelial cell function and disease
+            - pregnancy and inflammatory bowel disease treatment
+            - coeliac disease diagnosis
+            - cytomegalovirus infection in ulcerative colitis
+            - microscopic colitis diagnosis
+            - hepatocellular adenoma
+        - bariatrics/digestive system surgery
+            - bariatric surgery
+            - ventral hernia repair
+            - gastrointestinal tumor diagnosis during surgery
+            - incisional hernia prevention
+            - magnetic sphincter augmentation
+            - gastric bypass surgery
+            - bariatric surgery outcomes
+            - hernia repair mesh erosion
+            - robotic-assisted colorectal surgery
+            - bariatric surgery and liver disease
+            - esophagectomy complications
+            - bariatric surgery for gastro-oesophageal reflux symptoms
+            - laparoscopic sleeve gastrectomy
+        - clinical research/design of experiments
+        - conditions diagnosed by stool test/diarrhea
+            - rectal cancer surgery
+            - anal fissure treatment
+            - rectal prolapse treatment
+            - anal fistula treatment
+            - acute colonic diverticulitis treatment
+        - endoscopy/diagnostic gastroenterology
+            - endoscopic biliary tumor treatment
+            - percutaneous endoscopic gastrostomy (peg) complication
+            - endoscopic myotomy for achalasia
+            - endoscopic ultrasound-guided liver biopsy
+            - pancreatic cyst diagnosis and management
+            - esophageal cancer treatment
+            - endoscopic ultrasound-guided fine needle aspiration for pancreatic tumor diagnosis
+            - iatrogenic colon perforation management
+            - gastrointestinal tumor treatment
+            - endoscopic duodenal lesion treatment
+            - endoscopic drainage of pancreatic fluid collections
+            - bowel preparation for colonoscopy
+            - small bowel bleeding diagnosis and treatment
+            - colorectal polyp resection
+            - esophageal stricture treatment
+            - eus-guided biliary drainage
+            - sedation in endoscopy
+            - endoscopy during covid-19 pandemic
+            - post-ercp pancreatitis
+            - eus-guided gastrointestinal stenting
+            - colorectal polyp detection
+            - co2 insufflation in colonoscopy
+            - bile duct stone management
+            - endoscopy training and techniques
+            - gastric endoscopy complications
+            - biliary stricture diagnosis
+            - upper gastrointestinal bleeding management
+            - biliary stricture management
+            - gastric cancer treatment
+            - endoscopy intervention and closure
+            - gastroesophageal reflux disease treatment
+            - endoscopic bariatric therapy
+        - hepatology/biliary tract disorders
+            - esophageal atresia repair
+            - biliary atresia diagnosis and treatment
+            - inguinal hernia repair in children
+            - pediatric appendicitis treatment
+            - hirschsprung disease diagnosis and treatment in children
+            - acute pediatric appendicitis diagnosis
+            - congenital diaphragmatic hernia repair
+            - child gastroesophageal reflux surgery
+            - choledochal cyst surgery complications
+            - gastroschisis outcome
+            - short bowel syndrome treatment
+            - pediatric surgical exposure
+            - pectus excavatum repair
+            - ovarian torsion management in pediatric patients
+        - organ transplantation/diseases of liver
+            - liver transplantation
+            - liver transplantation in autoimmune liver disease
+            - hepatitis c virus treatment
+            - liver transplantation immunotherapy
+            - liver transplantation with portal vein thrombosis
+            - liver transplantation for hepatocellular cancer
+            - liver transplant patient outcome
+            - liver donation after cardiac death (dcd) grafting
+            - alcohol relapse in liver transplantation
+            - tacrolimus therapy in transplantation
+            - liver transplant cardiovascular risk
+            - live liver donation
+            - islet cell transplantation
+        - proton-pump inhibitors/world health organization essential medicines
+    - oncology & carcinogenesis
+        - biomarkers/biotechnology
+            - soft tissue lesion diagnosis
+            - malignant mesothelioma diagnosis
+            - thyroid fine needle aspiration cytology
+            - cytological sample preparation
+            - placental pathology
+            - pancreatic cancer metastases diagnosis
+            - artificial intelligence in cytopathology
+            - salivary gland cytopathology
+            - delta check result detection
+            - hpv testing in cervical cancer
+            - thyroid cancer diagnosis
+            - infectious disease diagnosis
+            - rapid on-site evaluation (rose) in cytology
+            - urothelial carcinoma diagnosis
+            - lymph node diagnosis
+            - cytological analysis of peritoneal fluid
+            - pathologist-patient consultation program
+            - pancreatic cytology diagnosis
+        - biomarkers/stool tests
+        - dietary supplements/nutrition by type
+            - nutritional risk assessment for patients
+            - nutrition support in critically ill patients
+            - body composition analysis
+            - nutritional support in cancer care
+        - digestive system surgery/surgery
+            - breast reconstruction
+            - breast reconstruction complications
+            - lymphaticovenular anastomosis in lymphedema treatment
+        - gynaecological cancer/oncology
+            - gestational trophoblastic neoplasia
+            - minimally invasive ovarian cancer surgery
+            - ovarian tumor diagnosis
+            - laparoendoscopic surgery in gynecologic oncology
+            - ovarian cancer diagnosis and prognosis
+            - robotic radical hysterectomy for cervical cancer
+            - cervical cancer staging and treatment
+            - robotic hysterectomy patient outcome
+            - squamous cell carcinoma antigen in cervical cancer
+            - endometrial cancer patient outcome
+            - endometrial cancer invasion risk assessment
+            - ovarian cancer chemotherapy response
+            - uterine sarcoma
+            - cervical cancer prognosis
+            - cervical cancer fertility preservation
+            - endometrial cancer and obesity
+            - malignant ovarian germ cell tumor
+            - vulvar squamous cell carcinoma treatment
+            - cervical cancer diagnosis
+            - sentinel lymph node detection
+            - ovarian cancer treatment
+            - ovarian cancer diagnosis and treatment
+            - gynecologic oncology training
+            - endometrial cancer treatment
+            - surgical recovery after gynecologic cancer surgery
+            - ovarian cancer biomarkers
+            - ovarian cancer surgery
+        - infectious causes of cancer/digestive system neoplasia
+            - gallbladder cancer treatment
+            - ventral hernia repair
+            - colorectal cancer surgery
+            - anal fistula treatment
+            - hemorrhoid treatment
+            - esophageal hiatal hernia repair
+            - transoral endoscopic thyroidectomy
+            - liver surgery and resection
+            - rare tumor report
+            - abdominal surgical closure technique
+            - rectal cancer surgery outcome
+            - surgical training and skills
+            - rectal cancer surgery
+            - minimally invasive esophagectomy
+            - laparoscopic abdominal trauma surgery
+            - surgical care in low-resource settings
+            - appendiceal neuroendocrine tumor diagnosis
+            - laparoscopic right colectomy anastomosis
+            - surgical outcomes in cancer patients
+            - thyroid surgery complications
+            - surgical practice during covid-19 pandemic
+            - colorectal liver metastases treatment
+            - surgical site infections in colorectal surgery
+            - laparoscopic adrenal surgery
+            - robotic gastric cancer surgery
+            - inguinal hernia repair
+            - ileal pouch-anal anastomosis surgical outcomes
+            - surgical ergonomics
+            - pilonidal disease treatment
+            - laparoscopic cholecystectomy
+            - primary hyperparathyroidism surgery
+            - enhanced recovery in colorectal surgery
+            - rectal cancer lymph node metastasis
+            - bile duct exploration
+            - laparoscopic colorectal surgery
+            - indocyanine green fluorescence imaging in surgery
+            - pouch failure and revision
+            - gastric cancer liver metastasis treatment
+            - fournier's gangrene
+            - surgical adhesions
+            - rectal prolapse surgery
+            - pancreatic neuroendocrine tumor surgery
+            - papillary thyroid cancer lymph node dissection
+            - sarcopenia in cancer patients
+            - fecal incontinence treatment
+            - cancer surgery outcomes
+            - liver resection and reconstruction after portal vein occlusion
+            - de garengeot hernia
+            - laparoscopic gastrointestinal surgery for tumor resection
+            - appendiceal cancer treatment
+            - gender in surgery
+        - medical imaging/medical physics
+            - hepatocellular carcinoma imaging report
+            - prostate cancer imaging
+            - breast cancer imaging diagnosis
+            - radiomics in cancer imaging
+            - liver fibrosis staging
+            - thyroid nodule diagnosis
+            - muscle elastography
+            - radiography practice
+            - gadolinium toxicity in mri contrast agents
+            - ovarian cancer imaging
+            - radiomics analysis
+            - acute appendicitis diagnosis
+            - renal mass diagnosis
+            - bone marrow imaging
+            - bone marrow edema detection
+            - covid-19 pneumonia imaging and presentation
+            - liver cancer imaging
+            - pancreatic cancer imaging feature analysis
+            - pediatric cardiothoracic ct imaging
+            - liver cancer ablation
+            - breast cancer imaging analysis
+            - uterine fibroid treatment
+            - sarcopenia imaging
+            - lung ventilation imaging
+            - magnetic resonance imaging in gastrointestinal cancer diagnosis
+            - liver arterial phase imaging in mri
+            - bone metastases imaging
+            - breast cancer imaging
+            - thyroid ablation treatment
+            - lung nodule detection
+            - ct-guided biopsy
+            - post-contrast acute kidney injury
+            - kidney transplant imaging
+            - fdg-pet/mri reporting in cancer staging
+            - radiolabeled cancer theranostics
+            - 68ga-psma pet/ct in prostate cancer detection
+            - pet/mr image correction
+            - pet ct image reconstruction
+            - pet radiotracer for tau imaging
+            - 18f-fluciclovine pet/ct in prostate cancer
+            - targeted radionuclide therapy
+            - 68ga-dotatate pet/ct
+            - nuclear medicine surgery
+            - fibroblast activation protein targeted radiotracers
+            - lutetium-psma therapy in metastatic prostate cancer
+            - pet radiomics analysis
+            - psma radioligand development for prostate cancer treatment
+            - fdg pet imaging
+            - auger electron therapy
+            - total body pet imaging
+            - pet imaging for atherosclerosis
+            - czt spect imaging
+            - neuroendocrine tumor treatment
+            - peptide receptor targeted therapy
+            - covid-19 and pet ct scan
+            - bone metastases detection
+            - her2 targeted imaging agent
+            - pretargeted radioimmunotherapy
+        - oncology/infectious causes of cancer
+            - long non-coding rna and cancer biology
+            - kaempferol and cancer
+            - cancer cell mechanism research
+            - anticancer therapy
+            - oncology research
+            - cancer cell biology
+            - cancer gene expression
+            - podoplanin antibody epitope mapping
+            - ovarian cancer cell proliferation regulation
+            - cancer cell apoptosis
+            - mirna cancer research
+            - pvt1 and cancer
+            - long noncoding rna and cancer development
+            - tumor treatment mechanism
+            - mirna regulation in cancer
+            - microrna function in cancer
+            - gastric cancer cell biology
+            - long non-coding rna (lncrna) function in cancer
+            - long non-coding rna hoxa11-as in cancer
+            - kinesin superfamily protein cancer
+            - long non-coding rna in prostate cancer cells
+            - long non-coding rna (lncrna) regulation in cancer
+            - mir-related cancer research
+            - microrna regulation in cancer
+            - mirna and cancer
+            - cancer cell apoptosis induction
+            - mesenchymal stem cell cancer therapy
+            - mirna in cancer
+            - cancer cell apoptosis treatment
+            - long noncoding rna (lncrna) and cancer
+            - hepatocellular carcinoma biomarkers
+            - autophagy and apoptosis in cancer treatment
+            - microrna in cancer
+            - renal cell carcinoma
+            - m6a rna methylation in cancer diagnosis
+            - anticancer activity of natural extracts
+            - tongue squamous cell carcinoma
+            - cancer treatment with natural compounds
+            - cancer treatment and cell signaling
+            - pancreatic cancer gene expression
+            - tumor cell migration inhibition
+            - long non-coding rna (lncrna) in cancer
+            - long noncoding rna and cancer
+            - cancer cell signaling and treatment
+            - tumor cell expression in cancer
+            - anticancer effect of herbal medicine in breast cancer
+            - anticancer activity
+            - colorectal cancer treatment
+            - microrna cancer research
+            - cancer cell mirna regulation
+            - microrna and cancer research
+            - mirna in cancer research
+            - emodin cancer therapy
+            - cancer biomarker
+            - long noncoding rna regulation in cancer
+            - cancer cell signaling pathways
+            - tumor cell apoptosis
+            - tumor suppression in cancer cells
+            - non-coding rna regulation in cancer
+            - cancer gene expression regulation
+            - cancer survivorship and pediatric oncology
+            - human papillomavirus (hpv) related cancer
+            - thyroid cancer diagnosis and treatment
+            - cancer biomarker development
+            - pediatric sickle cell disease management
+            - cancer in pregnancy
+            - photobiomodulation therapy
+            - cancer stem cell detection and identification
+            - pi3k inhibitors in cancer treatment
+            - gastric cancer research
+            - hepatocellular carcinoma (hcc) research
+            - male breast cancer
+            - venous thromboembolism in cancer patients
+            - uterine endometrial stromal sarcoma
+            - melanoma skin cancer risk factors
+            - hereditary cancer genetic testing
+            - glioblastoma treatment
+            - gastrointestinal stromal tumor (gist)
+            - orbital metastases in cancer patients
+            - cancer immunotherapy
+            - cancer chemotherapy treatment
+            - acute myeloid leukemia prognosis
+            - cervical cancer screening
+            - cancer pain management
+            - radiomics in oncology and carcinogenesis
+            - childhood acute lymphoblastic leukemia treatment and research
+            - breast lesion diagnosis
+            - oligometastatic cancer treatment
+            - pheochromocytoma and paraganglioma
+            - melanoma diagnosis and treatment
+            - basal cell carcinoma treatment
+            - cancer prevention and treatment using aspirin
+            - invasive micropapillary breast cancer
+            - lung cancer screening
+            - brain metastases treatment
+            - bone metastasis treatment
+            - cancer cell expression regulation
+            - childhood cancer genomic profiling
+            - follicular dendritic cell sarcoma
+            - breast cancer screening and diagnosis
+            - mirna expression in colorectal cancer
+            - gastric cancer prognosis
+            - car t cell therapy
+            - gestational trophoblastic disease
+            - cholangiocarcinoma
+            - malignant pleural mesothelioma treatment
+            - mucoepidermoid carcinoma
+            - hyperthermia treatment for cancer
+            - breast cancer patient treatment
+            - paclitaxel cancer treatment
+            - ercc1 expression in cancer
+            - cancer mortality in italy
+            - multidisciplinary cancer team meeting
+            - patient-centered cancer information online
+            - breast cancer treatment
+            - hyponatremia in lung cancer
+            - non-small cell lung cancer treatment
+            - bladder cancer management
+            - granular cell tumor
+            - breast cancer biomarker
+            - sexual health in cancer patients
+            - spiritual care in cancer patients
+            - pediatric cancer symptom management
+            - cancer survivorship
+            - end-of-life caregiver experiences
+            - cancer caregiver support
+            - cancer family experience
+            - patient experience in cancer care
+            - palliative care
+            - reflexology in cancer care
+            - dignity therapy in cancer patients
+            - cancer patient care and support
+            - breast cancer patient support
+            - palliative care for cancer patients
+            - caregiver burden in cancer patients
+            - hematopoietic stem cell transplantation patient care
+            - patient experience in head and neck cancer care
+            - cancer patient support and care
+            - art therapy for breast cancer patients
+            - symptom cluster management
+            - fear of cancer recurrence
+            - cancer patient caregiving and psychological support
+            - head and neck cancer patient care
+            - breast cancer patient quality of life
+            - cancer family support
+            - palliative care decision making
+            - hope in palliative cancer care
+            - cancer caregiver needs analysis
+            - prostate cancer and masculinity
+            - cancer patient communication
+            - cancer patient care in nursing education
+            - breast cancer survivorship
+            - cancer patient care and symptom management
+            - cancer survivor self-management interventions
+            - cancer caregiving
+        - pediatric cancers/anatomical pathology
+            - multiple myeloma research
+            - myelodysplastic syndrome treatment
+            - large granular lymphocyte leukemia
+            - acute promyelocytic leukemia (apl) treatment
+            - chronic myeloid leukemia treatment
+            - down syndrome leukemia treatment
+            - graft versus host disease treatment
+            - hemophagocytic lymphohistiocytosis
+            - acute lymphoblastic leukemia therapy
+            - multicentric castleman disease
+            - sickle cell disease treatment
+            - acute myeloid leukemia immunotherapy
+            - systemic mastocytosis
+            - diamond-blackfan anemia treatment
+            - cytomegalovirus infection after stem cell transplantation
+            - hematopoietic stem cell transplantation and tma
+            - mantle cell lymphoma treatment
+            - covid-19 and stem cell transplantation
+            - chronic lymphocytic leukemia treatment
+            - high-grade b-cell lymphoma
+            - hematopoietic stem cell transplantation
+            - light chain amyloidosis treatment
+            - thrombotic thrombocytopenic purpura treatment
+            - hematopoietic stem cell mobilization
+            - hereditary hemolytic anemia
+            - immune thrombocytopenia treatment
+            - adult t-cell leukemia treatment
+            - diffuse large b-cell lymphoma treatment
+            - pediatric hematopoietic stem cell transplantation
+            - erdheim-chester disease
+            - blastic plasmacytoid dendritic cell neoplasm
+            - iron overload in thalassemia patients
+        - radiation therapy procedures/medical physics
+            - pulmonary radiation toxicity
+            - radiotherapy treatment planning and dose calculation
+            - radiotherapy treatment planning
+            - radiation and cancer risk
+            - cardiac cancer radiotherapy
+            - pet image reconstruction
+            - beam dosimetry measurement
+            - radiation dose measurement
+            - organ segmentation in oncology
+            - radiation safety process improvement
+            - prostate cancer brachytherapy
+            - intensity-modulated proton therapy optimization
+            - out-of-field dose in radiation therapy
+            - cervical cancer brachytherapy
+            - lung cancer radiation therapy planning
+            - ct image synthesis
+            - radiation dosimetry
+            - dna radiation simulation
+            - prostate cancer radiotherapy treatment
+            - radiation treatment planning for prosthetics
+            - hyperthermia treatment planning
+            - breast dose mammography
+            - radiofrequency radiation effects on cells
+            - stereotactic body radiation therapy for lung cancer treatment
+            - lung cancer radiotherapy treatment
+            - rectal cancer radiotherapy treatment
+            - partial breast irradiation
+            - dose imaging in radiation therapy
+            - radiation-induced effects
+            - proton beam therapy verification
+            - dose measurement and detection
+            - dose calculation
+            - glioblastoma treatment planning
+            - head and neck cancer radiotherapy
+            - meningioma treatment
+            - radiation oncology residency program
+            - proton therapy imaging
+            - hypoxic tumor treatment
+            - photon counting ct detector
+            - brain metastasis stereotactic radiosurgery
+            - stereotactic body radiation therapy (sbrt) for spinal metastases
+            - ct dose estimation
+            - boron neutron capture therapy
+            - flash radiation therapy
+            - radiofrequency exposure assessment
+        - respiratory diseases principally affecting the interstitium/pulmonary heart disease and diseases of pulmonary circulation
+            - aortoesophageal fistula repair
+            - aortic valve intervention
+            - mitral valve repair surgery
+            - esophageal cancer complication management
+            - bronchopleural fistula treatment
+            - aortic surgery
+            - tricuspid valve regurgitation treatment
+            - pulmonary metastasis in colorectal cancer
+            - cardiothoracic surgery training
+            - heparin coating for cardiopulmonary bypass
+            - veno-venous ecmo treatment
+            - lung cancer surgery
+            - coronary artery bypass grafting
+            - pulmonary artery shunt
+            - fontan procedure outcome
+            - lung cancer spread
+            - minimally invasive esophagectomy techniques
+            - thoracic surgery
+            - lung cancer patient management
+            - lung cancer resection
+            - mitral valve regurgitation surgery
+            - lung cancer patient outcomes
+            - sternal closure techniques
+            - cerebral oxygenation in congenital heart disease
+            - lung cancer diagnosis
+            - chest wall reconstruction
+            - mitral valve repair
+            - ventricular assist device
+            - lung transplantation
+            - infective endocarditis surgery outcome
+            - vascular ring repair
+            - primary cardiac tumor surgery
+            - tissue-engineered heart valve
+            - minimally invasive cardiac surgery
+            - thoracoabdominal aortic aneurysm repair
+            - tracheal resection and reconstruction
+            - congenitally corrected transposition of the great arteries
+            - cardiac surgery patient risk factors
+            - aortic arch repair
+            - bilateral internal thoracic artery grafting
+            - pulmonary segmentectomy
+            - thymic tumor management
+            - malignant pleural mesothelioma treatment
+            - pulmonary nodule localization and resection
+            - tissue engineering for cardiovascular valve replacement
+            - lung cancer diagnosis and treatment
+            - pulmonary venous anomaly treatment
+            - post-operative atrial fibrillation
+            - atrial fibrillation ablation
+            - anomalous coronary artery management
+        - simple aromatic rings/aromatic bases
+            - synthesis and evaluation of novel antibacterial compounds
+            - anti-inflammatory compound synthesis
+            - carbonic anhydrase inhibitor
+            - antimicrobial compound synthesis
+            - alzheimer's disease treatment
+        - thyroid disease/pancreatic cancer
+            - pituitary adenoma treatment
+            - thyroid cancer treatment
+            - pediatric thyroid cancer
+            - salivary gland carcinoma prognosis
+            - primary hyperparathyroidism
+            - robotic surgery for oropharyngeal cancer
+            - head neck reconstruction
+            - thyroid nodule diagnosis
+            - young oral cancer survival
+            - hypopharyngeal cancer treatment
+            - thyroid disease treatment
+            - thyroid surgery complications
+            - sinonasal tumor treatment
+            - transoral thyroidectomy
+            - hypothyroidism treatment
+            - parapharyngeal space tumor surgery
+            - primary aldosteronism
+            - delayed cancer treatment and survival analysis
+            - laryngeal cancer treatment
+            - oral cancer screening
+            - head and neck cancer treatment
+            - head and neck reconstruction
+            - thyroid cancer lymph node metastasis
+            - unknown primary squamous cell carcinoma
+            - oral cancer survival factors
+            - congenital hypothyroidism genetics
+            - tongue function and exercise
+            - medullary thyroid cancer risk factors
+            - thyroid cancer risk assessment
+            - acromegaly diagnosis and treatment
+            - pheochromocytoma treatment
+            - salivary cortisol assay
+            - laryngeal cancer
+    - orthopedics
+        - bone fractures/acute pain
+            - total hip arthroplasty
+            - ankle fracture treatment
+            - pediatric flatfoot correction
+            - hip fracture treatment
+            - hip stem implant
+            - intertrochanteric femur fracture fixation
+            - distal radius fracture treatment outcome
+            - knee arthroplasty
+            - locking plate fracture fixation
+            - periprosthetic femoral fracture treatment
+            - covid-19 and orthopaedic trauma
+            - pelvic fracture management
+            - scapula fracture treatment
+            - femoral neck fracture treatment
+            - elbow fracture treatment
+            - periprosthetic joint infection treatment
+            - childhood fracture injury
+            - humerus shaft fracture fixation
+            - hip acetabular revision arthroplasty
+            - reverse shoulder arthroplasty for fractures
+            - total knee arthroplasty patient care
+            - lisfranc injury fixation
+            - intramedullary nail lengthening
+            - total knee arthroplasty
+            - bone infection diagnosis
+            - acute compartment syndrome
+            - metal-on-metal hip arthroplasty
+            - open tibia fracture management
+            - patella fracture treatment
+            - tranexamic acid in orthopedic surgery
+            - clavicle fracture fixation
+            - atypical femoral fracture treatment
+            - venous thromboembolic prophylaxis in surgery
+            - 3d printing in surgery
+            - tibial fracture fixation
+            - calcaneal fracture treatment
+        - childhood/pediatrics
+            - pediatric supracondylar humerus fracture treatment
+            - early onset scoliosis treatment
+            - clubfoot treatment in children
+            - guided growth plate technique
+            - femoral shaft fracture treatment
+            - slipped capital femoral epiphysis
+            - radial neck fracture treatment in children
+            - lateral condyle fracture treatment
+            - developmental dysplasia of the hip treatment
+            - pediatric forearm fracture treatment
+            - hip osteotomy for cerebral palsy
+        - drug discovery/health policy
+            - pain management in shoulder injury
+        - joints/upper limb anatomy
+            - vascularized bone graft for scaphoid nonunion
+            - dupuytren's disease treatment
+            - distal radius fracture treatment
+            - digital reconstruction flap techniques
+            - thumb osteoarthritis treatment
+            - wrist motion analysis
+            - wide awake hand surgery
+            - ulnar nerve syndrome
+            - flexor tendon repair
+            - wrist denervation
+            - carpal tunnel syndrome treatment
+            - hand replantation surgery
+            - mallet fracture treatment
+            - wrist fusion surgery
+            - kienböck disease treatment
+            - brachial plexus injury treatment
+            - surgical treatment of scaphotrapeziotrapezoid joint osteoarthritis
+            - wrist tfcc repair
+            - hand infection treatment
+            - wrist and hand surgery
+            - proximal interphalangeal joint arthroplasty
+            - hand surgery
+            - proximal interphalangeal joint fracture dislocation treatment
+            - thumb polydactyly reconstruction
+            - metacarpal fracture fixation
+            - scapholunate ligament biomechanics
+            - trigger finger release
+            - hand osteoarthritis treatment outcome
+        - orthopedic surgical procedures/prosthetics
+            - hip arthroplasty pelvic positioning
+            - total hip arthroplasty
+            - total joint arthroplasty payment model
+            - porous acetabular component implant
+            - blood loss reduction in orthopedic surgery
+            - prosthetic joint infection diagnosis
+            - total hip arthroplasty patient outcome
+            - liposomal bupivacaine in knee arthroplasty
+            - revision hip arthroplasty stem
+            - total hip arthroplasty wear
+            - unicompartmental knee arthroplasty
+            - hip and knee arthroplasty outcomes
+            - ceramic hip arthroplasty
+            - obese patient arthroplasty complications
+            - tibial component in total knee arthroplasty
+            - total joint arthroplasty venous thromboembolism prevention
+            - hip joint infection treatment
+            - metal-on-metal hip arthroplasty
+            - total knee arthroplasty patient outcomes
+            - medial patellofemoral ligament reconstruction
+            - tourniquet use in knee arthroplasty
+            - femoral tunnel reconstruction in acl surgery
+            - total knee arthroplasty alignment
+            - discoid lateral meniscus treatment
+            - rotator cuff repair
+            - patellar tendon reconstruction
+            - superior capsular reconstruction for rotator cuff tears
+            - anterior shoulder instability treatment
+            - platelet-rich plasma for knee osteoarthritis treatment
+            - acromioclavicular joint reconstruction
+            - rotator cuff injection and repair
+            - knee arthroplasty revision
+            - return to play after acl reconstruction
+            - meniscal repair
+            - labral hip reconstruction
+            - biceps tenodesis
+            - anterior cruciate ligament injury treatment
+            - anterior cruciate ligament reconstruction
+            - osteochondral lesion treatment talus
+            - elbow arthroscopy
+            - proximal hamstring injury treatment
+            - total knee arthroplasty outcome
+            - medial tibial osteotomy
+            - multiligament knee injury treatment
+            - ulnar collateral ligament reconstruction
+            - lateral ankle instability treatment
+            - cartilage repair in knee surgery
+            - patellofemoral arthroplasty outcome
+            - covid-19 impact on orthopaedics and trauma practice
+            - ankle osteoarthritis treatment
+            - total knee arthroplasty
+            - shoulder infection management
+            - hallux valgus treatment
+            - total elbow arthroplasty
+            - knee osteoarthritis treatment
+            - hip replacement patient outcome
+            - total knee arthroplasty (tka)
+            - knee osteoarthritis cartilage
+            - revision hip arthroplasty
+            - augmented glenoid implants
+            - tranexamic acid in orthopedic surgery
+            - total ankle arthroplasty outcome
+            - rotator cuff tear
+            - shoulder arthroplasty
+            - surgical site infection prevention
+            - femoral head osteonecrosis
+            - tka patient outcome report
+            - venous thromboembolism prophylaxis in arthroplasty
+            - metal-on-metal hip implant failure
+            - radial head fracture treatment
+            - giant cell tumor treatment
+            - opioid use in orthopedic patients
+            - insertional achilles tendinopathy treatment
+            - revision total knee arthroplasty
+            - lisfranc injury treatment
+            - clavicle fracture treatment
+            - total knee arthroplasty infection treatment
+            - orthopaedic surgery diversity & inclusion
+            - knee arthroplasty outcome analysis
+        - shoulder/injuries of shoulder and upper arm
+            - reverse total shoulder arthroplasty
+            - shoulder arthroplasty outcomes
+            - reverse shoulder arthroplasty for proximal humeral fracture
+            - shoulder arthroplasty failure
+            - glenohumeral osteoarthritis classification
+            - glenoid bone reconstruction during shoulder arthroplasty
+            - periprosthetic joint infection in shoulder arthroplasty
+            - shoulder arthroplasty
+    - surgery
+        - breast surgery/cosmetic surgery
+            - free flap reconstruction
+            - facial rejuvenation surgery
+            - cleft lip and palate surgery
+            - liposuction technique
+            - lymphaticovenous anastomosis for lymphedema
+            - breast augmentation surgery
+            - hyaluronic acid filler injection
+            - epicanthoplasty
+            - gluteal fat grafting
+            - cranial vault remodeling surgery outcome
+            - nerve allograft repair
+            - medial sural artery perforator flap reconstruction
+            - propeller flap surgery
+            - plastic surgery education
+            - breast reconstruction
+            - flap reconstruction
+            - superficial circumflex iliac artery perforator flap
+            - body contouring complications
+            - plastic surgery flap reconstruction
+            - gender-affirming breast surgery
+            - breast reconstruction surgery
+            - breast reduction surgery outcome
+            - facial paralysis treatment
+            - plastic surgery residency match
+            - covid-19 and plastic surgery
+            - face transplantation
+            - free flap thrombosis
+            - microtia reconstruction
+            - microsurgery training
+        - evidence-based practices/information science
+        - organ transplantation/transplantation medicine
+            - lung transplantation allocation
+            - liver transplant patient outcome
+            - donation after circulatory death (dcd) transplantation
+            - solid organ transplant infection
+            - lung transplantation dysfunction
+            - organ donation increase
+            - living kidney donor outcomes
+            - kidney transplant induction therapy
+            - kidney transplantation readmissions
+            - transplant immunology
+            - posttransplant lymphoproliferative disorder
+            - pancreas transplantation
+            - kidney transplant outcomes
+            - covid-19 in solid organ transplant recipients
+            - organ transplantation
+            - organ donation attitude
+            - kidney transplantation
+            - tacrolimus in transplantation
+            - antibody-mediated rejection
+            - vascularized composite allograft transplantation
+            - lung transplantation survival
+            - xenotransplantation
+            - bk polyomavirus infection in kidney transplant recipients
+            - intestinal transplantation
+            - pediatric organ transplantation
+            - hepatitis c virus-positive organ transplantation
+            - organ preservation for transplantation
+            - kidney transplantation graft function
+            - kidney-liver transplantation
+    - emergency & critical care medicine
+        - burns/acute pain
+            - enzymatic debridement in burns
+            - burn care and rehabilitation
+            - burn wound treatment
+            - burn injury management
+            - nutrition in burn injury
+            - burn injury treatment
+            - burn contracture treatment
+            - burn wound assessment
+            - pediatric burn injury treatment
+            - burn patient care
+            - burn fluid resuscitation
+            - burn injury survivor support
+            - burn wound dressing
+            - burn injury care
+            - burn patient infection diagnosis
+            - burn patient mortality
+            - burn scar assessment
+            - burn pain management
+        - emergency medicine/hospital departments
+            - prehospital ultrasound in emergency medicine
+            - point-of-care ultrasound in emergency medicine
+            - ketamine for pain management in emergency department
+            - ketamine for sedation
+            - prehospital trauma care
+            - beta blocker toxicity treatment
+            - hospital disaster preparedness
+            - ambulance offload delay
+            - emergency department visit
+            - pain management in emergency department
+            - disaster medicine education
+            - skin abscess treatment
+            - emergency medicine quality care
+            - emergency department patient care
+            - emergency department operations
+            - emergency triage system
+            - ambulance paramedics death protocol
+            - poison center management
+            - old adult trauma triage
+            - poisoning case registry
+            - anticholinergic poisoning treatment
+            - emergency department overcrowding
+            - pediatric emergency medical services
+        - medical emergencies/trauma types
+            - trauma patient mortality
+            - cervical spine injury diagnosis
+            - emergency general surgery
+            - trauma mortality
+            - vte prophylaxis in trauma patients
+            - traumatic hemothorax management
+            - trauma patient outcome
+            - splanchnic trauma management
+            - resuscitative endovascular balloon occlusion of the aorta
+            - combat-related pediatric injury
+            - trauma care center
+            - trauma patient mortality prediction
+            - blunt pediatric chest trauma
+            - abdominal trauma management
+            - hemorrhage control training
+            - delayed intracranial hemorrhage in anticoagulated trauma patients
+            - trauma care policy impact analysis
+            - traumatic brain injury management
+            - blast injury mechanism
+            - major incident triage
+            - preventable trauma deaths
+            - trauma registry data
+            - trauma patient management
+            - penetrating neck trauma management
+            - necrotizing fasciitis diagnosis
+            - rib fracture treatment
+            - long-term trauma patient outcome
+            - pediatric trauma management
+            - geriatric trauma patient care
+            - duodenal trauma management
+            - blunt cerebrovascular injury management
+            - covid-19 and surgery
+            - violence intervention program
+            - pelvic fracture embolization
+            - compensatory reserve in hemorrhagic shock
+            - penetrating thoracic trauma patient care
+        - medical emergencies/traumatology
+            - cardiac arrest resuscitation
+            - double sequential defibrillation for vf
+            - cardiac arrest survival outcome
+            - out-of-hospital cardiac arrest outcome
+            - out-of-hospital cardiac arrest
+            - mechanical chest compression cpr
+            - cardiopulmonary resuscitation training
+            - hospital cardiac arrest resuscitation
+            - accidental hypothermia treatment
+            - pediatric in-hospital cardiac arrest
+            - bystander cardiopulmonary resuscitation training
+            - cardiac arrest neurological outcome
+            - out-of-hospital cardiac arrest patient outcome
+            - cpr training
+            - targeted temperature management after cardiac arrest
+            - extracorporeal cardiopulmonary resuscitation
+            - cardiopulmonary resuscitation
+    - general clinical medicine
+        - clinical pathology/health care occupations
+            - high-sensitivity cardiac troponin i (hs ctni) assay
+            - measurement uncertainty
+            - clinical chemistry method evaluation
+            - glycated haemoglobin analysis
+            - laboratory quality indicators
+            - fluoroimmunoassay development
+            - creatinine measurement interference
+            - calcium concentration assessment
+            - covid-19 antibody detection
+            - laboratory quality control
+            - ck-mb assay for acute myocardial infarction diagnosis
+            - bone alkaline phosphatase assay
+            - biotin interference in immunoassays
+    - dermatology & venereal diseases
+        - cutaneous conditions/autoimmune diseases
+            - ultraviolet b and skin disorders
+            - air pollution skin effect
+            - atopic dermatitis
+            - bullous pemphigoid diagnosis and treatment
+            - seborrheic dermatitis treatment
+            - skin cancer prevention
+            - pityriasis rubra pilaris
+            - inherited ichthyosis
+            - leprosy diagnosis
+            - sensitive skin syndrome
+            - cutaneous carcinoma
+            - psoriasis treatment
+            - cutaneous granuloma treatment
+            - psoriasis diagnosis and treatment
+            - cutaneous mastocytosis
+            - melanoma diagnosis and treatment
+            - pigmented purpuric dermatosis treatment
+            - laser skin treatment
+            - localized scleroderma diagnosis and treatment
+            - scabies treatment and diagnosis in children
+            - topical psoriasis treatment
+            - psoriasis disease management
+            - facial filler treatment
+            - immune checkpoint inhibitor therapy side effects
+            - keloid treatment
+            - acne treatment
+            - hailey-hailey disease treatment
+            - skin filler treatment
+            - frontal fibrosing alopecia treatment
+            - psychodermatology patient care
+            - kaposi sarcoma treatment
+            - wart treatment
+            - teledermatology and covid-19
+            - basal cell carcinoma diagnosis and treatment
+            - lupus erythematosus treatment
+            - epidermolysis bullosa disease
+            - vitiligo treatment
+            - tattoo complications
+            - rosacea treatment
+            - chronic urticaria treatment
+            - tinea infection
+            - covid-19 and skin diseases
+            - bullous pemphigoid disease
+            - pyoderma gangrenosum treatment
+            - scleromyxedema treatment
+            - treatment of hypertrophic burn scars
+            - tuberous sclerosis treatment
+            - alopecia areata
+            - skin treatment
+            - primary hyperhidrosis treatment
+            - actinic keratosis treatment
+            - dupilumab treatment for atopic dermatitis
+            - toxic epidermal necrolysis
+            - hidradenitis suppurativa disease
+            - cutaneous fungal infections
+            - acanthosis nigricans
+            - diaper dermatitis
+            - allergic contact dermatitis
+            - patch test dermatitis
+            - aluminium allergy patch test
+            - hand dermatitis prevention
+            - contact dermatitis patch testing
+            - metal implant hypersensitivity reaction
+            - contact dermatitis allergy testing
+            - child allergic contact dermatitis
+            - fat grafting
+            - facial aesthetics treatment
+            - cryolipolysis treatment
+            - acne scar treatment
+            - platelet rich plasma treatment
+            - hand rejuvenation
+            - scar management in rhinoplasty
+            - facial rejuvenation treatment
+            - hyaluronic acid filler treatment
+            - scar treatment
+            - cosmetic surgery
+            - scar treatment with laser
+            - breast implant surgery
+            - hyaluronic acid fillers
+            - botulinum toxin treatment
+        - light therapy/circadian rhythm
+        - skin conditions resulting from physical factors
+            - skin tear classification
+            - antimicrobial wound dressing
+            - negative pressure wound therapy
+            - chronic wound care
+            - amniotic membrane wound treatment
+            - wound healing treatment
+            - pressure ulcer prevention
+            - pressure ulcer treatment dressing
+            - wound management in palliative patients
+            - pressure injury prevention
+    - dentistry
+        - dental materials/restorative dentistry
+            - denture biofilm inhibition
+            - light-cured dental composite
+            - composite repair bond strength
+            - dentin bonding with universal adhesives
+            - dentin hypersensitivity treatment
+            - maxillofacial prosthetics
+            - dental restoration
+            - dental ceramic restoration
+            - zirconia crown restoration
+            - endodontic restoration
+            - titanium implant surface technology
+            - zirconia crown fabrication
+            - complete denture design
+            - dental fluorosis treatment
+            - bond strength in dentistry
+            - tooth wear treatment
+            - dental implant abutment stress analysis
+            - tooth bleaching treatment
+            - magnesium implant material
+            - artificial intelligence in dentistry
+            - dental ceramic material
+            - dental adhesive material
+            - temporomandibular disorder treatment
+            - titanium implant surface engineering
+            - occlusal analysis technology
+        - dentistry occupations/dentistry
+            - dental education and interprofessional learning
+            - dental student education
+            - dental student stress
+            - antibiotic prescribing in dentistry
+            - covid-19 impact on dental education
+            - dental professional practice
+            - dental education
+            - dental student training
+            - dental infection control
+            - children's oral health care
+            - geriatric dentistry education
+            - interprofessional dental education
+            - dental pulp and tooth tissue response
+            - dental enamel erosion
+            - covid-19 and dentistry
+            - collagen and gingivitis
+            - oral lichen planus treatment
+            - dental age assessment
+            - dental anxiety in children
+            - saliva proteomics & oral health
+            - autism spectrum disorder oral health
+            - masticatory muscle activity
+            - caries detection and management
+            - odontogenic tumors
+            - fluoride enamel interaction
+            - oral health education
+            - dentin matrix biology
+            - saliva and dental carie
+            - fluoride effect on enamel
+            - oral health in aging populations
+            - amelogenesis
+            - oral health care for older adults
+            - root caries
+            - dental composite material
+            - enamel development and mineralization
+            - osteonecrosis jaw disease treatment
+            - oral candidiasis
+            - tooth enamel development
+            - periodontal disease pathogenesis
+            - fluoride enamel treatment
+            - glass ionomer cement
+            - salivary gland function
+            - oral malodor treatment
+            - oral health quality of life
+            - orthodontic treatment planning
+            - oral health care for homeless people
+            - dental caries genetics
+            - oral health care for seniors
+            - temporomandibular joint disorder
+            - dental caries research
+            - periodontal ligament cell mechanotransduction
+            - osteoporosis assessment in dentistry
+            - fluoride caries prevention
+            - dental amalgam mercury exposure
+            - dental ceramic alloy
+            - oral cancer awareness
+        - endodontics/dental equipment
+            - cleft lip and palate treatment
+            - orthognathic surgery patient satisfaction
+            - class ii malocclusion treatment
+            - orthodontic tooth movement
+            - maxillary expansion treatment
+            - bone thickness assessment
+            - orthodontic treatment with tooth extraction
+            - orthodontics treatment
+            - management of impacted canines
+            - orthodontic treatment planning
+            - maxillary molar distalization
+            - anterior open bite treatment
+            - maxillary expansion
+            - enamel surface roughness
+            - cleft lip and palate dental anomalies
+            - skeletal pattern analysis
+            - orthodontic treatment evaluation
+            - orthodontic fluoride bonding
+            - smile attractiveness evaluation
+            - orthodontic research
+            - mandibular asymmetry treatment
+            - orthodontic treatment with invisalign
+            - root resorption in orthodontics
+            - orthodontic treatment
+            - orthodontic treatment for maxillary lateral incisor deficiency
+            - orthodontic materials and technology
+            - class iii malocclusion treatment
+            - orthodontic airway research
+            - orthodontics in growing patients
+            - orthodontic bracket bonding
+            - alveolar bone analysis
+            - orthodontic pain management
+        - endodontics/dentistry
+            - periapical periodontitis inflammation
+            - photobiomodulation therapy
+            - endodontic microsurgery
+            - regenerative endodontics
+            - root canal preparation
+            - tooth bleaching
+            - root canal treatment
+            - root canal anatomy
+            - tooth autotransplantation
+            - calcium-based root canal sealers
+            - root canal irrigation
+            - maxillary sinus pathology
+            - preferred reporting items for randomized trials in endodontics (prirate) guidelines
+            - dens invaginatus treatment
+            - laser dentistry treatment
+            - endodontic treatment
+            - dental trauma
+            - dental imaging
+            - photodynamic therapy applications
+            - periapical lesion diagnosis
+            - dental root canal preparation and microcracks
+            - covid-19 and dental care
+            - dental pulp material research
+        - oral mucosal pathology/conditions of the mucous membranes
+            - mandibular angle fracture fixation plate
+            - fibula free flap reconstruction
+            - mandibular joint ankylosis
+            - temporomandibular joint reconstruction
+            - facial trauma fracture treatment
+            - mandibular angle fracture fixation
+            - orbital fracture treatment
+            - sagittal split osteotomy fixation
+            - osteomyelitis treatment
+            - mandibular reconstruction
+            - cleft lip and palate in children
+            - medication-related osteonecrosis of the jaw (mronj) treatment
+            - mandibular distraction osteogenesis
+            - mandibular molar surgery
+            - cleft palate fistula prevention
+            - craniofacial microsomia anomalies
+            - mandibular fracture treatment
+            - orbital reconstruction surgery
+            - cleft lip and palate repair
+            - sagittal split osteotomy
+            - mandibular osteotomy
+            - cleft palate development
+            - odontogenic cyst treatment
+            - condylar hyperplasia treatment
+            - craniofacial development in infants with deformational plagiocephaly
+            - mandibular molar extraction
+            - radial forearm free flap donor site closure
+            - cleft lip and palate surgery
+            - orbital wall fracture reconstruction
+            - cleft lip and palate
+            - crouzon syndrome treatment
+            - bone lesion diagnosis
+            - orthognathic surgery treatment
+            - temporomandibular joint arthrocentesis
+            - free flap reconstruction complication
+            - alveolar bone grafting
+        - pathology of temporomandibular joints, muscles of mastication and associated structures/musculoskeletal disorders
+            - dentin bonding agent
+            - dental shade matching
+            - implant-fixed prosthetic framework design
+            - occlusal movement
+            - dental bonding strength analysis
+            - intraoral digital impression accuracy
+        - periodontal disorders/inflammations
+            - hyaluronic acid in dentistry
+            - titanium dental implant surface analysis
+            - periodontal disease research
+            - cone beam computed tomography in periodontology
+            - diabetes and periodontitis
+            - periodontitis diagnosis
+            - dental implant surgery
+            - periodontal disease treatment
+            - periodontal disease and rheumatoid arthritis
+            - periodontal defect treatment
+            - gingival overgrowth
+            - bone regeneration
+            - osteonecrosis jaw treatment
+            - mandibular implant-supported overdentures
+            - short implant dentistry
+            - dental implant surface treatment
+            - zirconia implant biology
+            - root coverage treatment
+            - dental implant placement and maintenance
+            - mandibular canal anatomy
+            - periodontitis research
+            - third molar extraction impact
+            - periodontitis in elderly
+            - periodontal disease
+            - dental implant osseointegration
+            - oral health and pregnancy
+            - platelet rich fibrin (prf) in dentistry
+            - peri-implant health
+            - antibiotic prophylaxis in dental implant placement
+            - dental implant treatment
+    - endocrinology & metabolism
+        - diabetes/insulin therapies
+            - diabetes mellitus prevalence
+            - omentin and insulin resistance
+            - diabetic foot infection
+            - risk prediction model for t2 diabetes patients
+            - diabetic complications
+            - diabetic kidney disease
+            - glycemic control in diabetes
+            - diabetes risk factors
+            - diabetes mellitus epidemiology
+            - type 2 diabetes patient care
+            - diabetes prevalence
+            - type 2 diabetes mellitus management
+            - diabetes and hypoglycemia
+            - diabetes treatment
+            - type 1 diabetes education and management
+            - diabetes management
+            - glucagon-like peptide-1 receptor agonist effects
+            - diabetes mortality risk
+            - diabetes mellitus mortality rate analysis
+            - diabetes treatment adherence
+            - diabetes mellitus management
+            - urinary biomarkers for diabetic nephropathy diagnosis
+            - vitamin d and insulin resistance
+            - inpatient diabetes management
+            - diabetic nephropathy assessment
+            - insulin closed-loop system
+            - type 1 diabetes
+            - type 1 diabetes glucagon regulation
+            - insulin therapy for type 2 diabetes
+            - type 2 diabetes risk factors
+            - covid-19 and diabetes
+            - diabetic ketoacidosis treatment
+            - risk of fracture in diabetes mellitus
+            - diabetes risk assessment
+            - mody diabetes
+            - type 2 diabetes mellitus
+            - gestational diabetes screening
+            - diabetes and ramadan fasting
+            - covid-19 pandemic impact
+            - diabetes mellitus treatment
+            - artificial pancreas control
+            - diabetes health in african americans
+            - type 1 diabetes autoimmunity
+            - non-insulin diabetes treatment
+            - type 1 diabetes complications
+            - latent autoimmune diabetes in adults (lada)
+            - insulin glargine dosing study
+            - semaglutide and glucagon-like peptide 1 receptor agonists for type 2 diabetes treatment
+            - type 2 diabetes management
+            - diabetes insulin therapy
+            - diabetes treatment and management
+            - diabetes patient care
+            - diabetes prevention program
+            - gestational diabetes
+            - glycemic variability in diabetes
+            - diabetes complications
+            - diabetes management apps
+            - diabetes risk factors and management
+            - diabetic foot ulcer treatment
+            - diabetic peripheral neuropathy
+            - diabetes risk prediction
+        - endocrine-related cutaneous conditions/neuroendocrinology
+        - obesity/bariatrics
+            - food marketing and advertising
+            - whole grain and health
+            - dietary patterns and bone health
+            - child obesity prevention
+            - polyphenol intake and health risks
+            - flaxseed supplementation effects
+            - metabolic energy expenditure
+            - dairy fat intake and health
+            - glycemic index and food
+            - obesity treatment
+            - sleep and obesity treatment
+            - nutrition and public health
+            - body composition assessment
+            - iodine intake and dietary patterns
+            - weight loss nutrition
+            - weight loss maintenance
+            - maternal nutrition and breastfeeding
+            - child obesity screening
+            - synbiotic supplementation effects in gestational diabetes mellitus
+            - childhood obesity
+            - whey protein and glucose response
+            - child obesity treatment
+            - childhood obesity prevention
+            - food and beverage consumption patterns
+            - dietary choices and environmental impact
+            - dietary antioxidant pattern
+            - nut consumption and health effects
+            - weight stigma in health
+            - coffee consumption and cardiovascular health
+            - vitamin d and metabolism
+            - body composition and metabolism
+            - covid-19 and obesity
+            - food consumption and satiety research
+            - obesity diagnosis criteria
+            - vitamin d intake in children
+            - dietary intervention
+            - taste receptor genetics
+            - zinc deficiency
+            - childhood obesity treatment
+            - postpartum weight loss intervention
+            - dietary fat intake and disease risk
+            - dietary intake analysis
+            - child body composition
+            - child obesity risk factors
+            - protein diet and obesity
+            - dietary intake and nutrition
+        - osteopathies/skeletal system
+            - x-linked hypophosphatemia diagnosis and management
+            - pregnancy-associated osteoporosis treatment
+            - bone mechanical properties
+            - osteoporotic fracture trends
+            - bone osteoporosis treatment
+            - pediatric bone health assessment
+            - sarcopenia and fracture risk
+            - hip fracture incidence
+            - osteoporotic fracture mortality
+            - trabecular bone score measurement
+            - hip fracture epidemiology
+            - osteoporotic vertebral fracture diagnosis
+            - osteoporosis in women
+            - osteoporosis treatment
+            - bone mineral density in women
+            - trabecular bone mechanics
+            - fgf23 and bone mineral density
+            - exercise and bone health
+            - bone health in ckd
+            - bone loading and mechanodeprivation
+            - hip fracture risk assessment
+            - hypophosphatasia treatment
+            - body composition measurement
+            - osteoporosis fracture risk
+            - osteoporosis risk assessment
+            - bone fracture risk in women
+            - androgen-induced bone loss
+            - bone histomorphometry
+            - osteoporosis fracture risk analysis
+            - bone turnover marker analysis for osteoporosis
+            - bone mineral density in children
+            - osteoporosis risk factors
+            - calcium intake and bone health
+        - thyroid disease/thyroid
+            - thyroid nodules diagnosis
+            - adrenal hyperplasia and tumor
+            - growth hormone therapy
+            - pregnancy-related cushing's syndrome
+            - growth hormone treatment in children
+            - congenital adrenal hyperplasia
+            - disorder of sex development
+            - prolactinoma treatment
+            - iodine deficiency in pregnancy
+            - covid-19 and thyroid disease
+            - multiple endocrine neoplasia type 2
+            - graves' disease diagnosis
+            - childhood hypothyroidism treatment
+            - levothyroxine formulation
+            - thyroid disease
+            - adrenal aldosteronism
+            - hypogonadotropic hypogonadism treatment
+            - papillary thyroid cancer diagnosis and management
+            - acromegaly treatment
+            - congenital hypothyroidism genetics
+            - thyroid disease treatment
+            - papillary thyroid cancer diagnosis
+    - tropical medicine
+        - diarrhea/conditions diagnosed by stool test
+            - traveler diarrhea and resistance
+            - covid-19 pandemic mitigation
+            - covid-19 management
+        - foodborne illnesses/helminthiases
+            - trypanosoma infection
+            - filarial disease in malaya
+            - cutaneous leishmaniasis
+            - onchocerciasis transmission
+            - aedes aegypti oviposition pattern
+            - echinococcosis
+            - malaria parasite biology
+            - filarial disease study in malaya
+            - antimalarial activity
+            - community-directed ivermectin distribution
+            - bancroftian filariasis in kenya
+            - schistosomiasis control
+            - filarial parasite migration rate in cotton rat
+            - schistosomiasis research
+            - leishmaniasis study
+        - insect vectors of human pathogens/malaria
+        - malaria/plasmodium
+            - dengue disease transmission
+            - sand fly biology and leishmaniasis
+            - fascioliasis infection in humans
+            - leprosy epidemiology
+            - parasite immunology
+            - tick-borne disease transmission dynamics
+            - viral disease vector biology
+            - toxoplasmosis infection
+            - tick species identification
+            - malaria surveillance and control
+            - snake bite treatment and management
+            - leptospirosis infection risk assessment
+            - mosquito-borne disease vector species identification
+            - rabies prevention and control
+            - brucellosis infection
+            - soil-transmitted helminths infection
+            - clonorchiasis control
+            - tungiasis infection control
+            - taenia solium infection detection
+            - cryptosporidium infection
+            - lymphatic filariasis treatment
+            - human african trypanosomiasis
+            - chagas disease vector biology
+            - japanese encephalitis virus transmission
+            - trachoma prevention
+            - scabies prevalence and control
+            - tick-borne disease
+            - cholera vaccine and control
+            - malaria vector biology
+            - enterobius vermicularis infection among children
+            - strongyloidiasis infection
+            - melioidosis diagnosis
+            - buruli ulcer disease
+            - chikungunya virus infection
+            - malaria prophylaxis
+            - malaria control and transmission
+            - flea-borne disease prevention and control
+            - angiostrongylus cantonnensis infection
+            - lassa fever disease
+            - mosquito insecticide resistance
+            - plasmodium vivax malaria treatment
+            - malaria treatment efficacy
+            - pfhrp2/3 deletions in malaria
+            - malaria risk factors and interventions in children
+            - malaria control and prevention
+            - malaria vector control
+            - malaria elimination in myanmar
+            - malaria prevention
+            - plasmodium falciparum gametocyte carriage
+            - plasmodium knowlesi infection
+            - malaria epidemiology
+            - placental malaria diagnosis
+            - malaria treatment and diagnosis
+            - plasmodium infection prevalence
+            - malaria diagnosis
+            - malaria elimination
+        - tick-borne diseases/ticks
+            - tick-borne pathogens prevalence and infection
+            - tick-borne pathogen analysis in korea
+            - tick-borne pathogens detection
+            - rickettsial infections in ticks
+            - tick-borne diseases
+    - sport sciences
+        - drug discovery/clinical research
+        - environmental social science/health promotion
+            - exercise-induced mood change
+            - brain damage diagnosis
+            - child development and motor performance
+            - exercise performance
+            - field dependence in sport
+            - reaction time and movement performance in aging
+            - vibrotactile magnitude estimation
+        - pediatrics/biostatistics
+        - physical exercise/strength training
+            - running biomechanics
+            - exercise and fat oxidation
+            - barbell velocity measurement
+            - blood pressure exercise training
+            - pregnancy exercise guidelines
+            - acute mountain sickness prevention
+            - wearable heart rate monitoring
+            - exercise training effects
+            - functional movement screening in athletes
+            - compression garment performance
+            - heat acclimation for exercise performance
+            - athletic performance analysis
+            - physical education motivation
+            - low back pain treatment
+            - genetic factors affecting athlete performance
+            - volleyball spike technique analysis
+            - lower limb asymmetry in sports performance
+            - caffeine and exercise performance
+            - athlete nutrition
+            - blood flow restriction training
+            - whole body vibration exercise physiology
+            - wheelchair basketball performance
+            - recreational team sport health
+            - sprint performance analysis
+            - sports performance analysis
+            - handball training and performance
+            - heart rate variability measurement
+            - cycling performance training
+            - high-intensity functional training in sports and exercise
+            - alpine skiing performance analysis
+            - exercise performance training
+            - achilles tendinopathy
+            - baseball pitching technique
+            - physical activity attitude
+            - anti-doping in sports
+            - motor skill development in children
+            - athlete performance training
+            - children's motor fitness development
+            - athlete performance analysis
+            - injury prevention in team sports
+            - motor learning and feedback effects
+            - muscle function and fatigue
+            - kinesio taping effects on muscles and movement
+            - gymnastics movement analysis
+            - exercise-induced oxidative stress in muscle
+            - handball performance analysis
+            - exercise physiology
+            - climbing injury
+            - rugby performance analysis
+            - athlete sleep quality
+            - countermeasures to spaceflight-induced muscle atrophy
+            - physical education teacher body subjectivity
+            - physical education teacher training
+            - physical education and motivation
+            - physical education curriculum development
+            - coaching philosophy and practice
+            - sport pedagogy
+            - physical education and health
+            - physical education literacy
+            - teacher education in physical education
+            - inclusive physical education
+            - physical education teacher education
+            - physical education student motivation
+            - coach-athlete interaction
+            - youth sport coaching
+            - sport psychology
+            - mindfulness in sports
+            - sport psychology research methods
+            - dual career transition in sport
+            - lateral ankle sprain
+            - exertional heat stroke
+            - concussion assessment and rehabilitation in athletes
+            - concussion management in sports
+            - quadriceps strength after acl reconstruction
+            - head injury in lacrosse
+            - high school sports injury surveillance
+            - concussion in athletes
+        - sports injuries/overuse injuries
+            - rotator cuff repair
+            - heterotopic ossification in military injuries
+            - osseointegrated prostheses in amputees
+            - patellofemoral pain syndrome treatment
+            - anterior cruciate ligament reconstruction
+            - subscapularis tendon repair
+            - meniscal repair technique
+            - spine injury prevention in athletes
+            - second metatarsophalangeal joint instability management
+            - posterior cruciate ligament reconstruction
+            - posterior tibial tendon injury treatment
+            - chronic plantar fasciitis treatment
+            - high tibial osteotomy
+            - hip impingement diagnosis
+            - ulnar collateral ligament injury in baseball pitchers
+            - achilles tendon rupture treatment
+            - muscle injury diagnosis and prognosis
+            - arthroscopic bankart repair
+            - orthopedic surgery outcome evaluation
+            - diabetic foot infections
+            - acromioclavicular joint reconstruction
+            - stress fracture management
+            - arthroscopic fracture fixation
+            - knee ligament injuries
+            - platelet-rich plasma therapy
+            - vte risk in orthopedic surgery
+            - knee arthroscopy pain control
+            - tendon rupture repair
+            - lateral ankle reconstruction
+            - first metatarsophalangeal joint arthrodesis
+            - concussion rehabilitation
+            - skiing injury patterns
+            - frozen shoulder treatment
+            - cartilage tissue engineering
+            - covid-19 and hip fracture
+    - obstetrics & reproductive medicine
+        - fertility medicine/fertility
+        - health issues in pregnancy/midwifery
+            - obstetric ultrasound training
+            - prenatal chromosomal abnormality diagnosis
+            - fetal brain development and imaging diagnostics
+            - fetal cardiology
+            - cell-free dna screening
+            - ultrasound imaging
+            - fetal ultrasound diagnosis
+            - fetal congenital heart defects
+            - prenatal fetal diagnosis
+            - prenatal ultrasound screening
+            - fetal cardiac echocardiography
+            - pregnancy uterine artery doppler assessment
+            - twin pregnancy diagnosis and management
+            - first trimester fetal spina bifida detection
+            - fetal endoscopic tracheal occlusion
+            - family planning
+            - postpartum hemorrhage prevention and treatment
+            - preterm birth outcome prediction
+            - vaginal mesh complications
+            - maternal health in pregnancy
+            - pre-eclampsia prevention
+            - uterine rupture in pregnancy
+            - obstetric anal sphincter injury
+            - vitamin deficiency in pregnancy
+            - gestational weight gain and obesity management in pregnancy
+            - gestational weight gain and pregnancy outcomes
+            - fetal heart rate monitoring
+            - twin pregnancy outcome
+            - vaginal birth after caesarean (vbac)
+            - amniotic fluid embolism
+            - vaginal breech delivery
+            - stillbirth etiology
+            - female genital mutilation counseling
+            - maternal age and pregnancy outcome
+            - breastfeeding behavior
+            - hysterectomy complications
+            - cervical length prediction
+            - fetal growth and development in pregnancy
+            - placental abruption diagnosis and treatment
+            - plgf/sflt-1 ratio in preeclampsia diagnosis
+            - fear of childbirth
+            - preterm premature rupture of membranes (pprom)
+            - postpartum hemorrhage
+            - placental adhesive disorders treatment
+            - covid-19 and pregnancy
+            - intrahepatic cholestasis of pregnancy
+            - cesarean section delivery
+            - hyperemesis gravidarum treatment
+            - induction of labor in pregnancy
+            - vulvodynia pain management
+            - group prenatal care
+            - cervical cancer diagnosis and treatment
+            - vitamin d and pregnancy
+            - labor management
+            - medical abortion
+            - twin pregnancy delivery outcome
+            - preeclampsia in pregnancy
+            - prenatal genetic screening
+            - cesarean delivery complications
+            - intrauterine contraception
+        - menstrual cycle/noninflammatory disorders of female genital tract
+            - sperm dna fragmentation
+            - polycystic ovary syndrome (pcos)
+            - fertility treatment outcomes
+            - infertility and quality of life in couples
+            - adrenal gland disease diagnosis
+            - fertility preservation
+            - fertility preservation for transgender individuals
+            - prader-willi syndrome treatment
+            - primary aldosteronism
+            - testosterone therapy for male hypogonadism
+            - vitamin d supplementation
+            - adrenocortical carcinoma treatment
+            - varicocele treatment
+            - normocalcaemic primary hyperparathyroidism treatment
+            - sperm infertility treatment
+            - male infertility diagnosis
+            - male infertility risk factors
+            - testosterone therapy in adolescents
+            - infertility treatment anxiety
+            - embryo transfer
+            - preimplantation embryo development
+            - ovarian stimulation protocol
+            - embryo donation and ethics
+            - polycystic ovary syndrome
+            - endometriosis diagnosis and therapy
+            - testicular sperm retrieval
+            - endometriosis and ovarian reserve management
+            - puberty development in children
+            - intrauterine insemination (iui)
+            - fertility awareness and reproductive health
+            - adhesion prevention in surgery
+            - infertility in women
+            - intracytoplasmic sperm injection (icsi) in infertility treatments
+            - cesarean scar pregnancy treatment
+            - infertility treatment
+            - premature ovarian insufficiency
+            - polycystic ovary syndrome treatment
+            - uterine leiomyoma treatment
+            - endometrial thickness and pregnancy outcomes
+            - polycystic ovary syndrome (pcos) diagnosis and management
+            - endometrial lesion development
+            - sperm donation
+            - vitamin d and ovarian reserve
+            - ovarian preservation surgery
+            - uterine surgery
+            - time-lapse imaging in ivf
+            - ovulation induction
+            - androgen receptor gene expression and male infertility
+            - miscarriage diagnosis and prevention
+            - genetic polymorphisms in pregnancy
+            - endometriosis diagnosis and treatment
+            - adnexal torsion in women
+            - thyroid hormone and reproduction in women
+            - klinefelter syndrome
+            - uterine scar repair
+            - covid-19 and reproductive medicine
+            - human embryo transfer outcome
+            - male hypogonadism treatment
+            - uterus transplantation
+            - human chorionic gonadotropin and pregnancy rate
+            - semen quality and infertility
+            - congenital adrenal hyperplasia
+            - laparoscopic hysterectomy
+            - ovarian tissue cryopreservation and ivf
+            - menopausal symptoms and quality of life
+            - menopausal symptoms
+            - menopausal women's health
+            - laser treatment for urinary incontinence
+            - vulvovaginal atrophy treatment
+            - menopausal depression symptoms
+            - menopausal symptoms treatment
+            - menopausal cardiovascular risk
+            - vulvovaginal atrophy treatment in women
+            - menopausal symptoms treatment in women
+            - family planning counseling aid
+            - abortion referral services
+            - emergency contraception
+            - intrauterine device insertion
+            - medical abortion via telemedicine
+            - contraceptive use and choice
+            - postpartum contraception
+            - uterine perforation by iud devices
+            - pregnancy and contraception
+            - contraceptive use and effects on women's health
+        - urological conditions/urinary incontinence
+            - pelvic floor dysfunction in women
+            - bladder exstrophy-epispadias complex
+            - renal angiomyolipoma treatment
+            - hypospadias repair
+            - urinary tract anomalies in children
+            - stress urinary incontinence treatment
+            - vesicovaginal fistula repair
+            - bladder dysfunction
+            - pediatric urinary incontinence
+            - varicocele treatment in adolescents
+            - uterovaginal prolapse treatment
+            - sacral neuromodulation
+            - artificial urinary sphincter complications
+            - cryptorchidism treatment
+            - benign prostatic hyperplasia treatment
+            - chronic prostatitis/pelvic pain syndrome
+            - urethroplasty
+            - female urology applicants in residency programs
+            - urinary incontinence risk factors
+            - bladder pain syndrome treatment
+            - bladder cancer diagnosis
+            - pelvic floor disorders
+            - robot-assisted radical prostatectomy performance evaluation
+            - percutaneous nephrolithotomy (pcnl) patient management
+            - urinary tract symptoms
+            - ileal ureter reconstruction
+            - laparoscopic ureteral reconstruction
+            - bladder surgery
+            - prostate biopsy prophylaxis
+            - ureteral stent-related symptoms
+            - pediatric urolithiasis management
+            - urinary tract dysfunction in pediatric patients
+            - urology surgical technique
+            - pediatric renal trauma management
+            - ureteral reimplantation for cystectomy complications
+            - renal cancer treatment
+    - legal & forensic medicine
+        - forensic disciplines/forensic science
+            - forensic bone fracture analysis
+            - hair as drug biological indicator
+            - postmortem imaging
+            - drowning diagnosis
+            - post-mortem interval estimation
+            - fentanyl detection and analysis
+            - forensic dental identification
+            - drug analysis in hair samples
+            - firearm identification
+            - forensic analysis of gun residue
+            - forensic blood analysis
+            - dental age estimation
+            - sudden cardiac death diagnosis
+            - ballistic wound analysis
+            - fly development
+            - dna identification
+            - forensic facial reconstruction
+            - forensic science management
+            - methamphetamine detection and analysis in forensic medicine
+            - synthetic cannabinoids toxicology
+            - age estimation at death
+            - forensic medicine
+            - bloodstain pattern analysis
+            - injury trauma
+            - forensic death investigation
+            - sexual assault forensic analysis
+            - fatal hypothermia identification
+            - drug-facilitated sexual assault
+            - cocaine adulterants detection
+            - drug-involved driver detection
+            - heroin-related death investigation
+            - hemostasis in thermal injury
+            - forensic soil analysis
+            - forensic dna analysis
+            - forensic veterinary investigation
+            - forensic dna sampling
+            - forensic genetics
+            - y-str dna kit development
+            - body fluid identification
+            - forensic dna profiling
+    - pharmacology & pharmacy
+        - health care occupations
+        - pharmacokinetics/life sciences industry
+            - pharmacogenomics
+            - pharmacokinetics and population modeling
+            - cyp3a gene polymorphisms in pharmacogenomics
+            - pharmacokinetics in pregnancy
+            - pharmacogenetics
+            - pharmacokinetics in transplant recipients
+            - cyp3a activity measurement
+            - renal pharmacokinetics
+            - pediatric drug development
+            - pharmacokinetic modeling
+            - metformin pharmacokinetics
+            - renal function estimation
+            - poisoning case reports
+            - adverse drug reaction reports
+            - pharmacy practice
+            - herbal-drug interaction
+            - medication management in older adults
+            - alcohol poisoning treatment
+            - clinical pharmacy practice
+            - hiv drug interactions
+            - pediatric pharmacokinetics
+            - cytochrome p450 enzyme inhibition
+            - organic anion transporting polypeptides
+            - drug metabolism enzyme expression
+            - udp-glucuronosyltransferase inhibition
+            - pharmacokinetics and pharmacodynamics of drug clearance
+            - hepatic transporter protein profiling
+            - cyp3a4 induction and metabolism
+            - aldehyde oxidase metabolism
+            - p450 enzyme activity
+            - carboxylesterase 1 pharmacogenomics
+            - cyp enzyme metabolism
+            - drug-natural product interactions
+            - cytochrome p450 inhibition and induction
+        - routes of administration/drug delivery devices
+            - freeze drying process development
+            - oral nanoparticle drug delivery
+            - rna delivery system
+            - cancer nanoparticle drug delivery
+            - monoclonal antibody stability
+            - targeted cancer therapy
+            - lipid nanoparticle drug delivery
+            - mdr1 cell line
+            - nail lacquer formulation and delivery
+            - transdermal drug delivery
+            - electrospun nanofibers for drug delivery
+            - blood-brain barrier drug delivery
+            - liposomal drug delivery system design
+            - nanoparticle-based anticancer delivery
+            - drug delivery system development
+            - nanoparticle-based cancer drug delivery
+            - drug delivery nanoparticles
+            - lipid-based drug formulations
+            - chitosan-based drug delivery system
+            - polymeric nanocarrier formulations
+            - drug release formulation
+            - nanoparticle-based drug delivery system
+            - tumor targeted drug delivery
+            - pharmaceutical cocrystals
+            - antibody pharmacokinetics
+            - prodrug design and development
+            - pharmacokinetics and pharmacodynamics of oral drugs
+            - amorphous solid dispersion stability
+            - nanoparticle-based drug delivery
+            - dry powder inhaler technology
+            - drug delivery system
+            - nanoparticle-based cancer therapy delivery
+            - drug delivery formulation
+            - cyclodextrin complexation in pharmaceuticals
+            - pharmacokinetic modeling
+            - pharmaceutical formulation
+            - liposomal anticancer drug delivery system
+            - nanoparticle-based cancer treatment
+            - drug formulation
+    - ophthalmology & optometry
+        - human eye anatomy/blindness
+            - dry eye disease
+            - low vision rehabilitation
+            - tear film lipid properties
+            - child vision development
+            - scleral lens wear and corneal physiology
+            - corneal stem cell therapy
+            - tear inflammation and contact lenses
+            - corneal pain management
+            - computer vision syndrome
+            - contact lens-related corneal diseases
+            - electroretinography (erg)
+            - meibomian gland expression treatment for dry eye
+            - multifocal contact lenses
+            - myopia treatment
+            - cataract disease
+            - contact lens for ocular drug delivery
+            - glaucoma diagnosis
+            - optical coherence tomography in ophthalmology
+            - retinal disease diagnosis
+            - retinopathy of prematurity
+            - ocular blood flow measurement
+            - anterior segment imaging
+            - age-related macular degeneration (amd) risk factors
+            - choroidal thickness measurement
+            - ocular vascular disease detection
+            - depression in patients with vision loss
+            - retinitis pigmentosa
+            - central serous chorioretinopathy treatment
+            - age-related macular degeneration
+            - intravitreal anti-vegf therapy for eye diseases
+            - silicone oil in ophthalmology
+            - micropulse laser treatment
+            - retinal vein occlusion treatment
+            - diabetic retinopathy diagnosis
+            - intravitreal injection endophthalmitis
+            - glaucoma treatment
+            - epiretinal membrane
+            - choroidal vascular pattern in retinal disease
+            - corneal biomechanics
+            - glaucoma detection
+            - macular telangiectasia type 2 diagnosis
+            - diabetic retinopathy treatment
+            - retinal ganglion cell protection
+            - age-related macular degeneration treatment
+            - amblyopia treatment
+            - dexamethasone implant for diabetic macular edema
+            - corneal nerve disease
+            - corneal endothelial cell culture
+            - glaucoma surgery
+            - choroidal vascularity
+            - posterior capsule opacification in iols
+            - macular hole surgery
+            - corneal biomechanics in glaucoma
+            - retinal disease treatment
+            - femtosecond laser-assisted cataract surgery
+            - corneal implantation for keratoconus
+            - trifocal intraocular lens implantation
+            - small incision lenticule extraction (smile)
+            - toric intraocular lens implantation
+            - transepithelial photorefractive keratectomy
+            - intraocular lens calculation formula
+            - corneal astigmatism correction
+            - lasik treatment outcome
+            - corneal tattooing for dysphotopsia
+            - scleral buckling
+            - cataract surgery and ocular complications
+            - limbal stem cell transplantation
+            - phakic intraocular lens implantation
+            - eye health and visual impairment
+            - blepharoptosis surgery
+            - ahmed glaucoma valve implantation
+            - deep anterior lamellar keratoplasty
+            - hydroxychloroquine retinopathy
+            - descemet membrane endothelial keratoplasty
+            - intermittent exotropia treatment
+            - diabetic retinopathy
+            - laser-induced eye injury
+            - trabeculectomy with bevacizumab
+            - keratoconus diagnosis and treatment
+            - conjunctival cancer
+            - dry eye disease symptoms
+            - retinal astrocytic hamartoma
+            - ocular bacterial infections
+            - neuroretinitis
+            - vitreoretinal lymphoma
+            - visual field perimetry
+            - lacrimal duct obstruction treatment
+            - myopic choroidal neovascularization treatment
+            - uveitis diagnosis
+            - blepharoptosis treatment
+            - retinoblastoma treatment
+            - intraocular lens (iol)
+            - uveal lesion diagnosis
+            - cytomegalovirus retinitis
+            - open-angle glaucoma diagnosis
+            - optic neuritis diagnosis
+            - sutureless intraocular lens fixation technique
+            - cataract surgery training
+            - ocular trauma treatment
+            - retinal detachment treatment
+            - dexamethasone intravitreal implant for diabetic macular edema treatment
+            - glaucoma diagnosis and treatment
+            - ocular infections endophthalmitis
+            - pediatric cataract surgery
+            - retinal disease therapy
+            - covid-19 ophthalmology
+            - ocular disease treatment
+            - ocular adverse events induced by immune checkpoint inhibitors
+            - uveal melanoma treatment
+            - esotropia surgery
+            - primary angle closure glaucoma
+            - retinal thickness analysis in amblyopic children
+    - immunology
+        - immune system/human cells
+            - mait cell biology and disease
+            - maternal immune response during pregnancy
+            - allergic response modulation
+            - neutrophil immune response
+            - cd28 immunotherapy
+            - microrna regulation in immune system diseases
+            - nk cell immunology
+            - follicular helper t cells
+            - dendritic cell immunology
+            - gut-lung microbiome immunology
+            - tuberculosis immunology
+            - il-33 cytokine signaling
+            - intestinal immune response
+            - myeloid-derived suppressor cell (mdsc)
+            - γδ t cell development
+            - t regulatory cell immunity
+            - nlrp3 inflammasome activation
+            - regulatory t cell immune dysregulation
+            - cd4 t cell immune response
+            - type i interferon signaling in autoimmune disease
+            - natural killer t cell immune response
+            - immune cell communication in scleroderma
+            - inflammatory response
+            - il-36 cytokine signaling
+            - chronic granulomatous disease
+            - newborn screening for severe immunodeficiency diseases
+            - probiotics in pediatric health and allergy prevention
+            - immunoglobulin therapy for immunodeficiency
+            - asthma development and environment exposure
+            - alpha-gal allergy
+            - allergic rhinitis treatment
+            - bradykinin-related angioedema
+            - primary immunodeficiency disease diagnosis
+            - atopic dermatitis prevention
+            - asthma in children
+            - food allergy prevention
+            - mast cell allergy
+            - chronic spontaneous urticaria
+            - food allergy treatment
+            - vaccine allergy
+            - fish allergen epitope prediction
+            - vitamin d and allergic rhinitis
+            - atopic dermatitis treatment
+            - hla gene polymorphism and reproductive failure
+        - stem cells/transplantation medicine
+            - gvhd prophylaxis in transplantation
+            - hepatic veno-occlusive disease/sinusoidal obstruction syndrome
+            - hematopoietic stem cell transplantation complications
+            - myeloid leukemia diagnosis and treatment
+            - cytomegalovirus infection in hematopoietic transplantation
+            - myelofibrosis treatment
+            - hematopoietic stem cell transplantation
+            - multiple myeloma treatment
+            - respiratory viral infection in cancer patients
+            - hematopoietic cell transplantation center
+            - autoimmune hemolytic anemia diagnosis and management
+            - hematopoietic stem cell transplantation infection prophylaxis
+            - steroid-refractory acute graft-versus-host disease treatment
+            - haploidentical stem cell transplantation in children
+            - chronic lymphocytic leukemia diagnosis
+            - hematopoietic cell transplantation matching
+            - acute myeloid leukemia treatment
+            - car t-cell therapy
+            - chronic myeloid leukemia treatment
+            - congenital dyserythropoietic anemia
+            - minimal residual disease assessment in multiple myeloma
+            - aplastic anemia stem cell transplantation
+            - sickle cell disease stem cell transplantation
+            - chronic lymphocytic leukemia treatment
+            - hematopoietic stem cell transplantation relapse
+            - chronic graft versus host disease
+            - allogeneic hematopoietic cell transplantation
+    - nuclear medicine & medical imaging
+        - interventional radiology/surgery
+        - magnetic resonance imaging/biomagnetics
+            - cardiovascular mri flow measurement
+            - compressed sense cine imaging
+            - fetal cardiac mri
+            - late gadolinium enhancement mri
+            - nmr relaxation
+            - nmr spectroscopy experimentation
+            - nmr spectroscopy
+            - hyperpolarized magnetic resonance imaging
+            - cardiac magnetic resonance stress test
+            - solution-state nmr spectroscopy
+            - low-field nmr relaxometry
+            - electron paramagnetic resonance (epr) imaging
+            - cardiac mri segmentation
+            - nuclear magnetic resonance in oil exploration
+        - medical imaging/medical physics
+            - ureter imaging and disease diagnosis
+            - computed tomography imaging
+            - radiation dose reduction in diagnostic imaging
+            - gadolinium contrast agent
+            - small bowel imaging and intestinal obstruction
+            - cbct image quality evaluation
+            - magnetic resonance imaging (mri) applications
+            - hepatocellular carcinoma imaging
+            - glioma imaging
+            - computed tomography-guided biopsy
+            - shear wave elastography
+            - computed tomography radiomics
+            - renal cell carcinoma imaging
+            - lung cancer screening
+            - contrast reaction
+            - computed tomography dose reduction
+            - liver transplant complication imaging
+            - ovarian torsion diagnosis
+            - artificial intelligence in radiology
+            - radiology program management
+            - breast cancer imaging
+            - bone lesion imaging
+            - microwave ablation for lung tumor treatment
+            - contrast-enhanced ultrasound imaging
+            - retroperitoneal tumor imaging
+            - parotid gland imaging diagnosis
+            - pulmonary disease diagnosis
+            - bone tumor imaging
+            - clinical decision support in radiology
+            - pulmonary nodule detection
+            - low-dose ct protocol
+            - biliary system imaging
+            - endometrial imaging
+            - magnetic resonance imaging (mri) - nerve anatomy and pathology
+            - child abuse fracture detection
+            - acute appendicitis diagnosis
+            - soft tissue imaging
+            - radiology practice
+            - thyroid nodule diagnosis
+            - iterative reconstruction in ct imaging
+            - musculoskeletal mri imaging
+            - liver imaging reporting and data system
+            - mr enterography for pediatric crohn's disease
+            - radiology leadership and diversity
+            - prostate cancer mri imaging
+            - pulmonary imaging report
+            - covid-19 imaging
+            - patient radiology communication
+            - covid-19 radiology
+            - magnetic resonance imaging safety
+            - radiology imaging report
+            - renal and hepatic imaging
+            - radiology reporting system
+        - prostate cancer/male genital surgery
+            - urinary retention in prostate diseases
+            - glioma pet imaging
+            - laser lithotripsy
+            - radium-223 therapy for prostate cancer
+            - bladder cancer treatment
+            - 68ga-psma pet imaging
+            - myocardial perfusion imaging
+            - benign prostatic hyperplasia treatment
+            - renal cell carcinoma diagnosis
+            - neuroendocrine tumor therapy
+            - urinary haematuria diagnosis
+            - immunopet imaging agent development
+            - ureteral stone treatment
+            - pet imaging in cancer
+            - prostate cancer diagnosis
+            - live surgery education
+            - radical cystectomy outcome
+            - 3d printing in medical surgery
+            - underactive bladder treatment
+            - renal cell carcinoma treatment
+            - ureteral stents
+            - prostate biopsy guidance
+            - percutaneous nephrolithotomy technique
+            - perioperative blood transfusion
+            - minimally invasive prostate surgery
+            - parathyroid imaging
+            - optical molecular imaging in cancer
+            - focal prostate cancer therapy
+            - radical prostatectomy
+            - upper tract urothelial carcinoma
+            - pet radiomics analysis
+            - prostate symptom treatment
+        - radiobiology/radiation health effects
+            - neutron capture therapy
+            - thermoluminescent properties of quartz
+            - cancer risk assessment
+            - gamma camera imaging
+            - radiation protection guidance
+            - neutron radiation measurement
+            - radiation exposure risk assessment
+            - thyroid radiation measurement
+            - computed tomography dose assessment
+            - individual external radiation exposure after fukushima accident
+            - radiation protection
+            - alpha radiation detection
+            - neutron microdosimetry
+            - neutron dosimetry
+            - eye lens radiation exposure
+            - thermoluminescent phosphors
+            - silicon detector design
+            - radon measurement and concentration
+            - ct dose evaluation
+            - occupational radiation exposure in medical workers
+            - optically stimulated luminescence dosimetry
+            - muon imaging
+            - nuclear track detector
+            - radiation dose estimation
+            - radiation dose assessment
+            - indoor radon monitoring
+            - eye lens dose estimation
+            - proton detector efficiency
+        - radiology/image segmentation
+            - ecg signal classification
+            - endoscopy video analysis
+            - pet image segmentation
+            - lung nodule detection
+            - image colorization
+            - visual question answering
+            - cardiac mri segmentation
+            - action recognition
+            - augmented reality in surgery
+            - deep metric learning
+            - fine-grained image recognition
+            - medical image segmentation
+            - brain tumor segmentation
+            - high-resolution mri
+            - computer vision
+            - medical imaging deep learning
+            - 3d object detection
+            - deep learning for mri reconstruction
+            - retinal vessel segmentation
+            - breast cancer histology image classification
+            - deep learning in image analysis
+            - semantic segmentation
+            - image registration
+            - human pose estimation
+            - skin lesion classification
+            - cervical cancer detection
+            - vertebral body segmentation
+            - fault detection in power grid network
+            - coronary vessel segmentation
+            - prostate mri segmentation
+            - breast cancer detection
+            - salient object detection
+            - chest x-ray pneumonia detection
+            - domain adaptation
+            - visual localization
+            - leukemia diagnosis and classification
+            - crowd counting
+            - surgical instrument detection
+            - object tracking
+            - depth estimation
+            - landmark detection in medical imaging
+        - radiology/medical imaging
+            - stereotactic radiotherapy treatment planning
+            - ecg signal analysis
+    - urology & nephrology
+        - kidney diseases/organ failure
+            - catheter-related infections
+            - live kidney donation
+            - dialysis patient care
+            - peritoneal dialysis transport
+            - secondary hyperparathyroidism treatment
+            - nephrotic syndrome
+            - chronic kidney disease (ckd) risk factors
+            - peritoneal dialysis infection management
+            - acute interstitial nephritis
+            - continuous renal replacement therapy
+            - ana-associated vasculitis
+            - kidney transplant patient outcomes
+            - end-stage kidney disease patient management
+            - hemolytic uremic syndrome
+            - thyroid function in kidney disease
+            - chronic kidney disease management
+            - hyperuricemia treatment in chronic kidney disease patients
+            - acute kidney injury in covid-19 patients
+            - kidney stone disease
+            - intradialytic hypotension
+            - chronic kidney disease treatment
+            - chronic kidney disease (ckd)
+            - patient-centered dialysis decision-making
+            - kidney disease patient care
+            - dietary management in chronic kidney disease
+            - iron deficiency anemia in hemodialysis patients
+            - chronic kidney disease (ckd) management
+            - diabetic kidney disease diagnosis
+            - dialysis therapy
+            - kidney disease disparities
+            - autosomal dominant polycystic kidney disease
+            - hemodialysis therapy
+            - apol1-related kidney disease risk factors
+            - chronic kidney disease calcification
+            - dialysis patient outcomes
+            - anticoagulant-related nephropathy
+            - cognitive impairment in ckd
+            - liver support technology
+            - nephrology career perceptions
+            - hyponatremia prognosis
+            - pregnancy-related kidney disease
+            - anti-glomerular basement membrane disease
+            - hepatitis c infection in kidney disease
+        - sexual dysfunctions/human sexuality
+            - erectile dysfunction treatment
+            - penile prosthesis treatment
+            - penile prosthesis implantation
+            - erectile dysfunction
+            - peyronie's disease treatment
+            - testosterone therapy and sexual function
+            - gender confirmation surgery
+            - sexual function and satisfaction
+            - premature ejaculation treatment
+        - urinary system/symptoms and signs: urinary system
+            - bladder cancer diagnosis
+            - renal cell carcinoma thrombectomy
+            - bladder tumor resection
+            - robot-assisted radical cystectomy
+            - covid-19 and urological surgery
+            - robot-assisted radical prostatectomy
+            - testosterone and male health
+            - prostate cancer active surveillance
+            - partial nephrectomy outcome
+            - focal prostate cancer treatment
+            - prostate cancer staging
+            - prostate cancer diagnosis
+            - urinary incontinence treatment
+            - overactive bladder treatment
+            - inflatable penile prosthesis complication
+            - holmium laser enucleation of prostate (holep)
+            - peyronie's disease treatment
+            - pelvic floor muscle training
+            - urology practice during covid-19 pandemic
+            - artificial urinary sphincter failure and revision
+            - renal cell carcinoma
+        - vascular surgery/diseases of the aorta
+            - central venous catheter insertion
+            - abdominal aortic aneurysm repair
+            - paclitaxel-coated balloon angioplasty
+            - vascular surgery outcomes
+            - vascular access graft patency
+    - psychiatry
+        - mood disorders
+            - cannabis use and psychosis
+            - depressive disorder mental health
+            - non-suicidal self-injury behavior
+            - religious factors in psychiatry
+            - anxiety disorder treatment
+            - catatonia treatment
+            - obsessive compulsive disorder treatment
+            - depressive disorder treatment
+            - borderline personality disorder treatment
+            - schizophrenia patient quality of life
+            - antipsychotic treatment
+            - affective temperament disorder
+            - mental health treatment interventions
+            - bipolar disorder treatment
+            - attention deficit hyperactivity disorder (adhd) treatment
+            - child depression treatment
+            - bipolar disorder cognitive functioning
+            - schizophrenia patient outcome
+            - mental health service utilization
+            - adhd disorder
+            - electroconvulsive therapy
+            - perinatal mental health
+            - mental health service delivery
+            - self-disorders in schizophrenia
+            - covid-19 mental health
+            - social cognition in psychiatric patients
+            - psychotic depression treatment
+            - mental health intervention for schizophrenia
+            - post-traumatic stress disorder (ptsd)
+            - depression treatment
+            - mental health stigma
+            - clozapine treatment in schizophrenia
+            - depressive disorder
+            - mental health disorder
+            - internet addiction
+            - seasonal affective disorder
+            - mental disorder diagnosis and treatment
+            - anorexia nervosa treatment
+            - mental health patient care
+            - dissociative identity disorder
+            - childhood trauma and mental health
+            - ketamine treatment for depression
+            - depression treatment outcome
+            - suicide risk assessment
+            - mental health treatment
+            - vocational rehabilitation for people with mental illnesses
+            - social anxiety disorder
+            - psychotherapy
+            - psychiatric aggression treatment
+            - disruptive mood dysregulation disorder treatment
+            - grief in children
+            - callous-unemotional traits in children and adolescents
+            - adhd treatment in children
+            - child anxiety disorder
+            - attention deficit hyperactivity disorder (adhd)
+            - suicide risk in adolescents
+            - child anxiety treatment
+            - adolescent depression treatment
+            - treatment for ocd in children
+            - depressive symptoms in adolescents
+            - emotion regulation deficits and suicide risk in adolescents
+            - adult adhd symptoms and quality of life
+            - schizophrenia cognition
+            - lithium therapy
+            - psychiatric disorder diagnosis
+            - self-harm behavior
+            - mental health patient treatment
+            - patient attendance in psychiatric clinics
+            - cost-effectiveness in schizophrenia treatment
+            - substance use disorder treatment
+            - psychotherapy training experience
+            - evidence-based clinical practice
+            - postnatal depression
+            - cognitive therapy for depression treatment
+            - anxiety disorder assessment
+            - anxiety and depression in cancer patients
+            - depressive disorder genetic studies
+            - psychiatrist training
+            - childhood sexual abuse
+            - schizophrenia epidemiology
+            - psychiatric practice
+            - psychiatric services integration
+            - homosexuality treatment
+            - transcultural psychiatry
+            - child abuse and neglect
+            - koro syndrome
+            - mental health in prisoners
+            - bereavement and grief response
+            - child mental health assessment
+            - mental health of refugees
+            - mental disability healthcare
+            - dissociative disorders
+            - psychiatric disorder treatment
+            - mental health service intervention
+            - eating disorder treatment
+            - tourette's syndrome
+            - schizophrenia treatment outcome prediction
+            - religious mental health
+            - mental health care for underserved populations
+            - mental health disorder treatment
+            - psychiatric patient care
+            - psychiatric disorder symptoms and treatment
+            - marital relationship dynamics
+            - mental health and creativity
+            - autism spectrum disorder
+            - antidepressant treatment for depression
+            - service user involvement in psychiatry education
+            - mental health in caribbean immigrants with schizophrenia
+            - cost-effectiveness analysis
+            - neuroleptic malignant syndrome
+            - group psychotherapy
+            - group analysis
+    - pathology
+    - allergy
+    - complementary & alternative medicine
+    - geriatrics
+    - otorhinolaryngology
+        - nose disorders/audiology
+            - sialendoscopy treatment
+            - covid-19 pandemic in ent
+            - skull base surgery
+            - drug-induced sleep endoscopy
+            - cochlear implant surgery
+            - head and neck surgery complications
+            - endoscopic ear surgery
+            - vocal fold injection therapy
+            - thyroidectomy complications
+            - tracheal stenosis surgery
+            - pharyngocutaneous fistula treatment
+            - eustachian tube dilation
+            - laryngopharyngeal reflux treatment
+            - pediatric tracheostomy care
+            - narrow-band imaging in otorhinolaryngology
+            - otitis externa treatment
+            - pediatric dysphagia treatment
+            - laser microsurgery for glottic cancer
+            - temporal bone surgery training
+            - sinonasal squamous cell carcinoma treatment outcomes
+            - upper airway stimulation therapy
+            - transoral robotic surgery
+            - head and neck surgical reconstruction
+            - robotic head and neck surgery
+            - superior canal dehiscence surgery
+            - otolaryngology patient care and pain management
+            - parotid gland surgery complications
+            - cochlear implantation for vestibular schwannomas
+            - hearing aid prescription
+            - listening effort measurement
+            - auditory processing disorder
+            - hearing aid management
+            - cochlear implant speech recognition
+            - hearing aid technology
+            - teleaudiology service
+            - voice pathology detection
+            - vocal health in teachers
+            - voice disorders
+            - singing voice handicap index
+            - vocal performance and voice quality
+            - voice handicap index
+            - vocal health and voice therapy
+            - vocal fatigue
+            - vocal fold biomechanics
+            - voice therapy treatment
+            - voice quality assessment
+            - laryngopharyngeal reflux symptom
+            - vocal fold imaging
+            - presbylarynx treatment
+            - vocal complaints
+            - voice therapy
+            - transsexual voice perception
+            - vocal therapy
+            - vocal health and singing voice function
+            - cochlear implantation
+            - eustachian tube dysfunction
+            - covid-19 otolaryngological manifestations
+            - laser-assisted surgery in laryngeal cancer
+            - endoscopic sinus surgery
+            - allergic rhinitis research
+            - vestibular schwannoma surgery
+            - drug hypersensitivity reaction
+            - ear surgery
+            - functional endoscopic sinus surgery training
+            - meniere's disease
+            - cerebrospinal fluid leak repair
+            - inferior turbinate surgery
+            - head and neck cancer
+            - dysphagia treatment
+            - odontogenic sinusitis treatment
+            - subglottic stenosis
+            - deep neck infection management
+            - cholesteatoma treatment
+            - tracheoesophageal puncture and prostheses
+            - steroid therapy for sudden hearing loss
+            - otitis externa diagnosis
+            - hereditary angioedema management
+            - benign positional vertigo treatment
+            - cochlear implantation in children
+            - tonsillectomy
+            - otolaryngology ear anatomy
+            - allergy testing
+            - anaphylaxis diagnosis and management
+            - hearing loss in renal disease
+            - auditory evoked potentials in hearing assessment
+            - nasal allergy treatment
+            - sinonasal undifferentiated carcinoma treatment
+            - bone conduction implant
+            - foreign body removal in esophagus
+            - parapharyngeal space tumor surgery
+            - allergic disease prevention
+            - atopic allergy
+            - rhinitis treatment
+            - fungal sinusitis treatment
+            - dermoid cyst in nasal sinus
+            - tinnitus treatment
+            - inverted papilloma treatment
+            - epistaxis treatment
+            - upper airway stimulation
+            - otosclerosis
+            - speech and velopharyngeal function
+            - hearing loss physiology
+            - laryngeal surgery
+        - otorhinolaryngology/oral and maxillofacial surgery
+- health sciences
+    - nutrition & dietetics
+        - nutrition by type/dietary supplements
+            - food portion size intake
+            - entomophagy acceptance
+            - food choice bias
+            - food and wine pairing
+            - food emotion response measurement
+            - suboptimal food consumer behavior
+            - food packaging and consumer behaviour
+            - emotional eating in adolescence and child development
+            - parenting and child nutrition practice
+            - sweetness perception
+            - food addiction
+            - orthorexia nervosa
+            - wine consumer behavior
+            - food choice behavior
+            - promoting vegetable consumption in children
+            - childhood nutrition
+            - emotional eating behavior
+            - consumer food choice
+            - food choice intention
+            - food labeling and health claims
+            - food attentional bias
+            - food consumption behavior
+            - organic food consumer behavior
+            - meat consumption and nutrition
+            - child nutrition policy in care centers
+            - dietary consumption patterns
+            - dietary pattern and risk factor association
+            - omega-3 fatty acid supplementation
+            - nut consumption and health impact
+            - mediterranean diet adherence
+            - amino acid digestibility
+            - dietary quality assessment
+            - meat intake and metabolites in diet
+            - fortified food for children nutrition
+            - sugar intake in children and adolescents
+            - dietary glycemic index
+            - plant-based diet and health
+            - dha supplementation in pregnancy
+            - micronutrient powder program
+            - dietary supplement use
+            - omega-3 fatty acid intake and health effects
+            - iodine supplementation in pregnancy
+            - whey protein and muscle amino acid metabolism
+            - plant-based dietary recommendation
+            - human milk fatty acid composition
+            - dietary supplement clinical trial results
+            - human milk oligosaccharides composition
+            - vitamin a deficiency
+            - nutrition intervention for children
+            - cla and omega-3 fatty acids in nutrition
+            - child nutrition knowledge
+            - parenteral nutrition in patients
+            - cerebellum development in preterm newborns
+            - burn patient nutrition
+            - medium-chain triglyceride emulsion
+            - nutrition in critical care patients
+            - pediatric critical care nutrition
+            - parenteral nutrition
+            - parenteral nutrition management
+            - parenteral nutrition in pediatrics
+            - nutrition support in hospitalized patients
+            - enteral tube placement
+            - probiotics in pediatrics
+            - glutamine nutrition
+            - central venous catheter infection
+            - refeeding syndrome
+            - malnutrition in hospital care
+            - body composition assessment
+            - feeding practices in infants
+            - preterm infant nutrition
+            - enteral nutrition administration
+            - nutritional support in surgery
+            - preterm infant respiratory care
+            - nutrition support standards
+            - lipid emulsions
+            - parenteral nutrition stability
+            - nutritional assessment in elderly patients
+            - pulmonary hypertension in congenital diaphragmatic hernia
+            - celiac disease nutrition
+            - crohn's disease nutrition therapy
+        - polyphenols/nutrition
+            - antioxidant compounds in food
+            - anti-inflammatory effect in inflammatory diseases
+            - antioxidant polysaccharides
+            - polysaccharide activity on inflammation and intestinal health
+            - oxidative stability of edible oils
+            - dietary supplement effects
+            - lipid metabolism and activity regulation
+            - oleogel preparation
+            - antioxidant activity
+            - gut microbiota modulation
+            - polyphenol effects on cell health
+            - antioxidant activity in nutrition and dietetics
+            - high-fat diet-induced obesity
+            - fruit antioxidant compound property
+            - coffee antioxidant properties
+            - millet-based food nutraceuticals
+            - gut microbiota and obesity
+            - olive oil quality analysis
+            - kefir and gut microbiota
+            - phenolic compounds in fruits
+            - dietary fibre digestion
+            - gut microbiota and obesity prevention
+            - polyphenols and gut microbiota interaction
+            - polyphenol bioavailability
+            - emulsions in nutrition
+            - anti-inflammatory effects on high-fat diet-induced obesity in mice
+            - whole grain foods
+            - polyphenol antioxidant activity
+            - antioxidant activity in fruits and vegetables
+            - phenolic compound extraction and antioxidant activity
+            - seed oil composition
+            - broccoli and gut microbiota research
+            - peptide activity and antioxidant properties
+            - phenolic extracts
+            - lycopene and tomato bioavailability in dietetics
+            - food lipid oxidation
+            - oil extraction method
+            - antioxidant compounds in fruits
+            - protein digestion in milk
+            - antioxidant-rich berry extract
+            - enzyme inhibition mechanism
+            - proanthocyanidins and intestinal function
+        - cooking fats/margarine brands
+    - general medicine
+    - social biomedical sciences
+    - health care sciences
+    - medical ethics
+    - personalized medicine
+- medical biotechnology
+    - cells technologies
+    - tissue engineering
+    - nanomedicine
+    - genetic engineering
+    - implants
+- other medical science
+    - public health
+        - health economics/health policy
+            - hiv risk reduction interventions
+            - sexuality education in schools
+            - community health initiative
+            - sexual minority mental health
+            - cardiovascular disease prevention program
+            - transgender health care
+            - health education empowerment
+            - substance abuse prevention program
+            - transgender health
+            - school-based health intervention evaluation
+            - occupational health behavior
+            - dietary behavior change
+            - health promotion program development
+            - health education program
+            - sexual minority health care
+            - workplace health promotion program
+            - community health intervention
+            - smoking cessation intervention
+            - health inequalities
+            - mais médicos program
+            - healthcare management
+            - violence against women
+            - older adult health
+            - child abuse and neglect
+            - mental health reform
+            - neonatal near miss care
+            - maternal mortality abortion analysis
+            - congenital syphilis prevention
+            - food insecurity
+            - health care services
+            - childbirth assistance quality
+            - health in older adults
+            - chronic illness experience narrative
+            - health of undocumented children
+            - health insurance reform
+        - sexual health/epidemiology
+            - pre-exposure prophylaxis (prep)
+            - sexual health in older people
+            - hiv stigma and risk behavior among black msm
+    - health policy & services
+        - breast cancer/antineoplastic drugs
+            - health technology assessment
+            - preference elicitation in health care
+            - health technology assessment policy
+            - clinical decision making
+            - health utility measurement
+            - real-world evidence in healthcare assessment
+            - cost-effectiveness analysis in cancer treatment
+            - health state valuation
+            - economic evaluation in cancer healthcare
+            - health state utility values
+            - health-related quality of life measure
+            - decision analysis
+            - cost-effectiveness analysis
+            - health preference measurement
+            - health economic evaluation
+            - informal caregiving burden
+    - gerontology
+        - philosophical movements/philosophical schools and traditions
+            - bereavement in cancer caregivers
+            - palliative care symptom assessment
+            - palliative care sedation
+            - quality of life in patients
+            - dyspnea management in cancer patients
+            - palliative care in general practice
+            - patient symptom reporting
+            - palliative care in covid-19 pandemic
+    - rehabilitation
+        - occupational therapy/learning disabilities
+            - spinal cord injury rehabilitation
+            - rehabilitation goal setting
+            - stroke rehabilitation
+            - traumatic spinal cord injury epidemiology
+            - user experience with exoskeleton devices
+            - hand prosthetics design
+            - lower limb amputation rehabilitation
+            - cerebral palsy rehabilitation
+            - functioning and disability measurement and statistics
+            - rehabilitation nursing needs assessment
+            - wheelchair service provision
+            - traumatic brain injury rehabilitation
+            - stroke survivor participation
+            - lower extremity amputation prosthetics
+            - stroke rehabilitation technology
+            - gait analysis in stroke patients
+            - occupational therapy practice
+            - child play development
+            - client-centred occupational therapy
+            - occupational therapy for children
+            - occupational therapy health promotion
+            - occupational therapy assessment
+            - cultural competence in occupational therapy
+            - assistive device use
+            - occupational therapy student practice education
+            - occupational therapy in schools
+            - occupational performance measure
+            - occupational therapy for mental health
+            - spiritual occupational therapy
+            - occupational justice in rehabilitation
+            - home and community-based services for people with intellectual disabilities
+            - sexuality and intellectual disability support
+            - intellectual disability support
+            - participation in daily life for adults with intellectual disability
+            - intellectual disability mental health services
+            - intellectual disability health care
+            - inclusive learning disability research
+    - speech-language pathology & audiology
+        - applications of artificial intelligence/assistive technology
+            - unsupervised speech representation learning
+            - sound field reproduction
+            - speech enhancement
+            - speech emotion recognition
+            - voice conversion
+            - speech recognition
+            - speaker verification
+            - source separation
+            - sound event detection
+            - phonological theory and measurement
+            - phonetics
+            - tone perception in mandarin chinese
+            - prosody and accentuation in language
+    - substance abuse
+        - substance-related disorders/substance dependence
+            - adolescent substance abuse treatment and recovery
+            - tobacco and cannabis co-use
+            - alcohol policy
+            - internet gaming disorder
+            - heavy drinking among students
+            - alcohol use among young adults
+            - minority health and substance abuse
+            - transgender youth healthcare
+        - gambling and society/online gambling
+            - gambling-related harm measurement
+            - problem gambling prevention program
+            - gaming disorder
+            - problem gambling
+            - emotion regulation in gambling disorder
+            - responsible gambling
+            - gambling behavior analysis
+        - drinking culture/alcohol abuse
+            - college student drinking behavior
+    - nursing
+    - epidemiology
+
+## natural sciences
+
+- biological sciences
+    - plant biology & botany
+        - agronomy/crops
+            - wheat genetics and breeding
+            - soybean virus resistance
+            - maize lodging resistance
+            - fruit genetics
+            - crop modeling and yield optimization
+            - chrysanthemum genetics and breeding
+            - wheat genetic diversity
+            - wheat disease resistance
+            - cassava genetics and breeding
+            - brassica napus genetics
+            - rice grain yield response to temperature
+            - genomic selection in plant breeding
+            - cucumber breeding and genetics
+            - fusarium head blight resistance in wheat
+            - rice breeding
+            - soybean seed trait analysis
+            - maize quantitative trait locus mapping
+            - genetic mapping for agronomic traits in legumes
+            - common bean genetics and drought tolerance
+            - wheat grain yield prediction
+            - genetic hybrid breeding in plants
+            - sunflower breeding
+            - potato crop management
+            - sorghum genetics and breeding
+            - wheat rust resistance
+            - maize breeding and genetics
+            - haploid induction in maize breeding
+            - genetic selection for crop traits
+            - rice genetic resistance marker development
+            - perennial plant genetics
+            - genomic selection in wheat breeding
+            - wheat nitrogen use efficiency
+            - soybean genetics and breeding
+            - pearl millet genetics
+            - triticale genetics and chromosome translocations
+            - barley rust resistance
+            - crop improvement
+            - cotton genetics and breeding
+            - genotype × environment interaction in plant disease resistance
+            - genetic diversity in cowpea
+            - alfalfa cultivation and genetics
+            - cotton drought tolerance
+            - rice crop improvement
+            - pasture legume breeding
+            - potato genetics and breeding
+            - cotton fusarium wilt resistance
+            - sugarcane breeding
+            - synthetic wheat breeding
+            - fruit properties analysis
+            - crop yield fertilization
+            - biochar in plant substrate
+            - plant biostimulation and growth promotion
+            - essential oil extraction
+            - plant lighting efficiency
+            - light-induced plant growth enhancement
+            - cadmium plant toxicity and remediation
+            - plant stress tolerance
+            - plant stress response
+            - irrigation management
+            - light-induced plant growth
+            - plant stress response to salinity
+            - drought stress response in plants
+            - plant metal stress physiology
+            - plant breeding techniques
+            - grapevine water balance
+            - plant salt stress tolerance
+            - plant tissue culture production
+            - uv radiation effects on plants
+            - somatic embryogenesis in plants
+            - in vitro plant propagation
+            - plant regeneration
+            - plant heavy metal stress response
+            - crop drought response
+            - saline soil irrigation impact on plant growth
+            - essential oil production in plants
+            - plant stress response mechanisms
+            - agricultural water use efficiency
+            - cotton irrigation management
+            - salt stress in plants
+            - plant tissue culture and endophytic bacteria
+            - water stress management in horticulture
+            - plant drought response
+            - colchicine-induced polyploidy in plants
+            - plant growth regulation
+            - biodegradable mulching
+            - plant cell culture and metabolites production
+            - cryopreservation of plant cells and tissues
+            - silver nanoparticles in plant physiology
+            - stress response in plants
+        - tylenchida/agricultural pest nematodes
+            - nematode detection in soil
+            - pythium-induced root disease in soybeans
+            - laurel wilt disease
+            - verticillium wilt
+            - nematode control in plant biology
+            - seed disease management
+            - fusarium head blight in wheat
+            - plant disease management
+            - fusarium proliferatum disease in garlic
+            - wheat rust resistance
+            - fungicide control for plant disease
+            - wheat blast disease detection
+            - grapevine virus detection
+            - fusarium oxysporum disease management
+            - colletotrichum fructicola infection
+            - rice nematode resistance
+            - soybean disease management
+            - fungal pathogen genomics
+            - phytophthora species identification
+            - early blight disease management
+            - powdery scab disease control
+            - potato disease research
+            - cannabis disease
+            - grapevine disease
+            - bacterial plant disease
+            - myrtle rust impact on myrtaceae
+            - root-lesion nematode species
+            - bacterial wilt in plants
+            - grapevine disease control
+            - ash dieback fungus infection
+            - xiphinema species description
+            - fungal disease resistance
+            - boxwood blight disease
+            - fungicide resistance in botrytis cinerea
+            - fungal tree diseases
+            - xylella fastidiosa detection
+            - nematode control in plants
+            - fungicide application in soybean farming
+            - fruit brown rot pathogens
+            - fusarium oxysporum pathogenesis
+            - rhizoctonia solani pathogen identification
+            - phytoplasma disease in plants
+            - ceratocystis fungal diseases in plants
+        - edible nuts and seeds/fagus
+            - tree ring anatomy
+            - tree root ecology
+            - frost and tree phenology
+            - seedling growth and quality
+            - tree mortality factors
+            - tree growth and forest ecology
+            - forest ecology
+            - fine root biology
+            - poplar tree hybridization
+            - bamboo ecology
+            - forest regeneration
+            - tree ring analysis
+            - tree wood property
+            - tree forest ecology
+            - forest carbon sequestration
+            - drought tolerance in oak trees
+            - nitrogen uptake in tree plantations
+            - plant growth and soil improvement
+            - tree water use and hydraulic functioning
+            - forest inventory
+            - wood density and property research
+            - tree growth response to climate change
+            - forest management and climate change
+            - resistant tree breeding
+            - tree biomass modeling
+            - tree diameter distribution modeling
+            - wood anatomy identification
+            - forest regeneration and restoration
+            - stem co2 efflux
+            - nitrogen cycling in forests
+        - seeds/plant reproduction
+        - agavoideae
+            - moss species distribution
+            - orthotrichaceae mosses
+    - marine biology & hydrobiology
+        - oceanographical terminology/biological oceanography
+            - sea lamprey control
+            - cyanobacterial blooms in lake erie
+            - lake fish ecology
+            - salmonid habitat restoration
+            - freshwater fish community dynamics
+            - length-weight relationship in fish
+            - lake sturgeon habitat and population management
+            - grass carp population dynamics
+            - fish population dynamics
+            - otolith chemistry in marine biology
+            - bonefish biology
+            - tuna fishery management
+            - beach tourism management
+            - ocean acidification impact assessment
+            - forage fish ecosystem management
+            - small-scale fisheries management
+            - mangrove ecosystem management
+            - fisheries management
+            - ecosystem management in the gulf of mexico
+            - sardinella fish biology and conservation
+            - water quality management
+            - acoustic fish target estimation
+            - polar cod early life history
+            - atlantic salmon migration patterns
+            - river habitat restoration
+            - marine protected area management
+            - manganese in ocean water
+            - ecosystem-based fisheries management
+            - american lobster biology
+            - marine intertidal ecosystem
+            - seafarers' occupational safety and health
+            - recreational fisheries management
+            - marine fish ecology
+            - sea turtle conservation
+            - atlantic mackerel distribution
+            - coral reef fishery management
+            - larval fish biology
+            - fish community structure
+            - marine noise pollution
+            - benthic habitat distribution
+            - arctic ocean governance
+            - fish acoustics survey
+            - marine spatial planning
+            - marine conservation management
+            - oyster reef restoration
+            - king crab reproductive biology
+            - fish otolith age determination
+            - spatial fisheries management
+            - marine reef ecology
+            - coral reef conservation
+            - marine fisheries management
+            - marine species conservation
+            - shark diet and trophism
+            - dolphin marine biology
+            - arctic marine ecosystem changes
+            - mesophotic coral reef ecosystem
+            - benthic ecosystem sediment production
+            - phytoplankton community composition
+            - thermal tolerance in mussels
+            - seagrass ecosystem response
+            - baltic sea ecology
+            - giant clam biology
+            - penguin population dynamics
+            - crown-of-thorns starfish (acanthaster cf. solaris) biology
+            - estuarine hydrology and phytoplankton dynamics
+            - cetacean physiology
+            - fish hearing and sensitivity
+            - insect mechanics
+            - marine species description
+            - ph effects on crabs
+            - glacier dynamics in svalbard
+            - marine larval biology
+            - ocean acidification impact on marine species distribution
+            - arctic benthic community ecology
+            - antarctic krill biology
+            - benthic community study
+            - marine species diversity
+            - trophic ecology
+            - intertidal algal distribution
+            - estuarine circulation
+            - coral reef biology
+            - fish physiological response to temperature
+            - fish swimming behavior
+            - baltic sea benthic communities
+            - marine biology
+            - fjord ecosystem study
+            - sandy beach macrofauna adaptations
+            - aerodynamics in flight
+            - marine shell physiology
+            - oyster environmental tolerance
+            - marine zooplankton community analysis
+            - blue crab biology
+            - coral reef degradation
+            - ciliate microzooplankton distribution
+            - benthic community distribution
+            - marine debris impact on marine life
+            - zooplankton ecology
+            - phytoplankton community dynamics
+            - fish-macrophyte interactions
+            - invasive macrophyte ecology
+            - stream habitat and agriculture effects on macroinvertebrates
+            - diatom community structure
+            - zooplankton community diversity
+            - diatom community analysis
+            - stream macroinvertebrate community dynamics
+            - lake ecosystem dynamics
+            - stream food web dynamics
+            - benthic macroinvertebrate assemblages
+            - invasive species impact on ecosystems
+            - lake ecosystem change
+            - phosphorus dynamics in lakes
+            - intermittent river ecology
+            - seagrass ecology
+            - freshwater mussel ecology
+            - invasive crayfish ecology
+            - wetland crustacean ecology
+            - macrophyte growth in lakes
+            - shallow lake ecology
+            - dinoflagellate toxin production
+            - dinoflagellate bloom formation
+            - paralytic shellfish toxins detection
+            - marine biotoxin analysis in bivalves
+            - marine dinoflagellate bloom
+            - marine algal toxins in human health
+            - pseudo-nitzschia research
+            - toxin contamination in shellfish
+            - cyanobacterial toxins and water quality
+            - sponge ecology
+            - killer whale diet and prey
+            - southern right whale population distribution
+            - kelp forest ecosystem
+            - eelgrass ecosystem dynamics
+            - seabird foraging ecology
+            - habitat structure impact on biodiversity
+            - seagrass community shift
+            - shoreline fish community
+            - coral reef ecology
+            - algae bioprocess engineering
+            - seaweed growth and agar production
+            - microalgal biomass production
+            - physiological response to elevated co2 and temperature in marine algae
+            - microalgal bioproduction
+            - microalgal growth and productivity
+            - red algae diversity
+            - microalgal wastewater treatment
+            - lipid extraction from microalgae
+            - lipid production in microorganisms
+            - diatom taxonomy
+            - seaweed aquaculture
+            - seaweed protein extraction
+            - temperature-induced effects on photosynthesis
+            - seaweed extract in agriculture
+            - dinoflagellate taxonomy
+            - seaweed bioactives extraction
+            - protein and lipid extraction from microalgae
+            - seaweed quality and preservation
+            - seaweed biomass production
+            - coralline algae taxonomy
+            - cyanobacterial taxonomy
+    - evolutionary biology
+        - paraphyletic groups/coral reefs
+            - amphipod species discovery
+            - bradyrhizobium strain description and genome sequencing
+            - water scavenger beetle taxonomy
+            - diptera taxonomy
+            - terrestrial molluscs
+            - new shrimp species identification
+            - new species description
+            - species phylogeny
+            - fish species distribution
+            - species identification
+            - symbiotic anemones biology
+            - mammal phylogeny
+            - spider parasitoid interaction
+            - species classification in hymenoptera
+            - phylogenetic analysis in africa
+            - actinobacteria classification
+            - subterranean invertebrate distribution and ecology
+            - millipede taxonomy
+            - flesh fly species classification
+            - coleopteran systematics
+            - spider taxonomy
+            - fossil rodent and cetacean morphology
+            - species description in hydrozoa
+            - freshwater mollusk species diversity
+            - taxonomy and species classification
+            - newly isolated microbe species
+            - newly isolated microorganism
+            - shark morphology and evolution
+            - ephemeroptera species description
+            - beetle morphology
+            - parasitic wasp systematics
+            - heteropteran species
+            - new snake species discovery
+            - novel streptomyces species
+            - ant species description
+            - cretaceous fossil taxonomy
+            - cretaceous sauropod dinosaur evolution
+            - tetrigidae systematics and taxonomy
+            - species description
+            - phylogenetic systematics
+            - dung beetle species identification
+            - milnesium species diversity
+            - aphaniid fish morphology
+            - species classification in coleoptera
+            - kinorhynch species description
+            - tenebrionidae species identification
+            - shrimp phylogeny
+            - fish species discovery
+            - entomology
+            - mantodea taxonomy & systematics
+            - novel bacterial strains description
+        - extant hettangian first appearances/lizards
+            - reptile evolutionary biology
+            - mimicry in butterfly-evolved defenses
+            - marine species phylogeography
+            - genetic population structure
+            - host-parasite interactions
+            - genetic variation in marine organisms
+            - plant-insect interactions evolutionary biology
+            - host-parasite dynamics
+            - population variation in reproductive development in birds
+            - hybrid speciation in plants
+            - population genetics
+            - effective population size
+            - cooperative breeding evolutionary biology
+            - thermal tolerance in populations
+            - niche construction theory
+            - aphid symbiosis
+            - phylogenetic diversity analysis
+            - floral biology
+            - fish population genetics
+            - evolutionary biology
+            - genetic structure of fish population
+            - species interactions
+            - sexual selection and evolutionary genetics
+            - ecological community dynamics
+            - urban evolutionary biology
+            - gastropod shell evolution
+            - lizard evolutionary biology
+            - phylogeography
+            - vertebrate bone development
+            - frog coloration and evolutionary biology
+            - insect symbiosis and genetics
+            - bat conservation genetics
+            - sexual selection evolutionary biology
+            - brain evolution
+            - plant evolutionary biology
+            - bird evolutionary biology
+            - fungal symbionts of bark beetles
+            - species diversification
+            - species diversification in east asia
+            - environmental dna metabarcoding
+            - allometry
+            - inclusive fitness theory
+            - genetic speciation
+            - mammalian jaw evolution
+            - phylogenetic analysis
+        - primates of africa/tool-using mammals
+            - corticosterone and fitness
+            - female reproductive strategies
+            - courtship display in birds
+            - whale social behavior
+            - sperm biology
+            - animal personality
+            - lizard chemical communication
+            - animal communication behavior
+            - ant colony trail maintenance
+            - brood parasitism
+            - ant colony behavior
+            - bird reproductive biology
+            - evolutionary biology
+            - spider behavior and web construction
+            - aposematic defense strategies
+            - color polymorphism in lizards
+            - social animal behavior
+            - capuchin monkey tool use
+            - primate foraging behavior
+            - dog behavior and human interaction
+            - bird song response to noise pollution
+            - bird migration ecology
+            - reproductive behavior in fish
+            - spider maternal behavior
+            - warbler migration
+            - female bird reproductive behavior
+            - bird alarm call response
+            - primate ecology and behavior
+            - predator neophobia in fish populations
+            - bird urban ecology
+            - foraging behaviour in seabirds
+            - bird plumage evolution
+            - ant colony dynamics
+            - sperm allocation in mating
+            - social play behavior
+            - migratory bird ecology
+            - sexual conflict in females and males
+            - bat social behavior
+            - reproductive biology
+            - birdsong analysis
+            - bird feather development
+            - animal communication and mating signals
+            - cooperative behaviour
+            - bird nesting behavior
+            - human voice characteristics
+            - habitat-dependent vigilance behaviour of animals
+            - foraging ecology
+            - parental care strategies
+        - pollination/angiosperms
+            - primulina species description
+            - phylogenetic study
+            - pollen morphology
+            - plant taxonomy
+            - new species description
+            - floral development
+            - botanical phylogeny and taxonomy
+            - phylogenetic analysis
+            - botanical herbarium
+            - plant xylem hydraulic properties
+            - fossil plant evolution
+            - phylogenetics
+            - plant genome evolution
+            - caryophyllaceae phylogenetics and taxonomy
+            - carex phylogenomics
+            - selaginella species identification
+            - orchid species description
+            - italian vascular flora
+            - botany
+            - island endemism
+            - epidendrum pollination biology
+            - bromeliaceae phylogenetics
+            - solanum species classification
+            - cactus phylogeny & taxonomy
+            - kalanchoe taxonomy
+            - phylogeny and systematics
+            - pollen evolutionary biology
+            - new species discovery
+            - plant species identification
+            - lichen species diversity
+            - phylogeography of moss species
+            - oreocharis species description
+            - orchid phylogenetics
+            - pollination biology
+            - fossil conifer evolutionary biology
+            - taxonomy of brassicaceae tribe euclidieae
+            - ruellia seed morphology
+            - floral morphology and ecology
+        - forests/habitats
+            - tree drought response
+            - soil ecosystem management
+            - tree stand ecology
+            - stem response to drought
+            - primary forest ecology
+            - forest stand ecology
+            - forest disturbance management
+            - tree defense mechanisms
+            - drought-induced tree mortality
+            - soil compaction recovery
+            - tree growth modeling
+            - eucalyptus plantation management
+            - forest ecology
+            - forest carbon stock
+            - forest regeneration
+            - genetic parameters in tree seedlings
+            - forest management and conservation
+            - artificial light pollution
+            - invasive insect species behavior
+            - acoustic monitoring in biology
+            - road wildlife mortality
+            - ecological population dynamics
+            - species conservation and extinction assessment
+            - antarctic species conservation
+            - phytophysiognomy diversity
+            - human-elephant conflict
+            - grazing effects on ecosystems
+            - urban bird ecology
+            - grouse management and conservation
+            - vulture conservation
+            - conservation genetics
+            - giant panda conservation
+            - invasive plant ecology
+            - plant ecology
+            - vegetation dynamics in ecosystems
+            - alpine plant ecology
+            - seagrass benthic macrofaunal assemblage variation
+            - conservation biology
+            - seed conservation and restoration
+            - beetle outbreak dynamics
+            - coral reef ecology
+            - bee species diversity conservation
+            - pollination ecology
+            - amazonian fish diversity
+            - phytoplankton community response
+            - coral reef conservation
+            - amphibian disease ecology
+            - thermal phenotypes in lizard populations
+            - ecological restoration
+            - vascular epiphyte ecology
+            - essential biodiversity variables monitoring
+            - beaver habitat restoration
+            - plant-pollinator interaction
+            - cave ecology
+            - dung beetle ecology
+            - animal movement modeling
+            - sacred forest conservation
+            - forest species conservation
+            - epiphytic lichen ecology
+            - marine species distribution modeling
+            - invasive species impact
+            - dental microwear analysis
+            - small mammal ecology
+            - saproxylic beetle ecology and management
+            - wild meat hunting in amazon
+            - species niche evolution
+            - invasive species ecology
+            - red squirrel population dynamics
+            - marsh ecosystem dynamics
+        - iucn red list least concern species/holarctic fauna
+        - oxygen/human biology
+    - biotechnology
+        - renewable fuels/biofuels technology
+            - continuous bioprocessing
+            - viral clearance validation
+            - pectinase production
+        - enzymes/metabolism
+            - wood modification
+            - wood heat treatment
+        - chemistry/lists of chemical elements
+    - entomology
+        - insect pests of millets/spodoptera
+            - insecticide development
+            - insecticide efficacy in wheat and grain storage
+            - insecticide resistance in aphids
+            - phosphine resistance in grain insects
+            - diamondback moth resistance
+            - insecticide resistance mechanism
+            - grain storage and preservation
+        - biological pest control/insects in culture
+            - insecticide effect on population
+            - cotton thrips management
+            - thrip control and biology
+            - pest control
+            - ant control methods
+            - mealybug insect control
+            - biological control agent
+            - insect pest management
+            - aphid predation behavior
+            - harmonia axyridis biology
+            - spotted lanternfly biology
+            - biological control of forest pest
+            - crop pest management
+            - emerald ash borer management
+            - parasitic wasp ecology in agriculture
+            - plant-insect interaction chemical ecology
+            - stored-product insect control
+            - pest sampling plan
+            - plant-based insecticides for pest control
+            - temperature-dependent insect development
+            - dietary effects on predator performance
+            - drosophila suzukii biology and management in fruit production
+            - biological control of plant pests
+            - ambrosia beetle ecology
+            - plant attractant volatiles
+            - parasitoid host-plant interaction
+            - bemisia tabaci species diversity
+            - electrophysiology in entomology
+            - spruce budworm control
+            - red imported fire ant control
+            - corn rootworm resistance
+            - trichogramma parasitoid rearing
+            - parasitic insects
+            - german cockroach control
+            - termite biology
+            - insecticide resistance in pest populations
+            - pollen beetle management
+            - fruit fly control
+            - entomopathogenic nematodes
+            - insect diet effects
+            - entomopathogenic fungus beauveria bassiana
+            - plant-insect interaction defense responses
+            - fruit fly host preference
+            - trap design for insect detection
+            - pine processionary moth control
+            - biological control of pests
+            - antennal sensilla morphology
+            - black soldier fly larvae production
+            - sugarcane pest management
+        - pollination/beekeeping
+        - apis (genus)/beekeeping
+            - bee reproduction
+            - beekeeping
+            - varroa mite resistance in honey bees
+            - bee health and propolis
+        - biological pest control/entomology
+    - ornithology
+        - iucn red list least concern species/larus
+            - papua guinea lowland rainforest avifauna
+            - australian bird taxonomy
+            - bell miner social behaviour
+            - birds of lord howe island
+            - australian woodland bird ecology
+            - owl diet
+            - island birds
+            - wedge-tailed shearwater population
+            - albatross population dynamics
+            - bird distribution in australia
+            - little penguin biology
+    - ecology
+        - ecological restoration/forests
+    - zoology
+        - checklists/health care quality
+- chemical sciences
+    - analytical chemistry
+        - mass spectrometry/chromatography
+            - near-infrared spectroscopy
+            - inductively coupled plasma spectrometry
+            - glow discharge spectrometry
+            - fluorescence probe characterization
+            - high pressure diamond research
+            - raman difference spectroscopy
+            - inductively coupled plasma atomic emission spectrometry
+            - optical fiber sensor
+            - surface-enhanced raman spectroscopy
+            - paper conservation analysis
+            - two-dimensional correlation spectroscopy
+            - cleaning and conservation techniques
+            - diffuse reflectance infrared spectroscopy
+            - polymer nanoparticle dynamics
+            - u-pb dating analysis
+            - infrared reflection spectroscopy
+            - raman spectroscopy
+            - laser-induced breakdown spectroscopy
+            - block copolymer synthesis
+            - raman spectra deconvolution
+            - off-confocal raman spectroscopy
+            - x-ray fluorescence analysis
+            - material analysis
+            - thermal lens spectroscopy
+            - laser-enhanced ionization spectrometry
+            - heritage conservation
+            - uranium oxide spectroscopy
+            - near infrared spectroscopy analysis
+            - paint analysis
+            - microwave-assisted digestion for analytical spectrometry
+            - plasma etching
+            - nanoparticle analysis in icp-ms
+            - glow discharge mass spectrometry
+            - vibrational circular dichroism measurement
+        - food safety/food science
+            - rice starch properties
+            - phenolic compounds and antioxidant activity
+            - protein gel property analysis
+            - chia seed oil nanoencapsulation
+            - human milk lipid analysis
+            - phenolic compounds in fruits
+            - honey antioxidant activity and phenolic compounds
+            - phycobiliprotein pigment extraction
+            - antioxidant activity analysis
+            - green tea analysis
+            - peptide bioactivity and functional properties
+            - acrylamide formation in food
+            - food-related biomolecules interaction
+            - red wine phenolics
+            - immunoassay detection
+            - edible oil analysis
+            - food emulsions
+            - antioxidant analysis
+            - food quality analysis
+            - mycotoxin analysis
+            - food quality monitoring
+            - phenolic compounds in edible flowers
+            - pesticide residue analysis
+            - antioxidant content analysis
+            - betalain extraction and characterization
+            - phenolic compound extraction
+            - fruit carotenoids analysis
+            - aroma compound analysis
+            - herbal extraction technology
+            - bread quality improvement
+            - phenolic compounds and antioxidant activity in food
+            - pickering emulsions
+            - antioxidant activity of essential oils
+            - food quality control
+            - phenolic compound analysis
+            - phenolic compounds in wine production
+            - rheological properties of plantago lanceolata seed mucilage
+            - biogenic amine analysis in food
+            - cocoa compound analysis
+            - antioxidant activity in plant compounds
+            - antioxidant properties of oil
+            - beer antioxidant compounds
+            - oleogel properties
+            - antioxidant compounds in fruits & vegetables
+            - food authentication
+            - protein analysis
+            - chitosan in fruit coating
+            - phenolic compound extraction from meat and meat products
+            - wine chemistry
+            - wheat flour properties
+            - polycyclic aromatic hydrocarbons in meat products
+        - biosensors/nanomedicine
+            - bacteria detection
+            - nanoparticle-based sensors for detection
+            - mass spectrometry analysis
+            - electrochemical sensor
+            - fluorescent biosensor
+            - aptamer-based biosensors
+            - fusarium mycotoxin detection
+            - aflatoxin b1 detection
+            - electrochemical sensor development
+            - electrochemical detection
+            - electrochemical sensor detection
+            - electrochemical biosensor
+            - cancer biomarker detection
+            - molecularly imprinted polymer sensor
+            - explosive detection sensor
+            - paper-based microfluidic device
+            - surface-enhanced raman spectroscopy (sers) immunoassay
+            - immunosensor detection
+            - electrochemical immunosenor development
+            - electrochemical sensor for biomolecule detection
+            - icp-ms detection method
+            - magnetic solid phase extraction
+            - gas chromatography mass spectrometry
+            - surface-enhanced raman spectroscopy (sers) analysis
+            - non-enzymatic glucose sensor
+            - 3d printed analytical devices
+            - electrochemical biosensing
+            - chiral electrochemical sensor
+            - atp detection aptasensor
+            - fluorescent sensor assay
+            - glycopeptide enrichment
+            - dna detection biosensor
+            - dna biosensor detection
+            - electrochemical antioxidant sensor
+            - hydrazine electrochemical detection
+            - electrochemical drug sensor
+            - glucose biosensor
+            - multivariate curve resolution
+            - urea sensor
+            - ion-selective electrode
+            - analytical chemistry method development
+        - psychoactive drugs/drug culture
+            - metabolism of synthetic cannabinoids
+            - synthetic opioid analysis
+            - drug metabolism analysis
+            - steroid profiling in sports
+            - metabolism study
+            - cannabinoid analysis
+        - microfluidics/biotechnology
+            - microfluidic device design
+            - particle focusing in microfluidics
+        - pharmaceutical industry/pharmacology
+            - coumarin analysis
+            - chromatographic analysis of metformin
+            - therapeutic drug monitoring in blood samples
+            - urine sample extraction
+            - capillary electrophoresis
+            - pesticide residue analysis
+            - drug analysis method development
+            - chemical analysis of herbal materials
+            - drug analysis in plasma samples
+            - metabolomics analysis
+            - alkaloid analysis
+            - lipophilicity analysis
+            - drug testing in urine
+            - lc-ms/ms method development
+            - liquid chromatography-mass spectrometry analysis
+            - mass spectrometry analysis
+            - antibiotic therapeutic drug monitoring
+            - liquid extraction and chromatography
+            - metabolomics
+            - lc-ms/ms bioanalysis
+            - analytical method development
+            - liquid sample analysis
+            - monolithic chromatography column
+            - matrix solid phase dispersion
+            - impurity characterization by nmr and ms
+            - determination of impurities in liquids
+            - liquid chromatography separation
+            - cannabinoid analysis
+            - two-dimensional liquid chromatography
+            - stationary phase for gas chromatography
+            - high-performance liquid chromatography (hplc)
+            - plasma analysis of tyrosine kinase inhibitors
+            - lc-ms analysis
+            - chromatography method development
+            - liquid chromatography mass spectrometry analysis
+            - chiral stationary phase development
+            - forced degradation product characterization
+            - pharmacokinetic analysis
+            - forensic toxicology analysis
+            - counterfeit medicine detection
+            - gas chromatography with vuv detection
+            - stability testing of pharmaceutical preparations
+            - pharmacokinetics analysis
+            - detection method
+            - chromatography analysis
+            - ionic liquid analysis
+        - carbohydrate chemistry/carbohydrates
+            - mass spectrometry of oil compounds
+        - spectroscopy/infrared spectroscopy
+    - general chemistry
+        - electrochemistry/electrolysis
+            - europium doped phosphor property
+            - catalyst synthesis
+            - nanoparticle electrochemistry
+            - mechanophore-polymer material property
+            - silver nanoparticles synthesis
+            - singlet fission
+            - feee hydrogenase
+            - tio2 catalyst development
+            - synthesis and properties of polymers
+            - polyethylene synthesis
+            - metal-organic framework detection
+            - catalyst development
+            - supercapacitor electrode material
+            - palladium-catalyzed arylation reaction
+            - pillar
+            - catalytic oxidation reaction
+            - polymer synthesis
+            - metal-mediated base pair in dna
+            - perovskite solar cell stability
+            - catalytic reaction mechanisms
+            - lignin depolymerization
+            - spin crossover complexes
+            - metal-organic frameworks for drug delivery
+            - porphyrin photocatalysis
+            - carbon dot synthesis
+            - ammonia synthesis catalysis
+            - zeolite synthesis and structure
+            - carbon nanomaterials
+            - high-performance thermoelectric materials
+            - zeolite catalysis in aromatic conversion
+            - hydrogel materials
+            - nanoparticle-based cancer therapy
+            - enantioselective allylic alkylation
+            - nanomaterials application in biomedicine
+            - self-assembly of block copolymers
+            - nanoparticle catalysis
+            - graphitic carbon nitride photocatalysis
+            - porous carbon supercapacitor
+            - organic solar cell
+            - molecular synthesis
+            - enzyme catalysis
+            - photocatalytic nanoparticle activity
+            - chiral helical polymer chemistry
+            - radical catalysis
+            - electrochemical co2 reduction
+            - magnetic catalysis
+            - ion battery anodes
+            - photodynamic therapy
+            - thermoelectric materials property
+            - surface-enhanced raman spectroscopy (sers)
+            - vitrimer chemistry
+            - organometallic chemistry
+            - catalytic reaction synthesis
+            - supramolecular self-assembly
+            - catalyst development for hydrochlorination reactions
+            - asymmetric synthesis
+            - nuclear magnetic resonance (nmr)
+            - peptide chemistry
+            - thermally activated delayed fluorescence (tadf) device design
+            - energetic materials synthesis
+        - ligands/chemical bonding
+            - heterometallic coordination polymer synthesis
+            - platinum complexes in cancer research
+            - coordination compound synthesis
+            - coordination polymer chemistry
+            - crystal structure transition
+            - metallodendrimer complex synthesis
+            - manganese catalysis
+            - ion detection sensor
+            - metal complexes anticancer activity
+            - nickel complex magnetic properties
+            - crystal structure study
+            - germylene complex synthesis
+            - coordination complexes
+            - organometallic compound synthesis
+            - arene coordination structure
+            - cocrystal properties
+            - luminescent zinc complexes
+            - coordination complex synthesis
+            - chalcogen bonding
+            - complex structure
+            - phthalocyanine complexes
+            - crystal structure synthesis
+            - metal complex synthesis
+            - organometallic chemistry
+            - crystal structure analysis
+            - rare earth element extraction
+            - carborane chemistry
+            - iron-based hydrogenase complex for proton reduction
+            - metal-organic frameworks
+            - metal complexation
+            - metal-ligand complex chemistry
+            - metal-organic framework synthesis
+            - anti-cancer platinum complexes
+            - palladium complex chemistry
+            - coordination polymer complexes
+            - pincer complex catalysis
+            - inorganic chemistry complexes synthesis
+            - copper-dna complexes
+            - phosphorus-nitrogen compounds
+            - palladium catalysis
+            - organic-inorganic hybrid compound synthesis
+            - powder x-ray diffraction
+            - thermal expansion materials
+            - lanthanide complexes
+            - electron diffraction tomography
+            - platinum complexes
+            - coordination polymer structure
+            - transition metal complexes
+            - ruthenium complexes
+            - catalyst development
+            - cobalt complex chemistry
+            - protein crystallization
+            - crystal nucleation and growth
+            - nonlinear optical materials
+            - copper catalysis
+            - polyoxometalate compound structure
+            - crystal structure
+            - anion binding receptor design
+        - ionic liquids/ions
+            - fullerene chemistry
+            - hydrogen bond spectroscopy
+            - neural network for molecular simulation
+            - light-harvesting complex dynamics
+            - vibrational energy surface calculation
+            - multicomponent quantum chemistry theory
+            - spectroscopy
+            - quantum dynamics
+            - molecular decomposition mechanism simulation
+            - chemical bonding study
+            - coupled cluster theory
+            - molecular structure and bonding energy
+            - dissociative chemisorption on metal surface
+            - electron transfer theory
+            - molecular reaction mechanism
+            - excited-state proton transfer
+            - molecular simulation
+            - molecular thermodynamics simulation
+            - vibrational spectroscopy
+            - nmr calculation
+            - spin state energetics in transition metals
+            - clathrate hydrates
+            - vibrational spectra theory
+            - intermolecular interaction energy
+            - mechanistic study of chemical reactions
+            - photoelectron spectroscopy
+            - epr experiment
+            - molecular hydrodynamics
+            - adsorption simulation in nanoporous materials
+            - radical aromatic reaction
+            - hydrogen bond interaction
+            - low-energy molecular interactions
+            - transition metal bonding
+            - inelastic scattering cross section calculation
+            - intramolecular proton transfer
+            - lanthanide chemistry
+            - density functional theory simulation
+            - halogen bonding
+            - hydrogen bond dynamics in mixed solutions
+            - ionic liquid properties
+            - high-energy materials
+            - chemical ionization
+            - liquid dynamics in silica-based systems
+            - molecular chemistry
+            - electron solvation in liquid
+            - coupled cluster method
+            - free energy estimation
+            - surfactant micelle dynamics
+            - vibrational sum frequency generation spectroscopy
+            - molecular dynamics
+            - polyelectrolyte dynamics
+            - organic electronic materials
+            - radical chemistry
+            - chemical reaction kinetics
+            - glass formation and structure
+            - molecular spectroscopy
+            - molecular bonding
+            - nitrogen dissociation in collisions
+            - lipid bilayer simulation
+        - chemical synthesis/total synthesis
+            - synthetic organic chemistry
+            - organic fluorophores design
+            - fluorescent materials assembly
+            - gold catalysis
+            - electrochemical synthesis
+            - organic synthesis reaction catalysis
+            - halogen bond catalysis
+            - fluorescent probe for ion detection
+            - supramolecular chemistry
+            - palladium-catalyzed arylation reaction
+            - fluorescent materials synthesis
+            - asymmetric synthesis
+            - organic fluorescent compound properties
+            - alkynyl catalysis
+            - total synthesis of natural products
+            - asymmetric hydrogenation reaction
+            - cycloaddition reaction synthesis
+            - triazole synthesis
+            - glycosylation synthesis
+            - asymmetric hydrogenation catalyst
+            - organic phosphorescent materials
+            - fluorescent chemosensor
+            - photocatalytic material
+            - sulfonylation reaction
+            - boron-containing molecules synthesis
+            - catalytic nucleophilic aromatic substitution
+            - chiral supramolecular assembly
+            - catalytic organic synthesis
+            - n-heterocyclic carbene catalysis mechanism
+            - synthesis and structure property
+            - palladium catalysis
+            - radical reaction synthesis
+            - carbene transfer reaction
+            - nonlinear optical materials
+            - targeted drug delivery
+            - photocatalytic reaction
+            - cyclopropane reaction chemistry
+            - bodipy dyes for solar cells
+            - alkoxylate synthesis
+            - total synthesis of alkaloids
+            - catalytic organic reaction
+            - amide cross-coupling reaction
+            - glycosylation reaction
+            - boron compound chemistry
+            - fluorination reaction
+        - fuel cells/hydrogen economy
+            - battery cooling system design
+            - solid oxide electrolysis cell performance
+            - microbial fuel cell technology
+            - solid oxide fuel cell
+            - electrochemical impedance spectroscopy
+            - thermal management for lithium-ion batteries
+            - vanadium redox flow battery
+            - lithium-ion battery thermal runaway mitigation
+            - gas diffusion layer design
+            - lithium ion battery cathode
+            - lithium ion battery impedance measurement
+            - lithium-ion battery state estimation
+            - coating for interconnects
+            - microfluidic fuel cell
+            - lithium-ion battery recycling
+            - solid oxide cell electrode performance
+            - state-of-charge estimation for electric vehicle batteries
+            - lithium ion battery characterization
+            - aluminum-air battery anode corrosion
+            - membrane fuel cell degradation
+            - lithium-ion battery design
+            - thermal management for lithium-ion cells
+            - lithium-ion battery thermal modeling
+            - lithium ion battery thermal modeling
+        - catalysis/chemical processes
+            - iron nitrogenase enzyme
+            - protein modification chemistry
+            - olefin metathesis catalysts
+            - radical sam enzyme
+            - peptide structure assembly
+            - covalent organic frameworks
+            - enantioselective synthesis
+            - dielectric metasurfaces for optical applications
+            - sodium-ion battery material
+            - photoelectrochemical co2 reduction
+            - organic nanoparticle research
+            - frustrated lewis pair chemistry
+            - 2d materials heterostructures
+            - nanoprobe technology for cancer therapy
+            - surface-sensitive spectro-electrochemistry
+            - thermoelectric material performance
+            - supramolecular chemistry
+            - surface organic synthesis
+            - molecular properties synthesis
+            - superatomic cluster structure
+            - perovskite nanocrystals synthesis
+            - phosphorene properties
+            - synthetic organic chemistry
+            - nickel-catalyzed cross-coupling reactions
+            - bivo4 photoelectrochemistry
+            - magnetic anisotropy
+            - borophene properties
+            - single nanoparticle electrochemistry
+            - molecular junction electronic transport
+            - palladium catalysis
+            - ethylene polymerization catalysts
+            - prebiotic chemistry
+            - dynamic covalent materials
+            - fluorescent probes
+            - organic photovoltaic materials
+            - liquid cell electron microscopy
+            - catalytic hydrogen peroxide synthesis
+            - photosystem ii structure
+            - nanoparticle assembly
+            - oxygen reduction electrocatalyst
+            - metal chalcogenide cluster framework assembly
+            - catalytic methane oxidation
+            - carbon nanotube fiber
+            - dynamic nuclear polarization nmr
+            - semiconductor carbon nanotubes sorting
+            - criegee intermediate reaction kinetics
+            - oxygen evolution reaction
+            - pt catalyst activity
+            - aryne synthesis reaction
+            - singlet fission state transfer
+            - plasmonic enhancement
+            - nanocrystal assembly
+            - nonlinear optical crystal
+            - organic reaction catalysts
+            - catalytic n2o decomposition
+            - glycerol hydrodeoxygenation
+            - ni catalyst for dry reforming
+            - hydroxymethylfurfural production
+            - catalytic dehydrogenation
+            - catalyst performance analysis
+            - mn-based catalysts for nox reduction
+            - catalytic nox removal
+            - palladium catalyst hydrogenation
+            - zeolite catalyst conversion
+            - ni catalyst for co2 methanation
+            - catalytic pyrolysis of biomass
+            - nox scr catalyst deactivation
+            - hydrodeoxygenation catalysts
+            - glycerol conversion
+            - co2 hydrogenation catalyst design
+            - catalyst synthesis and activity
+            - catalyst synthesis for hydroconversion reaction
+            - catalytic conversion of glucose to hmf
+            - cu-catalyzed co2 hydrogenation
+        - molecular biology/fluorescence
+            - atp detection
+            - electrochemical sensor detection
+            - phosphopeptide enrichment material
+            - solvent extraction method
+            - chemical sensor development
+            - fluorescence detection method
+            - fluorescent probe detection
+            - mass spectrometry techniques
+            - chromium determination in samples using microextraction techniques
+            - fluorescent sensing
+            - nanoparticle-based colorimetric detection
+            - fluorescence-based nanomaterial detection
+            - metabolomics analysis
+            - chemiluminescence detection method
+            - fluorescent sensor
+            - environmental analysis
+            - molecularly imprinted polymer synthesis
+            - solid phase extraction
+            - mass spectrometry analysis
+            - electrochemical bioanalysis for neurodegenerative disorder diagnosis
+            - electrochemical sensor
+            - peroxidase-like activity detection
+            - hydrogen sulfide detection probe
+            - glucose detection assay
+            - pesticide analysis
+            - multivariate calibration method
+            - aptamer-based biosensing
+            - copper ion detection
+            - extraction and determination of cosmetics
+            - aflatoxin detection method
+            - gold nanoparticle sensor
+            - surface-enhanced raman detection
+            - ion trap technology
+            - fluorescent carbon dot detection
+            - fluorescence sensing
+            - electrochemiluminescence detection
+            - surface-enhanced raman sensor
+            - infrared spectroscopy application
+            - fluorescent probe for heavy metal detection
+            - pathogen detection
+            - electrochemical dna detection
+        - polymers/materials science
+            - polymer chemistry
+            - radical copolymerization
+            - single-chain nanoparticles
+            - polymer crystallization form transition
+            - radical polymerization
+            - α-diimine nickel catalyst polymerization
+            - polymer synthesis
+            - polybenzoxazine properties
+            - responsive polymer synthesis
+            - molecular brush chemistry
+            - anionic polymerization
+            - self-assembly polymerization
+            - ring-opening metathesis polymerization
+            - ring-opening polymerization
+            - free radical photopolymerization
+            - multifunctional polymer synthesis
+            - thiol-michael reaction
+            - polyoxazoline chemistry
+            - polymerization
+            - vitrimer materials
+        - nuclear magnetic resonance/scientific techniques
+        - membrane technology/gas technologies
+    - organic chemistry
+        - catalysis/industrial processes
+            - lignin fractionation and enzymatic hydrolysis
+            - catalytic conversion of biomass
+            - liquid-phase hydrogenation catalyst
+            - catalytic oxidative dehydrogenation
+            - catalytic combustion
+            - catalytic conversion of sugar derivatives
+            - nimo catalysts for hydrodesulfurization
+            - nanofluid heat transfer
+            - catalytic biomass conversion
+            - pd-based three-way catalyst synthesis
+            - co2 catalysis and reactions
+            - catalytic hydrocarbon production
+            - catalyst deactivation
+            - methane oxidative coupling catalyst development
+            - photocatalytic tio2 treatment
+            - lactic acid production
+            - catalytic methanol synthesis
+            - levulinic acid production
+            - propene epoxidation catalyst development
+            - fischer-tropsch synthesis catalysts
+            - selective catalytic reduction
+            - chemical conversion of biomass
+            - catalytic pyrolysis of biomass
+            - catalytic esterification
+            - vanadium catalysts for selective oxidations
+            - catalytic dehydrogenation
+            - catalytic reaction mechanism
+            - lignin modification
+            - oxidative desulfurization catalyst
+            - biodegradable polycarbonate
+            - hydrodeoxygenation catalyst development
+            - zeolite catalysis
+        - functional groups/ethers
+            - phosphine-catalyzed asymmetric synthesis
+            - organic compound synthesis
+            - halogen bond synthesis
+            - palladium catalysis
+            - dna-encoded chemical library
+            - energetic compound synthesis
+            - immobilized enzyme biocatalysis
+            - synthesis of novel pyrazolo
+            - catalytic organic reaction
+            - tetrazole synthesis
+            - asymmetric synthesis
+            - rhodium-catalyzed organic synthesis
+            - synthetic organic chemistry
+            - indazole synthesis
+            - sulfoximine synthesis
+            - palladium catalyzed arylation reactions
+            - organic reaction synthesis
+            - anion recognition
+            - photocatalysis chemistry
+            - organic synthesis
+            - peptide biosynthesis
+            - aerobic oxidation catalyst
+            - diterpenoid alkaloid synthesis
+            - visible-light-mediated organic reactions
+            - dihydroquinazolinone synthesis
+            - gold catalysis
+            - peptide synthesis and ligation strategies
+            - organic synthesis reaction
+            - synthesis of thiazole derivatives
+            - chiral catalysis
+            - organic heterocyclic synthesis
+            - asymmetric ring opening reaction
+            - continuous flow synthesis
+            - electroorganic synthesis
+            - carbon dioxide catalysis
+            - magnetic nanocatalysts in organic synthesis
+            - olefin metathesis catalysts
+            - synthesis of quinazolinones
+            - total synthesis
+            - novel pyrimidine derivative synthesis
+            - natural product chemistry
+            - antimicrobial compound synthesis
+            - carborane chemistry
+            - amide bond formation
+            - lactam synthesis
+            - manganese porphyrin catalyst
+            - copper catalysis
+            - molecular cycloaddition reaction theory
+            - triazole synthesis and chemistry
+            - natural product isolation and characterization
+            - mechanochemical reaction synthesis
+            - alkaloid synthesis
+            - boron chemistry synthesis
+            - two-photon photorelease
+            - synthesis of antigens
+            - organometallic catalysis
+            - aryne chemistry
+            - peptide synthesis
+            - carbazole synthesis
+            - asymmetric catalysis
+            - synthetic α-glucosidase inhibitors
+            - epoxidation catalyst development
+            - synthesis of quinolones
+            - boron chemistry
+            - heterocyclic compound synthesis and activity evaluation
+            - selenium-containing compound synthesis
+            - synthesis of pyrazolo compounds
+            - anticancer compound synthesis
+            - organic catalyst development
+            - nickel catalysis
+            - chalcogen bonding
+            - synthesis and activity evaluation of novel compounds
+            - organometallic chemistry
+        - amino acids/chemical articles with multiple compound ids
+            - mechanochromic materials
+            - ionic liquid conductivity
+            - polymer nanocomposite dynamics
+            - radical polymerization
+            - supramolecular assembly
+            - visible light photocatalysis
+            - iron catalysis for polymerization
+            - single-molecule magnet
+            - methane catalysts for hydrogenation
+            - drug delivery polymer
+            - block copolymer assembly
+            - fluorescent probe design
+            - liquid crystalline polymer film
+            - methane activation
+            - polymer brush chemistry
+            - supramolecular chemistry
+            - smart polymer blends
+            - enzymatic catalysis
+            - enantioselective heterocyclic carbene catalysis
+            - polyethylene glycol synthesis
+            - polysarcosine polymer synthesis
+            - asymmetric synthesis
+            - polymer-based photodynamic therapy
+            - polymer chemistry
+            - oxovanadium complex reactivity
+            - polyelectrolyte complex phase transition
+            - amphiphilic copolymer self-assembly
+            - rhodium catalysis
+            - amide bond cleavage reactions
+            - aryl polymer synthesis
+            - electrochemiluminescence biosensing
+            - asymmetric organic synthesis
+            - energetic materials
+            - photoswitchable compound control
+            - continuous crystallization process
+            - enantioselective synthesis
+            - co2 reduction catalyst
+            - polyester synthesis
+            - visible light mediated organic chemistry
+            - polymer crystallization structure
+            - iron-catalyzed cross-coupling reaction
+            - subporphyrin chemistry
+            - self-healing hydrogels
+            - block copolymer chemistry
+            - nmr spectroscopy of molecules
+            - copper-catalyzed azide-alkyne cycloaddition reaction
+            - molecular logic circuit
+            - ring-opening copolymerization
+            - solid-state nmr
+            - metal-mediated dna assembly
+            - halogen bonded liquid crystals
+            - liquid crystalline materials synthesis
+            - boron-based organic chemistry
+            - porous organic polymer adsorbent
+            - gas phase ion mobility spectrometry
+            - microdroplet chemistry
+            - vitrimer materials
+            - group transfer polymerization
+            - helicene chemistry
+        - biological oceanography/marine biology
+            - isoflavones and flavonoids
+            - penicillium compound discovery
+            - diterpenoids in euphorbia
+            - endophytic fungus antimicrobial activity
+            - medicinal plant extracts
+            - anti-inflammatory compound activity
+            - diterpenoid alkaloids
+            - compound isolation and activity study
+            - diterpenoids and saponins from plants
+            - essential oil composition and activity
+            - phytochemical antibacterial activity
+            - diterpenoid natural product activity
+            - aspergillus derived compounds
+            - medicinal plant alkaloids
+            - agarwood compounds
+            - dendrobium compounds and activity
+            - fungal metabolites
+            - medicinal plant research
+            - natural product antiparasitic activity
+            - tripterygium wilfordii chemical constituents
+            - marine-derived fungal compound discovery
+            - medicinal plant ethnobotany
+            - compound isolation and characterization
+            - cassane diterpenoids
+            - propolis compound activity
+            - marine natural product isolation and structure elucidation
+            - pharmacological evaluation of plant alkaloids
+            - limonoids from mangroves
+            - cycloartane glycosides
+            - fungal metabolites derivatives
+        - physical organic chemistry/cheminformatics
+        - chemical synthesis/organic synthesis
+        - chemistry/chemical industry
+        - functional groups/tuberculosis
+            - carbonic anhydrase inhibition
+            - anticancer compound design and evaluation
+        - biopesticides
+    - medicinal & biomolecular chemistry
+        - botany/herbalism
+            - alkaloid chemistry
+            - garcinia compound isolation
+            - essential oil composition and antimicrobial activity
+            - marine fungal natural product discovery
+            - valeriana jatamansi chemical analysis
+            - compound isolation and characterization
+            - chemical constituents from plant extracts
+            - diterpenoids from euphorbia
+            - natural product isolation and analysis
+            - essential oil chemistry
+            - phenolic compound isolation & activity study
+            - triterpenoid compound isolation
+            - phytochemical analysis of inula species
+            - natural product chemistry
+            - artemisia essential oil composition
+            - soft coral bioactive compounds
+            - phenolic glycosides from viburnum plants
+            - diterpenoid compounds
+            - endophytic fungus metabolites
+        - acetylcholine
+            - butyrylcholinesterase inhibitor
+            - compound synthesis and antileishmanial evaluation
+        - immigration/human migration
+        - psidium/ficus
+    - inorganic & nuclear chemistry
+        - radioactivity/medicinal radiochemistry
+            - nuclear measurement
+            - nuclear reaction cross sections
+            - radon diffusion
+            - gamma-ray spectrometry
+            - radon measurement in water
+            - radionuclide sorption study
+            - radioisotope production
+            - lanthanide extraction
+            - radon concentration measurement
+            - elemental analysis
+            - heavy metal extraction
+            - plastic scintillator detection
+            - neutron activation analysis
+            - radioactive waste removal
+            - radionuclide distribution in oceanic waters
+            - uranium extraction and determination
+            - radionuclide contamination
+            - radioactive imaging agent
+            - radionuclide analysis
+            - uranium isotope measurement
+            - fukushima nuclear power plant accident cleanup
+            - uranium recovery process
+            - waste immobilization
+            - gamma spectrometry efficiency determination
+            - cesium adsorption
+            - uranium extraction
+            - radioactive waste treatment
+            - aqueous uranium chemistry
+            - ruthenium recovery
+            - radioxenon isotopic analysis
+            - radio-luminescent nuclear battery
+            - ionic liquid extraction mechanism
+            - indoor radon concentration
+        - redox
+            - cobalt complex structure
+            - crystal structure analysis
+            - ring structure analysis
+    - polymers
+        - clothing industry/technical fabrics
+    - physical chemistry
+- computer and information sciences
+    - computation theory & mathematics
+        - statistical randomness
+            - popular matching problem
+            - semidefinite relaxation algorithms
+            - linear programming algorithm
+            - string indexing
+            - distributed algorithm for networks
+            - algorithmic problem solving
+            - zero-knowledge proof protocol
+            - quantum query complexity
+            - lattice-based cryptography
+            - algorithmic graph theory
+            - minimum spanning tree algorithm
+            - indistinguishability obfuscation
+            - differential privacy
+            - kernelization complexity
+            - graph approximation algorithm
+            - constraint satisfaction problem
+            - property testing
+            - extension complexity of graphs
+            - mechanism design
+            - leader election in population protocols
+            - graph homomorphism counting
+            - circuit complexity bound
+            - graph algorithm
+            - fair allocation problem
+            - algebraic circuit complexity theory
+            - congestion game theory
+            - online algorithm
+        - model theory/artificial intelligence
+            - network diagnosability
+            - membrane computing system
+        - computational problems in graph theory/np-complete problems
+            - monochromatic cycle partition
+            - chromatic number
+            - algebraic combinatorics
+            - graph theory
+            - hypotraceable graphs
+            - planar graph coloring
+            - signed graph eigenvalues
+            - lattice path theory
+            - game domination number
+            - mixed graph theory
+            - spectral graph theory
+            - rainbow graph theory
+            - graph coloring
+- earth and related environmental sciences
+    - environmental sciences
+        - sanitation/water pollution
+            - adsorption technology
+            - waste activated sludge treatment
+            - catalytic oxidation
+            - landfill leachate treatment
+            - photocatalytic degradation
+            - fenton reaction catalysts for wastewater treatment
+            - biochar adsorption
+            - fenton process for wastewater treatment
+            - microbial fuel cell technology
+            - fenton reaction catalyst
+            - corrosion inhibition
+            - wastewater treatment process
+            - wastewater treatment
+            - magnetic adsorption for water treatment
+            - ferrate(vi) oxidation mechanisms
+            - membrane biofilm reactor for wastewater treatment
+            - nitrogen removal process
+            - electro-fenton process
+            - wastewater treatment microbiology
+            - biochar composting
+            - sludge treatment and pahs removal
+            - microbial fuel cell bioelectrochemistry
+            - phosphate recovery from wastewater
+            - sludge treatment process
+            - water treatment technology
+            - zero-valent iron reduction
+            - dye adsorption
+            - soil remediation
+            - water treatment process
+            - bioreactor for sludge treatment
+            - anaerobic membrane bioreactor
+            - plasma-catalytic degradation
+            - wastewater treatment techniques
+            - fenton catalyst
+            - catalytic ozonation process
+            - fluoride removal adsorption
+            - airborne pollen concentration
+            - microalgal biomass production
+            - water disinfection byproduct formation risk assessment
+            - air pollution and toxic element exposure risk assessment
+            - manure composting
+            - soil ecosystem management
+            - vermicomposting
+            - water quality assessment
+            - sustainable remediation
+            - tree ring mercury pollution
+            - water quality prediction
+            - phytoremediation of heavy metals
+            - arsenic removal from water
+            - drinking water quality and treatment
+            - pesticide use in agriculture
+            - heavy metal contamination and health risk assessment
+            - green roof management
+            - air pollution and covid-19
+            - ozone effect on plant yield
+            - phosphorus removal from water
+            - soil management and ecology
+            - selenium adsorption in water
+            - odor emission in waste management
+            - land use planning
+            - rice arsenic contamination assessment
+            - water management and sustainability
+            - land suitability assessment
+            - water quality management
+            - phytoremediation of metal-contaminated soils
+            - antibiotic resistance in environmental systems
+            - microplastic pollution in water
+            - dye adsorption and removal
+            - water quality monitoring
+            - soil deposition and water quality changes
+            - phosphorus recovery
+            - polycyclic aromatic hydrocarbons (pahs) risk assessment
+            - heavy metal removal and treatment
+            - lead exposure and environmental health
+            - natural coagulants for water treatment
+            - neonicotinoid pesticide contamination
+            - soil erosion
+            - air pollution mitigation in urban areas
+            - thallium pollution in soil
+            - heavy metal contamination in soil
+            - environmental impact assessment
+            - environmental health impact analysis
+            - soil water quality treatment
+            - pfas removal from water and soil
+            - phthalate contamination assessment
+            - microbial fuel cell treatment
+            - bauxite residue rehabilitation
+            - ecological development and environmental impact assessment
+            - soil organic carbon preservation
+        - pollution/air pollution
+            - indoor air quality
+            - thermal comfort
+            - airborne particle exposure
+            - urban street canyon flow
+            - particle deposition modeling
+            - indoor air quality in buildings
+            - volatile organic compound (voc) exposure and health risk
+            - thermal comfort modeling
+            - indoor air quality control
+            - indoor environmental quality
+        - earth sciences
+            - environmental sample analysis
+            - liquid extraction
+            - liquid phase extraction
+            - mass spectrometry analysis
+            - catalytic coal gasification
+            - solid phase extraction
+            - coal slag viscosity
+            - adsorption and sorption studies
+            - eu(iii) determination
+            - coal water slurry rheology
+            - liquid chromatography-mass spectrometry
+            - coal combustion and ash formation
+            - crude oil analysis
+            - nanoparticle size measurement
+            - needle-based sample preparation technique
+            - hydrophilic interaction liquid chromatography
+            - protein chromatography
+            - pesticide residue analysis
+            - coal ash emission control
+            - water-rock interaction in shale gas
+            - lignite drying and treatment process
+            - electrochemical treatment process
+            - electrokinetic remediation of contaminated soil
+            - coal pyrolysis reaction
+            - plant hormone analysis
+            - coal fly ash analysis
+            - capillary electrophoresis analysis
+            - liquid chromatography-mass spectrometry analysis
+            - centrifugal partition chromatography
+            - clay geochemistry
+            - molecularly imprinted materials
+            - gas chromatography separation
+            - fe-sulfide coating for arsenic removal
+            - chiral liquid chromatography
+            - liquid chromatography separation
+            - nmr analysis for fuel authenticity
+            - coal combustion and oxidation
+            - monolithic column separation
+        - environmental social science concepts/environmental terminology
+            - waste management
+            - carbon emission management
+            - sustainable resource management
+            - sustainable tourism development
+            - sustainable governance for environmental resources
+            - sustainable consumption policy
+            - climate change adaptation in agriculture
+            - mining region development
+            - sustainable enterprise development
+            - water-energy-food nexus governance
+            - sustainable logistics
+            - adaptive flood governance in delta regions
+            - redd policy
+            - sustainable building design
+            - sustainable agriculture development
+            - sustainable urban development
+            - sustainable transportation
+            - construction and demolition waste management
+            - food waste management
+            - plastic waste recycling
+            - urban land use and development
+            - sustainable forest governance
+            - climate change and energy policy
+            - sustainable university campus energy
+            - sustainable development goals (sdgs)
+            - public transportation mobility
+            - sustainability assessment
+            - sustainable food system
+            - sustainable economic development
+            - cultural heritage development
+            - rainwater harvesting performance evaluation
+            - sustainable consumption and production
+            - municipal solid waste management
+            - real estate development
+            - landfill mining and waste management
+            - industrial water use efficiency evaluation
+            - water footprint assessment
+            - climate change adaptation strategy
+            - solid waste management
+            - sustainable development goals
+            - sustainable development and green innovation
+            - urban thermal comfort
+            - environmental policy and emission management
+            - land use change
+            - citizen-led renewable energy community development
+            - sustainable development indicators
+            - smart city sustainability
+            - municipal solid waste incineration
+            - end-of-life vehicle recycling
+            - environmental impact assessment
+            - innovation and sustainability performance
+            - climate change resilience
+            - sustainable supply chain management
+            - sustainable agriculture innovation
+            - sustainable transportation development
+        - pollution/environmental effects of pesticides
+            - selenium contamination in soil and human health
+            - air pollution in urban areas
+            - heavy metal accumulation in seagrasses
+            - metal toxicity in aquatic ecosystems
+            - organotin pollution detection
+            - heavy metal exposure
+            - pesticide use and exposure
+            - polycyclic aromatic hydrocarbons (pahs)
+            - water quality analysis
+            - metal exposure and health risk
+            - toxic chemical exposure in water and human samples
+            - landfill leachate contamination
+            - antibiotic resistance in environment
+            - cyanotoxin toxicity
+            - heavy metal contamination and human health risk
+            - oil spill risk assessment and response
+            - toxicity assessment
+            - heavy metal pollution in sediments
+            - environmental health impact of e-waste
+            - radioactive particle behavior
+            - environmental toxicology
+            - soil remediation
+            - lead exposure risk assessment
+            - ozone risk assessment for vegetation
+            - microplastic pollution in waterways
+            - benthic environmental impact assessment
+            - heavy metal contamination in wildlife/environment
+            - organochlorine pesticides environmental risk assessment
+            - covid-19 transmission
+            - environmental contamination exposure
+            - bisphenol exposure and effects on organisms
+            - radioactivity assessment
+            - rare earth element plant soil interactions
+            - bioremediation of petroleum contamination
+            - arsenic contamination in rice and water
+            - tnt exposure in marine environment
+            - ecosystem service indicators
+            - copper toxicity in marine life
+            - ionic liquid toxicity assessment
+            - phthalate biodegradation
+            - antimicrobial resistance in environmental pollutants
+            - aquatic toxicology
+            - toxicology
+            - green tide in coastal waters
+            - coastal environmental pollution
+            - cd toxicity in biofilms
+            - water footprint assessment
+            - anticoagulant rodenticide toxicosis in raptors
+            - soil geochemistry
+            - thallium contamination in soil
+            - seagrass ecosystem assessment
+            - polycyclic aromatic hydrocarbon exposure
+            - toxicity of perfluoroalkyl substances
+            - radiofrequency exposure
+            - arsenic toxicity in male reproductive system
+            - arsenic toxicity
+            - risk assessment
+            - heat-related mortality
+            - chemical skin sensitization assessment
+            - residue risk assessment
+            - indoor air exposure assessment
+            - manganese exposure effects
+            - boron effects on cell biology
+            - air pollution exposure
+            - water disinfection byproducts risk assessment
+            - feed additive safety
+            - particulate matter toxicity
+            - pesticide toxicity exposure
+            - mercury exposure toxicology
+            - polychlorinated biphenyl exposure risk
+            - phthalate exposure and child development
+            - arsenic toxicology
+            - benzene exposure assessment
+            - titanium dioxide nanoparticle toxicology
+            - livestock farm health effects
+            - child health risk factors
+            - selenium toxicology
+            - polybrominated diphenyl ether exposure
+            - indoor air quality assessment
+            - cyanobacterial toxin exposure and toxicity
+            - exposure to heavy metals
+            - polycyclic aromatic hydrocarbons toxicity
+            - toxicity evaluation of fragrance materials
+            - aerosol analysis in tobacco products
+            - lead exposure in children
+            - pesticide exposure and health risk assessment
+            - chromium toxicity in rats
+            - pharmaceutical impurities exposure
+            - formaldehyde exposure risk assessment
+        - biofuels/biodegradable waste management
+            - pbde bioaccumulation in fish and water
+            - adsorption technology for waste treatment
+            - photodegradation reaction
+            - enzymatic remediation
+            - electrochemical wastewater treatment
+            - wastewater treatment technology
+            - supercritical water gasification
+            - anaerobic digestion of lignocellulosic wastes
+            - anaerobic biogas production
+            - anaerobic microbial community dynamics
+            - wastewater treatment bioreactor
+            - mercury pollution
+            - wastewater treatment using microalgae
+            - wastewater sludge treatment
+            - per- and polyfluoroalkyl substances (pfass)
+            - indoor air quality monitoring
+            - water treatment for shale gas production
+            - chromium removal from soil
+            - water treatment technology
+            - biofuel production impacts
+            - biogas production and upgrading
+            - pha production
+            - ag nanoparticle toxicity
+            - aerosol modeling and monitoring
+            - microbial fuel cell for wastewater treatment
+            - waste management and recovery of metals
+            - biomass production life cycle assessment
+            - lignocellulose composting
+            - adsorption and dye removal
+            - microalgal biomass production
+            - lactic acid production
+            - ammonia borane hydrolysis catalyst
+            - microbial biodiesel production
+            - methane biogas valorization
+            - advanced oxidation process
+            - biochar adsorption technology
+            - nitrogen removal process
+            - oil sands water treatment process
+            - cesium adsorption and separation process
+            - water quality microbiology
+            - heavy metal removal
+            - biochar adsorption
+            - bioremediation
+            - natural gas emission detection
+            - anaerobic wastewater treatment
+            - microbial dechlorination
+            - surface chemistry and catalysis in environmental sciences
+            - biomass combustion emissions
+            - hydrogen energy production and storage
+        - chemical elements/nuclear materials
+        - membrane technology/water desalination
+    - geochemistry & geophysics
+        - plate tectonics/lithosphere
+            - rainfall-induced landslides
+            - sandstone landforms
+            - landslide susceptibility assessment
+            - geomorphological changes due to mining
+            - river sediment change detection
+            - landslide dynamics
+            - glacial landform
+            - sinkhole formation in karst systems
+            - landslide prediction
+            - loess landslide
+            - rock glacier formation
+            - river channel sediment dynamics
+            - rock avalanche deposits
+            - rockfall hazard assessment
+            - river channel morphology
+            - reservoir landslide stability
+            - rock weathering
+            - geomorphic evolution of river systems
+            - coastal change detection
+            - landslide monitoring
+            - late cretaceous sea-surface temperature record
+            - sea level change
+            - paleoceanography and geochemistry
+            - messinian salinity crisis
+            - paleoceanographic formation
+            - late permian extinction
+            - geological history of italy's po plain
+            - triassic vertebrate fossil record
+            - fossil record
+            - microbial fossil analysis
+            - carbonate basin formation
+            - ordovician stratigraphy
+            - mineral crystal structure
+            - pb-zn deposit geology
+            - geochemical analysis
+            - isotopic hydrocarbon source identification
+            - sedimentary organic carbon paleotemperature
+            - gold exploration and geology
+            - carbonaceous chondrite isotopic composition
+            - geochemical processes
+            - early cambrian geochemistry
+            - uranium deposit geochemistry
+            - crystal structure analysis
+            - geological disposal of radioactive waste
+            - geochemical processes in volcanic rocks
+            - iron formation geochemistry
+            - carbon cycle and climate change
+            - magma geochemistry
+            - calcium isotopic fractionation
+            - cretaceous tectonic evolution
+            - west african craton geochemistry
+            - fluvial sediment deposition
+            - geochemical evolution
+            - mantle melting and magma genesis
+            - ferromanganese sediment geochemistry
+            - geological provenance analysis
+            - ferric smectites mineral chemistry
+            - mineral dissolution kinetics
+            - monazite geochemistry
+            - adsorption on ferrihydrite surface
+            - mantle geochemistry
+            - orogenic gold deposits geochemistry
+            - calcium mineral formation
+            - geodynamic evolution of tibet
+            - rock geochemistry
+            - carbonate clumped isotope measurement
+            - mineralogy and geochemistry
+            - garnet eclogite metamorphism
+            - fluid inclusion analysis
+            - gold ore deposit
+            - geochemical mineralization deposit
+            - geothermal fluid dynamics
+            - kamchatka earthquake seismic study
+            - magma crystallization
+            - cave calcite precipitation
+            - geochemical analysis of arctic ocean sediments
+            - campi flegrei caldera eruption
+            - kimberlite geochemistry
+            - mid-ocean ridge geochemistry
+            - volcanic geochemistry
+            - methane-sulfur geochemistry
+            - clumped isotope thermometry
+            - pyroclastic current dynamics
+            - debris avalanche deposit
+            - hydrogen geochemistry
+            - paraná-etendeka magmatic province geochemistry
+            - lake rotomahana geology
+            - siberian craton geology
+            - chondrite alteration
+            - tephrostratigraphy
+            - alkaline rock petrogenesis
+            - bazhenov formation geology
+            - volcanic eruption dynamics
+            - diamond formation
+            - anoxic ocean event
+            - geothermal fluid geochemistry
+            - volcanic magma imaging
+            - volcanic eruption monitoring
+            - weathering processes
+            - zircon geochemistry
+            - geochemical analysis of geothermal fields
+            - terrane geology
+            - lunar volcanism and petrology
+            - magma mixing in volcanoes
+            - volcanology
+            - geochemical isotopes study
+            - geological formation
+            - volcanic eruption
+            - volcanic hazard assessment
+            - variscan fold-and-thrust belt
+            - tectonic deformation
+            - seismic hazard assessment
+            - fault dynamics and magma emplacement
+            - tectonic processes
+            - earthquake seismology
+            - alpine fault geology
+            - central asian orogenic belt tectonics
+            - geomagnetic field variation
+            - fault friction physics
+            - seismic fault zone dynamics
+            - tectonics of western carpathian mountains
+            - reservoir pressure modeling
+            - tectonic activity
+            - tectonic evolution of iran's zagros region
+            - seismic attenuation
+            - geochemical deformation analysis
+            - rock fracture mechanics
+            - arctic tectonics
+            - mass extinction event
+            - rift tectonics
+            - earthquake and tsunami analysis
+            - variscan fold evolution
+            - earthquake early warning system
+            - geothermal tectonics
+            - fault tectonics
+            - tectonic evolution
+            - earthquake hazards and geology
+            - earthquake ground motion analysis
+            - seismic monitoring
+            - mid-ocean ridge detachment faulting
+            - north anatolian fault seismology
+            - fault zone deformation
+            - mantle heat flow dynamics
+            - magnetic fabric analysis
+            - tectonic geomorphology of mexico
+            - rock mechanics
+            - geological structure analysis
+            - tectonic plateau deformation
+            - seismicity and stress state
+            - geoheritage development
+            - induced seismicity
+            - crustal tectonics
+        - seismology/seismology measurement
+            - geomagnetic field modeling
+            - shallow tunnel detection
+            - seismic imaging in tunnels
+            - seismic data acquisition and interpretation
+            - oceanic lithosphere structure
+            - finite-element electromagnetic modeling
+            - magnetic inversion
+            - finite-difference scheme for wave modeling
+            - seismic full-waveform inversion
+            - seismic wavelet analysis
+            - seismic reservoir inversion
+            - magnetic anomaly inversion
+            - log analysis for reservoir characterization
+            - seismic acquisition and inversion
+            - dielectric properties of porous materials
+            - gravity data inversion
+            - seismic inversion using neural network
+            - rock physics
+            - structural geological modeling
+            - electrical resistivity tomography
+            - surface wave analysis
+            - seismic moment tensor inversion
+            - geophysical modeling
+            - seismic apparition
+            - seismic anisotropy analysis
+            - microseismic signal processing
+            - seismic wave propagation in fluid-rock systems
+            - hydraulic fracture conductivity
+            - electrical conductivity in porous media
+            - fractured reservoir imaging
+            - airborne electromagnetic inversion
+            - shale rock properties
+            - seismic inversion
+            - seismic migration inversion
+            - seismic diffraction imaging
+            - anisotropic wave propagation
+            - seismic fracture inversion
+            - hydraulic fracture seismology
+            - ground-penetrating radar inversion
+            - seismic tomography
+        - hydraulic fracturing/structural geology
+            - heavy oil recovery process
+            - drilling operations management
+            - coiled tubing operation
+            - reservoir modeling and simulation
+            - shale gas reservoir simulation
+            - reservoir engineering
+            - hydraulic fracturing optimization
+            - hydraulic fracture simulation
+            - reservoir production optimization
+            - rate-transient analysis
+            - surfactant-polymer enhanced oil recovery
+            - drilling fluid properties
+            - hydraulic fracture completion
+            - wellbore damage removal
+            - low salinity waterflooding mechanism
+            - polymer enhanced oil recovery
+            - fractured horizontal well production
+            - chemical enhanced oil recovery (eor)
+            - artificial intelligence for oil and gas reservoir evaluation
+            - enhanced oil recovery (eor)
+            - fracturing fluids and formation scale inhibitor
+            - foam enhanced oil recovery
+            - hydraulic fracture propagation
+            - fracture modeling in unconventional reservoirs
+            - sand control completion design
+            - hydrocarbon field development decision-making
+            - fracture pressure management
+            - unconventional reservoir modeling
+        - geology
+            - barents sea geology
+            - coal geochemistry
+            - dolomite reservoir characteristics in sichuan basin
+            - shale gas hydraulic fracturing
+            - shale gas reservoir formation
+            - pore system characterization in shale gas reservoirs
+            - gas hydrate accumulation mechanism in south china sea
+            - carbonate reservoir characterization
+            - shale hydrocarbon generation
+            - shale oil reservoir
+            - fracture mechanics in oil reservoirs
+            - coal gas permeability
+            - methane adsorption in shale gas reservoirs
+            - hydraulic fracture propagation
+            - reservoir characterization
+            - permeability of sandstone
+            - reservoir fracture permeability
+            - sediment deposit formation
+            - sedimentary basin analysis
+            - rock stability control
+            - reservoir formation analysis
+            - oil source rock characterization
+            - pore-scale pressure analysis
+            - fracture permeability study
+            - biogenic coalbed methane production
+            - reservoir fracture modeling
+            - rock fracture mechanics
+            - methane emissions in coal mines
+            - fluvial geomorphology
+            - pre-salt basin deposits
+            - rock mechanics prediction
+            - hydrocarbon accumulation modeling
+            - reservoir geochemistry
+            - geochemical exploration
+            - mineral prospectivity mapping
+            - geochemical mineral exploration
+            - polymetallic ore deposit geochemistry
+            - pyroxene geochemistry
+            - mineralogy
+            - alkali feldspar crystal structure
+            - gold deposit exploration
+            - tungsten mineralization
+            - copper deposit mineralization
+            - mineral crystal structure
+            - geochemical ore genesis
+            - mineral crystal structure analysis
+        - geological periods/archean
+    - geology
+        - ore deposits/gold
+            - barents sea geology
+            - coal geochemistry
+            - dolomite reservoir characteristics in sichuan basin
+            - shale gas hydraulic fracturing
+            - shale gas reservoir formation
+            - pore system characterization in shale gas reservoirs
+            - gas hydrate accumulation mechanism in south china sea
+            - carbonate reservoir characterization
+            - shale hydrocarbon generation
+            - shale oil reservoir
+            - fracture mechanics in oil reservoirs
+            - coal gas permeability
+            - methane adsorption in shale gas reservoirs
+            - hydraulic fracture propagation
+            - reservoir characterization
+            - permeability of sandstone
+            - reservoir fracture permeability
+            - sediment deposit formation
+            - sedimentary basin analysis
+            - rock stability control
+            - reservoir formation analysis
+            - oil source rock characterization
+            - pore-scale pressure analysis
+            - fracture permeability study
+            - biogenic coalbed methane production
+            - reservoir fracture modeling
+            - rock fracture mechanics
+            - methane emissions in coal mines
+            - fluvial geomorphology
+            - pre-salt basin deposits
+            - rock mechanics prediction
+            - hydrocarbon accumulation modeling
+            - reservoir geochemistry
+            - geochemical exploration
+            - mineral prospectivity mapping
+            - geochemical mineral exploration
+            - polymetallic ore deposit geochemistry
+            - pyroxene geochemistry
+            - mineralogy
+            - alkali feldspar crystal structure
+            - gold deposit exploration
+            - tungsten mineralization
+            - copper deposit mineralization
+            - mineral crystal structure
+            - geochemical ore genesis
+            - mineral crystal structure analysis
+        - biogeography/former supercontinents
+            - barents sea geology
+            - coal geochemistry
+            - dolomite reservoir characteristics in sichuan basin
+            - shale gas hydraulic fracturing
+            - shale gas reservoir formation
+            - pore system characterization in shale gas reservoirs
+            - gas hydrate accumulation mechanism in south china sea
+            - carbonate reservoir characterization
+            - shale hydrocarbon generation
+            - shale oil reservoir
+            - fracture mechanics in oil reservoirs
+            - coal gas permeability
+            - methane adsorption in shale gas reservoirs
+            - hydraulic fracture propagation
+            - reservoir characterization
+            - permeability of sandstone
+            - reservoir fracture permeability
+            - sediment deposit formation
+            - sedimentary basin analysis
+            - rock stability control
+            - reservoir formation analysis
+            - oil source rock characterization
+            - pore-scale pressure analysis
+            - fracture permeability study
+            - biogenic coalbed methane production
+            - reservoir fracture modeling
+            - rock fracture mechanics
+            - methane emissions in coal mines
+            - fluvial geomorphology
+            - pre-salt basin deposits
+            - rock mechanics prediction
+            - hydrocarbon accumulation modeling
+            - reservoir geochemistry
+            - geochemical exploration
+            - mineral prospectivity mapping
+            - geochemical mineral exploration
+            - polymetallic ore deposit geochemistry
+            - pyroxene geochemistry
+            - mineralogy
+            - alkali feldspar crystal structure
+            - gold deposit exploration
+            - tungsten mineralization
+            - copper deposit mineralization
+            - mineral crystal structure
+            - geochemical ore genesis
+            - mineral crystal structure analysis
+    - meteorology & atmospheric sciences
+        - air pollution/pollution
+            - source odor emission modelling
+            - air quality over himalaya foothills
+            - rainfall microphysics
+            - aerosol deposition in the human lung
+            - air quality modeling
+            - vibrational spectroscopy
+            - air quality prediction
+            - air quality monitoring and pollution control
+            - stratospheric aerosol measurement
+            - urban climate temperature
+            - solar radiation measurement
+            - atmospheric mercury chemistry
+            - bioaerosol exposure assessment
+            - aerosol particle charging
+            - air quality monitoring
+            - particle charge scattering
+            - atmospheric water vapor modeling
+            - airborne pollen concentration
+            - light pollution monitoring
+            - dust storms in iran
+            - aerosol particle formation
+            - no2 photolysis
+            - atmospheric gas flux measurement
+            - aviation emissions impact on climate change
+            - urban air pollution dispersion
+            - fog simulation
+            - particulate matter sensor evaluation
+            - aerosol optical depth retrieval
+            - aerosol-cloud interaction
+            - aerosol emission and concentration
+            - air pollution exposure and control
+            - biomass combustion emissions
+            - wildfire air quality and health effects
+            - particle filter efficiency
+            - wind lidar measurement
+            - atmospheric chemistry reaction
+            - air pollution emissions from vehicles
+            - radiative transfer in gases
+        - hydrology/water
+            - sediment transport in water
+            - snow hydrology
+            - flood risk management
+            - tsunami evacuation
+            - flood risk governance
+            - groundwater level prediction
+            - landslide susceptibility mapping
+            - river water chemistry
+            - river morphodynamics
+            - debris flow event analysis
+            - flood vulnerability assessment
+            - river sediment dynamics
+            - scour depth prediction model
+            - flood risk assessment and management
+            - river regime change
+            - leak detection in pipe network
+            - hybrid algorithm for water reservoir operation
+            - cascading disaster risk assessment
+            - precipitation satellite product evaluation
+            - flood risk assessment
+            - soil water evapotranspiration
+            - landslide risk assessment
+            - drought and climate change impact analysis
+            - water distribution network control
+            - meteorological drought study
+            - runoff and sediment loads changes in river basin
+            - reference evapotranspiration method
+        - forms of water/cryosphere
+            - glacier temperature distribution
+            - snow avalanche risk mapping
+            - glacier mass balance
+            - glacier dynamics
+            - permafrost embankment thermal stability
+            - ground ice and permafrost
+            - vatnajökull glacier investigation
+            - ice fracture mechanics
+            - avalanche forecasting
+            - ice sheet dynamics
+            - firn temperature measurements
+            - glacier inventory and change
+            - ice accretion on structures
+            - till facies in drumlins formation
+            - ice mechanics
+            - glacier research
+            - cryoconite glacier dynamics
+            - ice core drilling
+            - rock glacier dynamics
+            - river ice process modeling
+        - climatology
+            - east asian winter climate dynamics
+            - baltic sea climate change impact assessment
+            - regional climate simulation
+            - sea level rise
+            - climate change impact on carbon emission
+            - cyclone forecasting
+            - african easterly wave dynamics
+            - precipitation forecasting
+            - summer precipitation forecast
+            - climate change impact on south asian river basins
+            - gravity wave flow
+            - pliocene climate simulation
+            - global precipitation radar retrieval
+            - urban heat island mitigation
+            - subseasonal weather forecast
+            - regional climate modeling
+            - climate change impact on sea ice
+            - atmospheric wave dynamics
+            - tree ring climate reconstruction
+            - meteorological forecasting
+            - tornado forecasting
+            - data assimilation in meteorology
+            - crop yield and climate change
+            - atmospheric boundary layer turbulence
+            - tropical cyclone intensification
+            - heat stress and temperature
+            - atmospheric eddy flow
+            - climate change impact assessment
+            - ensemble weather forecasting
+            - cloud simulation
+            - seasonal climate forecast
+            - cloud physics
+            - north atlantic ocean circulation variability
+            - climate change impact on viticulture
+            - antarctic climate change
+            - indian summer monsoon climate change
+            - climate change impact on agriculture
+            - climate change impact on farmers' perception
+            - climate change governance
+            - climate change adaptation strategies
+            - climate change mitigation policy
+            - climate change scenario analysis
+            - climate change policy
+            - flood risk resilience
+            - climate change public perception
+            - relocation planning for climate risk management
+            - climate change vulnerability assessment
+            - fossil fuel policy
+            - climate change and agriculture
+            - climate change adaptation vulnerability
+            - risk communication
+            - climate change adaptation
+            - sea level rise adaptation
+            - climate change adaptation in rural zimbabwe
+            - climate policy
+        - oceanography/effects of climate change
+            - ocean surface dynamics
+            - turbulence in ocean flows
+            - tidal estuary evolution
+            - phytoplankton distribution in seas
+            - coastal hypoxia
+            - primary production in oceanography
+            - oxygen minimum zone in arabian sea
+            - methane emissions in coastal systems
+            - river water transport and salt intrusion
+            - black sea hydrobiology
+            - water and ocean dynamics
+            - ocean current modeling
+            - salt marsh coastal ecosystem dynamics
+            - ocean carbon flux
+            - ocean eddy dynamics
+            - eastern mediterranean sea hydrography
+            - submarine canyon ecology
+            - ocean wave dynamics
+            - sea organic matter composition
+            - seagrass carbon sequestration
+            - kuroshio current
+            - seafloor habitat mapping
+            - marine coastal ecology
+            - ocean circulation modeling
+            - sediment transport in estuaries and coastal systems
+            - arctic sea ice decline
+            - phytoplankton carbon cycle
+            - phytoplankton distribution in the baltic sea
+            - estuarine sediment transport
+            - phytoplankton ecology
+            - ocean carbon dynamics
+            - sediment carbon burial rate
+            - estuarine carbon cycling
+            - estuarine hypoxia
+            - ocean ecosystem change
+            - sea ice in antarctic peninsula
+            - north sea biogeochemistry
+            - north atlantic ocean circulation
+            - oceanographic research
+            - sea surface height assimilation
+        - geomagnetism/ionosphere
+            - ionosphere mapping
+            - precise point positioning (ppp) ambiguity resolution
+            - gnss multipath detection
+            - gps positioning and timing
+            - satellite orbit determination
+            - multi-gnss positioning
+            - attitude determination
+            - ionospheric height determination
+            - gnss positioning
+            - satellite navigation algorithm
+            - multipath mitigation algorithm
+            - satellite clock prediction
+            - satellite laser ranging system
+            - tropospheric delay modeling
+            - cycle slip detection and repair algorithm
+            - deformation detection
+            - total least squares
+            - gnss satellite technology
+            - laser scanner technology
+            - sea level monitoring
+        - carbon cycle/chemical oceanography
+            - wildfire risk assessment
+            - peatland carbon cycling
+            - savanna fire management
+            - wildfire risk reduction
+            - wildfire management
+            - peatland carbon flux
+            - wildfire occurrence modeling
+            - post-fire soil erosion treatment
+            - fuel moisture modeling
+            - soil respiration
+            - soil respiration dynamics
+            - peat emissions and carbon balance
+            - wildfire behavior
+            - wildfire risk management
+            - soil ecosystem flux
+            - dissolved organic carbon in streams
+            - fire spread simulation
+        - remote sensing/satellite imagery
+            - sar image processing for agricultural mapping
+            - geospatial mapping
+            - road feature extraction
+            - uav-based image calibration and mapping
+            - point cloud classification
+        - holocene
+            - climate record analysis
+        - solar phenomena/atmospheric radiation
+    - oceanography
+    - paleontology
+        - historical eras/extinction events
+            - cambrian plant diversity event
+            - miocene mediterranean basin paleoenvironment
+            - ordovician paleontology
+            - triassic paleontology
+            - devonian boundary interval
+            - ordovician-silurian boundary isotopic change
+            - tsunami deposit analysis
+            - permian-triassic boundary
+            - dinoflagellate cysts
+            - mass extinction fossil record
+            - marine extinction rate
+            - ordovician crinoids
+            - plesiosaur paleontology
+            - loess geology
+            - foraminiferal assemblages
+            - ediacaran fossil classification
+            - evolutionary biology of shell-forming gastropods
+            - ammonite fossil morphology
+            - cambrian trilobites fossil analysis
+            - crinoid predation
+            - silurian fossil taxonomy
+            - dinosaur footprint fossil record
+            - fossil assemblage analysis
+            - dinoflagellate cysts in sediments
+            - early cambrian fossil diversity
+            - conodont fossil study
+            - fossil glyptodon research
+            - fossil cetacean classification
+            - fossil record of south america's miocene epoch
+            - cretaceous amber insect taxonomy
+            - mongolian paleontology
+            - hadrosaurid dinosaur fossil discovery
+            - low-cretaceous ammonites
+            - dinosaur track fossil
+            - cretaceous beetle fossil
+            - cretaceous shrimp composition
+            - cretaceous moroccan dinosaurs
+            - cretaceous paleontology
+            - permian dicynodont fossil record
+            - early eocene mammals europe
+            - fossil amphibians
+            - triassic dinosaur evolution
+            - cretaceous crocodyliform specimen
+            - cretaceous fish fossils
+            - lower miocene fossil findings
+            - fossil insect taxonomy
+            - fossil mammals of argentina
+            - fossil shark research
+            - late holocene climate change in southern africa
+            - soil erosion and land use
+            - sea level change reconstruction
+            - glacial geology
+            - toarcian oceanic anoxic event
+            - holocene land-use change
+            - quaternary geology
+            - sea level record
+            - holocene climate reconstruction
+            - holocene lake sediment change
+            - paleoclimate reconstruction
+            - holocene vegetation change
+            - lake sediment analysis
+            - paleoecology
+            - holocene climate change
+            - svalbard glacial maximum
+            - loess sedimentation chronology
+            - sea level change during holocene epoch
+            - pollen record analysis
+            - deep pacific ocean sediment
+            - sea surface temperature record
+            - organic geochemistry
+            - holocene paleolimnology
+            - holocene vegetation change in africa
+            - sea level change paleontology
+            - glacier dynamics
+            - speleothem analysis
+            - middle palaeolithic technology
+            - acheulean technology in tanzania
+            - bone tool wear analysis
+            - archaeobotany
+        - 1860s neologisms/historical eras
+            - ancient negev highland agriculture
+            - radiocarbon dating
+            - archaeological dating
+            - radiocarbon analysis
+            - paleoarchaeology
+            - bone radiocarbon dating
+            - early pottery technology
+            - radiocarbon measurement
+        - luminescence/detectors
+- mathematics
+    - general mathematics
+        - dynamical systems/complex systems theory
+            - orthogonal polynomials
+            - schrödinger equation solution
+            - morrey space theory
+            - real hypersurfaces in complex quadric
+            - nonlinear elliptic equation solution
+            - vortex patch solution
+            - fock space theory
+            - feynman path integral
+            - nonlinear wave equation solution
+            - cahn-hilliard equation
+            - solution to compressible euler equations
+            - liquid crystal dynamics
+            - manifold geometry
+            - wavelet frame theory
+            - langevin dynamics
+            - weak solutions to navier-stokes equations
+            - approximation theory
+            - optimal transport equation
+            - sturm-liouville problem eigenfunctions
+            - camassa-holm equation solution
+            - deep neural network approximation theory
+            - elliptic operator theory
+            - number theory in graphs
+            - composition operator theory
+            - nonlinear robin problems
+            - chemotaxis model solution
+            - traveling wave solutions
+            - existence and stability of differential equations
+            - fractional partial differential equations
+            - inverse problem on lorentzian manifolds
+            - fractional laplacian equations
+            - navier-stokes equations
+            - boundary value problems
+            - minkowski problem
+            - wave equation stability
+            - singular trudinger-moser inequalities
+            - stochastic differential equation
+            - banach space property
+            - elliptic differential equation solution
+            - non-archimedean mathematics
+            - homogenization problem
+            - mathematical optimization
+            - boltzmann equation solution
+            - dirac harmonic map
+            - mean field game theory
+            - quaternionic function theory
+            - nonlinear ordinary differential equations
+            - multilinear operator theory
+            - elastic shell theory
+            - harmonic mapping
+            - energy problem in space
+            - operator algebra
+            - muskat problem
+            - sub-riemannian geometry
+            - interpolation method
+            - sobolev inequality
+            - index theory in mathematics
+            - blowup in supercritical wave equations
+            - parabolic equation solution
+            - nonlinear partial differential equation solutions
+            - dirichlet forms
+            - cross-diffusion systems
+            - hemivariational inequality problem
+            - geometric flow problem
+            - singular elliptic equations solution
+            - particle suspension viscosity
+            - mean field equation analysis
+            - topological entropy
+            - linear water wave asymptotics
+            - spectral theory of operators
+            - weak solutions for cahn-hilliard equations
+            - operator theory
+            - holorphic mapping theory
+            - spectral measure theory
+            - variational methods
+            - steklov eigenvalue problem
+            - nonlinear partial differential equation solution
+            - mean field theory
+            - gradient estimate for nonlinear equation
+            - pde solution
+            - positive solution problem
+            - existence and regularity of quantum navier-stokes-poisson equations
+            - riemann problem solution
+            - anisotropic hardy spaces
+            - homogenization theory
+            - dynamical systems
+            - nonlinear schrödinger equation solution
+            - hamilton-jacobi equation solution
+            - spectral theory
+            - semilinear wave equation solution
+            - compressible navier-stokes equations
+            - stochastic differential equations
+            - modular solitons
+        - geometry
+            - representation zeta functions
+            - tropical geometry
+            - hyperbolic geometry
+            - core inverse and algebraic structures
+            - solvable leibniz algebras
+            - higgs bundle theory
+            - gorenstein projective module algebra
+            - algebraic group theory
+            - quantum algebra representation theory
+            - hopf algebra
+            - minimal surface theory
+            - shimura variety theory
+            - cohen-macaulay ring theory
+            - algebraic grading
+            - commutative algebra
+            - differential algebra
+            - algebraic geometry
+            - hyperbolic group theory
+            - random matrix theory
+            - wave equation blowup
+            - finite group theory
+            - fibonacci sequence and numbers
+            - cluster algebra representation
+            - modular forms
+            - lie applicable surfaces
+            - multilinear singular integral operators
+            - convex function valuation
+            - gromov-witten invariants
+            - yang-baxter equation solution
+            - submanifold geometry
+            - number theory
+            - fatou component dynamics
+            - minkowski problem
+            - derivation in rings
+            - elliptic curve theory
+            - symplectic geometry
+            - sparse operator theory
+            - graph theory
+            - knot floer homology
+            - modular form theory
+            - lagrangian submanifolds in nearly kähler manifolds
+            - module theory
+            - numerical semigroups
+            - lie algebra structure
+            - dimension theory
+            - adic number theory
+            - free matrix theory
+            - sofic approximations and actions on groups
+            - geometric problem solving
+            - geometry and topology
+            - k3 surface theory
+            - lie algebraic structure
+            - finite set theory
+            - tensor rank and decomposition
+            - vertex operator algebra
+            - complex geometry
+            - integrable billiards
+            - ricci solitons
+            - category theory
+            - toric geometry
+            - riemannian geometry
+            - topological properties of dynamical systems
+            - multiple zeta values
+            - singular surface geometry
+            - profinite group theory
+            - geometric quantization
+            - motive homotopy theory
+            - cr geometry
+            - hypergroup theory
+            - function theory
+            - sphere packing
+            - weakly group-theoretical braided fusion category
+            - prime number theory
+            - hom-lie superalgebra structures
+            - kahler ricci flow
+            - white noise functional analysis
+            - gamma function theory
+            - commutative ring theory
+            - riemann surface theory
+            - algebraic representation theory
+            - helly’s theorem
+            - commuting matrices in lie groups
+            - moduli space of curves
+            - hyperbolic diffeomorphisms
+            - lie algebra deformation
+            - harmonic measure theory
+            - riemann-hilbert problem
+            - polynomial combinatorics
+            - supercongruence in hypergeometric series
+        - computational fields of study/fractional calculus
+            - bi-univalent function
+            - approximation operator theory
+            - fractional integral inequality
+            - fractional differential equations
+            - convex function inequality theory
+        - analytic philosophy/empiricism
+            - modal logic
+            - ramsey theory
+            - abstract elementary class theory
+            - minimal structure theory
+            - computable mathematics
+        - continuum mechanics/thermodynamics
+            - analytic function theory
+            - elliptic integral inequalities
+            - mathematical analysis
+            - meromorphic function theory
+            - blow-up solutions for nonlinear reaction-diffusion equations
+            - porous thermoelastic system decay analysis
+        - string theory/physics beyond the standard model
+        - physics beyond the standard model/quantum gravity
+        - mathematical physics/theoretical physics
+    - statistics & probability
+        - logic and statistics/mathematical and quantitative methods (economics)
+            - response surface optimization
+            - control chart design
+            - process capability index
+            - statistical process control chart
+            - social network monitoring
+            - skip lot sampling plan
+            - profile monitoring
+            - economic control chart design
+            - nonparametric control chart design
+            - multivariate process control
+            - statistical process control
+            - process control chart design
+            - definitive screening design
+            - process control charting
+            - reliability engineering
+            - distribution theory
+            - kernel modal regression
+            - dimension reduction regression method
+            - functional data analysis
+            - regularized regression method
+            - probabilistic regression model
+            - approximate factor model estimation
+            - semiparametric survival analysis
+            - robust regression estimation
+            - propensity score matching
+            - survey nonresponse bias
+            - causal network estimation
+            - nonparametric regression estimator
+            - time series modeling
+            - jump-diffusion estimation
+            - latent class modeling
+            - sequential point estimation
+            - causal analysis
+            - bayesian inference
+            - multivariate time series modeling
+            - circular data analysis
+            - extreme value analysis
+            - population mean estimation
+            - joint longitudinal model
+            - fractional ornstein-uhlenbeck process estimation
+            - survival analysis cure rate modeling
+            - soccer match prediction
+            - bivariate survival analysis
+            - time series analysis
+            - control chart limit modification
+            - extreme value theory
+            - randomized response technique
+            - time series forecasting
+            - bayesian regression
+            - latin hypercube design
+            - bayesian model selection
+            - dynamic prediction model
+            - nonparametric regression estimation
+            - copula modeling
+            - network model
+            - high dimensional variable selection
+            - change point detection
+            - sparse regression model
+            - propensity score analysis
+            - kernel density estimation
+            - big data linear regression
+            - depth-based anomaly detection
+            - multiple hypothesis testing
+            - linear regression model
+            - high dimensional statistics
+            - monte carlo method
+            - respondent-driven sampling
+            - teaching statistics education
+            - spatial point process analysis
+            - competing risk estimation
+            - ridge regression estimation
+            - information theory
+            - bayesian hypothesis testing
+            - finite mixture model
+            - statistical analysis method
+            - spatial disease modeling
+            - goodness-of-fit testing
+            - multiple imputation in statistics
+            - small area estimation
+            - birnbaum-saunders distribution
+            - statistical distribution estimation
+            - compositional data analysis
+            - functional regression
+            - residual stochastic order
+            - reliability study of series and parallel systems
+        - autocorrelation/signal processing
+            - branching process theory
+            - first-passage percolation
+            - stochastic process theory
+            - optimal replacement policy
+            - geometrical probability
+            - random graph process
+            - branching process
+            - stochastic differential equation solution
+            - stochastic process analysis
+            - markov chain analysis
+            - queueing theory
+            - coalescent population model
+            - brownian motion in finance
+            - stochastic epidemic modeling
+            - point process analysis
+            - optimal capital structure model
+            - extreme value theory
+            - first-passage-time probability
+            - ehrenfest urn process
+            - risk modeling
+            - optimal stopping rule
+            - random process analysis
+            - markov process queueing
+            - brownian motion and chaos theory
+            - numerical stochastic differential equation methods
+            - poisson process statistics
+            - birth-death process theory
+            - random matrix theory
+            - markov decision process optimization
+            - branching processes
+            - optimal martingale transport problem
+            - loss network theory
+            - random walks in random media
+            - markov chain theory
+            - stein's method for approximation
+            - reliability engineering
+            - percolation theory
+            - markov process analysis
+            - stationary process modeling
+        - design of experiments/clinical research
+            - phase ii clinical trial design
+            - multi-state model
+            - meta-analysis method
+            - biosimilarity assessment
+            - prediction model development
+            - clinical trial design
+            - spatial disease mapping
+            - clinical trial estimation
+        - actuarial science/environmental social science
+            - risk management in life insurance
+            - optimal reinsurance design
+            - bonus-malus system premium calculation
+            - ruin risk modeling
+            - optimal reinsurance strategy
+            - mortality modeling
+            - variable annuity risk management
+            - risk measures
+            - heavy-tailed distribution modeling
+            - insurance claim reserving model
+            - ruin probability estimation
+            - risk measure theory
+        - ecology/concepts in epistemology
+    - applied mathematics
+        - fractional calculus/equations
+            - degenerate polynomials and numbers
+            - difference equation dynamics
+            - third-order neutral differential equations
+            - fractional differential equation solution
+            - fractional differential equation
+            - mathematical modeling of infectious diseases
+            - approximate controllability
+            - fixed point theory
+            - hyers-ulam stability
+            - fractional numerical methods
+            - nonlinear schrödinger equation solitons
+            - analytic function theory
+            - heroin epidemic modeling
+            - numerical solution of fractional equations
+            - positive solutions for fractional differential equations
+            - fractional functional inequalities
+            - fractional differential equations
+            - core inverse representation
+            - fractional differential equations stability analysis
+            - stochastic functional differential equations
+            - stochastic fractional differential equations
+            - fixed point algorithm
+            - predator-prey dynamics
+            - stochastic epidemic model analysis
+            - sequence space operator approximation
+            - fractional differential equation problem
+            - fractional schrödinger equation solution
+            - positive periodic solution of equation
+        - numerical differential equations/partial differential equations
+            - phase-field fracture simulation
+            - finite element method
+            - isogeometric beam analysis
+            - material design optimization
+            - acoustic boundary element method
+            - acoustic boundary problem solution
+            - numerical manifold method
+            - boundary element method (bem) for dynamic analysis
+            - radial basis function method
+            - higher-order finite element methods
+            - boundary element method
+            - numerical methods for partial differential equations
+            - element-free galerkin method
+            - phase field simulation
+            - peridynamics crack propagation
+            - scaled boundary finite element method
+            - fractional calculus and numerical methods
+            - fractional diffusion equation regularization
+            - fractional differential equation numerical solution
+            - weak galerkin finite element method
+            - american option pricing method
+            - numerical solution of stochastic integral equations
+            - entropy stable numerical scheme
+            - discontinuous galerkin method
+            - finite volume scheme development
+            - multiscale numerical methods
+            - numerical computation of oscillatory functions
+            - numerical methods for flow and transport in porous media
+            - immersed finite element method
+            - finite element method for nonlinear equations
+            - finite element method for obstacle problem
+            - finite element method for nonlinear equation
+            - stochastic numerical methods for ordinary differential equations
+            - linear complementarity problem iteration
+            - virtual element method
+            - numerical scheme for energy preserving methods
+            - numerical solution for stokes equations
+            - high-order discontinuous galerkin methods for linear parabolic equations
+            - multilevel monte carlo algorithm
+            - numerical solution of partial differential equation
+            - numerical solution methods for equations
+            - space-time finite element methods
+            - finite volume element method
+        - quantum field theory/renormalization group
+            - inverse problem reconstruction
+            - inverse scattering problem
+            - regularization methods for inverse problems
+        - composite materials/vehicle armour
+            - fgm plate buckling analysis
+            - time integration method for wave propagation analysis
+            - multiscale concurrent topology optimization
+            - topology optimization
+        - fluid dynamics/aerodynamics
+    - numerical & computational mathematics
+        - distributed computing/computability theory
+            - tensor equation solution method
+            - shape optimization
+            - fractional space-fractional reaction-diffusion equation numerical methods
+            - tensor decomposition
+            - optimal control problem
+            - sparse matrix multiplication
+            - krylov subspace methods
+            - matrix estimation
+            - multigrid solver
+            - time-parallel numerical methods for pdes
+            - sparse linear system preconditioning
+            - low-rank matrix factorization
+            - low-rank matrix approximation
+            - monte carlo methods for inverse problems
+            - reduced order modeling
+            - tensor approximation
+            - nonlinear eigenvalue problem solving
+            - regularization algorithm
+        - classical mechanics stubs/continuum mechanics
+        - unary operations/critical phenomena
+        - partial differential equations/dynamical systems
+- physical sciences
+    - acoustics
+        - fractional calculus/dynamical systems
+            - nonlinear oscillator solution
+            - chaotic system control
+            - chaos-based pseudorandom number generation
+            - cyber attack modeling
+            - nonlinear vibration theory in nanobeams
+            - time fractional diffusion equation numerical methods
+            - numerical solution of nonlinear dispersive wave equations
+            - fractional differential equation stability
+            - nonlinear dynamics simulation
+            - dynamical network synchronization
+            - time-fractional nonlinear partial differential equation solution
+            - fractional order mathematical modeling for disease dynamics
+            - fractional differential equation solution
+            - fractional order differential equations
+            - periodic motion control
+            - predator-prey dynamics
+            - image retrieval technique
+            - nonlinear vibration control
+            - fractional order systems
+            - fractional-order nonlinear oscillators
+            - bifurcations in nonlinear dynamical systems
+            - fractional mechanics
+            - nonlinear dynamics and control of mems resonators
+        - sonar
+            - underwater acoustic noise
+            - speech intelligibility in noise
+            - underwater acoustic signal processing
+            - traffic noise measurement
+            - acoustic analysis in cultural heritage sites
+            - active sound radiation control
+            - sound quality prediction
+            - acoustic material property
+            - acoustic metamaterials
+            - acoustic vector sensor technology
+            - sound absorption
+            - otoacoustic emission suppression
+            - bridge noise reduction
+            - underwater vehicle navigation
+            - acoustic material design
+            - acoustic black hole
+            - room acoustics
+            - acoustic source localization
+            - road noise reduction
+            - dolphin echolocation
+            - noise effect on performance
+            - train interior noise reduction
+            - acoustic radiation force
+            - wind turbine noise propagation
+            - active noise control algorithm
+            - urban acoustic design
+            - sonic crystal acoustic applications
+            - phonation modeling
+            - acoustic dolphin monitoring
+            - binaural sound rendering
+            - subjective noise evaluation
+            - wave propagation in anisotropic plates
+            - sound insulation measurement
+            - underwater acoustic communication
+        - medical ultrasonography/medical imaging
+            - ultrasound imaging
+            - high-frequency ultrasound imaging
+            - acoustic measurement
+            - piezocomposite transducer design
+            - surface acoustic wave device
+            - shear wave elastography
+            - acoustic imaging
+            - histotripsy modeling
+            - ultrasound cavitation imaging
+            - piezoelectric resonators
+            - elastography
+            - lung surface wave elastography
+            - ultrasound imaging beamforming
+            - contrast agent activation in ultrasound imaging
+            - ultrasound image processing
+            - piezoelectric ultrasonic transducer array
+            - ultrasound imaging for cancer detection
+            - guided wave tomography
+            - carotid plaque imaging
+            - ultrasound elastography
+            - lipid microbubbles for ultrasound-induced drug delivery
+            - high-intensity focused ultrasound (hifu)
+        - dynamical systems/nonlinear systems
+            - nonlinear differential equation solution
+            - multi-switching chaotic system synchronization
+            - nonlinear wave solitons
+            - optical solitons
+            - nonlinear wave solution
+            - nonlinear fiber optics
+            - image encryption algorithm
+            - fractional fluid dynamics
+            - mechanism dynamics with clearance analysis
+            - fractional order chaotic system
+            - traffic flow modeling
+            - nonlinear energy sink dynamics
+            - nonlinear rotor dynamics
+            - flexible beam dynamics
+        - mechanical vibrations/earthquake engineering
+            - vibration isolation
+            - rotor-bearing dynamics
+            - airfoil noise reduction
+        - audiology/otology
+            - speech enhancement phase reconstruction
+    - applied physics
+        - magnetism/types of magnets
+            - permanent magnet synchronous motor design
+            - permanent magnet machine design
+            - magnetic levitation control
+            - heat-assisted magnetic recording
+            - magnetic recording structure
+            - electromagnetic properties of steel materials
+            - brushless doubly-fed machine
+            - motor design optimization
+            - magnetic tunnel junction noise prediction
+            - loss optimization in electric machine design
+            - permanent magnet motor design optimization
+            - permanent magnet vernier machine design
+            - core loss modeling
+            - magnetic machine analysis
+            - magnetic properties of sm(co
+            - magnetic actuation technology design
+            - magnetic nanoparticles
+            - magnetic flux leakage inspection
+            - electric machine design
+            - magnetic composite material properties
+            - magnetostrictive actuators & sensors design
+            - transverse flux motor design
+            - magnetic target localization
+            - magnetic fluid seal
+            - permanent magnet motor design
+            - magnetic hysteresis analysis
+            - magnetic bearing design
+            - magnetic motor design
+            - magnetic thin films
+            - electromagnetic machine design
+            - magnetic material simulation
+            - magnetic core design
+            - wireless power transfer
+            - eddy current loss in machine design
+        - alloys/glass
+            - diffusion in ti-al-nb alloy
+            - thermodynamic phase property
+            - ceramic dielectric property research
+            - sic nanowire property
+            - porous ceramic materials
+            - zinc oxide photocatalysis
+            - multiferroic materials
+            - sic ceramic properties
+            - spark plasma sintering
+            - plasma sprayed thermal barrier coatings
+            - mechanical properties of ceramic composites
+            - lead-free piezoceramics
+            - sic composite properties and ablation behavior
+            - zinc oxide film properties
+            - optical crystal growth
+            - electronic and magnetic properties
+            - zinc sulfide nanoparticles' magnetic and optical properties
+            - multiferroic ceramic properties
+            - magnetic properties of fe-mn-ga alloys
+            - thin film coating properties
+            - multiferroic materials property
+            - pva nanocomposite film characterization
+            - mn-doped bifeo 3 films and nanoparticles
+            - zno-based nanoparticles for energy applications
+            - tial alloy oxidation
+            - quantum dot magnetic properties
+            - zno thin film characterization
+            - microwave absorption properties
+            - optical properties of glass
+            - dielectric ceramic properties
+            - magnetocaloric materials
+            - magnetic properties of mn-doped sno2 films
+            - calcium phosphate ceramic material
+            - magnetic nanoparticles
+            - tantalum-zirconium carbide synthesis
+            - high-entropy alloy property
+            - lead-free piezoelectric ceramic
+            - solder joint interfacial microstructure
+            - microwave absorption property
+            - magnetic properties of nanoparticles
+            - photocatalytic nanoparticle synthesis
+            - glass ceramic properties
+            - zinc oxide thin film property investigation
+            - magnetron sputtering film deposition
+            - magnetic nanomaterials
+            - magnetic property analysis
+            - zno doped nanomaterials
+            - fe-based magnetic alloy crystallization
+            - electronic and optical properties of 2d materials
+            - material properties
+            - magnetic materials properties
+            - magnetic nanoparticle synthesis
+            - magnetic shape memory alloy research
+            - high entropy oxide properties
+            - multiferroic composite properties
+            - piezoelectric ceramic property study
+            - nio nanoparticles
+            - polymer nanoparticle electrical conductivity
+            - magnetic materials
+            - tribology of materials
+            - doped zinc oxide nanoparticles
+            - magnetic material properties
+            - zirconium phase diagram
+            - magnetic film property
+            - nanoparticle synthesis and applications
+            - amorphous magnetic microwires
+            - magnetic particle manipulation
+            - magnetic property study
+            - magnetic property enhancement
+            - magnetic fluid dynamics
+            - thin film properties
+            - mg alloy microstructure & mechanical properties
+            - thermodynamics
+            - electronic property of materials
+            - microwave dielectric ceramic properties
+            - cdte thin film solar cell
+            - high entropy alloy deformation
+            - electron beam welding
+            - selective laser melted alloy
+            - hot deformation of steel alloys
+            - tial alloy phase transformations
+        - nitrides/optical diodes
+            - gan device fabrication
+            - plasma etching process
+            - piezoelectric single crystal properties
+            - algan growth
+            - mos2 transistor development
+            - sram design
+            - gan-based devices
+            - low-temperature polycrystalline silicon tft degradation
+            - ferroelectric negative capacitance fet
+            - gan tunnel junction diode growth
+            - neural network hardware design
+            - silicon carbide (sic) mosfets
+            - surface acoustic wave devices
+            - magnetic tunnel junction
+            - copper corrosion inhibition
+            - high voltage gas insulation
+            - igzo thin-film transistor
+            - acoustic wave filter
+            - uv light-emitting diodes (leds)
+            - gafet device performance analysis
+            - diamond-based mosfet
+            - ultrasonic measurement
+            - superjunction mosfet design
+            - power transformer fault diagnosis
+            - cu(in
+            - direct bonding techniques
+            - si-based memory device
+            - gaas film growth and doping
+            - carbon nanotube transistor
+            - high voltage insulation
+            - ga2o3 mosfet
+            - esd protection device
+            - partial discharge analysis
+            - insulator pollution
+            - device simulation and design
+            - gan-based high-electron-mobility transistors (hemts) device
+            - ingan quantum efficiency analysis
+            - fet device performance
+            - steep-switching fet
+            - cmos image sensor
+            - compressive strength prediction
+            - magnetic tunnel junction (mtj) memory technology
+            - ldmos device characterization
+            - tunnel field-effect transistor (tfet)
+            - igbt device design
+            - negative bias temperature instability (nbti)
+            - nanotechnology performance
+            - ge-si interface engineering
+            - high voltage electrical insulation
+            - sic mosfet power electronic devices
+            - graphene nanoribbon devices
+            - solder joint reliability
+            - schottky barrier mosfet
+            - tfet device performance
+            - soi mosfet device
+            - soi mosfet parameter extraction
+            - tunnel fet device design
+            - igbt thermal management
+            - analog rf performance
+            - wafer level packaging warpage
+            - igbt power module aging
+        - computer memory/emerging technologies
+            - memory processing
+            - persistent memory
+            - memory compression
+            - graph processing acceleration
+            - memory hierarchy optimization
+            - accelerator design
+            - heterogeneous isa architecture performance optimization
+            - data center power management
+            - neural network accelerator design
+            - cache timing channel attack
+            - gpu memory management
+            - fpga cloud infrastructure
+            - memory prefetching
+            - fault tolerance in gpgpu applications
+            - pcm performance enhancement
+            - dram memory error detection
+            - approximate communication strategies
+            - memory management
+            - gpu cache optimization
+            - memory-centric architecture design
+            - multicore system architecture
+        - plasma processing/plasma physics
+            - capacitively coupled plasmas
+            - plasma physics
+            - plasma polymer film deposition
+            - dielectric barrier discharge plasma
+            - gas decomposition mechanism study
+            - plasma surface treatment
+            - plasma ignition
+            - plasma discharge control
+            - dielectric barrier discharge
+            - plasma conversion technology
+            - nanosecond discharge in liquid water
+            - atmospheric pressure plasma discharge
+            - positive streamer physics
+            - plasma discharge modeling
+            - high power magnetron sputtering
+            - plasma treatment for seed germination
+        - scientific techniques/diffraction
+            - electrical conductivity of thin layers in magnetic fields
+            - structural phase transition in crystals
+        - transistor types
+    - astronomy & astrophysics
+        - theories of gravity/general relativity
+        - aeolis quadrangle
+            - spacecraft attitude control
+            - spacecraft relative motion control
+            - tether system deployment
+            - spacecraft design for atmospheric re-entry
+            - aerospace materials impact study
+            - satellite constellation design
+            - rocket engine flow behavior
+            - earth-moon transfer trajectory design
+            - space mission trajectory design
+            - mars entry trajectory optimization
+            - cubesat mission design
+            - orbit control
+            - asteroid collision avoidance
+            - cavity flow combustion
+            - optimal trajectory control
+        - concepts in astronomy/galaxies
+            - ultraluminous x-ray source
+            - magnetic stars
+            - diffuse interstellar bands
+            - solar cycle forecasting
+            - supermassive black hole formation
+            - plasma wave dynamics
+            - planetary nebula
+            - gravitational lensing event
+            - halo galaxy bias
+            - dark matter in galaxies
+            - neutron star magnetic fields
+            - core-collapse supernovae simulation
+            - adaptive optics
+            - transit exoplanet research
+            - globular cluster astronomy
+            - white dwarf pollution
+            - black hole mergers
+            - quasar outflow emission
+            - radio galaxy classification
+            - interstellar molecule formation
+            - x-ray grating technology
+            - cosmic ray physics
+        - astrochemistry/chemistry
+            - dielectric relaxation dynamics
+            - crystallization nucleation
+            - quantum dynamics equation
+            - coarse-grained molecular model
+            - state theory excitations
+            - machine learning in atomic simulations
+            - ion-water interactions
+            - crystal nucleation in glass-forming liquids
+            - water properties
+            - orbital coupled-cluster theory
+            - monte carlo quantum chemistry
+            - space debris mitigation
+            - two-dimensional electronic spectroscopy
+            - self-interaction correction in density functional theory
+            - electrochemical interface study
+            - surface chemistry reaction
+            - quantum chemistry theory
+            - magnetic star properties
+            - density functional theory
+            - collision dynamics
+        - solar system/comets
+            - meteor physics
+            - martian organic mineral detection
+            - lunar polar ice and shadow region
+            - lunar geology
+            - pluto and charon
+            - space radiation protection
+            - titan's surface features
+            - venus atmospheric study
+            - cometary surface properties
+            - jupiter atmospheric dynamics
+            - ceres surface formation
+            - mars geology
+            - saturn ring dynamics
+            - radiation on mars and its impact on life
+            - phobos and deimos exploration
+            - mercury space mission
+            - martian polar geomorphology
+            - mars atmospheric dynamics
+            - asteroid surface analysis
+            - cosmic ray physics
+            - mars climate
+            - europa's surface properties
+            - titan ocean dynamics
+            - space mission design
+            - ionospheric propagation modeling
+            - space weather event reconstruction
+            - martian dust storms
+        - nuclear physics/star types
+        - nuclear physics/binding energy
+        - exoplanets discovered by the kepler space telescope/transiting exoplanets
+    - chemical physics
+        - petroleum production/underwater diving physics
+            - biomaterial coating property
+            - drug delivery nanomaterials
+            - drug delivery system design
+            - hydroxyapatite doping
+            - thermoresponsive polymer drug delivery
+            - surface modification
+            - wound healing hydrogels
+            - bone tissue engineering scaffold
+            - nanogel-based cancer therapy
+            - cancer drug delivery
+            - nano-drug delivery
+            - bone tissue engineering
+            - drug delivery microneedles
+            - tissue engineering scaffold
+            - targeted cancer nanomedicine delivery
+            - bone cement material
+            - silk-based drug delivery system
+            - biomedical materials engineering
+            - wound healing biomaterials
+            - targeted cancer therapy with micelles
+            - tissue engineering scaffold design
+            - surfactant interfacial chemistry
+            - ph-responsive drug delivery system
+            - nanostructured hydrogels for wound healing
+            - nanomaterials and nanotechnology
+            - mesoporous bioactive glass
+            - biomaterials for tissue engineering
+            - cationic surfactant properties
+            - nanofiber-based drug delivery systems
+            - release mechanism
+            - nanostructured prodrug cancer therapy
+            - targeted cancer therapy nanoparticle delivery
+            - biodegradable magnesium alloy implants
+            - injectable drug delivery system
+            - cancer nanoparticle delivery system
+            - drug delivery system
+            - copper oxide based materials for antibacterial applications
+            - drug conjugate cancer therapy
+            - bioactive scaffold design
+            - targeted cancer therapy
+            - titanium implant coating development
+            - nanoparticle-based cancer drug delivery
+            - hyaluronic acid derivatives in biomaterials
+            - gene delivery system development
+            - polymeric drug delivery
+            - polymeric micelle-based drug delivery
+            - protein adsorption on surface
+            - surface wettability
+        - quantum mechanics/quantum chemistry
+            - orbital correlation methods
+            - basis set calculation
+            - molecular simulation method
+            - binding free energy calculation
+            - chemical reaction energy
+            - qm/mm electrostatics calculations
+            - molecular simulation methodology
+            - gw calculations in molecular physics
+        - spectroscopy/scientific techniques
+            - reaction dynamics and energy surfaces
+            - hydrogen bonding interaction
+            - density functional theory applications
+            - hydrogen bond interaction
+            - molecular bonding
+            - rotational spectroscopy
+            - core state ionization energy calculation
+            - vibrational spectroscopy
+            - metal-metal bonding
+            - energetic materials
+            - molecular polaritons
+            - cluster spectroscopy
+            - molecular electronic dynamics
+            - gas-phase reaction kinetics
+            - high-energy density composite
+            - cluster electronic structure
+            - quantum electronic dynamics
+            - ion cluster structure
+        - computational chemistry/molecular modelling
+            - free energy calculation in protein-protein interactions
+        - boundary value problems/boundary conditions
+            - schrödinger equation numerical solution
+            - boolean hypercubes and vector spaces
+        - organic semiconductors/organic polymers
+            - nonlinear viscoelasticity
+            - extensional rheometry
+            - thixotropy in fluid mechanics
+        - computational chemistry/theoretical chemistry
+    - fluids & plasmas
+        - aerodynamics/fluid dynamics
+            - high-order numerical simulation of turbulent flows
+            - lattice boltzmann method
+            - numerical gas flow simulation
+            - numerical flow simulation scheme
+            - numerical fluid simulation
+            - particle hydrodynamics simulation
+            - fluid simulation model
+            - large eddy simulation of turbulence
+            - computational fluid dynamics scheme
+            - fluid dynamics numerical methods
+            - electromagnetic simulation
+            - mesh optimization for hyperbolic equations
+            - finite difference method
+            - finite volume scheme for diffusion equation
+            - numerical fluid flow scheme
+            - cahn-hilliard equation solution methods
+            - fluid simulation
+            - mesh deformation using radial basis functions
+            - multiphase flow simulation
+            - hybridizable discontinuous galerkin method
+            - flow dynamics simulation
+            - high-order plasma modeling
+            - high-dimensional reaction-diffusion equations solution
+            - high-order discontinuous galerkin methods
+            - numerical methods for hyperbolic systems
+            - turbulent flow simulation
+            - immersed boundary method simulation
+            - lattice boltzmann method simulation
+            - fluid flow simulation
+            - multiscale flow simulation in porous media
+            - fluid-structure interaction problem
+            - fractional diffusion equation numerical method
+            - reduced order modeling
+            - energetic material simulation
+            - gpu-based computational fluid dynamics
+            - immersed boundary method for flow simulation
+            - high-order boundary condition
+            - high-order numerical simulation
+            - computational fluid dynamics
+            - high-order meshless method for fluid simulations
+            - finite element method for hyperbolic conservation laws
+            - flow control
+            - wake vortex dynamics
+            - pump turbine flow characteristics prediction
+            - cavitation flow dynamics
+            - optical flow velocimetry
+            - particle tracking velocimetry
+            - supersonic jet flow measurement
+            - centrifugal pump performance analysis
+            - bubble dynamics
+            - flow of non-newtonian fluids
+            - turbulent polymer flow
+            - superhydrophobic surface flow
+            - vortex dynamics
+            - fluid dynamics
+            - porous media flow modeling
+            - viscoelastic jet instability
+            - shock wave interaction
+            - particle dynamics in shear flow
+            - rotating packed bed reactor
+            - droplet dynamics
+            - bubbly flow dynamics
+            - two-phase flow in pipes
+            - rarefied gas flow
+            - liquid film convection
+            - fluidized bed simulation
+            - stratified turbulence simulation
+            - fluid flow dynamics
+            - turbulent boundary layer flow
+            - vortex dynamics in boundary layer flow
+            - film flow instability
+            - airborne droplet transmission
+            - catalytic reactor design
+            - gas hydrate formation
+            - internal wave instability
+            - jet flow dynamics
+            - turbulent flow dynamics
+            - boundary layer instability
+            - granular flow simulation
+            - granular flow segregation
+            - crystallization process modeling
+            - thrust generation in fluids
+            - porous medium flow stability
+            - particle-laden fluid flow modeling
+            - turbulent flow modeling
+            - flow and particle suspension rheology
+            - fluid mixing
+            - bubble dynamics in fluid flow
+        - engineering disciplines/marine engineering
+            - offshore platform structural integrity
+            - hydrofoil dynamics
+            - pipeline buckling analysis
+            - nonlinear water wave dynamics
+            - wave energy device performance
+            - flow through vegetation
+            - wave-induced seabed response
+            - flapping foil propulsion
+            - submarine landslide risk assessment
+            - hydroelastic response of vlfs (very large floating structures) in complex environments
+            - ship wake dynamics
+            - underwater vehicle dynamics
+            - nonlinear wave dynamics
+            - pipeline installation dynamics
+            - ship collision avoidance
+            - sediment transport on beaches
+            - solitary wave dynamics
+            - flow-induced vibration of cylinders
+            - propeller performance analysis
+            - hydrodynamics simulation
+            - aerodynamics of high-speed trains
+            - water entry dynamics
+            - fluid dynamics
+            - tsunami hydrodynamics
+            - cavitating flow simulation
+            - hydrodynamics
+            - fluid dynamics around cylinder
+            - offshore wind turbine dynamics
+            - fluid-structure interaction
+            - foundation design for offshore wind turbines
+            - ship parametric roll prediction
+            - fluid-induced vibration dynamics
+            - rogue wave detection
+            - hydrodynamic resistance study
+            - wave height prediction
+            - wave height analysis
+        - plasma physics/astrophysics
+            - lunar geology
+            - ocean surface current modulation
+            - hydraulic fracture analysis
+            - negative ion beam source
+            - plasma photonic crystal
+            - permafrost carbon cycling
+            - sea level variability
+            - aerosol and cloud retrieval
+            - ion beam plasma physics
+            - turbulent convection
+            - lightning physics
+            - relativistic backward wave oscillator
+            - ocean color remote sensing
+            - plasma wakefield accelerator
+            - glacier mass balance
+            - plasma ionization
+            - acoustic metamaterial design
+            - plasma confinement
+            - electromagnetic railgun dynamics
+            - geomagnetic field dynamics
+            - snow avalanche stability
+            - particle-in-cell simulation
+            - fusion power plant design
+            - plasma physics
+            - high pressure physics
+            - laser-driven proton acceleration
+            - stellarator magnetic field optimization
+            - gyrotron dynamics
+            - swimming in fluid dynamics
+            - electrical wire explosion
+            - ice core isotopic studies
+            - river delta morphodynamics
+            - turbulent flow dynamics
+            - geomagnetic storm ionosphere impact
+            - magnetic properties
+            - cloud-aerosol interactions
+            - sediment transport in rivers
+            - piezoelectric materials
+            - tritium storage bed
+            - plasma wave propagation
+            - planetary atmospheric circulation
+            - amplitude modulation atomic force microscopy
+            - atmospheric carbon dioxide measurement
+            - laser plasma interaction
+            - upper mantle structure
+            - atmospheric electric field research
+            - antarctic sea ice properties
+            - plasma surface interaction
+            - laser-induced plasma ion generation
+            - magnetic reconnection
+            - electron emission and breakdown
+            - dust aerosol emission and its impact on climate
+            - jupiter's aurora
+            - atmospheric aerosol study
+            - lattice boltzmann method
+            - stratospheric wave dynamics
+            - magnetocaloric effect
+            - network synchronization
+            - thermal conductivity property
+        - fusion power/tokamaks
+            - tungsten-based coating brazing
+            - lithium ceramics for tritium breeding
+            - fusion reactor design
+            - divertor design for fusion demo
+            - nuclear reaction in palladium
+            - tritium storage and handling
+            - helium bubble formation in materials
+            - rafm steel properties
+            - tritium production in fusion reactors
+            - magnetohydrodynamic flow
+            - tritium fuel cycle design
+            - plasma diagnostic control
+            - neutral beam ion source design
+            - fusion power plant design
+            - liquid metal plasma-facing component
+            - wendelstein 7-x plasma operation
+            - water-cooled breeder blanket design for cfter
+            - neutron source design for fusion facilities
+            - subcooled flow boiling
+            - pellet fuel injection
+            - tritium transport in fusion reactors
+            - pebble bed thermal conductivity
+            - tungsten alloy interface plasma effect
+            - radiation-induced material properties
+            - neutron radiation dose rate
+            - nuclear neutron measurement
+            - helium-cooled divertor design
+            - hydrogen permeation barrier
+            - wendelstein 7-x target module
+            - tritium release in fusion reactors
+            - iter blanket design
+        - dynamical systems/complex systems theory
+            - piecewise smooth dynamical systems
+            - network node centrality
+            - covid-19 epidemiology
+            - nonlinear wave equation solution
+            - network traffic capacity enhancement
+            - chaos theory in fluid dynamics
+            - noise-induced bifurcations
+            - homoclinic bifurcations in dynamical systems
+            - chaotic system dynamics
+            - fractal interpolation function
+            - fractal calculus
+            - fractional order chaos control
+            - traffic flow modeling
+            - time series complexity analysis
+            - chaos theory in nonlinear systems
+            - fractional differential equations
+            - stability analysis of nonlinear dynamic systems
+            - prey-predator dynamics
+            - traveling wave solutions in shallow water systems
+            - porous medium flow analysis
+            - strange nonchaotic attractor
+            - neural network synchronization
+            - time series analysis
+            - network synchronizability
+            - bursting oscillations
+            - reservoir computing for chaotic systems
+        - emerging technologies/jet engines
+            - airfoil aerodynamics
+            - boundary layer transition
+            - detonation wave dynamics
+            - shock-boundary layer interaction
+            - trailing edge noise reduction
+            - supersonic flow simulation
+            - structural mechanics
+            - adaptive wing design
+            - aeroelastic response
+            - shock-laminar boundary layer interaction
+            - rotor aerodynamics
+            - aeroacoustic noise prediction
+            - aerodynamic stability
+            - transonic wing buffet
+            - turbine flow loss reduction
+            - centrifugal compressor design
+            - tubercled wing aerodynamics
+            - aerodynamics
+            - aircraft landing gear optimization
+            - turbulence model uncertainty quantification
+            - aerodynamic fan noise reduction
+            - flow control using jet actuators
+            - hypersonic vehicle aerodynamics
+            - wing vortex flow interaction
+            - turbine blade tip design
+            - plasma propulsion
+            - turbulence simulation
+            - structural acoustics
+            - aerodynamic shape optimization
+            - engine performance optimization
+            - aircraft flight control system design
+            - hybrid rocket combustion
+            - aerodynamics of drones
+            - aerofoil noise measurement
+            - spacecraft attitude control
+            - jet flow dynamics
+            - particle deposition in gas turbine
+            - combustion stability analysis
+            - supersonic jet nozzle aerodynamics
+            - hydraulic pipeline design
+        - combustion/fire
+            - turbulent flame-droplet interaction
+            - turbulent spray combustion simulation
+            - flame dynamics in annular combustors
+            - turbulent premixed combustion modeling
+        - heat transfer/thermodynamics
+            - heat transfer in rotating channels
+            - nanofluid heat transfer
+            - nano-lubricant fluid properties
+            - natural convection heat transfer
+            - jet impingement heat transfer
+            - heat transfer in supercritical fluids
+            - two-phase flow prediction
+            - thermal hydraulic modeling
+            - heat transfer boiling
+            - heat transfer in corrugated tubes
+            - liquid metal fast reactor fuel assembly design
+            - heat transfer in nanofluids
+            - heat transfer in mini-channel flow
+            - heat transfer in boiling phenomenon
+            - flow boiling heat transfer in microchannels
+            - nucleate flow boiling dynamics
+            - droplet dynamics
+            - boiling heat transfer
+            - reactor safety and fuel design
+            - turbulent mixed convection
+            - reactor vessel failure analysis
+    - general physics
+        - emerging technologies/quantum information science
+            - positron physics
+            - heavy ion collision physics
+            - graphene properties
+            - dark matter detection
+            - quantum phase transition
+            - black hole radiation
+            - entanglement theory
+            - multiferroic materials
+            - radiative heat transfer
+            - stochastic resonance
+            - ion-beam-metal interactions
+            - quantum optical interference
+            - nonlinear wave equation solution
+            - hubbard model physics
+            - density functional theory
+            - high-order harmonic generation
+            - quantum walk algorithm
+            - polymer dynamics
+            - topological kondo insulator
+            - ferroelectric phase transition
+            - trapped ion quantum computing
+            - weyl semimetal physics
+            - graphene-based josephson junctions
+            - terahertz wave spectroscopy
+            - phase field solidification
+            - neutron star physics
+            - topological phase theory
+            - angular momentum in vortices and beams
+            - superconducting materials under pressure
+            - quantum fluid dynamics
+            - quantum thermal transport
+            - quasicrystal structure
+            - quantum chaos
+            - lattice boltzmann method
+            - topological magnetic phenomena
+            - friction physics
+            - quantum state uncertainty
+            - molecular physics
+            - nematic liquid crystal physics
+            - shear thickening suspension flow
+            - optical clock physics
+            - superconducting materials
+            - turbulence flow simulation
+            - mass measurement system
+            - quantum optics and photon entanglement
+            - quantum systems and entanglement
+            - nonlinear dirac equation solitons
+            - quantum plasmonics
+            - acoustic metamaterials
+            - polariton microcavities
+            - schrödinger equation solution
+            - nitrogen-vacancy centers in diamond
+            - thermodynamics
+            - spin selectivity in graphene
+            - evolutionary game theory
+            - fourier ptychography imaging
+            - plasmonic refractive index sensor
+            - plasmonic metamaterials
+            - two-photon polymerization fabrication
+            - brillouin laser dynamics
+            - metamaterial absorber design
+            - quantum teleportation
+            - optical imaging
+            - optical biosensing sensor
+            - optical vortex beam
+            - thermal metamaterial design
+            - optical trapping
+            - optical vortex beam propagation
+            - laser-based gas sensor
+            - optical photonic systems
+            - graphene optical materials
+            - optical resonator laser technology
+            - terahertz metamaterials
+            - zero-index metamaterials and optical applications
+            - single photon emission
+            - diamond photonics
+            - quantum algorithm
+            - frequency comb generation
+            - high-intensity laser physics
+            - surface plasmonics
+            - optical frequency standard
+            - photonic crystal fiber sensor
+            - terahertz optics
+            - augmented reality display
+            - spin-orbit interaction of light
+            - femtosecond laser physics
+            - quantum key distribution
+            - quantum cascade laser technology
+            - laser-induced damage in dielectrics
+            - quantum image processing
+            - plasmonic mode
+            - optical filter design
+            - single-pixel imaging
+            - terahertz pulse generation
+            - photonic microscopy
+            - lithium niobate photonics
+            - fiber laser amplification
+            - optical network design
+            - fiber laser dynamics
+            - hollow core fiber properties
+            - attosecond pulse characterization
+            - polariton physics
+            - supercontinuum generation
+            - quantum optical physics
+            - nonlinear optics in silicon-rich nitrides
+            - random laser emission
+        - heat transfer/heat conduction
+            - heat transfer in falling film
+            - heat transfer in channel flow
+            - physics-informed neural networks
+            - leidenfrost effect
+            - synthetic jet heat transfer
+            - radiative heat transfer simulation
+            - constructal design optimization
+            - bubble dynamics and heat transfer
+            - nonlinear convection in porous media
+            - heat transfer in condensed fluids
+            - thermal solidification problem
+            - nanofluid heat transfer
+            - heat transfer in nanofluids
+            - thermal performance enhancement
+            - inverse heat conduction problem
+            - heat transfer modeling
+            - nanofluid flow simulation
+            - heat transfer in vapor chambers
+            - heat transfer in turbines
+            - droplet evaporation dynamics
+            - radiation heat transfer measurement
+            - heat transfer and phase change materials
+            - heat transport
+            - heat transfer in heat sinks
+            - microchannel heat sink performance
+            - stochastic resonance for fault detection
+            - water droplet condensation
+            - cryogenic heat transfer
+            - heat transfer in fluid flow
+            - heat transfer and surface liquid dynamics
+            - microchannel heat transfer
+            - nanofluid flow physics
+            - chaotic system synchronization
+            - heat transfer performance
+            - porous heat transfer
+            - lattice boltzmann method
+            - nonlinear wave equation solution
+            - flash boiling fuel jet formation
+        - superconductors/high-temperature superconductors
+            - hts maglev vehicle dynamics
+            - mgb2 critical current
+            - fault current limiting
+            - superconducting cavity design
+            - mgb2 wire fabrication
+            - yttrium barium copper oxide (ybco) thin film growth
+            - magnet design for high-energy physics
+            - single flux quantum circuit design
+            - superconducting materials physics
+            - high temperature superconductor
+            - x-ray microcalorimetry
+            - ybco film deposition
+            - rebco cable and conductor research
+            - squid magnetometer
+            - superconducting magnet design & testing
+            - superconducting coil design
+            - superconducting materials fracture analysis
+            - bi-2212 wire superconductivity
+            - cryogenic cooler performance
+            - hts power cable simulation
+            - hts synchronous motor design
+            - fusion coil design
+            - cryogenic system testing
+            - hts maglev technology
+            - pulse tube cryocooler
+            - superconducting single-photon detector
+        - holography/black holes
+            - entanglement entropy in cft
+            - quantum field theory
+            - holographic correlators
+            - gravitational wave physics
+            - supergravity black hole solution
+            - black hole symmetry theory
+            - higgs physics
+            - composite higgs models
+            - yang-mills theory
+            - conformal field theory
+            - supersymmetric yang-mills theory
+            - axion physics
+        - glass compositions/glass
+            - silica aerogel composite
+            - uranium fuel composite
+            - gamma radiation shielding materials
+            - chalcogenide glass properties
+            - glass structure
+            - shock phase transition
+            - fe alloy diffusion properties
+            - borosilicate glass radiation effects
+            - magnetocaloric materials
+            - bulk metallic glass alloy formation
+            - glass structure and property
+            - glass physics
+            - irradiation damage in metals
+        - accelerator physics/laser applications
+            - x-ray refractive lens design
+        - spectroscopy/mechanical vibrations
+        - temperature/thermodynamics
+            - aircraft motion analysis
+        - sensors/particle detectors
+    - mathematical physics
+    - nuclear & particles physics
+        - radioactivity/radiation
+            - gas electron multiplier detector gain
+            - neutron imaging
+            - muon scatter tomography
+            - x-ray scintillator
+            - gamma radiation shielding
+            - microchannel plate detector
+            - neutron detector
+            - high-energy particle detection chip
+            - silicon photomultiplier pet detectors
+            - sic power device reliability
+            - neutron irradiation of microelectronics
+            - coupled-bunch instability
+            - radiation conservation of cultural heritage
+            - high gradient accelerator structure
+            - particle accelerator instability
+            - radiation-induced attenuation in optical fibers
+            - silicon detector readout
+            - radiation dosimetry
+            - neutron beam line design
+            - cdte detector development
+            - atlas detector readout system
+            - neutron imaging detector
+            - neutron-induced single event upsets
+            - compton imaging
+            - gas detector technology
+            - atlas silicon strip sensor
+            - pixel detector
+            - neutron detection
+            - silicon photomultiplier (sipm)
+            - lgad detector technology
+            - gem detector technology
+            - gamma radiation synthesis
+        - electroweak theory/quantum field theory
+            - black hole physics
+            - dark matter neutrino physics
+            - dark matter physics
+            - skyrme model physics
+            - holographic theory
+            - holographic entanglement
+            - string theory
+            - qcd form factors
+            - topological theory in lattice gauge theories
+            - high spin gravity theory
+            - higgs physics
+            - inflationary physics
+            - heavy ion collision hydrodynamics
+            - asymptotically safe standard model extensions
+            - nuclear density functional theory
+            - non-relativistic string theory
+            - nuclear chiral doublets
+            - qcd high-energy physics
+            - ads3 supergravity theory
+            - parton distribution function
+            - large charge theory
+            - neutrino oscillation experiment
+            - integrable nonlinear equations
+            - black hole theory
+            - proton nuclear physics
+            - nuclear matrix elements
+            - nucleon chiral perturbation theory
+            - noncommutative spacetime physics
+            - nuclear physics
+            - higgs boson physics
+            - particle physics decay
+            - conformal bootstrap theory
+            - incomplete fusion reaction dynamics
+            - η′ photoproduction on nucleus
+            - gauge theory
+            - heavy ion collision physics
+            - supersymmetric quantum mechanics
+        - dark matter/physical cosmology
+            - boundary physics
+            - nuclear reaction physics
+            - minimal length quantum mechanics
+            - lorentz violation in quantum field theory
+            - dirac equation in nuclear physics
+            - muon physics
+            - black hole physics
+            - hidden charm pentaquarks
+            - nuclear reaction cross section
+            - high-energy particle physics
+            - nuclear decay
+            - cosmological model
+            - sterile neutrino physics
+            - dark matter detection
+            - neutrino-nucleus interaction
+            - black hole thermodynamics
+            - scalar-tensor theory of gravity
+            - primordial gravitational waves
+            - nuclear physics
+            - heavy ion collision physics
+            - gluon propagator in yang-mills theory
+            - muon air shower
+            - neutron star physics
+            - unruh effect detection
+            - wormhole solutions in gravity theory
+            - inflationary cosmology
+            - nucleon electromagnetic form factors from lattice qcd
+            - newton-cartan gravity theory
+            - heavy quark physics
+            - gauge theory
+            - grid computing infrastructure
+            - particle physics collision dynamics
+            - neutrino mass models
+            - lepton flavor violation searches
+            - cosmic string physics
+            - quaternionic quantum mechanics
+            - proton-proton collision physics
+            - neutrino flavor oscillations
+            - gravitational theory
+        - nuclear physics/nuclear chemistry
+            - fission yield measurement
+            - nuclear data evaluation
+            - deuteron induced nuclear reactions
+            - alpha decay half-life predictions
+        - particle physics/bosons
+            - effective field theory
+            - renormalization group in supersymmetric theories
+            - jet physics at lhc
+            - mssm higgs boson mass calculation
+            - lattice qcd renormalization
+            - nlo qcd corrections
+            - black hole thermodynamics
+            - neutrino physics
+            - black hole entropy theory
+            - quantum field theory
+            - feynman integral reduction
+            - high spin gauge theory
+            - composite higgs models at lhc
+            - conformal field theory
+            - exceptional field theory
+            - scale-dependent gravity solutions
+            - qcd reggeized gluons
+            - quantum relativistic effect on scalar particles in cosmic string space-time
+            - compact star physics
+            - black hole theory
+            - quantum group symmetries
+            - modified holographic ricci dark energy cosmological model
+            - thermal qcd theory
+            - jet production in proton collisions
+            - top quark physics
+            - heterotic string theory
+            - supergravity inflation theory
+            - orbit dynamics
+    - optics
+        - medical imaging/imaging
+            - optical microscopy imaging
+            - diffuse reflectance spectroscopy
+            - optical tomography
+            - quantitative phase imaging microscopy
+            - photoacoustic imaging
+            - raman spectroscopy analysis
+            - retinal imaging
+            - optical coherence tomography image segmentation
+            - laser speckle contrast imaging
+            - optical tissue clearing
+            - laser bone ablation
+            - cerebral blood flow assessment
+            - optical coherence tomography
+            - photoacoustic microscopy
+            - laser lithotripsy
+            - second harmonic generation microscopy
+            - laser tissue welding
+            - optical tissue imaging
+            - optical tissue phantom measurement
+            - photodynamic therapy
+            - optical coherence elastography
+            - smartphone-based endoscopy
+            - laser doppler flowmetry
+            - terahertz tissue imaging
+            - fluorescence molecular tomography reconstruction
+            - photoacoustic tomography reconstruction
+            - optical coherence tomography imaging
+            - fluorescence lifetime imaging
+            - mueller matrix analysis
+            - resonance raman spectroscopy in cancer diagnosis
+            - optical coherence tomography (oct) imaging
+            - multiphoton microscopy imaging
+        - fiber optics/optical fiber
+            - high-order perturbation surface gratings
+            - digital image correlation
+            - vector beam generation
+            - fiber optic gas measurement
+            - digital holography reconstruction
+            - integral imaging display
+            - cavity ring down spectroscopy
+            - fringe projection profilometry
+            - freeform optical design
+            - optical beam propagation
+            - bessel beam physics
+            - partially coherent beam optics
+            - liquid lens technology
+            - bessel-gaussian beam properties
+            - ocean optics
+            - phase shift interferometry algorithm
+            - interband cascade laser spectroscopy
+            - holographic data storage
+            - polarization measurement mueller matrix
+            - optical image encryption
+            - deflectometry measurement
+            - digital holography
+            - digital holographic microscopy
+            - soot aggregate optical properties
+            - mueller matrix polarization
+            - photonic crystal devices
+            - holographic display technology
+            - quantitative phase imaging
+            - bessel beam propagation
+            - single pixel imaging
+            - radio over fiber system
+            - silicon photonic modulator
+            - all-optical logic gates
+            - silicon photonic switch
+            - surface measurement
+            - microwave photonic devices
+            - optical transmission system
+            - optical fiber sensor
+            - optical signal processing
+            - fiber optic vibration monitoring
+            - fiber laser technology
+            - optical modulation scheme
+            - fiber bragg grating sensor
+            - gas sensor
+            - tunable fiber laser
+            - fiber optics design
+            - optical fiber temperature sensor
+            - optical frequency comb transmission
+            - fiber optic sensor
+            - thz wireless signal generation
+            - photonic radar signal processing
+            - visible light positioning system
+            - modulation format identification
+            - optical signal detection
+            - optical fiber sensor measurement
+            - fiber-optic acoustic sensor
+            - self-mixing laser sensing
+            - spectral optical code division multiplexing (ocdma) performance
+            - polarization navigation
+            - laser spectroscopy for temperature measurement
+            - gas sensor technology
+            - mid-infrared photonic sensor
+            - zinc oxide sensor
+            - long-period fiber grating
+            - phase measurement
+            - optical fiber spectrometer
+            - brillouin optical time-domain analysis
+            - electronic nose gas classification
+            - photoacoustic gas detection sensor
+            - fiber optic sensing
+            - surface plasmon resonance sensor
+            - calibration method for laser scanning
+            - photonic fiber sensor
+            - glucose sensor
+            - speckle interferometry
+            - nonlinear optical communication system optimization
+            - graphene-based thz absorber
+            - optical oceanic turbulence
+            - graphene-based metamaterial absorber
+            - dark current in photodiode detectors
+            - harmonic generation efficiency measurement
+            - inas-based photodetector
+            - carbon fiber reinforced plastic thermography
+            - infrared imaging spectrometer
+            - freeform surface design
+            - thermal imaging for diabetic foot
+            - image fusion
+            - infrared image enhancement
+        - photonics/integrated circuits
+            - mid-infrared supercontinuum generation
+            - silicon photonic quantum key distribution
+            - optical frequency comb generation
+            - graphene-based tunable metamaterials
+            - plasmonic graphene optical materials
+            - hollow core fiber optics
+            - femtosecond laser inscribed waveguides
+            - optical frequency comb measurement
+            - optical polarization
+            - frequency comb spectroscopy
+            - brillouin optical fiber measurement
+            - lithium niobate photonic waveguides
+            - plasmonic resonance
+            - fiber laser technology
+            - optical parametric oscillator
+            - twisted gaussian beam optics
+            - high-power laser technology
+            - optical fiber imaging
+            - fe:znse laser technology
+            - quantum dot laser on silicon
+            - digital holography
+            - multimode waveguide device
+            - silicon nitride photonics
+            - ultrashort pulse characterization
+            - high-power laser crystal development
+            - ytterbium laser high power
+            - high-power laser pulse amplification
+            - optical beam propagation
+            - high-repetition rate laser systems
+            - optical chaos communication
+            - nonlinear optics
+            - silicon photonics
+            - terahertz technology
+            - terahertz pulse generation
+        - chalcogenides/optical materials
+            - laser crystal properties
+            - mid-infrared emission in germanate glass
+            - glass ceramics luminescence
+            - luminescent glass properties
+            - bi2o3-sio2 glass ceramic luminescence
+            - gd-doped phosphor research
+            - optical properties of single crystals
+            - red emitting phosphor
+            - sm3+ doped phosphor synthesis and characterization
+            - upconversion luminescent glass cermatics
+            - phosphor glass properties
+            - transparent ceramic scintillator properties
+        - nonlinear optics
+            - terahertz antenna design
+            - nonlinear optical solitons
+            - optical solitons
+            - photonic crystal devices
+            - optical solitons in fiber systems
+            - photonic crystal fiber design
+            - quantum dot optical properties
+
+## social sciences
+
+- economics and business
+    - sport, leisure & tourism
+        - types of tourism/tourism
+            - leisure and stress reduction
+            - national park visitor perception
+            - park management
+            - recreation specialization
+            - leisure and community development
+            - family leisure activity
+            - leisure activity participation
+            - leisure participation constraints
+            - leisure activities for adolescents
+            - leisure study
+            - recreation management
+            - leisure experience quality
+            - hotel industry covid-19 response
+            - customer experience management
+            - hotel customer satisfaction
+            - servant leadership in service industry
+            - hotel servicescape design and experience
+            - peer-to-peer accommodation economy
+            - restaurant customer experience
+            - hotel guest satisfaction
+            - hotel management and customer response
+            - green hotel sustainability
+            - hotel employee job satisfaction
+            - customer-brand relationship in luxury hospitality
+            - hotel technology and customer experience
+            - hospitality csr sustainability
+            - hotel revenue management
+            - hospitality education
+            - hotel loyalty program
+            - wellness tourism
+            - tourism safety perception
+            - tourism destination analysis
+            - tourist destination experience
+            - agritourism development
+            - tourism development in iran
+            - tourist destination evaluation
+            - sustainable tourism development
+            - chinese tourism motivation
+            - cruise tourism management
+            - food tourism
+            - cultural tourism experience
+            - tourism industry research
+            - film tourism
+            - tourism destination competitiveness
+            - wine tourism
+            - adventure tourism experience
+            - dark tourism
+            - autonomous vehicle adoption
+            - tourism development
+            - destination image analysis
+            - sustainable tourism and animal-human interactions
+            - tour guide service quality
+            - authenticity in tourism
+            - sport tourism event management
+            - religious tourism
+            - pro-environmental behavior in tourism
+            - ski tourism
+            - tourism education
+            - tourism and economic development
+            - destination tourism experience
+            - tourism destination development
+        - social gatherings/tourism
+            - athlete satisfaction in sport events
+            - social media and athletes
+            - sport event satisfaction
+            - event spectator motivation
+            - sport development program
+            - sport marketing
+            - sport management education
+            - football player migration
+            - sport mega event legacy
+            - sport development for peace
+            - lgbt+ in sports
+            - athlete career management
+            - body culture in sport
+            - women's football
+            - sociology of sports
+            - women in sport journalism
+            - social justice in sport organizations
+            - disability sport participation
+            - sport club social structure
+            - football fan culture
+            - female athlete representation in sport media
+            - sport fan motivation
+            - racial representation in sports journalism
+            - foucauldian sport sociology
+            - gender equality in sports
+            - women in action sports
+    - business & management
+        - innovation/product management
+            - ict and economic growth
+            - patent analysis and technology roadmapping
+            - knowledge economy development
+            - consumer behavior
+            - open innovation in smes
+            - innovation and firm performance
+            - global brand management
+            - advertising effectiveness
+            - marketing research
+            - user innovation process
+            - conjoint analysis
+            - innovation network policy
+            - corporate finance and marketing strategies
+            - service innovation management
+            - box office success factors
+            - green marketing
+            - service innovation design
+            - sales performance
+            - smart city governance
+            - service quality and customer satisfaction
+            - technology catch-up in china
+            - frugal innovation
+            - green consumer behavior
+            - innovation performance factors
+            - innovation ecosystem
+            - university-industry collaboration
+            - market orientation
+            - innovation finance
+            - sustainable transition management
+            - response rate in mail surveys
+            - design innovation policy
+            - private label strategy
+            - design thinking innovation
+            - platform economy innovation
+            - innovation and standardization
+            - innovation capability assessment
+            - corrective advertising
+        - leadership/industrial and organizational psychology
+            - organizational leadership and employee management
+            - training transfer factors
+            - performance appraisal system
+            - organizational health interventions
+            - negotiation strategy
+            - organizational leadership and employee relationships
+            - diversity and inclusion in business management
+            - women in leadership
+            - workaholism and work engagement
+            - job satisfaction
+            - workplace incivility impact on employee behavior
+            - career adaptability
+            - employee behavior and performance
+            - career development and management for women
+            - employee technology use
+            - workplace ostracism behavior
+            - servant leadership in business
+            - leadership and employee behavior
+            - leadership and motivation in organizational contexts
+            - employee creativity
+            - leadership behavior
+            - work-family conflict
+            - employee life satisfaction
+            - meta-analysis methodology
+            - employee turnover
+            - old worker retirement
+            - employee satisfaction and wellbeing
+            - human resource management (hrm)
+            - talent management practice
+            - employee behavior and relationship
+            - authentic leadership
+            - executive coaching
+            - cultural intelligence
+            - leadership development
+            - leadership and team dynamics
+            - psychological contract breach
+            - workplace bullying
+            - burnout and emotional exhaustion at work
+            - employee engagement and role perception
+            - employee engagement
+            - moderated regression analysis
+            - employee selection and assessment
+            - confirmatory factor analysis methodology
+            - employee burnout
+            - employee psychological engagement
+            - employee performance and satisfaction
+            - decent work psychology
+            - corporate restructuring and organizational change
+            - appreciative inquiry in organizational development
+            - organizational change management
+            - volunteer motivation
+            - group performance and decision making
+            - interorganizational network analysis
+            - gender in organization studies
+            - group therapy
+            - gender in the workplace
+            - gender inequality in employment
+            - healthcare leadership
+            - remote work organization
+            - action learning practice
+            - mergers and acquisitions cultural integration
+            - organizational communication strategy
+            - management journal ranking
+            - employee participation program management theory
+            - organizational development practice
+            - gig economy platform
+            - leadership communication
+            - professional role orientation
+            - organizational leadership
+            - business organization and economy change
+            - management education
+            - social network analysis
+            - career development in women-owned small firms
+            - organizational management theory
+            - healthcare organization performance
+            - workplace psychology
+            - organizational learning
+            - organizational communication
+            - organizational development
+            - organizational theory
+            - organizational identity crisis
+            - organizational commitment
+            - leadership practice
+            - organizational culture and decision making
+            - gender and organization
+            - corporate network analysis
+            - organizational performance design
+            - workplace spirituality
+        - corporate governance/corporate social responsibility
+            - annual report readability
+            - corporate governance and firm performance
+            - corporate social responsibility (csr)
+            - corporate sustainability reporting
+            - corporate social responsibility disclosure
+            - corporate social responsibility
+            - corporate governance and earnings management
+            - corporate governance and financial accounting
+            - corporate governance compliance
+            - financial reporting
+            - environmental disclosure performance
+            - earnings management
+            - executive compensation management
+            - corporate tax avoidance
+            - corporate social responsibility reporting
+            - accounting practice management
+            - integrated reporting
+            - corporate carbon disclosure
+        - international business/international trade
+            - innovation management
+            - entrepreneurship theory
+            - sustainability in business partnerships
+            - foreign direct investment (fdi)
+            - business network strategy
+            - sustainability management
+            - digital business transformation
+            - organizational performance management
+            - organizational innovation leadership
+            - gender diversity in corporate boards
+            - environmental business innovation
+            - cross-cultural management
+            - multinational enterprises' human resource management practice
+            - business failure and firm performance
+            - corporate governance
+            - corporate social responsibility
+            - management history research
+            - international business management
+            - strategy content research
+            - management theory
+            - business school management
+            - organizational resilience
+            - performance management in business
+            - venture capital and entrepreneurship
+            - sustainable corporate performance
+            - corporate financial management
+            - strategic innovation management
+            - human resource management practice
+            - network innovation management
+            - firm performance and innovation
+            - social entrepreneurship
+            - knowledge transfer management
+            - ethical leadership in organizations
+            - employee engagement in social medium
+        - marketing techniques/services marketing
+            - knowledge hiding in organizations
+            - big data analytics capability
+            - luxury brand management
+            - brand-consumer relationship management
+            - knowledge management process
+            - consumer behavior in social commerce
+            - co-creation in digital service innovation
+            - knowledge management strategy
+            - intellectual capital management
+            - knowledge management
+            - innovation capability
+            - knowledge management for innovation
+            - organizational agility
+            - business process management
+            - enterprise system implementation
+            - adoption factors in enterprise systems
+            - knowledge sharing
+            - customer experience marketing
+            - service quality and customer satisfaction
+            - knowledge management in organizations
+            - social media adoption in smes
+            - customer service marketing
+            - knowledge management performance
+        - entrepreneurship/business occupations
+            - entrepreneurship
+            - entrepreneurial identity
+            - entrepreneurial ecosystem development
+            - female entrepreneurship
+            - entrepreneurial intention
+            - entrepreneurial crisis management
+            - entrepreneurial performance
+            - entrepreneurship education
+            - social entrepreneurship
+            - small business marketing
+            - small business management
+            - entrepreneurial development
+            - entrepreneurial orientation and firm performance
+            - small business innovation performance
+            - informal entrepreneurship
+            - family business succession
+            - entrepreneurship and small business
+            - entrepreneurial team networking
+            - entrepreneurial labor
+            - crowdfunding platform success
+            - sme business management
+            - immigrant entrepreneurship
+            - small and medium-sized enterprise financial management
+            - franchising management
+            - small and medium-sized enterprise (sme) management
+            - entrepreneurial cognition
+        - supply chain management/business terms
+            - supply chain performance measurement
+            - circular economy business model
+            - lean implementation
+            - supply chain resilience
+            - supply chain management
+            - backshoring strategy
+            - production line maintenance
+            - buyer-supplier relationship management
+            - service supply chain governance
+            - green supply chain management
+            - supplier selection
+            - sustainable supply chain management
+            - omnichannel retailing
+            - quality function deployment (qfd)
+            - performance measurement in car companies
+            - corporate sustainability management
+            - blockchain technology adoption
+            - sales and operations planning
+            - supply chain finance
+            - supply chain management competency
+            - remanufactured products management
+            - firm efficiency
+            - supply chain risk management
+            - industry 4.0 quality management
+            - quality costing
+            - humanitarian supply chain management
+            - supply chain quality management
+        - tourism/hospitality management
+        - construction/building engineering
+            - innovation network management
+            - contractor relationship management
+            - project management strategy
+            - project stakeholder management
+            - international development project management
+            - project complexity management
+            - project risk management
+            - ambidextrous project management
+            - agile project management
+            - project portfolio management
+            - project management collaboration
+            - project management competency
+            - ict project success factors
+            - emotional intelligence in project management
+            - business model innovation
+        - education
+            - marketing education teaching techniques
+            - marketing education
+        - information systems/innovation
+        - economic bubbles/financial crises
+    - economics
+        - catalysis/industrial processes
+            - chemical looping combustion
+            - co2 hydrogenation catalysts
+            - solid oxide fuel cell
+            - catalytic cracking
+            - proton exchange membrane electrolyzer
+            - catalytic synthesis of dimethyl carbonate
+            - selective catalytic reduction catalyst
+            - oxidative coupling of methane catalysts
+            - solid oxide fuel cell technology
+            - catalytic reaction engineering
+            - catalyst performance for dehydrogenation process
+            - metal recovery from spent lithium ion batteries
+            - methane oxidation catalysts
+            - direct methanol fuel cell
+            - catalytic oxidation
+            - catalytic reaction
+            - molten carbonate fuel cell technology
+            - soot formation in flames
+            - activated carbon material synthesis
+            - hydrogen energy production
+            - biodiesel production catalyst
+            - hydrogen production catalysts
+            - microbial fuel cell catalyst
+            - methane decomposition for hydrogen production
+            - catalyst design for chemical reactions
+            - biohydrogen production
+            - supercritical water gasification
+            - furfural hydrogenation catalyst
+            - ammonia synthesis catalyst
+        - banks/banking terms
+            - foreign direct investment (fdi) analysis
+            - sovereign credit ratings
+            - financial market risk
+            - covid-19 pandemic economics
+            - international trade economics
+            - sovereign debt crisis
+            - financial market integration
+            - public goods experiment
+            - retirement and health
+            - economic growth
+            - monetary policy and inflation
+            - financial crises
+            - bank risk management
+            - fiscal policy and debt crises
+            - monetary policy and oil price shock
+            - unemployment rate analysis
+            - macroeconomic uncertainty shock
+            - financial development and economic growth
+            - foreign direct investment and economic growth
+            - team contest analysis
+            - export decision-making
+            - euro area economics
+            - exchange rate asymmetry and policy uncertainty
+            - unconventional monetary policy spillovers
+            - government effect on economic growth
+            - dynamic stochastic optimization problem
+            - financial inclusion
+            - behavioral economics and energy conservation
+            - systemic financial risk analysis
+            - european financial crisis
+            - private firm competition policy
+            - exchange rate analysis
+            - crude oil price forecasting
+            - evolutionary game theory
+            - inflation uncertainty relationship
+            - financial market analysis
+            - game theory strategy
+            - life satisfaction and age
+            - economic policy and inequality
+            - efficiency analysis in economics
+            - housing market economics
+            - multinational firm taxation
+            - credit risk management
+            - economic development and human capital
+            - foreign exchange intervention
+            - real exchange rate misalignments
+            - bank capital regulation
+            - monetary policy
+            - risk aversion in economics
+            - banking regulation and monetary policy
+            - trade and economic policy effect
+            - monetary policy and liquidity
+            - housing market analysis
+            - labor market search
+            - long term care policy
+            - export firm productivity
+            - mechanism implementation
+            - real estate and stock market integration
+            - agent-based financial modeling
+            - air pollution economics
+            - cooperative game theory
+            - cryptocurrency policy
+            - intergenerational transmission of human capital
+            - environmental regulation and firm effect
+            - financial literacy education
+            - international trade policy
+            - financial market development and economic growth
+            - microfinance institution performance
+            - business cycle synchronization
+            - labor market analysis
+            - fiscal policy and current account balances
+            - trade policy
+            - price discrimination in digital markets
+            - food choice decision-making
+            - antitrust policy
+            - cartel behavior and pricing strategies
+            - mobile market analysis
+            - dishonest behavior experiment
+            - economic forecasting model
+            - property rights theory
+            - decision-making experiment
+            - price search platform
+            - credence goods market
+        - macroeconomics
+            - infrastructure development
+            - patent policy
+            - economic analysis of education or crime policy
+            - migration and development
+            - trade war impact
+            - value-added tax (vat) economics
+            - health insurance market analysis
+            - migrant child education
+            - labour market policy
+            - financial literacy education
+            - behavioral economics
+            - russian economy development
+            - risk preference
+            - income inequality measurement
+            - paid family leave policy
+            - school choice mechanism
+            - optimal income taxation
+            - gender and economics
+            - public debt policy
+            - investment and economic development
+            - tax compliance and evasion
+            - economic impact of internet
+            - monetary policy
+            - brexit economic impact
+            - economic development
+            - air pollution effect on productivity
+            - industrial revolution economic growth
+            - vietnamese economic development
+            - health and longevity trends
+            - economic relations between china and africa
+            - platform competition economics
+            - charter school effectiveness
+            - political economy
+            - financial sustainability in microfinance
+            - mechanism design in economics
+            - football club performance
+            - global value chain participation
+            - financial regulation
+            - agricultural index insurance
+            - productivity misallocation
+            - cash transfer program evaluation
+            - economic freedom policy
+            - labor market regulations
+            - aid allocation
+            - labor market unemployment theory
+            - business history
+            - education economics
+            - foreign direct investment (fdi) policy effectiveness
+            - fiscal decentralization
+            - housing market analysis
+            - value of statistical life estimate
+            - uncertainty measures in economics
+            - international trade policy
+            - financial portfolio management
+            - news shocks in economy forecasting
+            - healthcare economics
+            - covid-19 economic impact
+            - higher education economics
+            - economic inequality
+            - economic growth and development
+            - economic growth and income
+            - minimum wage effect on employment
+            - economic policy
+            - trade and economic growth
+            - intergenerational mobility
+            - healthcare policy
+            - colonial african economics
+            - foreign direct investment and income inequality
+            - property exchange theory
+            - taxation and labor supply incentives
+            - russian economic development
+            - income inequality
+            - marxian labor theory
+            - marxist theory of value
+            - long-run economic demand analysis
+            - radical institutional economics
+            - marxist development theory
+            - institutional economics
+            - eastern european economic transition
+            - financial liberalization
+        - stock market/financial markets
+            - corporate cash holdings
+            - real estate market volatility
+            - stock price crash risk
+            - market liquidity
+            - financial market forecasting
+            - real estate investment
+            - stock market sentiment analysis
+            - real estate investment trust (reit) risk management
+            - financial covenant analysis
+            - financial systemic risk
+            - investor choice and corporate governance
+            - cross-border real estate transactions
+            - working capital management
+        - economic country classifications/international development
+        - energy policy
+        - car culture/commuting
+        - fiscal policy/public finance
+    - logistics & transportation
+        - emerging technologies/robotics
+            - vehicle platooning control
+            - pedestrian motion prediction
+            - autonomous vehicle lane changing
+            - traffic flow prediction
+            - energy optimization for rail transport
+            - autonomous intersection management
+            - cooperative perception for vehicle-to-vehicle communication
+            - autonomous vehicle path planning
+            - autonomous vehicle control
+            - pedestrian evacuation planning
+            - lane change detection algorithm
+            - vehicle detection
+            - magnetic sensor-based traffic detection
+            - driving style recognition
+            - traffic flow control
+            - autonomous vehicle safety testing
+            - eco-driver traffic control
+            - lane change prediction for autonomous vehicles
+            - autonomous vehicle road detection
+            - ride sharing optimization
+            - traffic signal control optimization
+            - autonomous vehicle detection
+            - railway safety analysis
+            - bayesian spatial traffic crash modeling
+            - bicycle safety and road risks
+            - road traffic accident analysis
+            - lane change prediction
+            - lane changing behavior prediction
+            - driver safety and vehicle crash prevention
+            - vehicle safety acceptance
+            - driver behavior analysis
+            - injury prevention
+            - driver drowsiness detection
+            - intelligent transportation systems
+            - road safety analysis
+            - safety behavior in construction workers
+            - pedestrian safety in traffic
+            - connected and autonomous vehicle safety
+            - maritime accident risk management
+            - driver safety and crash analysis
+            - older adult driver cognitive health
+            - cannabis and driving risk behaviors
+            - road traffic accident hotspots
+            - road safety management
+            - crash severity prediction
+            - pedestrian traffic safety
+            - organizational safety practices
+            - road traffic injury prevention
+            - speed management
+            - driver behavior and safety analysis
+            - older driver cognitive abilities
+            - road safety and traffic crash prevention
+        - sustainable transport
+            - public transportation use
+            - public transport service management
+            - traffic prediction
+            - travel mode detection
+            - transportation network optimization
+            - energy-efficient train control
+            - high-speed rail and regional economic development
+            - automated vehicle traffic flow control
+            - travel behavior analysis
+            - urban traffic management
+            - public transportation optimization
+            - green shipping policy modeling
+            - electric vehicle relocation system
+            - urban rail service optimization
+            - airport efficiency analysis
+            - accessibility measurement
+            - shared parking management
+            - ridesharing service design
+            - vehicle lane change behavior
+            - air cargo logistics
+            - traffic signal control
+            - transportation network design
+            - railway competition and regulation
+            - passenger mobility pattern recognition
+            - congestion pricing acceptability
+            - transit network design
+            - traffic emission reduction
+            - public transport service quality
+            - mobility as a service (maas)
+            - transport infrastructure project management
+            - urban rail transit development
+            - traffic flow modeling
+            - travel mode choice behavior
+            - travel mode choice
+            - airline financial performance analysis
+            - public transportation system optimization
+            - public transport performance analysis
+            - travel mode choice model
+            - urban freight logistics
+            - route choice modeling
+            - crash modeling
+            - signalized intersection control
+            - connected vehicle traffic control
+            - autonomous vehicle traffic flow
+            - asphalt mixture performance
+            - short-term traffic prediction
+        - regulatory compliance/e-commerce
+    - finance
+        - corporate finance/corporate governance
+            - bank lending risk analysis
+            - mutual fund performance analysis
+            - financial market trading
+            - mutual fund performance
+            - credit rating agency
+            - financial market sentiment
+            - bank financial risk management
+            - investor trading behavior
+            - currency exchange rate risk
+            - corporate governance and ownership structure
+            - credit market liquidity
+            - asset pricing model
+            - corporate governance and risk
+            - bank capital risk regulation
+            - international financial markets
+            - volatility forecasting model
+            - exchange rate risk premium
+            - financial market analysis
+            - islamic bank profitability
+            - stock market analysis
+            - stock market portfolio selection
+            - financial inclusion policy
+            - bayesian vector autoregression
+            - crude oil market risk analysis
+            - bank risk management
+            - bank risk regulation
+            - financial development in africa
+            - crude oil price forecasting
+            - systemic risk in banking
+            - banking risk management
+            - covid-19 and finance
+            - oil price volatility
+            - commodity market analysis
+            - herd behavior in finance
+            - artisanal and small-scale mining
+            - financial distress prediction model
+            - financial market sentiment analysis
+            - islamic finance market risk analysis
+            - oil price shock analysis
+            - stock market volatility spillovers
+            - islamic banking governance
+            - cryptocurrency regulation
+            - economic growth and investment in developing countries
+            - oil price analysis
+            - financial network risk assessment
+            - factor model estimation
+            - sustainable mining development
+            - volatility modeling and option valuation
+            - fama-french factor model
+            - intraday market trading
+            - financial market risk
+            - financial development impact
+            - foreign aid and economic growth
+            - economic forecasting
+            - market sentiment analysis
+            - market efficiency analysis
+            - treatment effect analysis
+            - islamic banking and risk management
+            - capital structure
+            - volatility forecasting
+            - corporate bond market analysis
+            - vix futures and options
+            - portfolio risk management
+            - market liquidity anomaly
+            - mergers and acquisitions
+            - vix option pricing
+            - corporate governance
+            - activist investor influence
+            - asset allocation performance
+            - takeover bid effect
+        - auditing/accounting terminology
+    - accounting
+        - auditing/types of auditing
+            - xbrll financial reporting quality
+            - internal control management
+            - real earnings management
+            - cost stickiness
+            - corporate social responsibility disclosure
+            - audit firm rotation
+            - management accounting
+            - ifrs compliance disclosure
+            - financial reporting standard adoption
+            - audit firm quality
+            - financial reporting and audit disclosure
+            - whistleblowing reporting
+            - ifrs adoption and financial accounting
+            - risk disclosure in corporate governance
+            - auditor judgment in financial services
+            - financial reporting and disclosure
+            - audit reporting standards
+            - corporate tax avoidance
+            - auditing standards
+            - audit committee effectiveness
+            - internal audit management
+            - financial reporting quality
+            - performance evaluation feedback
+            - corporate governance and earnings management
+            - artificial intelligence in auditing
+        - social concepts/accountability
+            - biodiversity accounting
+            - accounting research
+            - sustainability reporting
+            - accounting education reform
+            - gender in accounting
+            - accounting history
+            - sustainability reporting assurance
+            - accounting and accountability
+            - corporate sustainability report
+            - government accounting process
+    - marketing
+        - brand management/branding terminology
+            - food labeling and consumer behavior
+            - loyalty program effectiveness
+            - consumer behavior and psychology
+            - collaborative consumption
+            - attachment and consumer behavior
+            - social marketing
+            - alcohol hangover research
+            - digital advertising effectiveness
+            - employee branding
+            - food consumption practice
+            - consumer choice analysis
+            - marketing theory
+            - consumer behavior
+            - consumer behavior and identity
+            - chinese luxury consumer behavior
+            - advertising effectiveness
+            - consumer brand hate
+            - online review analysis
+            - customer experience management
+            - scarcity effect on consumer choice
+            - visual advertising metaphor
+            - consumer price perception
+            - brand customer relationship
+            - compulsive buying behavior
+            - luxury brand management
+            - crisis communication in marketing
+            - brand management
+            - gendered consumer research
+            - service marketing
+            - place branding
+            - consumer behavior and sustainability
+            - customer engagement
+            - consumer ethnocentrism
+            - brand authenticity perception
+            - word-of-mouth marketing
+            - consumer behavior and advertising
+            - customer service risk management
+        - merchandising/retailing
+            - online consumer behavior
+            - customer loyalty and service quality
+            - customer engagement in service context
+            - retail supply chain management
+            - customer satisfaction and loyalty
+            - online food delivery service
+            - luxury fashion consumer behavior
+            - consumer behavior and decision-making
+            - customer relationship trust
+            - fashion consumer behavior
+            - return policy and consumer behavior
+            - omnichannel retailing strategy
+            - consumer food shopping behavior
+            - retail shopping experience
+            - social media marketing
+            - service recovery process
+            - consumer behavior in online shopping
+            - shopping mall experience
+            - digital retail experience
+            - luxury brand marketing on social media
+            - millennial consumer behavior
+            - customer satisfaction and behavior analysis
+            - sustainable consumer behavior
+            - mobile payment adoption
+            - corporate social responsibility marketing
+            - consumer behavior online
+            - customer trust in e-commerce
+            - consumer online purchase intention
+            - fashion e-commerce marketing
+            - brand management
+            - customer experience and loyalty
+            - customer experience marketing
+        - social networks/social information processing
+            - in-game purchase behavior
+            - user behavior analysis
+            - online consumer trust
+            - blockchain adoption
+            - online review effectiveness
+            - information security compliance behavior
+            - hotel customer service quality assessment
+            - cross-border e-commerce behavior
+            - service quality management
+            - enterprise social media usage
+            - iot privacy service
+            - social media analytics
+            - electronic word-of-mouth analysis
+            - mobile banking adoption
+            - social media effect on consumer use
+            - online customer intention and social media
+            - electronic word-of-mouth (ewom)
+            - social media advertising
+            - firm performance and information technology
+            - online health community analysis
+            - online consumer behavior
+            - digital platform ecosystem
+            - consumer online feedback analysis
+            - social commerce
+            - user information privacy concerns
+            - knowledge sharing in online communities
+            - government service adoption
+            - small and medium-sized enterprises (smes) marketing adoption factors
+            - smart tourism experience
+            - customer adoption and satisfaction
+            - business intelligence analytics
+        - services marketing/retailing
+            - customer reference marketing
+            - social business marketing
+            - coopetition in business
+            - entrepreneurship research
+            - emotional labor in customer service
+            - sales-marketing integration
+            - marketing innovation
+            - firm-market relationship
+            - strategic information sharing in business relationships
+            - service design value creation
+            - service quality management
+            - value network effect
+            - business-to-business servitization
+            - relationship marketing
+            - customer relationship management
+            - salesperson performance and motivation
+            - salesperson behavior
+        - promotion and marketing communications/online advertising
+        - halal food/food law
+            - islamic banking adoption
+        - organizational behavior/industrial and organizational psychology
+    - development studies
+        - rural culture/welfare economics
+            - agricultural development in africa
+            - agricultural development policy
+            - food security and agricultural politics
+            - rural development and agriculture aspirations
+            - agricultural value chain development
+            - land grabbing in ethiopia
+            - conflict-affected household food security
+            - agricultural development in rural areas
+            - palm oil sustainability
+            - rural development program
+    - agricultural economics & policy
+        - agronomy/land management
+            - consumer preferences in food production
+            - covid-19 impact on food supply chain
+            - crop insurance
+            - alcohol consumption patterns
+            - agricultural production efficiency
+            - water policy and regulation
+            - wine tasting evaluation
+            - flood risk management insurance
+            - dairy supply chain management
+            - egg production and food markets
+            - food labeling consumer preference
+            - water policy and management
+            - nutrition-sensitive agriculture intervention
+            - women's empowerment in agriculture
+            - food security in rural households
+            - agricultural productivity and policy
+            - commodity market volatility
+            - sustainability certification impact on food security
+            - genetically modified food labeling
+            - agricultural policy and food security
+            - food security and covid-19 resilience
+            - smallholder farm household food security
+            - agricultural food security policy
+            - crop yield and production economics
+            - agricultural productivity and farm size
+            - consumer food choice and preferences
+            - adoption of climate-smart agricultural practices
+            - agricultural technology adoption
+            - agricultural cooperative membership effectiveness
+            - food waste management
+    - econometrics 
+        - machine learning/simulation
+    - economic theory
+    - industrial relations
+        - business cycle
+- education
+    - e-learning/education and training occupations
+        - student self-efficacy in learning
+        - classroom discourse analysis
+        - text comprehension
+        - counseling assessment process
+        - emotional learning in education
+        - intelligent tutoring system
+        - writing quality assessment
+        - collaborative writing
+        - writing strategies
+        - multimedia learning effectiveness
+        - early childhood spelling
+        - children's digital reading experiences
+        - morphological awareness in chinese reading skills
+        - self-assessment in education
+        - student achievement and expectations
+        - reading fluency instruction
+        - science education
+        - children's scientific reasoning development
+        - note-taking strategies
+        - vocabulary instruction
+        - school burnout in secondary education
+        - bilingual education
+        - student learning achievement
+        - peer feedback in writing instruction
+        - student motivation in learning
+        - student motivation and self concept
+        - writing and reading in school
+        - learning from failure in students
+        - spontaneous focus on numerosity
+        - graphic novel education
+        - reading motivation in children
+        - collaborative learning
+        - student engagement and motivation in education
+        - reading comprehension in education
+        - culturally responsive school leadership
+        - cooperative learning
+        - posthuman education inquiry
+        - private supplementary tutoring
+        - service learning in education
+        - feminist education leadership
+        - inclusive education
+        - education policy reform
+        - refugee education in school setting
+        - teacher professionalism
+        - education policy
+        - school climate and student wellbeing
+        - teacher-student education
+        - primary physical education
+        - lgbtq education in schools
+        - teacher professional development
+        - student homework behavior
+        - student voice in education
+        - teacher education and inclusive practice
+        - african american education equity
+        - student engagement and academic motivation in latino students
+        - immigrant student education
+        - fundamental british values education
+        - education and language in the classroom
+        - indigenous education in australia
+        - mathematics education
+        - education research
+        - cluster randomized trial design
+        - test anxiety in education
+        - classroom environment research
+        - college admission and enrollment strategies
+        - education history
+        - learning theory and education practice
+        - self-concept in education
+        - higher education policy
+        - teacher education
+        - program evaluation in education
+        - multicultural education practice
+        - narrative inquiry in education
+        - latina/latino student education experience
+        - mixed methods research in education
+        - assessment literacy in education
+        - education policy and practice
+        - teacher reflection in education
+        - teacher mentorship program
+        - teacher education program
+        - teacher expectations in education
+        - adult education learning theory
+        - teacher education policy
+        - teacher self-efficacy
+        - student evaluation of teaching
+        - catholic school education
+        - rural education policy
+        - autism spectrum disorder education
+        - disability education training
+        - vocational rehabilitation for people with disabilities
+        - assistive technology for children with disability
+        - student behavioral disorder intervention
+        - special education
+        - bullying in schools
+        - special education program
+        - learning disability accommodation
+        - early mathematics intervention
+        - juvenile education and disability program
+        - early childhood education special service programs
+        - inclusive education for students with disabilities
+        - autism spectrum disorder intervention
+        - school psychology practice
+        - special education assessment
+        - early childhood special education
+        - writing instruction for students with learning disability
+        - reading disability intervention
+        - learning disability assessment
+        - kindergarten readiness assessment
+        - social emotional learning
+        - student transition planning
+        - attention deficit hyperactivity disorder (adhd) intervention for children
+        - student wellbeing
+        - self-concept development in reading instruction
+        - child assessment and developmental psychology
+        - vocabulary intervention
+        - assessment and testing in education
+        - higher education participation
+        - international higher education policy
+        - postdoctoral academic development
+        - higher education internationalization
+        - threshold concepts in education
+        - higher education research
+        - international student experience
+        - assessment in higher education
+        - higher education quality
+        - university dropout prevention
+        - language education
+        - higher education employability
+        - higher education student engagement
+        - vocational teacher education
+        - academic research policy
+        - quality assurance in higher education
+        - rough set theory
+        - higher education institution management
+        - international higher education
+        - education methodology
+        - personal tutoring in education
+        - higher education development in russia
+        - international student education
+        - higher degree apprenticeship development
+        - higher education ranking
+        - teaching excellence in higher education
+        - digital education
+        - higher education design
+        - higher education leadership
+        - academic plagiarism in education
+        - university community engagement
+        - distance education
+        - generic skills development in education
+        - student peer assessment experience
+        - intercultural competence in education
+        - international student experience in education
+        - academic work experience
+        - academic presentation skills
+    - science education/philosophy of education
+        - biotechnology education
+        - chemistry education
+        - science education program
+        - student argumentation in science education
+        - polymer education
+        - pedagogical content knowledge in education
+        - engineering education competency development
+        - socioscientific issues in science education
+        - stem education
+        - student computational learning
+        - nature-based education in schools
+        - family learning in museums
+        - geospatial education
+        - science education
+        - environmental education
+        - green chemistry education
+        - evolution education
+        - engineering education
+        - cognitive structure development
+        - flipped classroom learning
+        - plant education
+        - physiology education
+        - science language instruction for multilingual classrooms
+        - teacher self-efficacy in science teaching
+        - machine learning in education
+        - faculty development in stem education
+        - education in biology
+        - teaching strategies for students and graduate assistants
+        - 3d molecular modeling in education
+        - equity in science education
+        - teacher-student relationship
+        - scientific reasoning in education
+        - education technology
+        - climate change education
+        - biology education
+        - physics education
+        - student development in education
+        - chemical engineering education
+    - educational technology/learning
+        - digital storytelling in education
+        - online learning and education strategies
+        - digital game-based learning design
+        - gamification in education
+        - mobile learning
+        - augmented reality education
+        - student problem solving skills
+        - hybrid learning
+        - massive open online course (mooc)
+        - education policy
+        - formação docente
+        - covid-19 education
+        - internet parenting styles
+        - knowledge building in collaborative learning environments
+        - formative assessment feedback
+        - learning design
+        - digital teacher competence
+        - learning technology education
+        - digital education
+        - social presence in online learning
+        - virtual laboratory learning
+        - programming education
+        - children's digital technology learning
+        - serious games in education
+        - blended learning design
+        - online learning support
+        - social media in education
+        - student online learning experience
+        - educational technology
+        - open educational resources
+        - digital learning in education
+        - flipped classroom education
+        - pedagogical agent for learning
+        - open education learning experience assessment
+        - collaborative learning
+        - critical thinking in education
+        - robot-assisted language learning
+        - intelligent learning environment
+        - technology acceptance model
+        - blended learning
+        - technology enhanced learning
+        - digital education readiness
+        - smart learning environment design
+        - project-based learning
+        - computational thinking education
+    - educational stages/undergraduate education
+        - student veteran transition to higher education
+        - higher education management
+        - student academic achievement factors
+        - campus recreation and student wellbeing
+        - student success in higher education
+        - experiential education
+        - college student education
+        - college student retention program
+        - latino student experience in higher education
+        - adult education program development
+        - racial disparities in education
+        - undocumented student higher education support
+        - outdoor education program evaluation
+        - transfer student success
+        - trans student experience
+        - academic advising
+        - doctoral student education
+        - faculty experience in higher education
+        - public higher education institution management
+        - diversity in higher education
+        - college student retention
+        - faculty productivity evaluation
+    - special education/learning disabilities
+    - education and training occupations/career advice services
+        - philosophy of education
+        - oecd education policy
+        - digital education technology
+        - lifelong learning policy
+    - mathematics education/educational psychology
+        - mathematical learning
+        - early childhood mathematics education
+        - linear algebra education
+        - mathematics education
+        - mathematics education teacher belief
+        - mathematical modelling in education
+        - la enseñanza matemática
+        - mathematics education teacher professional development
+    - gifted education/educational psychology
+        - gifted education
+        - gifted student education
+        - gifted student identification
+        - gifted education policy
+        - talent identification
+    - educational stages/school types
+    - inclusive education
+    - pedagogy
+    - didactics
+    - special education
+- law
+    - criminology
+        - sustainability/environmental social science concepts
+            - consumer product repairability and design
+            - green consumer behavior
+            - eco-industrial symbiosis
+            - sustainable supply chain management
+            - supply chain sustainability
+            - food waste management
+            - sustainable concrete material recycling
+            - waste management
+            - concrete with copper slag
+            - sustainability education
+        - crime by type/criminology
+            - illicit drug trafficking
+            - correctional officer stress and relations
+            - body-worn cameras in police research
+            - self control and crime
+            - criminal justice policy
+            - restorative justice program
+            - substance abuse treatment program
+            - drug court program
+            - youth justice
+            - corporate crime and compliance
+            - fear of crime
+            - green criminology
+            - juvenile justice transfer
+            - juvenile justice treatment effectiveness
+            - human trafficking
+            - female juvenile justice
+            - sexual offender treatment
+            - criminal offender career analysis
+            - sexual homicide offender behavior
+            - drug-related crime
+            - religiosity and crime
+            - prison food experiences
+            - crime and covid-19
+            - offender substance abuse treatment
+            - police studies
+            - organized crime network analysis
+            - crime analysis
+            - domestic violence
+            - prison life of female inmates
+            - criminal violence prevention
+            - criminal sentencing policy
+            - public opinion on death penalty policy
+            - criminological studies
+            - criminal justice narrative
+            - shoplifting behavior
+            - hate crime prevention
+            - juvenile justice reform
+        - sex crimes/sexual abuse
+            - sexual offender treatment
+            - rural sexual assault and victim services
+            - child abuse and domestic violence
+            - intimate partner violence and mental health
+            - intimate partner violence in lgbtq communities
+            - domestic violence exposure in children
+            - adolescent sexual offenders
+            - intimate partner violence
+            - bystander intervention program
+            - cyber dating abuse
+            - intimate partner violence intervention program
+            - child trauma and advocacy
+            - child sexual abuse prevention
+            - sex trafficking
+            - intimate partner violence against immigrant women
+            - child parent violence
+            - domestic violence against women
+            - child abuse prevention
+            - corporal punishment in child-raising
+            - female sex offender behavior
+            - child sexual abuse
+            - bullying in schools
+            - child abuse and maltreatment
+            - intimate partner violence victim support
+            - childhood victimization
+            - online child sexual solicitation
+        - eyewitness/memory
+            - false confessions
+        - intimate partner violence/abuse
+    - law
+        - international relations/globalization
+            - maritime dispute resolution
+            - international law
+            - international criminal justice
+            - critical international law
+            - eu social and economic rights
+            - investment treaty arbitration
+            - german constitutional law
+- media and communications
+    - communication & media studies
+        - anglophone-centric
+            - dialogic communication on social media
+            - internal communication in crisis situation
+        - social media
+            - digital democracy
+            - feminist celebrity culture
+            - web survey methodology
+            - emoji use in communication
+            - influencer marketing
+            - television production
+            - food culture studies
+            - social media communication
+            - survey response rate
+            - political communication on social media
+            - virtual reality experience
+            - facebook user privacy
+            - creative industry development
+            - social media and activism
+            - prosumer culture
+            - meme culture
+            - digital journalism practice
+            - big data analytics
+            - adolescent sexting behavior
+            - music industry analysis
+            - older adult technology
+            - social movement mobilization
+            - podcast industry
+            - women in australian broadcasting
+            - semiotics of social media
+            - digital game user behavior
+            - community radio policy
+            - children's television regulation
+            - video game studies
+            - self-tracking technology
+            - cultural journalism
+            - video game development
+            - chinese social credit system
+            - television reality series
+            - social media use and implications
+            - cultural policy and music production
+            - digital social capital
+            - big data ethics
+            - book culture studies
+            - big data in communication
+            - social media and protest
+            - gaming and gender
+            - k-pop and korean media
+            - queer identity online
+            - female representation in media
+            - digital political participation
+            - television and online consumption
+            - cultural value assessment
+            - mobile gaming experience
+            - online human rights governance
+            - language and digital medium
+            - digital social media
+            - cultural studies in film
+            - sportswomen on social media
+            - black representation in popular culture
+            - cyberbullying among students
+            - cultural studies and media
+            - digital media use
+        - news/journalism
+            - local news coverage
+            - political communication
+            - gender representation in sports media
+            - mental health and social media in games
+            - journalism diversity
+            - sexual behavior and media consumption
+            - intercultural communication
+            - television viewership behavior
+            - international news flow
+            - economic journalism
+            - fear appeal in communication
+            - online incivility
+            - journalism practice
+            - fake news and media literacy
+            - journalism education
+            - climate change communication
+            - communication theory
+            - health communication
+            - sexual communication
+            - relational turbulence theory
+            - video game experience
+            - television and child development
+            - cancer information seeking
+            - black representation in media education
+            - social media and black movement
+            - political communication strategy
+            - news and emotions during crisis
+            - alternative media communication
+            - media and public opinion
+            - language and gender in communication
+            - knowledge gap
+            - mobile phone relationship quality
+            - student communication with instructors
+            - third-person perception
+            - protest coverage in social media
+            - chinese journalism
+            - agenda setting in communication
+            - european media studies
+            - online news consumption
+            - refugee crisis media coverage
+            - media and politics trust issues
+            - hong kong news censorship
+            - healthcare communication
+            - cultural identity and communication in immigrant communities
+            - feminist twitter discourse
+        - applied linguistics/social media
+        - concepts in metaphysics/causality
+- other social sciences
+    - gender studies
+        - sex positions/sexual acts
+            - gender studies
+            - marriage and divorce studies
+            - polyamorous relationships
+            - family and motherhood
+            - gender and music identity
+            - ethnographic research
+            - gender and religious identity
+            - feminist social movement
+            - sociology education
+            - gendered space and social dynamics
+            - feminist theory
+            - parental leave policy
+            - sexuality and gender relations
+            - feminist philosophy of self-respect
+            - feminist epistemology
+            - masculinity studies
+            - sexual socialization
+            - disability and feminist theory
+            - intersectional theory
+            - exotic dance industry
+            - family carework
+            - feminist gender studies
+            - gender and war violence against women
+            - feminist queer studies
+            - gender and sport studies
+            - sex work
+            - breastfeeding experience
+            - gender and migration: care work
+            - gender and employment opportunities
+            - sexual violence and queer theory
+            - feminist philosophy
+            - same-sex marriage debate in taiwan
+            - gender in the workplace
+            - cosmetic surgery and femininity
+    - science studies
+        - science and technology studies/technology in society
+            - university ranking
+            - citation analysis in science
+            - russian scientific publication analysis
+            - citation analysis in science journals
+            - citation analysis in research evaluation
+            - information retrieval from scientific publications
+            - scientific collaboration evaluation
+            - citation analysis
+            - research evaluation index
+            - academic publishing and research impact
+        - social philosophy/capitalism
+            - responsible innovation
+    - information & library sciences
+        - political science terminology/computers
+            - reference service for graduate occupational therapy students
+            - academic library leadership
+            - open access library services
+            - digital library development
+            - library professional competencies
+            - textbook collection management
+            - information literacy framework
+            - library assessment research method
+            - data management
+            - library career development
+            - information literacy efficacy
+            - academic library service model
+            - academic library collection management
+            - library technology service
+            - digital humanities library preservation
+            - academic library planning
+            - digital library use analysis
+            - open access repository
+            - public library management
+            - semantic web in library
+            - library services and design in higher education
+            - public library services
+            - information literacy
+            - library professional development
+            - library services support
+            - user search and discovery in libraries
+        - library science/academic publishing
+            - scientific journal evaluation
+            - academic social networking
+            - data reuse
+            - citation metrics
+            - citation analysis
+    - social work
+    - family studies
+        - geography/cultural geography
+            - educational migration mobility
+            - gender roles and fertility intentions
+            - marital dissolution in africa
+            - educational hypergamy
+            - fertility rate change
+        - centuries/decades
+        - family/interpersonal relationships
+- political science
+    - political science & public administration
+        - continents/europe
+            - bosnia-herzegovina political development
+            - eu climate policy
+            - european union regulatory enforcement
+            - turkish politics
+            - political autocratization
+            - russian-eu relations
+            - philippine politics
+            - russian politics
+            - european union law compliance
+            - ethnic identity politics
+            - italian politics
+            - social welfare policy
+            - european fiscal governance reform
+            - social democratic labor market policy
+            - eu trade policy
+            - participatory democracy
+            - european politics and democracy
+            - eu interest group access
+            - northern ireland politics
+            - malaysian politics
+            - chilean politics and democracy
+            - european union politics
+            - political party organization
+            - electoral authoritarianism
+            - european politics
+            - arab democracy support
+            - eu-arab relations in context of democratic transition
+            - idea reform in politics
+            - ukrainian-russian identity and politics
+            - memory politics in eastern europe
+            - party politics
+            - civil society and social capital in democracy
+            - german politics
+            - latin american democracy
+            - violence in latin america
+            - dependency theory in latin america
+            - central european politics
+            - financial regulation policy
+            - european union policy
+            - european integration policy
+            - fascism in italy's memory politics
+        - governance/political science terminology
+            - public administration governance
+            - public sector performance management
+            - representative bureaucracy
+            - public administration policy
+            - local government reform
+            - public administration education
+            - public sector accounting standard
+            - public sector reform
+            - policy implementation
+            - open government data
+            - czech public administration reform
+            - public service motivation
+            - civil service reform
+            - politician's influence in public administration
+            - collaborative governance policy design
+            - public-private partnerships in infrastructure
+            - policy design process
+            - public sector audit
+            - diversity in public sector organization management
+            - public administration theory
+            - strategic public management
+            - public governance
+            - public administration
+            - covid-19 government response
+            - nonprofit organization governance
+            - public participation in local governance
+            - e-government
+            - policy advocacy coalition change
+            - public service governance
+        - politics/comparative politics
+            - redistricting policy
+            - party politics and elections
+            - terrorism policy
+            - political participation and representation
+            - economic voting behavior
+            - qualitative political science research
+            - foreign aid
+            - welfare state policy
+            - interviewer effect on survey results
+            - income inequality policy
+            - political behavior
+            - corporatism in politics
+            - supreme court decision
+            - political party measurement
+            - political participation
+            - caste and social politics
+            - parliamentary representation
+            - populist politics
+            - political party attitudes
+            - presidential election forecasting
+            - national identity and political system
+            - voter turnout in american states
+            - political party dynamics
+            - cultural theory and risk analysis
+            - corruption in politics
+            - political conflict analysis
+            - chinese nationalism
+            - international trade policy
+            - racial politics in urban elections
+            - gender quotas in politics
+            - legislative committee politics
+            - institutional business policy
+            - civil conflict and state emergencies
+            - political party voter theory
+            - political comparative study
+            - voter behavior in natural disaster elections
+            - deliberative democracy
+            - political science research
+            - conflict resolution
+            - local government governance
+            - political polarization
+            - split-ticket voting
+            - political trust
+            - eu policy cooperation
+            - government creditworthiness
+            - game theory in social science
+            - political elite decision making
+            - game theory and decision-making
+        - sociological terminology/anthropology
+            - income inequality perception
+            - environmental sociology
+            - metatheory in sociology
+            - social interaction theory
+            - religion and politics
+            - cultural capital and social class
+            - sociology of public life
+            - strong program cultural sociology
+            - vocational education and labour market
+            - social movement organization
+            - social disorder perception
+            - art theory and cultural production
+            - income inequality and child development
+            - social mobility
+            - urban community relationships
+            - cultural sociology
+            - science-policy interface
+            - qualitative data analysis
+            - precarious employment and young adults
+            - social class and space analysis
+            - sociological analysis
+            - class and gender analysis in sociology
+            - childhood development and negotiation
+            - social theory critique
+            - national identity
+            - women's professional labor issues
+            - citizenship theory
+            - technology ethics
+            - social class identity
+            - justification of subject positions
+            - gender and domestic life changes
+            - risk society theory
+            - social identity narrative
+            - food consumption and social practice
+            - australian identity politics
+            - body and care studies in science practice
+            - body sociology
+            - labour process sociology
+            - sociology of power
+            - employment equality policy
+            - youth transition
+            - british chinese identity
+            - critical theory in political economy
+            - care and family studies
+            - gender theory
+            - feminist sociology
+            - food culture representation
+        - conflict (process)/crimes against women
+            - sexual violence in conflict zones
+            - critical security studies
+            - uneven development theory
+            - globalization and international relations
+            - international relations theory and practice
+            - peace and conflict studies
+            - russia-eurasia economic relations
+            - economic interdependence and conflict resolution
+            - conflict dynamics
+            - human security in international relations
+            - eu-latin america relations
+            - international relations
+            - islamic state studies
+            - international conflict and security
+            - conflict-related sexual violence
+            - simulation-based learning
+            - peacekeeping operation
+            - brazilian foreign policy in south america
+            - peace studies
+            - foreign aid governance
+            - international relations theory
+            - political conflict resolution
+            - islamic state propaganda
+            - state recognition in international conflict
+            - international security policy
+            - financial market analysis
+            - international relations policy participation
+            - turkish politics and security issues
+            - international financial institutions policy
+            - soviet national history
+            - diaspora politics
+            - nigeria's africa diplomacy
+            - international conflict resolution
+            - cyber deterrence policy
+            - prevent strategy and counter-terrorism policy
+            - military expenditure and economic growth
+            - european intelligence operations
+            - autonomous weapons control
+            - central asian politics
+            - nordic foreign policy
+            - ontological security in international relations
+            - terrorism in nigeria
+            - economic sanctions policy
+            - warfare ethics
+            - conflict and militia relations
+            - private military security
+        - ethnic groups/ethnicity
+            - migration policy
+            - racial inequality
+            - refugee research ethics
+            - diaspora mobilization for justice and statehood
+            - immigration policy
+            - refugee policy and asylum
+            - religious integration and immigrant experiences
+            - women migrant workers
+            - mexican migration and labor incorporation
+            - immigrant family dynamics
+            - racial identity and racism
+            - rohingya crisis
+            - syrian refugee policy in turkey
+            - refugee integration policy
+            - asian american migration
+            - migration and family policy
+            - immigrant integration policy
+            - cultural identity migration
+            - refugee studies
+            - migration policy in europe
+            - family deportation and immigration policies
+            - second generation immigrant studies
+            - labor migration policy
+            - korean immigrant entrepreneurship
+            - migrant women's issues in africa
+            - transnational marriage
+            - immigrant discrimination
+            - immigrant attitude
+            - local refugee policy
+            - migrant care and migration issues
+            - roma social issues
+            - superdiversity
+            - migration and development
+            - migrant labor policy
+            - refugee resettlement and integration
+            - migrant experience in poland
+            - residential mobility and neighborhood stratification
+        - capitalism/comparative politics
+            - welfare policy
+            - childcare policy
+            - social welfare policy
+            - welfare policy and poverty austerity
+            - welfare regime analysis
+        - non-profit organizations/types of organization
+            - nonprofit regulation and fundraising
+            - nonprofit organization behavior
+            - social enterprise organization
+            - charitable giving
+            - nonprofit organization management
+            - episodic volunteering
+    - international relations
+- psychology and cognitive sciences
+    - experimental psychology
+        - emotion/affective science
+            - high power social motives
+            - uncertainty and stressful situation psychology
+            - humor styles
+            - facial expression and emotion
+            - gender stereotype research
+            - basic psychological need satisfaction
+            - nostalgia experience
+            - stereotype threat effect
+            - emotional behavior in groups
+            - pathogen disgust and social behavior
+            - dark personality traits and forgiveness
+            - social psychology
+            - racial microaggressions
+            - emotion and facial expression in social settings
+            - moral identity development
+            - life story narrative identity
+            - action vs inaction judgment
+            - relationship maintenance
+            - emotion regulation strategies
+            - obsessive passion
+            - conspiracy theory belief
+            - relationship satisfaction
+            - self-esteem psychology
+            - emotion differentiation
+            - emotional intelligence
+            - emotion expression
+            - emotional experience
+            - self control and well-being
+            - moral judgment theory
+            - implicit racial bias
+            - compassionate goals and empathy in social interactions
+            - emotion expression perception
+            - mate preferences
+            - narcissism and selfie behavior
+            - political attitudes and group dynamics
+            - self-forgiveness psychology
+            - social influence in psychology
+            - character strength development
+            - ostracism in social psychology
+            - grit in psychology
+            - self control behavior
+            - same-sex relationships
+            - multiculturalism and diversity ideologies
+            - personality development
+            - creativity in science
+            - face perception and social behavior
+            - personality psychology
+            - self-enhancement bias
+            - wisdom development
+            - self-compassion and time perspective
+            - self authenticity study
+            - personality development and psychology
+            - dispositional greed behavior
+            - attachment security
+            - perfectionism and self-esteem
+            - mindfulness and meditation intervention
+        - perception/sensory systems
+            - visual masking
+            - depth perception
+            - motion illusion
+            - slanted surface perception
+            - language interference
+            - short-term memory recall
+            - müller-lyer illusion
+            - word recognition experiment
+            - material perception
+            - memory recall experiment
+            - cognitive psychology experiment
+            - aesthetic perception of art
+            - motion perception
+            - visual search memory
+            - visual imagery ability assessment
+            - odor recognition task interference
+            - incidental memory
+            - binocular vision perception
+            - bimanual movement control
+            - vigilance task performance
+            - face recognition
+            - auditory-visual interaction
+            - visual contrast perception
+            - auditory processing
+            - reversible figure perception
+            - visual perception
+            - apparent motion perception
+            - visual search in autism
+            - biological motion perception
+            - child visual perception
+            - illusory contour perception
+            - visual illusion
+            - random number generation
+            - time perception
+            - blindness perception
+            - eye movement and attention
+        - cognition/neuropsychological assessment
+            - conditioned inhibition
+            - music therapy
+            - melodic similarity in music
+            - musical groove experience
+            - rock music harmony
+            - music education for children
+            - music-induced emotion recognition
+            - music education and well-being
+            - music therapy for mental health recovery
+            - musical emotion perception
+            - art therapy
+            - music performance interaction
+            - emotion regulation through music
+            - music therapy practice
+            - musical preference analysis
+            - intertemporal choice and discounting
+            - working memory training
+            - deception detection
+            - language production
+            - child visual perception development
+            - metacognitive biases
+            - experimental psychology study
+            - language processing network analysis
+            - implicit attitude measurement
+            - quantum decision theory
+            - joint action selection
+            - gesture and language development
+            - scene categorization
+            - cognitive conflict control
+            - bilingual language processing
+            - tactile perception
+            - perception and cognitive illusions
+            - visual attention scene analysis
+            - episodic memory processing
+            - ecological cognitive psychology
+            - risk perception and decision making in adolescents
+            - number sense development
+            - language development in children
+            - social perception
+            - memory offloading
+            - autobiographical memory and traumatic event
+            - eyewitness identification
+            - visual working memory
+            - language processing
+            - collaborative memory
+            - object perception and attention
+            - unconscious priming
+            - social cognition and agency
+            - semantic word processing
+            - memory and cognition
+            - interpersonal synchrony
+            - spatial cognition in navigation
+            - cognitive reasoning process
+            - aesthetic experience
+            - perspective taking experiment
+            - automatic imitation in social context
+            - child cognitive development theory
+            - infant social development
+            - face recognition
+            - facial trustworthiness and social psychology
+            - cognitive skill acquisition
+            - language cognition
+            - emotional attention
+            - conditional reasoning
+            - inattentional blindness
+            - time perception
+            - temporal self-continuity and decision making
+        - neurophysiology/computational neuroscience
+            - psychiatry
+            - depressive disorder
+            - schizophrenia treatment
+            - psychiatric disorders
+            - mental disorder investigation
+            - psychiatric patient care
+            - convulsion therapy
+            - old age psychiatry
+            - schizophrenia cognitive function
+            - antipsychotic drug treatment
+        - language acquisition/bilingualism
+            - language processing in bilinguals
+            - second language acquisition
+            - language bilingualism and motion events
+            - auditory distraction
+            - bilingual language processing
+            - semantic memory representation
+            - language processing ambiguity
+            - prospective memory experiment
+            - word recognition task
+            - language development in bilingual children
+            - word compound processing
+            - implicit memory
+            - bilingual language development in children
+            - memory retrieval
+        - human life stages/human development
+            - subjective age and well-being
+            - emotion and aging recognition
+        - childhood/developmental psychology
+        - linguistics terminology/phonetics
+        - complex systems theory/computational fields of study
+    - social psychology
+        - life skills/behavioural sciences
+            - experimenter expectancy effect
+            - emotional intelligence
+            - interpersonal distance and social interaction
+            - locus of control
+            - death anxiety
+            - dreaming and consciousness
+            - health locus control
+            - name social psychology
+            - dogmatism scale
+            - christian psychology
+            - meditation practice
+            - verbal conditioning awareness
+            - self-esteem measurement
+            - curiosity measurement
+            - role take empathy
+            - machiavellianism and power dynamics
+            - locus of control and personality traits
+            - cognitive psychology
+            - loneliness in college students
+            - lunar cycle effect on human behavior
+            - repression sensitization scale
+            - qualitative psychology of spirituality
+            - cultural identity analysis
+            - african psychology
+            - dark triad traits
+            - child personality development
+            - personality assessment
+            - right-wing authoritarianism and social dominance orientation
+            - relationship psychology
+            - evolutionary leadership psychology
+            - general factor of personality
+            - mate preference in humans
+            - child development in hunter-gatherer societies
+            - personality traits
+            - intelligence measurement
+            - personality development process
+        - interpersonal relationships/sexual fidelity
+            - relationship satisfaction
+            - cross-sex friendship
+            - deception in romantic relationships
+            - parental divorce effect on child well-being
+            - couple and family therapy
+            - parental custody and separation
+            - sibling relationships in adulthood
+            - parent-child relationship
+            - couple relationship satisfaction
+            - marital happiness
+            - stepfamily dynamics
+            - relationship conflict resolution
+            - relationship conflict communication
+            - parent-child relationships post-divorce
+            - relationship dynamics
+            - family conflict and divorce
+            - love and relationship satisfaction
+            - dyadic coping in relationships
+            - parent-child conflict
+            - relational maintenance strategies
+            - parenting and child development
+            - child family conflict
+            - parent-child relationship conflict resolution
+            - couple relationship technology use
+            - parental self-efficacy
+        - feminist terminology/gender roles
+            - feminist studies
+            - sexual harassment and coercion in college students
+            - women in stem careers
+            - attitudes towards homosexuals
+            - body image in social media
+            - working mother guilt
+            - sexual harassment experience
+            - feminist psychology
+            - gender roles in relationships
+            - body image and sexual orientation
+            - feminist identity development
+            - sex differences in friendship
+            - health behavior messaging
+            - rape mythology
+            - body image in women
+            - sexual assault research
+            - gender and sexual minority experience
+            - body image development
+            - black women's mental health and coping strategies
+            - sexual microaggressions and identity experiences
+            - body image and self-esteem
+            - women's midlife experience
+            - gender role identity
+            - body image and objectification in women
+            - gender and women in stem
+        - ethical consumerism/sustainable development
+            - risk perception and attachment
+            - theory of planned behavior
+            - urban environmental design preferences
+            - wayfinding design
+            - pro-environmental behavior
+            - restoration theory
+            - child social environment
+            - recycling behavior
+            - environmental attitudes
+            - nature connection and well-being
+            - environmental attitude and concern
+            - patient environment design
+            - social psychology of crowded environments
+        - culture/religion
+            - religious mental health
+            - religious health and spiritual well-being
+            - chaplaincy education and training
+            - religious community during pandemic
+            - forgiveness psychology
+            - religious spiritual struggle
+            - psychological type in church leadership
+            - positive religious coping
+            - self-spirituality
+            - religious secularization in social context
+            - spirituality in psychiatry/psychotherapy
+            - religious identity
+            - god representation
+            - moral injury in veterans
+            - religious education
+            - spiritual health and wellbeing in african american communities
+            - spiritual well-being measurement
+        - group processes/collective identity
+            - right-wing authoritarianism
+            - racial social psychology
+            - intergroup perception and identity development
+            - cognitive representation in social group perception
+            - collective dynamics
+            - emotional cultural experience
+            - refugee stereotypes and psychological adjustment
+            - intergroup relations
+            - social identity and intergroup conflict
+            - social identity and leadership
+            - state authenticity
+            - intergroup threat theory
+            - intergroup attitudes and acculturation
+            - social identity theory
+            - intergroup relations and tolerance
+            - implicit personality measurement
+            - intergroup relations and identity
+            - emotion and self perceptions
+            - social dominance orientation
+            - social justice and behavior
+            - relative deprivation and group behavior
+            - collective action and emotions
+            - ingroup psychology
+            - counterfactual thinking
+            - moral political psychology
+            - intergroup conflict and identity
+            - attitude formation and influence
+            - group identity and social effectiveness
+            - mexican american identity
+            - adolescent school transition
+            - parenting behavior
+            - child conservation development
+            - cultural emotion recognition
+            - cultural differences in child behavior
+            - child attachment and friendship
+            - cultural psychology
+            - acculturation psychology
+            - locus of control and cultural differences in attribution processes
+            - bicultural identity
+            - cultural identity adaptation
+            - cross-cultural psychology
+            - cultural individualism vs. collectivism in social psychology
+            - cultural values theory
+        - positive psychology/happiness
+            - positive psychology
+        - sexual acts/interpersonal relationships
+        - senescence/old age
+    - developmental & child psychology
+        - autism spectrum disorders/learning disabilities
+            - parenting children with autism spectrum disorder
+            - sexuality education for adults with autism
+            - physical activity and intellectual disability
+            - child developmental psychology
+            - autism spectrum disorder diagnosis
+            - social skills intervention for autism
+            - sibling experience with developmental disabilities
+            - autism spectrum disorder (asd) in child development
+            - autism spectrum disorder
+            - anxiety in autism spectrum disorder
+            - transition to adult care for adolescents with chronic diseases
+            - autism spectrum disorder treatment
+            - intellectual disability in children
+            - executive function in autism spectrum disorder (asd) in children
+            - intellectual disability care
+            - autism spectrum disorder care
+            - language development in children
+            - autism spectrum disorder intervention
+            - language development in autism spectrum disorder
+            - autism spectrum disorder in adults
+            - repetitive behavior in autism spectrum disorder
+            - autism spectrum disorder in children
+            - child disability developmental care
+            - child autism disorder
+            - autism spectrum disorder language development
+            - animal-assisted therapy for autism spectrum disorder
+            - autism spectrum disorder assessment
+            - autism spectrum disorder education
+            - reading skills in autism spectrum disorder children
+            - autism spectrum disorder diagnosis & intervention
+            - physical activity in autism spectrum disorder
+            - attention deficit hyperactivity disorder in children
+            - microswitch-based intervention for disabilities
+            - autism spectrum disorder in children and adults
+            - applied behavior analysis for autism education
+        - parenting/childhood
+            - poverty and welfare reform policy
+            - journal quality assessment
+            - housing and family services
+            - child welfare services
+            - social work ethics
+            - youth participation
+            - child welfare and trauma exposure
+            - strength-based case management for youth health
+            - social work disaster risk management
+            - child neglect assessment
+            - child exposure to domestic violence
+            - foster care
+            - indigenous child welfare
+            - child welfare worker training and support
+            - social work practice wisdom
+            - clinical social work simulation
+            - parenting intervention program
+            - child maltreatment and parent-child relationships
+            - adult safeguarding practice
+            - residential youth care treatment
+            - child foster care perspective
+            - social work education and antiracism
+            - child welfare practice
+            - social work practice in china
+            - child protection rights
+            - youth homelessness intervention
+            - child care and support
+            - resilience in social context
+            - left-behind children developmental psychology
+            - social work practice policy
+            - motherhood experience and care
+            - social work practice ethics
+            - youth mental health intervention
+            - adoption experience
+            - care for young people
+            - child protection decision-making
+            - digital social work practice
+            - homeless women's issues
+            - social justice education
+            - mentorship program evaluation
+            - evidence-based social work practice
+            - foster care and youth services
+            - social work service delivery
+            - social work education and regulation
+            - child participation in social services
+            - foster care for unaccompanied children
+            - spirituality in social work
+            - social welfare practice
+            - trauma-informed child welfare practice
+            - father-child relationship support programs
+            - resilience in youth
+            - child sexual exploitation prevention
+            - parental control and psychological behavior in adolescents
+            - emotion socialization in children
+            - children's lying behavior
+            - child attachment development
+            - language development in infancy
+            - maternal mind-mindedness
+            - child social bias
+            - parent-child interaction
+            - bullying in adolescence
+            - student mindset development
+            - mother-child interaction
+            - language development in children
+            - parent-child attachment
+            - ethnic-racial identity development among adolescents
+            - gender development in children
+            - parenting styles in chinese families
+            - critical consciousness in adolescents
+            - adolescent bullying behavior
+            - parent-child aggression
+            - identity development in adolescence
+            - positive youth development
+            - parent-child relationship developmental psychology
+            - child developmental psychology
+            - adolescent academic development
+            - child cognitive development
+            - self-regulation in children
+            - maternal child attachment
+            - parent-adolescent relationship conflict
+            - childhood social development
+            - parent-adolescent relationships and emotion regulation
+            - parent-child math development
+            - adolescent prosocial behavior
+            - emotion regulation in infancy and early childhood
+            - parent-child relationship
+            - mother-infant interaction
+            - early childhood education
+            - child social development
+        - adverse childhood experiences/crimes
+            - adhd intervention and treatment in children
+            - adhd symptom impairment in children
+            - parent-child interaction therapy
+            - sluggish cognitive tempo
+            - callous-unemotional traits in children
+        - adolescence/puberty
+            - self-evaluation in social psychology
+            - parent-adolescent relationship
+            - attachment theory
+    - human factors
+        - ergonomics/occupational safety and health
+            - participatory ergonomics intervention
+            - anthropometric measurement and design for human factors
+            - human-centred sustainable systems design
+            - human body vibration exposure
+            - human factors in smartphone operations
+            - seat comfort design
+            - virtual reality human factors
+            - human factors in manufacturing
+            - risk assessment for worker
+            - musculoskeletal disorders in workers
+            - headwear design
+            - exoskeleton design for muscle activity support
+            - lifting task kinematics
+            - cybersickness in virtual reality
+            - muscle fatigue during task performance
+            - human factors in maritime systems design
+            - ergonomics in agriculture
+            - work-related musculoskeletal disorders in sonography
+            - human factors in autonomous vehicle design
+            - work-related musculoskeletal disorders
+            - hand grip force prediction
+            - trunk lifting biomechanics
+            - occupational injury prevention
+            - smartphone use and neck posture
+            - design psychology
+            - icon design legibility
+            - agricultural machine safety
+        - human–computer interaction
+            - graphical password authentication
+            - emotion recognition
+            - mobile device interaction
+            - recommender system
+            - gaze-based human interaction analysis
+            - user experience design
+            - chatbot interaction design
+            - older adult technology use design
+            - human-robot interaction design
+            - human factors in assembly and task instructions
+            - cognitive task performance
+            - eye gaze tracking
+            - online community moderation
+            - social media in disaster response
+            - design for children with disability
+            - deaf and hard of hearing access
+            - creative design support tool
+            - user experience design for vr/ar
+            - virtual reality experience
+            - human-computer interaction design
+            - electronic circuit design tool
+            - wearable interface design
+            - social virtual reality design
+            - trigger-action rule debugging
+            - accessibility technology for blind users
+            - human activity recognition
+            - museum experience design
+            - game difficulty design
+            - design for human-computer interaction
+            - interactive design
+            - workplace distraction management
+            - pedestrian-vehicle interaction
+            - emoji design and communication
+            - user experience evaluation
+            - accessible user interface design
+            - healthcare design and technology
+            - public speaking anxiety in virtual reality
+            - shape-changing user interface
+            - animal-human interaction technology
+            - human-drone interaction
+            - smart home security and privacy
+            - usability evaluation
+            - design education and practice in hci
+        - automation software/robotics
+            - cognitive task performance management
+            - warning label design
+            - performance evaluation tests
+            - color coding in visual displays
+            - situation awareness training
+            - human factors design
+            - cognitive task analysis
+            - visual perception
+            - mental workload assessment
+            - task training performance
+            - driver collision warning system
+            - crew resource management training
+            - young driver training program
+            - human-machine trust in automation
+            - pilot training and performance evaluation
+            - eye tracking in aviation
+            - office ergonomics
+            - mental workload measurement
+            - driver attention and automation in autonomous driving
+            - vigilance performance
+            - brake pedal error
+            - display and task performance
+            - task management in emergency situations
+            - vibration and human performance
+            - readability of text on computer display
+            - lifting task assessment
+    - psychoanalysis
+        - psychoanalysis/freudian psychology
+            - panic disorder treatment
+            - clinical psychoanalytic approach to trauma
+            - perverse psychology
+            - gender and psychoanalytic theory
+            - child development theory
+            - psychoanalytic process
+            - shame and fantasy in psychoanalytic theory
+            - racial identity and psychoanalysis
+            - psychoanalytic theory of homosexuality
+            - psychoanalytic theory
+            - transactional analysis for trauma healing
+            - clinical psychoanalytic writing
+            - psychoanalytic clinical experience
+            - psychoanalytic theory of intergenerational transmission
+            - psychological theory and defense mechanisms
+            - chaos theory and psychoanalysis
+            - trauma and memory
+            - psychodynamic psychotherapy
+            - freudian psychoanalytic theory
+            - relational psychoanalysis
+            - online psychotherapy training
+            - parent-infant psychoanalytic development
+            - psychoanalytic theory of love relations
+    - clinical psychology
+        - psychotherapies/cognitive behavioral therapy
+            - therapy process
+            - ptsd treatment
+            - mindfulness-based interventions for children and youth
+            - cognitive behavioral therapy for anxiety disorders
+            - social anxiety disorder in children
+            - group psychotherapy
+            - parent-child behavioral treatment program
+            - cognitive behavioral therapy
+            - acceptance and commitment therapy (act)
+            - non-suicidal self-injury (nssi)
+            - compassion focused therapy
+            - mindfulness-based therapy for emotion regulation
+            - online psychotherapy practice
+            - therapist competence in cognitive behavioral therapy
+            - mindful parenting
+            - p factor psychopathology
+            - psychotherapy treatment outcome
+            - mindfulness-based cognitive therapy for suicidal behaviors
+            - therapist-patient relationship psychotherapy
+            - psychotherapeutic process
+            - trauma treatment therapy
+            - anxiety disorder treatment
+            - worry and anxiety
+            - social anxiety disorder treatment
+            - post-traumatic stress disorder (ptsd)
+            - obsessive-compulsive disorder treatment
+            - positive psychology intervention for depression treatment
+            - schema therapy treatment
+            - moral injury
+            - anxiety and metacognition
+            - covid-19 anxiety and fear response
+            - mindfulness and self
+            - obsessive compulsive disorder (ocd)
+            - behavioral activation therapy for depression
+            - child and family therapy
+            - eating disorder treatment
+            - suicidal ideation prevention
+            - hoarding disorder treatment
+            - ptsd relationship therapy
+            - cultural adaptation in therapy
+            - irrational belief and depression research
+            - child anxiety treatment
+        - criminology/psychopathy
+            - personality development in children and adolescents
+            - perfectionism scale development
+            - personality disorder assessment
+            - narcissistic personality disorder
+            - psychopathic traits assessment
+            - dark personality traits
+            - psychopathic traits in youth
+            - personality assessment
+            - borderline personality disorder in adolescents
+            - self-determination and goal satisfaction
+            - rorschach test
+        - behavioral addiction/sexual dysfunctions
+            - problematic pornography use
+            - sexual satisfaction and relationships
+            - erectile dysfunction treatment
+            - premature ejaculation treatment
+            - vulvodynia treatment
+            - sexual dysfunction treatment
+            - sexual health and satisfaction
+            - peyronie's disease treatment
+            - paedophilia research
+            - genital body image
+            - female sexual arousal response
+            - sexual identity development
+            - gender dysphoria diagnosis and treatment
+            - female sexual orgasm
+            - sexual function and satisfaction during pandemic
+            - sexual function and inhibition in women
+            - female sexual function and dysfunction
+        - eating disorders/culture-bound syndromes
+            - eating disorder and social media
+            - body image and eating disorders
+            - family-based treatment for adolescent anorexia nervosa
+            - compulsive exercise in eating disorders
+            - avoidant restrictive food intake disorder (arfid)
+            - food addiction assessment
+            - male eating disorders
+            - covid-19 and eating disorders
+            - eating disorder treatment
+            - anorexia nervosa treatment
+            - orthorexia nervosa
+        - neuropsychology/neuropsychological assessment
+            - neuropsychology practice
+            - performance validity test
+            - neuropsychological assessment
+        - behaviorism/behavior modification
+            - behavioral training for staff
+        - anxiety disorders/spoken articles
+    - languages & linguistics
+        - language education/language acquisition
+            - discourse analysis
+            - patient-provider interaction
+            - linguistic variation in language contact
+            - language and ethics
+            - interactional discourse analysis
+            - construction grammar
+            - pragmatic language interaction
+            - cognitive load on interpreting speech
+            - sociolinguistics
+            - therapist-patient interaction in psychotherapy
+            - narrative analysis
+            - language variation and change
+            - interactional linguistics
+            - narrative discourse analysis
+            - conceptual metaphor theory in linguistics
+            - language engagement
+            - court interpreting
+            - subtitling quality assessment
+            - language interaction analysis
+            - pragmaticalization of modals in english grammar
+            - self-praise on social medium (twitter)
+            - sociolinguistic analysis
+            - legal translation
+            - legal terminology linguistics
+            - translation studies
+            - conversation analysis
+            - machine translation evaluation
+            - linguistic cultural representation
+            - metadiscourse analysis in academic writing
+            - public discourse apology
+            - sign language
+            - politeness in language use
+            - cultural pragmatics in language
+            - linguistic interaction construction
+            - korean discourse marker
+            - language politeness
+            - language education policy
+            - language test design validation
+            - language learning strategy
+            - rater assessment
+            - language policy in higher education
+            - language learning interaction
+            - bilingual education policy
+            - linguistic landscape
+            - bilingual education
+            - language learning motivation
+            - intercultural language learning
+            - language teacher identity
+            - language and power dynamics in multilingual contexts
+            - language acquisition and feedback effects
+            - linguistic acquisition
+            - language acquisition and writing development
+            - language learning pronunciation instruction
+            - language policy in multilingual families
+            - global englishes language education
+            - language learning task complexity effect
+            - second language acquisition
+            - l2 listening comprehension
+            - language attitudes in catalonia
+            - english language identity
+            - language policy in education
+            - language learning feedback methodology
+            - intercultural language learning experience
+            - heritage language instruction
+            - deaf language education
+            - foreign language education
+            - language policy and education
+            - academic writing in english
+            - language learning assessment
+            - language teacher development
+            - corpus linguistics in language teacher education
+            - english medium instruction
+        - syntax/generative syntax
+            - language change
+            - linguistic morphology
+            - old french syntax
+            - syntactic grammar
+            - language incorporation
+            - language variation and dialect analysis
+            - linguistic structure analysis
+            - linguistic movement theory
+            - language processing
+            - korean syntax
+            - plural noun construction
+            - syntactic analysis of language structures
+        - english-language idioms/sexual selection
+    - general psychology & cognitive sciences
+        - behavior
+            - career development barriers
+            - career decision making
+            - social justice counseling psychology
+            - multicultural counseling competency
+            - counseling psychology training
+            - counseling psychology and racism
+            - self-actualization theory
+            - counseling psychology
+            - ethics in counseling
+            - lesbian
+            - counseling self-efficacy in education
+            - counselor training program
+            - counseling psychology supervision
+            - counselor education and training
+            - school counseling psychology
+            - humanistic psychology
+            - clinical supervision in counseling
+            - relational cultural theory
+            - multicultural counseling competence
+            - school counseling supervision
+    - behavioral science & comparative psychology
+        - cognition/motivation
+            - perspective psychology
+            - behavioral science
+            - operant conditioning
+            - behavioral philosophy
+            - reinforcement schedules and human performance
+            - applied behavior analysis
+            - equivalence class formation
+            - behavioral therapy
+            - behavioral economics
+            - behavioral psychology
+            - behavioral cultural selection
+            - behavioral therapy for depression
+            - behavioral extinction and reinforcement experiment
+            - positive reinforcement distinction
+        - welfare economics/government aid programs
+        - chimpanzees/iucn red list endangered species
+- social and economic geography
+    - geography
+        - human geography/geography
+            - urban migration studies
+            - urban ecology
+            - historical geography
+            - belt and road initiative
+            - smart city governance
+            - cultural urban economics
+            - global production network governance
+            - border studies
+            - urban public space
+            - environmental politics and policy
+            - social vulnerability to hazards
+            - global urban network
+            - urban food governance
+            - water governance
+            - housing policy
+            - ecological posthumanist theory
+            - artisanal gold mining
+            - rural development governance
+            - human-animal interactions in urban environments
+            - urban planning and development
+            - indigenous peoples' rights to water governance
+            - geography and experience
+            - residential segregation analysis
+            - urban gentrification
+            - geographic analysis
+            - geographical scale analysis
+            - urban water inequality
+            - sustainable food systems
+            - co-working space economics
+            - religious geography
+            - youth football club identity exploration
+            - migration and social mobility
+            - geographical theory
+            - internal migration model
+            - post-socialist urban heritage
+            - childhood geography
+            - gay geography
+            - human geography
+            - political urban studies
+            - renewable energy policy
+            - environmental mobility geography
+            - diaspora state encounters
+            - critical geography
+            - urban geography
+        - abrahamic religions/sociology
+            - automotive culture
+    - cultural studies
+    - demography
+- sociology
+    - social sciences methods
+        - quality management/empirical evidence
+            - multilevel modeling and data analysis
+            - reliability analysis
+            - response style analysis
+            - response time modeling
+            - item response theory
+            - rasch model application
+            - cognitive diagnostic modeling
+            - statistical test
+            - structural equation modeling
+            - reliability estimation
+            - differential item functioning detection
+            - latent class model for education
+            - multiple choice test item response
+            - factor analysis methodology
+            - test score analysis
+            - multilevel modeling
+            - computerized adaptive testing
+            - item response theory estimation
+            - item response theory model
+        - psychometrics/quantitative research
+            - factor analysis in social sciences
+            - cognitive style assessment
+            - career development for psychology majors
+            - graduate program prediction
+            - student assessment method
+            - scale reliability
+            - rating scale methodology
+            - multiple regression validation
+            - social desirability effects
+            - self-actualization scale validity study
+            - student writing in psychology
+            - personality factor analysis
+            - reliability generalization
+            - introductory psychology textbook analysis
+            - teaching methods in psychology classes
+            - statistics education
+            - cognitive development assessment
+        - psychometrics/quality management
+            - mixed methods research
+            - ethical research with children
+            - qualitative research methods
+            - poetic inquiry in education
+            - qualitative interview methods
+    - sociology
+        - ethnic and religious slurs/lists of pejorative terms for people
+
