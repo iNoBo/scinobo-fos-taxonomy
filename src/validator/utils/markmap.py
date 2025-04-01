@@ -84,13 +84,13 @@ def get_fos_labels_hierarchy(fos_taxonomy_data):
             hierarchy[l1] = {}
         if l2 not in hierarchy[l1]:
             hierarchy[l1][l2] = {}
-        if l3 != 'N/A':
+        if l3.lower() != 'n/a':
             if l3 not in hierarchy[l1][l2]:
                 hierarchy[l1][l2][l3] = {}
-        if l4 != 'N/A':
+        if l4.lower() != 'n/a':
             if l4 not in hierarchy[l1][l2][l3]:
                 hierarchy[l1][l2][l3][l4] = {}
-        if l5_name != 'N/A':
+        if l5_name.lower() != 'n/a':
             if l5_name not in hierarchy[l1][l2][l3][l4]:
                 hierarchy[l1][l2][l3][l4][l5_name] = {       
                     "l5_topics": [topic.strip() for topic in l5_topics.split("----")]

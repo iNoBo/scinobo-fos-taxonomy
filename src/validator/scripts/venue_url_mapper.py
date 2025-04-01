@@ -17,7 +17,7 @@ from dotenv import load_dotenv
 
 
 # env variables
-load_dotenv("./data/validation_envs.env", verbose=True) # this is not commited to the repo
+load_dotenv("./data/my_envs.env", verbose=True) # this is not commited to the repo
 METADATA_MAPPER_URL = os.getenv("METADATA_MAPPER_URL")
 FOS_TAXONOMY_PATH = os.getenv("FOS_TAXONOMY_PATH")
 
