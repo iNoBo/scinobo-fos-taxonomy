@@ -13,7 +13,7 @@ You can visualize the FoS taxonomy as an interactive mindmap by:
 
 1. Visiting the Markmap online tool
 2. Clicking the "Open URL" button
-3. Pasting this URL: https://gist.githubusercontent.com/SotirisKot/02f6be98850198b33aa7fbee28ef0973/raw/8b970ad321d9fda0fe1b3bfbc5fedb18961cf23a/scinobo_fos_taxonomy_mindmap.md
+3. Pasting this URL: https://markmap.js.org/full#?d=gist%3A85604ec68343660c60f72c3f9d59c016%3A585c7cfd493fa5166bad34851f63f533c9ebb3c9%2Fscinobo-fos-taxonomy-mindmap_v0.1.5
 
 This will generate an explorable visualization of the complete taxonomy hierarchy.
 
